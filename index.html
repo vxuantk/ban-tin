@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Bản Tin Gọn</title>
+<meta name="description" content="Bản tin gọn 4 lần mỗi ngày: AI, tin trong nước, tài chính, kinh doanh và kiến thức thực tiễn.">
+<meta name="theme-color" content="#0f7a73">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bản Tin Gọn">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@600;700&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Một cột đọc hẹp; dải chọn ngày/bản ở trên; mỗi tin là thẻ có ảnh hoặc ô số liệu; kết thúc bằng dấu "hết". */
+:root{
+  --bg:#f3f5f6;--paper:#fff;--ink:#18232b;--muted:#5b6b75;--line:#dde3e7;
+  --accent:#0f7a73;--accent-soft:#dff0ee;
+  --c-ai:#5b4fd6;--c-vn:#c2410c;--c-fin:#0f7a73;--c-biz:#a16207;--c-know:#2563eb;
+  --up:#15803d;--down:#b91c1c;
+  --f-display:"Lexend","Be Vietnam Pro",system-ui,sans-serif;
+  --f-body:"Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0f1519;--paper:#172027;--ink:#e4ebef;--muted:#93a3ad;--line:#26323a;
+  --accent:#4cc3b8;--accent-soft:#16312f;
+  --c-ai:#a59cff;--c-vn:#fb923c;--c-fin:#4cc3b8;--c-biz:#facc15;--c-know:#7aa7ff;
+  --up:#4ade80;--down:#f87171;color-scheme:dark}}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0);padding-bottom:env(safe-area-inset-bottom,0)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 56px;display:flex;flex-direction:column;gap:22px}
+header{display:flex;flex-direction:column;gap:6px}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font-family:var(--f-display);font-weight:700;font-size:1.75rem;letter-spacing:-.01em;margin:0}
+.dateline{font-family:var(--f-mono);font-size:.78rem;color:var(--muted)}
+.lede{color:var(--muted);margin:0;font-size:.95rem}
+.controls{display:flex;flex-direction:column;gap:10px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.lbl{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);min-width:3.6em}
+button.chip{font:inherit;font-size:.85rem;border:1px solid var(--line);background:var(--paper);color:var(--ink);
+  padding:5px 12px;border-radius:999px;cursor:pointer;font-variant-numeric:tabular-nums}
+button.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+button.chip:disabled{opacity:.4;cursor:default}
+button.chip:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+select{font:inherit;font-size:.85rem;border:1px solid var(--line);background:var(--paper);color:var(--ink);padding:5px 10px;border-radius:8px}
+.meta{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
+.note{background:var(--accent-soft);border-radius:10px;padding:12px 14px;font-size:.92rem}
+ol.items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+li.item{display:grid;grid-template-columns:132px 1fr;gap:16px;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px}
+@media (max-width:520px){li.item{grid-template-columns:1fr}}
+.vis{border-radius:10px;min-height:100px;display:flex;flex-direction:column;justify-content:center;gap:2px;padding:10px;
+  background:color-mix(in srgb,var(--cat) 12%,var(--paper));color:var(--cat);overflow:hidden}
+.vis.photo{padding:0;background:var(--line)}
+.vis.photo img{width:100%;height:100%;min-height:100px;max-height:200px;object-fit:cover;display:block}
+.vis .big{font-family:var(--f-display);font-weight:700;font-size:1.35rem;line-height:1.1;font-variant-numeric:tabular-nums;word-break:break-word}
+.vis .small{font-size:.72rem;color:var(--muted);line-height:1.3}
+.vis .delta{font-family:var(--f-mono);font-size:.75rem}
+.vis .delta.up{color:var(--up)}.vis .delta.down{color:var(--down)}
+.vis svg{width:100%;height:auto;display:block}
+@media (max-width:520px){.vis:not(.photo){flex-direction:row;align-items:center;gap:12px;min-height:0}.vis:not(.photo) svg.g{width:56px;flex:none}.vis.photo img{max-height:220px}}
+.body{min-width:0;display:flex;flex-direction:column;gap:6px}
+.cat{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.09em;color:var(--cat)}
+h2{font-family:var(--f-display);font-weight:600;font-size:1.08rem;line-height:1.35;margin:0;text-wrap:balance}
+p.sum{margin:0;font-size:.95rem}
+a.src{font-size:.82rem;color:var(--accent);text-decoration:none;align-self:flex-start}
+a.src:hover{text-decoration:underline}
+.end{text-align:center;color:var(--muted);font-size:.9rem;padding-top:8px;display:flex;flex-direction:column;align-items:center;gap:6px}
+.end .mark{font-family:var(--f-display);font-weight:700;letter-spacing:.3em;color:var(--ink)}
+.empty{background:var(--paper);border:1px dashed var(--line);border-radius:14px;padding:28px;text-align:center;color:var(--muted)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><h1>Bản Tin Gọn</h1><span class="dateline" id="dateline">Đang tải…</span></div>
+    <p class="lede">Chỉ những mảng đáng quan tâm. Cập nhật 7h · 11h · 15h · 19h. Đọc xong là gấp lại.</p>
+  </header>
+  <section class="controls" aria-label="Chọn bản tin">
+    <div class="row"><span class="lbl">Ngày</span><select id="day" aria-label="Chọn ngày"></select></div>
+    <div class="row" id="slots" role="group" aria-label="Khung giờ"><span class="lbl">Bản</span></div>
+    <div class="row" id="cats" role="group" aria-label="Lọc theo mảng"><span class="lbl">Mảng</span></div>
+  </section>
+  <div class="meta" id="meta" hidden><span id="metaL"></span><span id="metaR"></span></div>
+  <div class="note" id="note" hidden></div>
+  <ol class="items" id="items"></ol>
+  <div class="empty" id="empty" hidden>Chưa có bản tin nào.</div>
+  <div class="end" id="end" hidden><span class="mark">— HẾT —</span><span>Vậy là đủ cho khung giờ này. Hẹn bản sau.</span></div>
+</div>
+<script>
+const CATS={ai:{name:"Công nghệ AI",v:"--c-ai"},vn:{name:"Trong nước",v:"--c-vn"},fin:{name:"Tài chính",v:"--c-fin"},biz:{name:"Kinh doanh · Startup",v:"--c-biz"},know:{name:"Kiến thức thực tiễn",v:"--c-know"}};
+const G={
+ai:'<rect x="16" y="16" width="32" height="32" rx="6"/><rect x="26" y="26" width="12" height="12" rx="2" fill="currentColor"/><path d="M24 8v8M32 8v8M40 8v8M24 48v8M32 48v8M40 48v8M8 24h8M8 32h8M8 40h8M48 24h8M48 32h8M48 40h8"/>',
+vn:'<path d="M10 54h44M14 54V30M24 54V30M40 54V30M50 54V30M8 30h48L32 12z"/>',
+fin:'<path d="M8 50l14-14 10 8 22-24"/><path d="M42 20h12v12"/>',
+biz:'<rect x="8" y="22" width="48" height="32" rx="4"/><path d="M24 22v-6a4 4 0 014-4h8a4 4 0 014 4v6M8 36h48"/>',
+know:'<path d="M32 8a16 16 0 00-9 29v7h18v-7A16 16 0 0032 8zM24 52h16M27 58h10"/>'};
+const SLOTS=["07:00","11:00","15:00","19:00"];
+const $=id=>document.getElementById(id);
+let eds=[],day=null,slotId=null,cat="all";
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>{try{const x=new URL(u);return /^https?:$/.test(x.protocol)?x.href:"#"}catch(e){return "#"}};
+function fmtDay(d){const[y,m,dd]=d.split("-");const w=["CN","T2","T3","T4","T5","T6","T7"][new Date(+y,+m-1,+dd).getDay()];return `${w}, ${dd}/${m}/${y}`}
+const glyph=c=>`<svg class="g" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true">${G[c]||G.know}</svg>`;
+function spark(v){const n=v.length;if(n<2)return"";const w=100,h=36,p=3,mn=Math.min(...v),mx=Math.max(...v),r=mx-mn||1;
+  const pt=v.map((x,i)=>[p+i*(w-2*p)/(n-1),h-p-(x-mn)/r*(h-2*p)]);const d=pt.map((q,i)=>(i?"L":"M")+q[0].toFixed(1)+" "+q[1].toFixed(1)).join(" ");const l=pt[n-1];
+  return `<svg viewBox="0 0 ${w} ${h}" aria-hidden="true"><path d="${d} L${l[0]} ${h} L${pt[0][0]} ${h}Z" fill="currentColor" opacity=".12"/><path d="${d}" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="${l[0]}" cy="${l[1]}" r="2.6" fill="currentColor"/></svg>`}
+function figure(it){const f=it.figure;
+  if(f&&f.value){const dir=f.dir==="up"?"up":f.dir==="down"?"down":"";const ar=dir==="up"?"▲ ":dir==="down"?"▼ ":"";
+    return `<div class="big">${esc(f.value)}</div>${f.delta?`<div class="delta ${dir}">${ar}${esc(f.delta)}</div>`:""}${Array.isArray(f.spark)?spark(f.spark.map(Number).filter(isFinite)):""}${f.label?`<div class="small">${esc(f.label)}</div>`:""}`}
+  return glyph(it.cat)+(it.tag?`<div class="small">${esc(it.tag)}</div>`:"")}
+function vis(it,i){if(it.image&&safe(it.image)!=="#")return `<div class="vis photo" data-i="${i}"><img src="${esc(safe(it.image))}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>`;
+  return `<div class="vis">${figure(it)}</div>`}
+function render(){
+  const days=[...new Set(eds.map(e=>e.date))].sort().reverse();
+  if(!days.length){$("empty").hidden=false;$("dateline").textContent="";return}
+  if(!day||!days.includes(day))day=days[0];
+  $("day").innerHTML=days.map(d=>`<option value="${d}"${d===day?" selected":""}>${fmtDay(d)}</option>`).join("");
+  const od=eds.filter(e=>e.date===day).sort((a,b)=>a.slot<b.slot?-1:1);
+  if(!slotId||!od.some(e=>e.id===slotId))slotId=od[od.length-1].id;
+  const sl=$("slots");sl.querySelectorAll("button").forEach(b=>b.remove());
+  const add=(el,label,on,dis,fn)=>{const b=document.createElement("button");b.className="chip";b.textContent=label;b.disabled=dis;b.setAttribute("aria-pressed",String(on));if(fn)b.onclick=fn;el.appendChild(b)};
+  SLOTS.forEach(s=>{const e=od.find(x=>x.slot===s);add(sl,s.replace(":00","h"),!!e&&e.id===slotId,!e,e&&(()=>{slotId=e.id;render()}))});
+  od.filter(x=>!SLOTS.includes(x.slot)).forEach(e=>add(sl,e.slot.replace(":","h"),e.id===slotId,false,()=>{slotId=e.id;render()}));
+  const ed=od.find(x=>x.id===slotId),items=Array.isArray(ed.items)?ed.items:[];
+  if(cat!=="all"&&!items.some(i=>i.cat===cat))cat="all";
+  const cs=$("cats");cs.querySelectorAll("button").forEach(b=>b.remove());
+  [["all","Tất cả"],...Object.entries(CATS).map(([k,v])=>[k,v.name])].forEach(([k,n])=>{const c=k==="all"?items.length:items.filter(i=>i.cat===k).length;add(cs,`${n} ${c}`,cat===k,c===0&&k!=="all",()=>{cat=k;render()})});
+  const sh=cat==="all"?items:items.filter(i=>i.cat===cat);
+  const words=sh.reduce((n,i)=>n+(i.title+" "+i.summary).split(/\s+/).length,0);
+  $("dateline").textContent=`${fmtDay(ed.date)} · bản ${ed.slot.replace(":00","h")}`;
+  $("meta").hidden=false;$("metaL").textContent=`${sh.length} tin`;$("metaR").textContent=`Đọc khoảng ${Math.max(1,Math.round(words/200))} phút`;
+  $("note").hidden=!ed.note;$("note").textContent=ed.note||"";
+  $("items").innerHTML=sh.map((it,i)=>{const c=CATS[it.cat]||CATS.know;
+    return `<li class="item" style="--cat:var(${c.v})">${vis(it,i)}<div class="body"><span class="cat">${esc(c.name)}</span><h2>${esc(it.title)}</h2><p class="sum">${esc(it.summary)}</p><a class="src" href="${esc(safe(it.url))}" target="_blank" rel="noopener">${esc(it.source||"Nguồn")} →</a></div></li>`}).join("");
+  // ảnh lỗi → thay bằng ô số liệu/biểu tượng
+  $("items").querySelectorAll(".vis.photo img").forEach(img=>img.addEventListener("error",()=>{const box=img.parentElement,it=sh[+box.dataset.i];box.className="vis";box.innerHTML=figure(it)}));
+  $("end").hidden=!sh.length;
+}
+$("day").addEventListener("change",e=>{day=e.target.value;slotId=null;render()});
+fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{eds=(j.editions||[]).filter(e=>e.date&&e.slot);render()})
+  .catch(()=>{$("empty").hidden=false;$("empty").textContent="Không tải được bản tin. Thử mở lại trang.";$("dateline").textContent=""});
+</script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+{
+ "updated": "2026-10-27T16:45:00+07:00",
+ "editions": [
+  {
+   "createdAt": "2026-10-27T16:45:00+07:00",
+   "date": "2026-10-27",
+   "items": [
+    {
+     "cat": "ai",
+     "figure": {
+      "delta": "vs 4,6 tỷ cả 2025",
+      "dir": "up",
+      "label": "Doanh thu 6 tháng đầu 2026",
+      "value": "16,3 tỷ $"
+     },
+     "source": "Yahoo Finance",
+     "summary": "Hồ sơ S-1 công bố ngày 26/10 cho thấy doanh thu 6 tháng đầu 2026 đạt 16,3 tỷ USD, gấp hơn 3 lần cả năm 2025. Công ty vẫn lỗ ròng lớn trên giấy, nhưng quý 2 lần đầu có lãi từ hoạt động kinh doanh. Thương vụ được dự báo là IPO lớn nhất lịch sử.",
+     "title": "Anthropic công bố hồ sơ IPO, sẽ niêm yết trên Nasdaq với mã ANT",
+     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+    },
+    {
+     "cat": "ai",
+     "source": "The Next Web",
+     "summary": "OpenAI công bố các kết quả do AI tạo ra, gồm một lời bác bỏ giả thuyết thời gian mũ (ETH) và chứng minh liên quan bài toán Yang-Mills. Công ty thừa nhận cả ba cần nhiều tháng để giới khoa học kiểm chứng độc lập, nên chưa thể coi là kết luận.",
+     "tag": "Chờ bình duyệt",
+     "title": "OpenAI nói AI của họ giải được 3 bài toán lớn của toán học và vật lý",
+     "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills"
+    },
+    {
+     "cat": "ai",
+     "figure": {
+      "label": "nhân viên được đề nghị nghỉ",
+      "value": "60.000"
+     },
+     "source": "TechCrunch",
+     "summary": "Đợt tái cấu trúc để dồn nguồn lực cho AI áp dụng với nhân viên từ cấp phó chủ tịch trở xuống ở Mỹ, Canada, Ấn Độ và Anh. Nhân viên quyết định trong tháng 12 và nghỉ vào 31/12; mảng trung tâm dữ liệu, bán hàng và marketing không thuộc diện này.",
+     "title": "Microsoft đề nghị khoảng 60.000 nhân viên nghỉ việc tự nguyện",
+     "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+    },
+    {
+     "cat": "vn",
+     "source": "Báo Tin tức",
+     "summary": "Sáng 27/10, Quốc hội thảo luận tại hội trường về dự thảo Bộ luật Hình sự sửa đổi và nghị quyết thi hành. Buổi chiều bàn tiếp Luật Tổ chức cơ quan điều tra hình sự và nghị quyết thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội.",
+     "tag": "Kỳ họp thứ 2, khóa XVI",
+     "title": "Quốc hội thảo luận Bộ luật Hình sự (sửa đổi)",
+     "url": "https://baotintuc.vn/ngay-2710-quoc-hoi-thao-luan-bo-luat-hinh-su-sua-doi-post1397490.html"
+    },
+    {
+     "cat": "vn",
+     "figure": {
+      "label": "sàn địa phương hiện có",
+      "value": "~20"
+     },
+     "source": "VnExpress",
+     "summary": "Phó thủ tướng Hồ Quốc Dũng giao Bộ Nông nghiệp và Môi trường đề xuất mô hình trước 31/12, vì khoảng 20 sàn của các địa phương hoạt động chưa hiệu quả. Mục tiêu là gom về một đầu mối để mở rộng thị trường và xuất khẩu.",
+     "title": "Đề xuất lập sàn giao dịch nông sản quốc gia ngay trong năm nay",
+     "url": "https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
+    },
+    {
+     "cat": "fin",
+     "figure": {
+      "delta": "+0,3 tr",
+      "dir": "up",
+      "label": "SJC bán ra / lượng",
+      "value": "142 tr"
+     },
+     "source": "Báo Đà Nẵng",
+     "summary": "Chiều 27/10, SJC niêm yết 139–142 triệu đồng/lượng, tăng 300.000 đồng so với đầu ngày. Vàng thế giới quanh 4.005 USD/ounce, nên giá trong nước vẫn cao hơn khoảng 17 triệu đồng/lượng. Thị trường đang chờ cuộc họp Fed ngày 27–28/10.",
+     "title": "Vàng SJC tăng nhẹ lên 142 triệu đồng/lượng",
+     "url": "https://baodanang.vn/gia-vang-hom-nay-27102026-sjc-tang-300000-dong-len-139-142-trieu-dongluong-3356582.html"
+    },
+    {
+     "cat": "fin",
+     "figure": {
+      "delta": "−1,68 điểm",
+      "dir": "down",
+      "label": "VN-Index, 22/10 → 27/10",
+      "spark": [
+       1760.63,
+       1774.15,
+       1763.55,
+       1761.87
+      ],
+      "value": "1.761,87"
+     },
+     "source": "Znews",
+     "summary": "VN-Index đóng cửa 1.761,87 điểm, giảm 1,68 điểm, do áp lực bán ở nhóm ngân hàng, dầu khí và công nghệ. Cổ phiếu VIC một mình kéo chỉ số tăng hơn 5 điểm nên mức giảm không sâu. Thanh khoản thấp cho thấy dòng tiền đang chờ.",
+     "title": "VN-Index giảm phiên thứ hai liên tiếp, khối ngoại bán ròng",
+     "url": "https://znews.vn/vn-index-giam-hai-phien-lien-tiep-post1692444.html",
+     "image": "https://photo.znews.vn/w960/Uploaded/rohuoct/2026_06_28/88chungkhoan_znews.jpg"
+    },
+    {
+     "cat": "biz",
+     "figure": {
+      "label": "giá trị hợp đồng mỗi năm",
+      "value": ">100 tr $"
+     },
+     "source": "The Information",
+     "summary": "Theo The Information, hợp đồng mới trị giá hơn 100 triệu USD/năm, sau khi OpenAI giảm giá trên 30% còn Anthropic ngừng chiết khấu. Đây là dấu hiệu cuộc chiến giá giữa các hãng AI đang ảnh hưởng tới khách hàng doanh nghiệp lớn.",
+     "title": "Replit chuyển phần lớn chi tiêu AI từ Anthropic sang OpenAI",
+     "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity"
+    },
+    {
+     "cat": "know",
+     "source": "Báo Tin tức",
+     "summary": "Theo Nghị định 392/2026, giấy tờ được chấp nhận gồm thẻ căn cước, căn cước công dân, hộ chiếu, thẻ thường trú/tạm trú hoặc giấy tờ có ảnh do cơ quan nhà nước cấp; chứng minh nhân dân không còn trong danh sách. Khách không có giấy tờ vẫn được bố trí phòng nhưng cơ sở phải báo công an xã.",
+     "tag": "Hiệu lực 15/11/2026",
+     "title": "Từ 15/11, khách sạn, nhà nghỉ phải kiểm tra giấy tờ tùy thân trước khi nhận phòng",
+     "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html"
+    },
+    {
+     "cat": "know",
+     "source": "Báo Tin tức",
+     "summary": "Điều lệ Ban đại diện cha mẹ học sinh mới chỉ yêu cầu họp đầu năm học, các buổi sau tổ chức khi cần. Họp và biểu quyết được phép làm trực tiếp, trực tuyến hoặc kết hợp cả hai.",
+     "tag": "Hiệu lực 15/11/2026",
+     "title": "Họp phụ huynh không còn bắt buộc 3 lần mỗi năm học",
+     "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html"
+    }
+   ],
+   "note": "Bản thử đầu tiên, tạo lúc 16h45. Từ mai bản tin tự cập nhật lúc 7h, 11h, 15h và 19h.",
+   "slot": "16:45",
+   "id": "2026-10-27-1645"
+  }
+ ]
+}
