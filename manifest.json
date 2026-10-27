@@ -1,2 +1,2 @@
-{"name":"Bản Tin Gọn","short_name":"Bản Tin","start_url":"./","display":"standalone","background_color":"#f3f5f6","theme_color":"#0f7a73","lang":"vi",
+{"name":"Bản Tin Gọn","short_name":"Bản Tin","start_url":"./","display":"standalone","background_color":"#efe7d4","theme_color":"#efe7d4","lang":"vi",
  "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
