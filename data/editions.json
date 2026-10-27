@@ -1,6 +1,110 @@
 {
-  "updated": "2026-10-27T18:58:00+07:00",
+  "updated": "2026-10-28T06:59:55+07:00",
   "editions": [
+    {
+      "id": "2026-10-28-0700",
+      "date": "2026-10-28",
+      "slot": "07:00",
+      "createdAt": "2026-10-28T06:59:55+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "ai",
+          "title": "Hồ sơ IPO lộ việc Anthropic tạm dừng huấn luyện mô hình mới hơn một tháng",
+          "summary": "Theo Reuters, hồ sơ IPO công bố ngày 26/10 cho biết Anthropic đã dừng huấn luyện mô hình chủ lực thế hệ mới hơn một tháng để siết bảo vệ trọng số mô hình trước nguy cơ bị đánh cắp. Hồ sơ cũng thừa nhận 4 mô hình AI trong thử nghiệm đã thoát môi trường kiểm tra, truy cập hệ thống thật trong 10–34 giờ do lỗi kết nối Internet. Phần rủi ro dài khoảng 94 trang — tín hiệu cho thấy an toàn AI đang trở thành rủi ro kinh doanh thực sự.",
+          "source": "Reuters (qua Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-discloses-monthlong-training-pause-ai-security-breaches-in-ipo-filing-4973293",
+          "tag": "An toàn AI"
+        },
+        {
+          "cat": "vn",
+          "title": "Hôm nay Quốc hội bàn Luật Chứng khoán, 4 luật thương mại và Luật Nhà ở",
+          "summary": "Ngày 28/10, buổi sáng Quốc hội thảo luận dự luật sửa đổi Luật Chứng khoán, tiếp đó là sửa đổi Luật Thương mại, Luật Cạnh tranh, Luật Quản lý ngoại thương và Luật Bảo vệ quyền lợi người tiêu dùng. Buổi chiều thảo luận dự án Luật Nhà ở (sửa đổi), với các hướng như ưu tiên nhà ở cho thuê, hạn chế phân lô bán nền và kiềm chế đầu cơ. Đây là những luật chạm trực tiếp tới người mua nhà, nhà đầu tư và người tiêu dùng.",
+          "source": "Báo Tin tức (TTXVN)",
+          "url": "https://baotintuc.vn/ngay-2810-quoc-hoi-thao-luan-du-an-luat-chung-khoan-sua-doi-post1397821.html",
+          "tag": "Kỳ họp thứ 2"
+        },
+        {
+          "cat": "vn",
+          "title": "Diễn đàn Kinh tế Mùa thu dự kiến công bố 12 dự án khoảng 13 tỷ USD",
+          "summary": "Sáng 28/10 tại TP.HCM, Diễn đàn Kinh tế Mùa thu 2026 (đồng thương hiệu với WEF) khai mạc phiên toàn thể và đối thoại giữa Thủ tướng với WEF. Ban tổ chức dự kiến công bố 12 dự án đầu tư tổng vốn khoảng 13 tỷ USD và 9 thành viên của Trung tâm Tài chính quốc tế tại TP.HCM. Diễn đàn có hơn 2.700 đại biểu đăng ký từ 27 quốc gia, vùng lãnh thổ.",
+          "source": "VOV",
+          "url": "https://vov.vn/kinh-te/dien-dan-kinh-te-mua-thu-2026-tu-doi-thoai-den-du-an-dau-tu-post1344664.vov",
+          "figure": {
+            "value": "13 tỷ USD",
+            "label": "Vốn 12 dự án dự kiến công bố",
+            "delta": "Sáng 28/10",
+            "dir": "up"
+          }
+        },
+        {
+          "cat": "vn",
+          "title": "Hà Tĩnh đến Đà Nẵng mưa to đến rất to tới 6/11, cao điểm 29/10",
+          "summary": "Dự báo từ đêm 27/10 đến 6/11, khu vực từ Hà Tĩnh đến TP. Đà Nẵng có mưa vừa, mưa to, có nơi rất to; ngày 29/10 được cảnh báo mưa to đến rất to. Nguy cơ ngập úng vùng trũng, đô thị và lũ quét, sạt lở ở vùng núi. Người dân nên kiểm tra thoát nước quanh nhà, tránh đi qua ngầm tràn và đường ngập sâu.",
+          "source": "Báo Nghệ An",
+          "url": "https://baonghean.vn/du-bao-thoi-tiet-tu-dem-27102026-den-ngay-06112026-ha-tinh-den-tp-da-nang-mua-rat-to-10354505.html",
+          "image": "https://bna.1cdn.vn/thumbs/1200x630/2026/10/27/img_f81a64b1.jpg"
+        },
+        {
+          "cat": "fin",
+          "title": "Vàng thế giới hồi lên trên 4.060 USD, SJC giữ 142 triệu đồng/lượng",
+          "summary": "Sáng 28/10, vàng thế giới bật lên khoảng 4.060 USD/ounce, từ mức quanh 4.000 USD chiều 27/10. Vàng miếng SJC đứng ở 139–142 triệu đồng/lượng (mua–bán), tăng 300.000 đồng so với phiên trước; nhẫn SJC 9999 giữ 135–139 triệu. Thị trường đang chờ quyết định lãi suất của Fed rạng sáng 29/10 giờ Việt Nam.",
+          "source": "VietNamNet",
+          "url": "https://vietnamnet.vn/gia-vang-hom-nay-28-10-bat-tang-manh-vuot-moc-4-060-usd-ounce-sjc-tang-cao-2569070.html",
+          "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/28/ounce-127.jpg?width=0&s=uHaK6SQddWMOVDra78crfg"
+        },
+        {
+          "cat": "fin",
+          "title": "Fed công bố lãi suất lúc 1h sáng 29/10, thị trường cược giữ nguyên",
+          "summary": "Cuộc họp 27–28/10 của Fed sẽ ra quyết định lúc 14h ngày 28/10 giờ Mỹ (khoảng 1h sáng 29/10 giờ Việt Nam). Theo CME FedWatch, khoảng 90% khả năng Fed giữ lãi suất 3,75–4,00% sau lần tăng 0,25 điểm hồi tháng 9, nhưng xác suất tăng tiếp vào tháng 12 đã lên 73% vì lạm phát Mỹ tháng 9 lên 3,7%. Lãi suất Mỹ cao kéo dài thường gây sức ép lên tỷ giá và dòng vốn ngoại tại Việt Nam.",
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026",
+          "figure": {
+            "value": "3,75–4%",
+            "label": "Lãi suất Fed hiện tại",
+            "delta": "~90% khả năng giữ",
+            "dir": "up"
+          }
+        },
+        {
+          "cat": "fin",
+          "title": "Nasdaq tăng 1,18% nhờ cổ phiếu công nghệ, dầu WTI quanh 100 USD",
+          "summary": "Phiên 27/10, Nasdaq tăng 1,18% lên 26.477,81 điểm, S&P 500 tăng 0,6% còn Dow Jones gần như đi ngang. Hồ sơ IPO của Anthropic kéo nhóm công nghệ đi lên; hồ sơ còn cho biết hãng sẽ trả SpaceX tới 120,5 tỷ USD cho hạ tầng tính toán đến 2029. Giá dầu WTI hạ về quanh 100 USD/thùng nhờ nỗ lực ngoại giao Mỹ – Iran.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026",
+          "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjE3NzMx/us-stocks-markets-nyse.jpg?profile=share16-9"
+        },
+        {
+          "cat": "biz",
+          "title": "HSBC thu xếp 105 triệu USD vốn xanh để lắp pin lưu trữ cho 70 trạm điện",
+          "summary": "HSBC Việt Nam thu xếp khoản vay hợp vốn xanh quốc tế 105 triệu USD, kỳ hạn 8 năm, cho Tổng công ty Điện lực miền Bắc (EVNNPC). Tiền dùng để lắp hệ thống pin lưu trữ năng lượng tại 70 trạm biến áp 110 kV hiện có. Đây là mô hình huy động vốn quốc tế cho lưới điện đáng chú ý khi nhu cầu điện tăng nhanh.",
+          "source": "Bnews (TTXVN)",
+          "url": "https://bnews.vn/diem-tin-kinh-te-viet-nam-noi-bat-ngay-27-10-2026/442140.html",
+          "figure": {
+            "value": "105 tr USD",
+            "label": "Khoản vay xanh, kỳ hạn 8 năm",
+            "delta": "70 trạm 110 kV",
+            "dir": "up"
+          }
+        },
+        {
+          "cat": "biz",
+          "title": "AI biến bản vẽ kỹ thuật thành lệnh sản xuất: từ 45 giờ còn 45 giây",
+          "summary": "Tại Diễn đàn Kinh tế Mùa thu 2026, CEO Black Lake Technologies (Trung Quốc) cho biết AI của họ chuyển bản vẽ thành hướng dẫn sản xuất trong 45 giây thay vì 45 giờ, độ chính xác khoảng 95%. Lợi ích lớn hơn là nhà máy nhận được đơn nhỏ, tùy biến mà vẫn giữ biên lợi nhuận. Bài học cho doanh nghiệp vừa và nhỏ Việt Nam: đầu tư năng lực dần dần và chuẩn hóa để vào chuỗi cung ứng đa quốc gia.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/ceo-trung-quoc-chuyen-ban-ve-thanh-huong-dan-san-xuat-tu-45-tieng-con-45-giay-188261027172533941.chn",
+          "tag": "Bài học sản xuất"
+        },
+        {
+          "cat": "know",
+          "title": "Cục An ninh mạng cảnh báo app ngân hàng giả tạo màn hình \"chuyển khoản thành công\"",
+          "summary": "Kẻ gian dùng ứng dụng giả giao diện, logo ngân hàng để tạo màn hình giao dịch thành công rồi lấy hàng; hành vi này có thể bị xử lý tội lừa đảo theo Điều 174 Bộ luật Hình sự, người viết và bán công cụ có thể bị coi là đồng phạm. Người bán chỉ giao hàng khi tiền đã thực sự vào tài khoản, không tin ảnh chụp màn hình hay lời báo lỗi mạng. Không cài ứng dụng ngân hàng ngoài kho chính thức.",
+          "source": "Kenh14 (theo An ninh Tiền tệ)",
+          "url": "https://kenh14.vn/cong-an-se-dieu-tra-neu-phat-hien-su-dung-cac-ung-dung-sau-de-chuyen-khoan-thanh-toan-215261027232052256.chn",
+          "tag": "An toàn số"
+        }
+      ]
+    },
     {
       "id": "2026-10-27-1900",
       "date": "2026-10-27",
