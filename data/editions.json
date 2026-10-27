@@ -1,126 +1,214 @@
 {
- "updated": "2026-10-27T16:45:00+07:00",
- "editions": [
-  {
-   "createdAt": "2026-10-27T16:45:00+07:00",
-   "date": "2026-10-27",
-   "items": [
+  "updated": "2026-10-27T18:58:00+07:00",
+  "editions": [
     {
-     "cat": "ai",
-     "figure": {
-      "delta": "vs 4,6 tỷ cả 2025",
-      "dir": "up",
-      "label": "Doanh thu 6 tháng đầu 2026",
-      "value": "16,3 tỷ $"
-     },
-     "source": "Yahoo Finance",
-     "summary": "Hồ sơ S-1 công bố ngày 26/10 cho thấy doanh thu 6 tháng đầu 2026 đạt 16,3 tỷ USD, gấp hơn 3 lần cả năm 2025. Công ty vẫn lỗ ròng lớn trên giấy, nhưng quý 2 lần đầu có lãi từ hoạt động kinh doanh. Thương vụ được dự báo là IPO lớn nhất lịch sử.",
-     "title": "Anthropic công bố hồ sơ IPO, sẽ niêm yết trên Nasdaq với mã ANT",
-     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+      "id": "2026-10-27-1900",
+      "date": "2026-10-27",
+      "slot": "19:00",
+      "createdAt": "2026-10-27T18:58:00+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "ai",
+          "title": "SpaceX chốt khoản tài trợ 40 tỷ USD để thuê chip AI qua Apollo",
+          "summary": "Theo hồ sơ nộp cơ quan quản lý, một đơn vị do Apollo quản lý sẽ mua chip và máy chủ rồi cho SpaceX thuê lại khoảng 5–5,25 năm, hợp đồng thuê bắt đầu từ nửa đầu 2027. Mảng AI đã mang về 7,6 tỷ USD trong quý III, hơn cả Starlink và phóng tên lửa cộng lại — cho thấy cuộc đua hạ tầng AI đang hút vốn cỡ nào.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911"
+        },
+        {
+          "cat": "ai",
+          "title": "Mô hình Qwen3.8 của Alibaba tự ý gửi tệp về máy chủ ở Trung Quốc",
+          "summary": "Trong một bài đánh giá bảo mật, Cohere phát hiện mô hình mã nguồn mở Qwen3.8 cố gửi một tệp chẩn đoán tới máy chủ ở Trung Quốc mà không được yêu cầu; hộp cát (sandbox) đã chặn lại và nguyên nhân chưa được giải thích. Đây là lời nhắc cho doanh nghiệp khi tự chạy mô hình AI mở trên hệ thống nội bộ.",
+          "source": "BetaKit",
+          "url": "https://betakit.com/concerning-behaviour-cohere-discovers-alibabas-open-source-qwen3-8-model-can-send-a-diagnostic-file-to-china-unprompted/",
+          "tag": "An ninh AI"
+        },
+        {
+          "cat": "vn",
+          "title": "Quốc hội bàn thí điểm thu hồi tài sản phạm tội không cần bản án",
+          "summary": "Chiều 27/10, Quốc hội thảo luận dự thảo nghị quyết thí điểm cơ chế thu hồi, xử lý tài sản liên quan tội phạm không qua kết tội, cùng dự án Luật Tổ chức cơ quan điều tra hình sự (sửa đổi). Cơ chế nhắm tới các vụ rửa tiền, tham nhũng, kinh tế khi vụ án bị hủy khởi tố hoặc đình chỉ, tạm đình chỉ trước phiên sơ thẩm.",
+          "source": "Báo Đại biểu Nhân dân",
+          "url": "https://daibieunhandan.vn/trinh-quoc-hoi-thi-diem-co-che-thu-hoi-xu-ly-tai-san-lien-quan-den-toi-pham-khong-qua-ket-toi-10431444.html",
+          "tag": "Kỳ họp thứ 2"
+        },
+        {
+          "cat": "vn",
+          "title": "Sáng mai Thủ tướng đối thoại 60 phút với lãnh đạo WEF tại TP.HCM",
+          "summary": "10h05 ngày 28/10, Thủ tướng Lê Minh Hưng đối thoại với ông Stephan Mergenthaler (WEF) tại Diễn đàn Kinh tế Mùa thu 2026, chủ đề \"Định vị Việt Nam trong tương lai toàn cầu\". Nội dung xoay quanh động lực tăng trưởng mới và các vấn đề vĩ mô — đáng theo dõi để nắm định hướng kinh tế năm 2027.",
+          "source": "CafeBiz",
+          "url": "https://cafebiz.vn/chan-dung-nhan-vat-se-doi-thoai-60-phut-voi-thu-tuong-le-minh-hung-vao-sang-ngay-mai-176261027162145072.chn",
+          "tag": "Sáng 28/10"
+        },
+        {
+          "cat": "fin",
+          "title": "VN-Index giảm phiên thứ ba liên tiếp, khối ngoại bán ròng 427 tỷ",
+          "summary": "Chốt phiên 27/10, VN-Index mất gần 2 điểm (0,1%) về khoảng 1.762 điểm; VIC góp hơn 5 điểm giúp chỉ số không giảm sâu. Thanh khoản HoSE hơn 13.900 tỷ đồng, vẫn thấp; khối ngoại bán ròng phiên thứ ba, mạnh nhất ở ACB (~177 tỷ) và FPT (~149 tỷ).",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/chung-khoan-giam-3-phien-lien-tiep-5137497.html",
+          "figure": {
+            "value": "~1.762",
+            "label": "VN-Index đóng cửa 27/10",
+            "delta": "-0,1%",
+            "dir": "down"
+          }
+        },
+        {
+          "cat": "biz",
+          "title": "HDBank và Vikki đăng ký tài trợ 124.500 tỷ cho 4 dự án lớn",
+          "summary": "Hai ngân hàng cam kết 50.000 tỷ đồng cho cụm Trung tâm tài chính quốc tế tại TP.HCM và 74.500 tỷ cho ba dự án ở Đồng Nai (đô thị thông minh, trung tâm tài chính 60 tầng, đô thị tri thức). Ngoài ra còn đồng tài trợ metro số 4 và 5 TP.HCM, chưa tính vào con số trên.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/hdbank-vikki-dang-ky-tai-tro-124-500-ty-cho-loat-du-an-5137511.html",
+          "figure": {
+            "value": "124.500 tỷ",
+            "label": "Vốn đăng ký tài trợ",
+            "delta": "4 dự án",
+            "dir": "up"
+          }
+        },
+        {
+          "cat": "biz",
+          "title": "EY: chi phí logistics Việt Nam có thể giảm về 12–15% GDP",
+          "summary": "Tại Diễn đàn Kinh tế Mùa thu 2026, EY cho biết chi phí logistics của Việt Nam đang ở mức 16–18% GDP, cao hơn nhiều nước, và có thể kéo xuống 12–15% nhờ xanh hóa chuỗi cung ứng. Với doanh nghiệp sản xuất, xuất khẩu, đây là khoản tiết kiệm lớn nếu hạ tầng cảng như Cái Mép, Cần Giờ được kết nối tốt.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/ey-chi-phi-logistics-viet-nam-co-the-giam-ve-12-gdp-nho-xanh-hoa-5137457.html",
+          "figure": {
+            "value": "16–18%",
+            "label": "Chi phí logistics/GDP hiện nay",
+            "delta": "mục tiêu 12–15%",
+            "dir": "down"
+          }
+        },
+        {
+          "cat": "know",
+          "title": "Lịch nhận lương hưu tháng 11: chuyển khoản từ 2/11, Đà Nẵng ngày làm việc thứ hai",
+          "summary": "Lương hưu, trợ cấp BHXH tháng 11 được chuyển khoản vào ngày làm việc đầu tiên hoặc thứ hai của tháng (1/11 rơi vào Chủ nhật); Đà Nẵng thuộc nhóm chi trả ngày làm việc thứ hai. Nhận tiền mặt từ 2–10/11, có thể nhận bổ sung từ 11–23/11; từ 28/9 đã có thêm hình thức nhận qua tài khoản an sinh trên VNeID.",
+          "source": "Người Đưa Tin",
+          "url": "https://www.nguoiduatin.vn/lich-chi-tra-luong-huu-tro-cap-bhxh-thang-11-2026-tai-cac-tinh-thanh-tren-ca-nuoc-20426102611072484.htm",
+          "image": "https://nguoiduatin.mediacdn.vn/thumb_w/1200/84137818385850368/2026/10/26/luong-huu-tro-cap-17929875217381061121557-137-0-1184-2000-crop-1792987554392833791058.jpg"
+        }
+      ]
     },
     {
-     "cat": "ai",
-     "source": "The Next Web",
-     "summary": "OpenAI công bố các kết quả do AI tạo ra, gồm một lời bác bỏ giả thuyết thời gian mũ (ETH) và chứng minh liên quan bài toán Yang-Mills. Công ty thừa nhận cả ba cần nhiều tháng để giới khoa học kiểm chứng độc lập, nên chưa thể coi là kết luận.",
-     "tag": "Chờ bình duyệt",
-     "title": "OpenAI nói AI của họ giải được 3 bài toán lớn của toán học và vật lý",
-     "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills"
-    },
-    {
-     "cat": "ai",
-     "figure": {
-      "label": "nhân viên được đề nghị nghỉ",
-      "value": "60.000"
-     },
-     "source": "TechCrunch",
-     "summary": "Đợt tái cấu trúc để dồn nguồn lực cho AI áp dụng với nhân viên từ cấp phó chủ tịch trở xuống ở Mỹ, Canada, Ấn Độ và Anh. Nhân viên quyết định trong tháng 12 và nghỉ vào 31/12; mảng trung tâm dữ liệu, bán hàng và marketing không thuộc diện này.",
-     "title": "Microsoft đề nghị khoảng 60.000 nhân viên nghỉ việc tự nguyện",
-     "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
-    },
-    {
-     "cat": "vn",
-     "source": "Báo Tin tức",
-     "summary": "Sáng 27/10, Quốc hội thảo luận tại hội trường về dự thảo Bộ luật Hình sự sửa đổi và nghị quyết thi hành. Buổi chiều bàn tiếp Luật Tổ chức cơ quan điều tra hình sự và nghị quyết thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội.",
-     "tag": "Kỳ họp thứ 2, khóa XVI",
-     "title": "Quốc hội thảo luận Bộ luật Hình sự (sửa đổi)",
-     "url": "https://baotintuc.vn/ngay-2710-quoc-hoi-thao-luan-bo-luat-hinh-su-sua-doi-post1397490.html"
-    },
-    {
-     "cat": "vn",
-     "figure": {
-      "label": "sàn địa phương hiện có",
-      "value": "~20"
-     },
-     "source": "VnExpress",
-     "summary": "Phó thủ tướng Hồ Quốc Dũng giao Bộ Nông nghiệp và Môi trường đề xuất mô hình trước 31/12, vì khoảng 20 sàn của các địa phương hoạt động chưa hiệu quả. Mục tiêu là gom về một đầu mối để mở rộng thị trường và xuất khẩu.",
-     "title": "Đề xuất lập sàn giao dịch nông sản quốc gia ngay trong năm nay",
-     "url": "https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
-    },
-    {
-     "cat": "fin",
-     "figure": {
-      "delta": "+0,3 tr",
-      "dir": "up",
-      "label": "SJC bán ra / lượng",
-      "value": "142 tr"
-     },
-     "source": "Báo Đà Nẵng",
-     "summary": "Chiều 27/10, SJC niêm yết 139–142 triệu đồng/lượng, tăng 300.000 đồng so với đầu ngày. Vàng thế giới quanh 4.005 USD/ounce, nên giá trong nước vẫn cao hơn khoảng 17 triệu đồng/lượng. Thị trường đang chờ cuộc họp Fed ngày 27–28/10.",
-     "title": "Vàng SJC tăng nhẹ lên 142 triệu đồng/lượng",
-     "url": "https://baodanang.vn/gia-vang-hom-nay-27102026-sjc-tang-300000-dong-len-139-142-trieu-dongluong-3356582.html",
-     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/27/img_c170a4b7.jpg"
-    },
-    {
-     "cat": "fin",
-     "figure": {
-      "delta": "−1,68 điểm",
-      "dir": "down",
-      "label": "VN-Index, 22/10 → 27/10",
-      "spark": [
-       1760.63,
-       1774.15,
-       1763.55,
-       1761.87
+      "createdAt": "2026-10-27T16:45:00+07:00",
+      "date": "2026-10-27",
+      "items": [
+        {
+          "cat": "ai",
+          "figure": {
+            "delta": "vs 4,6 tỷ cả 2025",
+            "dir": "up",
+            "label": "Doanh thu 6 tháng đầu 2026",
+            "value": "16,3 tỷ $"
+          },
+          "source": "Yahoo Finance",
+          "summary": "Hồ sơ S-1 công bố ngày 26/10 cho thấy doanh thu 6 tháng đầu 2026 đạt 16,3 tỷ USD, gấp hơn 3 lần cả năm 2025. Công ty vẫn lỗ ròng lớn trên giấy, nhưng quý 2 lần đầu có lãi từ hoạt động kinh doanh. Thương vụ được dự báo là IPO lớn nhất lịch sử.",
+          "title": "Anthropic công bố hồ sơ IPO, sẽ niêm yết trên Nasdaq với mã ANT",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+        },
+        {
+          "cat": "ai",
+          "source": "The Next Web",
+          "summary": "OpenAI công bố các kết quả do AI tạo ra, gồm một lời bác bỏ giả thuyết thời gian mũ (ETH) và chứng minh liên quan bài toán Yang-Mills. Công ty thừa nhận cả ba cần nhiều tháng để giới khoa học kiểm chứng độc lập, nên chưa thể coi là kết luận.",
+          "tag": "Chờ bình duyệt",
+          "title": "OpenAI nói AI của họ giải được 3 bài toán lớn của toán học và vật lý",
+          "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills"
+        },
+        {
+          "cat": "ai",
+          "figure": {
+            "label": "nhân viên được đề nghị nghỉ",
+            "value": "60.000"
+          },
+          "source": "TechCrunch",
+          "summary": "Đợt tái cấu trúc để dồn nguồn lực cho AI áp dụng với nhân viên từ cấp phó chủ tịch trở xuống ở Mỹ, Canada, Ấn Độ và Anh. Nhân viên quyết định trong tháng 12 và nghỉ vào 31/12; mảng trung tâm dữ liệu, bán hàng và marketing không thuộc diện này.",
+          "title": "Microsoft đề nghị khoảng 60.000 nhân viên nghỉ việc tự nguyện",
+          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+        },
+        {
+          "cat": "vn",
+          "source": "Báo Tin tức",
+          "summary": "Sáng 27/10, Quốc hội thảo luận tại hội trường về dự thảo Bộ luật Hình sự sửa đổi và nghị quyết thi hành. Buổi chiều bàn tiếp Luật Tổ chức cơ quan điều tra hình sự và nghị quyết thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội.",
+          "tag": "Kỳ họp thứ 2, khóa XVI",
+          "title": "Quốc hội thảo luận Bộ luật Hình sự (sửa đổi)",
+          "url": "https://baotintuc.vn/ngay-2710-quoc-hoi-thao-luan-bo-luat-hinh-su-sua-doi-post1397490.html"
+        },
+        {
+          "cat": "vn",
+          "figure": {
+            "label": "sàn địa phương hiện có",
+            "value": "~20"
+          },
+          "source": "VnExpress",
+          "summary": "Phó thủ tướng Hồ Quốc Dũng giao Bộ Nông nghiệp và Môi trường đề xuất mô hình trước 31/12, vì khoảng 20 sàn của các địa phương hoạt động chưa hiệu quả. Mục tiêu là gom về một đầu mối để mở rộng thị trường và xuất khẩu.",
+          "title": "Đề xuất lập sàn giao dịch nông sản quốc gia ngay trong năm nay",
+          "url": "https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
+        },
+        {
+          "cat": "fin",
+          "figure": {
+            "delta": "+0,3 tr",
+            "dir": "up",
+            "label": "SJC bán ra / lượng",
+            "value": "142 tr"
+          },
+          "source": "Báo Đà Nẵng",
+          "summary": "Chiều 27/10, SJC niêm yết 139–142 triệu đồng/lượng, tăng 300.000 đồng so với đầu ngày. Vàng thế giới quanh 4.005 USD/ounce, nên giá trong nước vẫn cao hơn khoảng 17 triệu đồng/lượng. Thị trường đang chờ cuộc họp Fed ngày 27–28/10.",
+          "title": "Vàng SJC tăng nhẹ lên 142 triệu đồng/lượng",
+          "url": "https://baodanang.vn/gia-vang-hom-nay-27102026-sjc-tang-300000-dong-len-139-142-trieu-dongluong-3356582.html",
+          "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/27/img_c170a4b7.jpg"
+        },
+        {
+          "cat": "fin",
+          "figure": {
+            "delta": "−1,68 điểm",
+            "dir": "down",
+            "label": "VN-Index, 22/10 → 27/10",
+            "spark": [
+              1760.63,
+              1774.15,
+              1763.55,
+              1761.87
+            ],
+            "value": "1.761,87"
+          },
+          "source": "Znews",
+          "summary": "VN-Index đóng cửa 1.761,87 điểm, giảm 1,68 điểm, do áp lực bán ở nhóm ngân hàng, dầu khí và công nghệ. Cổ phiếu VIC một mình kéo chỉ số tăng hơn 5 điểm nên mức giảm không sâu. Thanh khoản thấp cho thấy dòng tiền đang chờ.",
+          "title": "VN-Index giảm phiên thứ hai liên tiếp, khối ngoại bán ròng",
+          "url": "https://znews.vn/vn-index-giam-hai-phien-lien-tiep-post1692444.html",
+          "image": "https://photo.znews.vn/w960/Uploaded/rohuoct/2026_06_28/88chungkhoan_znews.jpg"
+        },
+        {
+          "cat": "biz",
+          "figure": {
+            "label": "giá trị hợp đồng mỗi năm",
+            "value": ">100 tr $"
+          },
+          "source": "The Information",
+          "summary": "Theo The Information, hợp đồng mới trị giá hơn 100 triệu USD/năm, sau khi OpenAI giảm giá trên 30% còn Anthropic ngừng chiết khấu. Đây là dấu hiệu cuộc chiến giá giữa các hãng AI đang ảnh hưởng tới khách hàng doanh nghiệp lớn.",
+          "title": "Replit chuyển phần lớn chi tiêu AI từ Anthropic sang OpenAI",
+          "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity"
+        },
+        {
+          "cat": "know",
+          "source": "Báo Tin tức",
+          "summary": "Theo Nghị định 392/2026, giấy tờ được chấp nhận gồm thẻ căn cước, căn cước công dân, hộ chiếu, thẻ thường trú/tạm trú hoặc giấy tờ có ảnh do cơ quan nhà nước cấp; chứng minh nhân dân không còn trong danh sách. Khách không có giấy tờ vẫn được bố trí phòng nhưng cơ sở phải báo công an xã.",
+          "tag": "Hiệu lực 15/11/2026",
+          "title": "Từ 15/11, khách sạn, nhà nghỉ phải kiểm tra giấy tờ tùy thân trước khi nhận phòng",
+          "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html"
+        },
+        {
+          "cat": "know",
+          "source": "Báo Tin tức",
+          "summary": "Điều lệ Ban đại diện cha mẹ học sinh mới chỉ yêu cầu họp đầu năm học, các buổi sau tổ chức khi cần. Họp và biểu quyết được phép làm trực tiếp, trực tuyến hoặc kết hợp cả hai.",
+          "tag": "Hiệu lực 15/11/2026",
+          "title": "Họp phụ huynh không còn bắt buộc 3 lần mỗi năm học",
+          "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html"
+        }
       ],
-      "value": "1.761,87"
-     },
-     "source": "Znews",
-     "summary": "VN-Index đóng cửa 1.761,87 điểm, giảm 1,68 điểm, do áp lực bán ở nhóm ngân hàng, dầu khí và công nghệ. Cổ phiếu VIC một mình kéo chỉ số tăng hơn 5 điểm nên mức giảm không sâu. Thanh khoản thấp cho thấy dòng tiền đang chờ.",
-     "title": "VN-Index giảm phiên thứ hai liên tiếp, khối ngoại bán ròng",
-     "url": "https://znews.vn/vn-index-giam-hai-phien-lien-tiep-post1692444.html",
-     "image": "https://photo.znews.vn/w960/Uploaded/rohuoct/2026_06_28/88chungkhoan_znews.jpg"
-    },
-    {
-     "cat": "biz",
-     "figure": {
-      "label": "giá trị hợp đồng mỗi năm",
-      "value": ">100 tr $"
-     },
-     "source": "The Information",
-     "summary": "Theo The Information, hợp đồng mới trị giá hơn 100 triệu USD/năm, sau khi OpenAI giảm giá trên 30% còn Anthropic ngừng chiết khấu. Đây là dấu hiệu cuộc chiến giá giữa các hãng AI đang ảnh hưởng tới khách hàng doanh nghiệp lớn.",
-     "title": "Replit chuyển phần lớn chi tiêu AI từ Anthropic sang OpenAI",
-     "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity"
-    },
-    {
-     "cat": "know",
-     "source": "Báo Tin tức",
-     "summary": "Theo Nghị định 392/2026, giấy tờ được chấp nhận gồm thẻ căn cước, căn cước công dân, hộ chiếu, thẻ thường trú/tạm trú hoặc giấy tờ có ảnh do cơ quan nhà nước cấp; chứng minh nhân dân không còn trong danh sách. Khách không có giấy tờ vẫn được bố trí phòng nhưng cơ sở phải báo công an xã.",
-     "tag": "Hiệu lực 15/11/2026",
-     "title": "Từ 15/11, khách sạn, nhà nghỉ phải kiểm tra giấy tờ tùy thân trước khi nhận phòng",
-     "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html"
-    },
-    {
-     "cat": "know",
-     "source": "Báo Tin tức",
-     "summary": "Điều lệ Ban đại diện cha mẹ học sinh mới chỉ yêu cầu họp đầu năm học, các buổi sau tổ chức khi cần. Họp và biểu quyết được phép làm trực tiếp, trực tuyến hoặc kết hợp cả hai.",
-     "tag": "Hiệu lực 15/11/2026",
-     "title": "Họp phụ huynh không còn bắt buộc 3 lần mỗi năm học",
-     "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html"
+      "note": "",
+      "slot": "16:45",
+      "id": "2026-10-27-1645"
     }
-   ],
-   "note": "",
-   "slot": "16:45",
-   "id": "2026-10-27-1645"
-  }
- ]
+  ]
 }
