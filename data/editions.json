@@ -1,13 +1,36 @@
 {
-  "updated": "2026-10-28T09:25:24+07:00",
+  "updated": "2026-10-28T11:00:15+07:00",
   "editions": [
     {
       "id": "2026-10-28-1100",
       "date": "2026-10-28",
       "slot": "11:00",
-      "createdAt": "2026-10-28T09:25:24+07:00",
+      "createdAt": "2026-10-28T11:00:15+07:00",
       "note": "",
       "items": [
+        {
+          "cat": "vn",
+          "title": "Thủ tướng tại Diễn đàn Kinh tế Mùa thu: GDP 9 tháng tăng 9,01%, cao nhất từ 2011",
+          "summary": "Phát biểu sáng 28/10 tại TP.HCM, Thủ tướng Lê Minh Hưng cho biết vốn FDI đăng ký 9 tháng hơn 50 tỷ USD, tăng 76,4%, và mục tiêu tăng trưởng bình quân từ 10%/năm giai đoạn 2026–2030. Ông đưa ra 4 đề xuất hợp tác, trong đó có huy động vốn qua trung tâm tài chính quốc tế tại TP.HCM và Đà Nẵng.",
+          "source": "Công an Nhân dân",
+          "url": "https://cand.vn/viet-nam-san-sang-hop-tac-doi-moi-va-kien-tao-tuong-lai-trong-ky-nguyen-moi-post826118.html",
+          "figure": {
+            "value": "9,01%",
+            "label": "Tăng trưởng GDP 9 tháng 2026",
+            "delta": "cao nhất từ 2011",
+            "dir": "up",
+            "spark": [
+              9.01
+            ]
+          },
+          "detail": [
+            "Diễn đàn Kinh tế Mùa thu 2026 (AEF 2026) khai mạc sáng 28/10 tại TP.HCM với khoảng 1.800 đại biểu, có đại diện Liên Hợp Quốc, IMF, EU, ILO, IFC, JICA. Thủ tướng Lê Minh Hưng dự phiên toàn thể và đối thoại khoảng 60 phút với ông Stephan Mergenthaler, Giám đốc điều hành Diễn đàn Kinh tế Thế giới (WEF), về chủ đề định vị Việt Nam trong tương lai toàn cầu.",
+            "Thủ tướng nêu loạt số liệu 9 tháng đầu năm: kim ngạch xuất nhập khẩu trên 987 tỷ USD và dự kiến cả năm vượt 1.100 tỷ USD; riêng tháng 10 xuất siêu hơn 5,7 tỷ USD; tổng vốn đầu tư toàn xã hội vượt 120 tỷ USD. Việt Nam xếp hạng 43/139 về Chỉ số Đổi mới sáng tạo toàn cầu 2026 và chính thức vào nhóm nước thu nhập trung bình cao từ tháng 7/2026.",
+            "Bốn đề xuất hợp tác gồm: cùng đối tác biến Việt Nam thành trung tâm nghiên cứu – phát triển trong bán dẫn và AI; đào tạo nhân lực số chất lượng cao cùng WEF; xây dựng cơ chế thử nghiệm có kiểm soát (sandbox – cho phép thử công nghệ mới trong phạm vi giới hạn trước khi có luật đầy đủ) cho công nghệ tiên phong và năng lượng mới; và huy động vốn dài hạn qua các trung tâm tài chính quốc tế tại TP.HCM và Đà Nẵng.",
+            "Trong buổi tiếp trước đó, WEF cam kết hỗ trợ Việt Nam trong năm APEC 2027 và mời lãnh đạo Việt Nam dự Hội nghị Davos tháng 1/2027. Tại diễn đàn, TP.HCM dự kiến công bố 12 dự án tổng vốn hơn 13 tỷ USD (cảng biển, logistics, công nghiệp công nghệ cao) và 10 thành viên đầu tiên của Trung tâm Tài chính quốc tế TP.HCM.",
+            "Ý nghĩa với người Đà Nẵng: việc Thủ tướng nhắc trực tiếp trung tâm tài chính quốc tế tại Đà Nẵng trước giới đầu tư toàn cầu cho thấy đây vẫn là ưu tiên quốc gia. Nếu thu hút được dòng vốn dài hạn, thành phố có thể có thêm việc làm trong ngành tài chính, công nghệ và dịch vụ chuyên nghiệp – mảng mà bộ phận nhân sự nên theo dõi về nhu cầu tuyển dụng."
+          ]
+        },
         {
           "cat": "ai",
           "title": "OpenAI chuẩn bị mua chip AI của Google, giảm phụ thuộc vào Nvidia",
@@ -39,6 +62,52 @@
           ]
         },
         {
+          "cat": "vn",
+          "title": "Quốc hội bàn sửa Luật Chứng khoán: đề xuất giao dịch xuyên trưa, tiến tới 24/24",
+          "summary": "Sáng 28/10, đại biểu Trần Hoàng Ngân đề xuất bỏ giờ nghỉ trưa và tiến tới giao dịch 24/24 khi thị trường đã có hơn 14 triệu tài khoản. Các đại biểu khác đề xuất cách gỡ 'hết room' cho nhà đầu tư ngoại; Bộ trưởng Tài chính nói nguyên tắc xuyên suốt là bảo vệ nhà đầu tư nhỏ.",
+          "source": "Sài Gòn Giải Phóng",
+          "url": "https://www.sggp.org.vn/go-vuong-tang-suc-hut-thi-truong-chung-khoan-viet-nam-post878799.html",
+          "tag": "Quốc hội",
+          "detail": [
+            "Quốc hội thảo luận tại hội trường dự án Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán trong sáng 28/10, do Phó Chủ tịch Quốc hội Nguyễn Thị Hồng điều hành. Mục tiêu chung của lần sửa luật là tháo gỡ vướng mắc và giúp thị trường được nâng hạng từ nhóm 'cận biên' lên 'mới nổi' – điều kiện để hút thêm vốn từ các quỹ đầu tư lớn trên thế giới.",
+            "Đại biểu Trần Anh Tuấn (TP.HCM) cho rằng nhiều doanh nghiệp đã hết 'room' – tức hết tỷ lệ tối đa cổ phần nhà đầu tư nước ngoài được sở hữu. Ông đề xuất cơ chế chứng chỉ lưu ký không có quyền biểu quyết (NVDR): nhà đầu tư ngoại vẫn được hưởng cổ tức và lợi ích tài chính, nhưng không tham gia quyết định, nên quyền kiểm soát doanh nghiệp không thay đổi.",
+            "Đại biểu Trần Hoàng Ngân (TP.HCM) nhắc lại các lần thị trường từng gặp sự cố hệ thống phải tạm dừng, và cho rằng với hơn 14 triệu tài khoản giao dịch, đầu tư hạ tầng công nghệ hiện đại là bắt buộc. Ông đề xuất bỏ giờ nghỉ trưa trong phiên giao dịch và tiến tới giao dịch 24/24 để liên thông với thị trường quốc tế.",
+            "Một số ý kiến khác: đại biểu Tô Ái Vang (Cần Thơ) đề nghị bỏ yêu cầu Chủ tịch HĐQT công ty chứng khoán phải có chứng chỉ hành nghề; đại biểu Đỗ Đức Hiển (TP.HCM) đề xuất cho nhà đầu tư cá nhân ủy thác toàn quyền cho công ty quản lý quỹ được đối xử như nhà đầu tư chuyên nghiệp. Bộ trưởng Tài chính Ngô Văn Tuấn tiếp thu và khẳng định sẽ tiếp tục làm việc với các tổ chức xếp hạng về nâng hạng.",
+            "Đây mới là các đề xuất trong quá trình thảo luận, chưa phải quy định chính thức. Với người đầu tư nhỏ, điều đáng theo dõi là giờ giao dịch có thể thay đổi và các quy định bảo vệ nhà đầu tư cá nhân trong bản luật cuối cùng."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Google DeepMind ra mắt Genie 4: tạo thế giới ảo tương tác, có cả âm thanh",
+          "summary": "Genie 4 là mô hình 'thế giới' của Google DeepMind, cho phép người dùng đi lại trong cảnh do AI tạo bằng bàn phím và ra lệnh bằng chữ như đổi thời tiết, thêm đồ vật. Lần đầu mô hình tự tạo nhạc, tiếng động và lời thoại cùng lúc với hình ảnh; hiện mới mở cho nhóm thử nghiệm.",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
+          "detail": [
+            "'Mô hình thế giới' (world model) là loại AI không chỉ tạo một bức ảnh hay một đoạn video, mà tạo ra cả một không gian mô phỏng để người dùng bước vào và tương tác theo thời gian thực, giống như chơi trò chơi điện tử. Google DeepMind công bố thế hệ thứ tư của dòng Genie ngày 27/10 (giờ Mỹ).",
+            "Người dùng di chuyển trong cảnh bằng phím điều khiển quen thuộc, và có thể gõ lệnh để thay đổi mọi thứ đang chạy: đổi thời tiết, xoay góc máy, thêm người hoặc đồ vật. Google cho biết hình ảnh chân thực hơn, chuyển động mượt hơn và mô phỏng được vật lý như va chạm, khí động học.",
+            "Điểm mới lớn nhất là âm thanh: Genie 4 tự tạo nhạc nền, tiếng động môi trường và lời thoại đồng thời với hình ảnh. Mô hình Gemini 3.8 Flash đóng vai 'người điều phối', chia mục tiêu thành từng bước, kiểm tra từng khung hình và điều chỉnh khi cảnh thay đổi.",
+            "Ứng dụng được nêu: đạo diễn thử nhiều cảnh quay trước khi bấm máy, nhà làm game dựng thử ý tưởng, doanh nghiệp tạo kịch bản mô phỏng như lũ lụt, cháy rừng, và huấn luyện robot. Google cũng thử biến một bức ảnh lưu trữ 2D thành không gian mô phỏng.",
+            "Google thừa nhận mô hình còn ở giai đoạn thử nghiệm: chi tiết có thể bị 'trôi' trong phiên dài, chữ viết và độ chính xác không gian chưa tốt. Mọi video, âm thanh do Genie 4 tạo đều được gắn thủy vân ẩn SynthID để nhận biết nội dung do AI tạo.",
+            "Hiện Genie 4 mới mở cho nhóm người thử nghiệm được chọn; sắp tới đến với thuê bao Google AI Ultra và một số đối tác dùng Gemini API. Với người dùng phổ thông, đây là dấu hiệu video và cảnh giả do AI tạo sẽ ngày càng khó phân biệt, nên càng cần thận trọng với clip lan truyền trên mạng."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "SK hynix lãi kỷ lục 83.300 tỷ won quý 3 nhờ chip nhớ cho AI",
+          "summary": "Doanh thu quý 3/2026 của SK hynix lần đầu vượt 100.000 tỷ won (104.600 tỷ), tăng 328% so với cùng kỳ; lợi nhuận hoạt động 83.300 tỷ won, biên lợi nhuận 80%. Hãng dự báo nhu cầu chip nhớ vượt nguồn cung đến năm 2030.",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "image": "https://d18r0a86za96sg.cloudfront.net/wp-content/uploads/2026/10/26162709/q3-2026-business-results_THUMB.jpg",
+          "detail": [
+            "SK hynix (Hàn Quốc) là một trong hai nhà sản xuất chip nhớ lớn nhất thế giới và là nhà cung cấp chính bộ nhớ băng thông cao HBM – loại chip nhớ xếp chồng gắn cạnh chip AI của Nvidia. Ngày 28/10, hãng công bố kết quả kinh doanh quý 3/2026 cao nhất lịch sử.",
+            "Doanh thu đạt 104.615 tỷ won, tăng 32% so với quý trước và 328% so với cùng kỳ năm ngoái. Lợi nhuận hoạt động 83.334 tỷ won, tăng 632% so với cùng kỳ, tương đương biên lợi nhuận 80% – nghĩa là cứ 100 won doanh thu thì lãi từ hoạt động kinh doanh 80 won. Lãi ròng 39.776 tỷ won, thấp hơn quý 2.",
+            "Về sản phẩm, chip HBM4 thế hệ mới đã bắt đầu giao hàng số lượng lớn và dự kiến vượt HBM3E cả về sản lượng lẫn doanh thu ngay trong quý 4. Hãng cho biết hợp đồng dài hạn với 14 khách hàng lớn, gồm các nhà cung cấp điện toán đám mây, đã phủ hơn một nửa công suất năm 2027–2028.",
+            "SK hynix đặt mục tiêu trả cho cổ đông khoảng 100.000 tỷ won trong năm 2026, gồm ít nhất 30.000 tỷ won cổ tức tiền mặt và 60.000 tỷ won mua lại cổ phiếu. Cổ tức quý 3 là 20.000 won/cổ phiếu, trong đó một nửa là cổ tức đặc biệt.",
+            "Ý nghĩa: kết quả cho thấy làn sóng đầu tư vào AI vẫn rất mạnh, kéo theo nhu cầu chip nhớ. Việt Nam đang đặt mục tiêu tham gia chuỗi bán dẫn, nên xu hướng này liên quan trực tiếp đến cơ hội thu hút đầu tư và việc làm ngành điện tử, bán dẫn trong nước."
+          ]
+        },
+        {
           "cat": "fin",
           "title": "Vàng miếng SJC tăng 1 triệu, bán ra 143 triệu đồng/lượng",
           "summary": "Sáng 28/10, Công ty SJC niêm yết vàng miếng 140–143 triệu đồng/lượng (mua–bán), tăng 1 triệu so với hôm qua; vàng nhẫn SJC 136–140 triệu. Vàng thế giới quanh 4.060 USD/ounce, nên giá trong nước vẫn cao hơn khoảng 15 triệu đồng/lượng.",
@@ -60,6 +129,21 @@
             "Chênh lệch giữa giá mua và giá bán đang ở mức 3–4,5 triệu đồng/lượng. Nghĩa là nếu mua hôm nay rồi bán lại ngay, người mua lỗ ngay ngần ấy tiền.",
             "So với thế giới: vàng quốc tế khoảng 4.047–4.055 USD/ounce, quy đổi theo tỷ giá Vietcombank chỉ khoảng 126,8 triệu đồng/lượng, tức vàng miếng SJC trong nước đang đắt hơn khoảng 16 triệu đồng/lượng.",
             "Ý nghĩa: với khoảng chênh lớn như vậy và quyết định lãi suất của Fed sắp công bố (1h sáng 29/10 giờ Việt Nam), giá có thể đảo chiều nhanh. Người mua để tích lũy lâu dài nên chia nhỏ số tiền mua nhiều lần, tránh mua dồn một lúc vào ngày giá vừa tăng mạnh."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Anthropic mua công ty thuốc một người, công bố kết quả dùng Claude phát triển thuốc",
+          "summary": "Anthropic thông báo mua lại Mithril Medicine – công ty chỉ có một nhà sáng lập, dùng Claude điều phối thí nghiệm ở 11 phòng lab để tìm thuốc cho bệnh loạn dưỡng cơ hiếm gặp. Hãng cũng công bố kết quả với 6 đối tác dược, có Bristol Myers Squibb.",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/research/early-progress-drug-development",
+          "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+          "detail": [
+            "Ngày 27/10 (giờ Mỹ), nhóm khoa học sự sống của Anthropic – công ty phát triển AI Claude – công bố kết quả bước đầu của việc dùng Claude trong phát triển thuốc. Hãng hợp tác với 6 tổ chức trong nhiều tháng, đồng thời tự khởi động chương trình nghiên cứu thuốc riêng. Hầu hết công việc vẫn ở giai đoạn tiền lâm sàng, tức chưa thử trên người.",
+            "Mithril Medicine là công ty một người, phát triển thuốc cho hai dạng bệnh loạn dưỡng cơ hiếm gặp. Nhà sáng lập dùng Claude sắp xếp hợp đồng, hậu cần và thí nghiệm tại 11 phòng thí nghiệm bên ngoài; một hướng điều trị đi từ ý tưởng đến kết quả khả quan trên chuột trong chưa đầy 18 tháng. Nếu suôn sẻ, thuốc có thể thử nghiệm trên người sớm nhất cuối năm 2028.",
+            "Một số kết quả với đối tác: Generate Biomedicines thiết kế được một phần của liệu pháp tế bào CAR-T (dùng tế bào miễn dịch đã chỉnh sửa để diệt ung thư) ngắn hơn khoảng 70%, giúp tế bào tạo gấp khoảng 10 lần thụ thể. Divergence Labs tạo khoảng 35.000 thiết kế kháng thể chống dị ứng thực phẩm trong khoảng một tháng.",
+            "Ở khâu giấy tờ, Claude rà soát 1.061 trang hồ sơ sản xuất của Enveda, phát hiện đủ 11 lỗi mà người kiểm tra tìm ra và thêm 7 lỗi khác, giảm 89% thời gian rà soát (từ hơn 25 giờ xuống dưới 3 giờ). Một hồ sơ pháp lý soạn bằng tay mất khoảng 3 tháng được làm trong 4 giờ.",
+            "Ý nghĩa: bên cạnh khâu nghiên cứu, AI đang thay đổi mạnh các công việc văn phòng chuyên môn như soạn và kiểm tra hồ sơ. Câu chuyện công ty 'một người cộng AI' cũng cho thấy cách tổ chức công việc và nhu cầu nhân sự trong nhiều ngành có thể thay đổi nhanh trong vài năm tới."
           ]
         },
         {
