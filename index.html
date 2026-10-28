@@ -155,7 +155,7 @@ details.more p{margin:8px 0 0;font-size:.95rem;line-height:1.65;color:var(--ink)
 <body>
 <div class="wrap">
   <header class="mast">
-    <h1>Bản Tin Gọn</h1>
+    <h1 id="mastTitle">Bản Tin</h1>
     <nav class="nav" id="cats" role="group" aria-label="Lọc theo mảng"></nav>
   </header>
   <main class="front" id="front" hidden>
@@ -232,7 +232,7 @@ function render(){
   document.querySelectorAll(".pic img").forEach(img=>img.addEventListener("error",()=>{const box=img.parentElement;box.outerHTML=fig(shown[+box.dataset.k],box.dataset.s)}));
   $("end").hidden=false;
 }
-fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const e=(j.editions||[]).filter(x=>Array.isArray(x.items))[0];items=e?e.items:[];render()})
+fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const e=(j.editions||[]).filter(x=>Array.isArray(x.items))[0];items=e?e.items:[];if(e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||"")){const[y,m,d]=e.date.split("-");$("mastTitle").textContent=`Bản Tin ${d}.${m}.${y}`}render()})
   .catch(()=>{$("empty").hidden=false;$("empty").textContent="Không tải được bản tin. Thử mở lại trang."});
 </script>
 </body>
