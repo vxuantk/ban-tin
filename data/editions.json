@@ -1,6 +1,140 @@
 {
-  "updated": "2026-10-28T15:23:17+07:00",
+  "updated": "2026-10-28T19:07:22+07:00",
   "editions": [
+    {
+      "id": "2026-10-28-1900",
+      "date": "2026-10-28",
+      "slot": "19:00",
+      "createdAt": "2026-10-28T19:07:22+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "vn",
+          "title": "TP.HCM trao chấp thuận 12 dự án hơn 16,4 tỷ USD tại Diễn đàn Kinh tế Mùa thu",
+          "summary": "Chiều 28/10, TP.HCM công bố 12 dự án đã được chấp thuận chủ trương hoặc cấp giấy chứng nhận đầu tư, tổng vốn hơn 16,4 tỷ USD, cao hơn mức 13 tỷ USD dự kiến trước đó. Lớn nhất là cảng trung chuyển quốc tế Cần Giờ (khoảng 4,9 tỷ USD) và Khu đô thị Đại học Quốc tế (khoảng 6,6 tỷ USD).",
+          "source": "Báo Công Thương",
+          "url": "https://congthuong.vn/tp-ho-chi-minh-cong-bo-12-du-an-dau-tu-hon-16-4-ty-usd-tai-dien-dan-kinh-te-mua-thu-2026-478838.html",
+          "tag": "Đầu tư lớn",
+          "detail": [
+            "Việc công bố diễn ra ngay sau phiên đối thoại giữa Thủ tướng và lãnh đạo Diễn đàn Kinh tế Thế giới (WEF) tại Diễn đàn Kinh tế Mùa thu 2026 (AEF) ở TP.HCM. Trước đó ban tổ chức dự kiến 12 dự án khoảng 13 tỷ USD; con số thực tế được công bố là hơn 16,4 tỷ USD.",
+            "Hai dự án lớn nhất chiếm hơn hai phần ba tổng vốn: Khu đô thị Đại học Quốc tế của Berjaya (sau điều chỉnh khoảng 173.100 tỷ đồng, tương đương 6,6 tỷ USD) và cảng trung chuyển quốc tế Cần Giờ do Vinalines, Cảng Sài Gòn và hãng TIL (thuộc tập đoàn vận tải biển MSC) liên danh, khoảng 128.900 tỷ đồng (4,9 tỷ USD). Lotte cũng có khu phức hợp thông minh 60.000 tỷ đồng ở Thủ Thiêm.",
+            "Nhóm còn lại gồm cảng Cái Mép Gemadept – Terminal Link, bến cảng Mỹ Xuân 6, trung tâm logistics Swift Logistics của nhà đầu tư Singapore (gần 1 tỷ USD), Khu công nghiệp Vĩnh Lập giai đoạn 1, nhà máy kính Xinyi (230 triệu USD) và các dự án nhỏ hơn về cáp điện, đúc kim loại, vật liệu bán dẫn (Coherent, 45 triệu USD) và robot tự động hóa.",
+            "Danh mục cho thấy TP.HCM đang ưu tiên cảng biển, logistics, đô thị và sản xuất công nghệ cao. Với người lao động, các dự án nhà máy và logistics thường kéo theo nhu cầu tuyển kỹ thuật viên, vận hành kho bãi và kỹ sư; còn với doanh nghiệp miền Trung như Đà Nẵng, cảng Cần Giờ khi hoạt động sẽ tạo thêm cạnh tranh về hàng trung chuyển quốc tế."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Thủ tướng đối thoại với WEF: “đầu tư cùng Việt Nam”, nợ công còn dư địa",
+          "summary": "Trong phiên đối thoại 60 phút với Giám đốc điều hành WEF sáng 28/10, Thủ tướng Lê Minh Hưng nêu 5 nhóm giải pháp tăng sức chống chịu cho nền kinh tế trước một thế giới bất định. Ông cho biết nợ công khoảng 34% GDP, còn dư địa tài chính, và kêu gọi nhà đầu tư chuyển từ “đầu tư tại” sang “đầu tư cùng” Việt Nam.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/thu-tuong-the-gioi-cang-bat-dinh-viet-nam-cang-phai-chu-dong-chien-luoc-5137792.html",
+          "tag": "Diễn đàn AEF",
+          "detail": [
+            "Thay vì phát biểu một chiều, Thủ tướng đối thoại trực tiếp với ông Stephan Mergenthaler, Giám đốc điều hành Diễn đàn Kinh tế Thế giới (WEF), trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026 tại TP.HCM. Ông nhận định thế giới đang chuyển sang đa cực, cạnh tranh giữa các nước lớn lan sang công nghệ, dữ liệu, năng lượng, còn toàn cầu hóa tuy vẫn tiếp diễn nhưng bị phân mảnh hơn.",
+            "Theo Thủ tướng, mô hình tăng trưởng dựa vào động lực truyền thống (lao động rẻ, vốn, tài nguyên) đã chạm giới hạn, nên Việt Nam cần động lực mới. Năm nhóm giải pháp được nêu: giữ ổn định vĩ mô, bảo đảm an ninh năng lượng và lương thực; hoàn thiện thể chế theo chuẩn quốc tế; đột phá hạ tầng và công nghệ; đổi mới giáo dục; và đa dạng hóa quan hệ đối ngoại.",
+            "Ông nhấn mạnh nợ công khoảng 34% GDP, tức Nhà nước còn khả năng vay để đầu tư hạ tầng, và Việt Nam đã ký 18 hiệp định thương mại tự do. Mục tiêu đến 2035 là trở thành trung tâm mới nổi về công nghệ số, năng lượng xanh và nông nghiệp xanh, đồng thời là mắt xích tin cậy trong chuỗi cung ứng.",
+            "Thông điệp “đầu tư cùng Việt Nam” nghĩa là Nhà nước sẽ thu hút vốn có chọn lọc, ưu tiên dự án chịu chuyển giao công nghệ, liên kết với doanh nghiệp trong nước và đào tạo nhân lực. Với người làm nhân sự, đây là tín hiệu nhu cầu đào tạo kỹ năng và hợp tác doanh nghiệp – trường nghề sẽ còn tăng."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "VN-Index tăng nhẹ lên 1.766 điểm nhờ ngân hàng, khối ngoại bán ròng 262 tỷ",
+          "summary": "Đóng cửa phiên 28/10, VN-Index tăng 4,78 điểm (+0,27%) lên 1.766,65 điểm, chấm dứt chuỗi ba phiên giảm, nhờ HDB và VCB. Tuy vậy số mã giảm (176) vẫn nhiều hơn mã tăng (124), khối ngoại bán ròng khoảng 262 tỷ đồng trên HOSE.",
+          "source": "Báo Công Luận",
+          "url": "https://congluan.vn/chung-khoan-hom-nay-28102026-vn-index-hoi-phuc-nhe-nhom-ngan-hang-dan-dat-post365532.html",
+          "figure": {
+            "value": "1.766,65",
+            "label": "VN-Index đóng cửa 28/10",
+            "delta": "+4,78 điểm (+0,27%)",
+            "dir": "up",
+            "spark": [
+              1761.87,
+              1757.09,
+              1754.72,
+              1761.04,
+              1766.65
+            ]
+          },
+          "detail": [
+            "Sau ba phiên giảm liên tiếp, VN-Index có phiên sáng giằng co, có lúc xuống 1.754,72 điểm, rồi hồi dần vào buổi chiều và chốt ở 1.766,65 điểm. Mức tăng nhỏ nhưng giúp chỉ số giữ được vùng 1.760 điểm trước sự kiện lớn là quyết định lãi suất của Fed (Cục Dự trữ Liên bang Mỹ) lúc khoảng 1 giờ sáng 29/10 giờ Việt Nam.",
+            "Nhóm ngân hàng dẫn dắt: HDB tăng 3,86%, VCB tăng 2,5%, VIC nhích 0,33%. Chiều ngược lại, FPT giảm 2,53%, GAS giảm 1,52%, HPG giảm 1,19%, kìm đà tăng của chỉ số.",
+            "Giá trị giao dịch trên HOSE đạt khoảng 15.306 tỷ đồng, khá hơn phiên trước nhưng vẫn dưới mức bình quân 20 phiên, cho thấy dòng tiền còn dè dặt. Khối ngoại tiếp tục bán ròng khoảng 262 tỷ đồng, nối dài chuỗi rút vốn.",
+            "Với nhà đầu tư cá nhân, độ rộng thị trường nghiêng về số mã giảm nghĩa là chỉ số xanh chủ yếu nhờ vài cổ phiếu lớn; danh mục nhiều người vẫn có thể đang lỗ. Các bản nhận định trong ngày đều khuyên tránh mua đuổi khi thị trường còn phân hóa."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Dự thảo: 35 ngành nghề khó tuyển sinh được miễn 100% học phí học nghề",
+          "summary": "Bộ Giáo dục và Đào tạo lấy ý kiến dự thảo thông tư, theo đó 35 ngành nghề khó tuyển sinh nhưng xã hội cần (cơ khí, xây dựng cầu đường, hộ sinh, điều khiển tàu biển…) được miễn toàn bộ học phí. Hơn 200 nghề nặng nhọc, độc hại được giảm 70% học phí.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/du-kien-35-nganh-nghe-kho-tuyen-sinh-duoc-mien-100-hoc-phi-5137728.html",
+          "tag": "Dự thảo",
+          "detail": [
+            "Dự thảo thông tư ban hành danh mục ngành nghề nặng nhọc, độc hại, nguy hiểm và ngành khó tuyển sinh nhưng xã hội có nhu cầu, áp dụng cho trình độ cao đẳng, trung cấp, trung học nghề và sơ cấp. Đây là căn cứ để áp dụng chính sách miễn, giảm học phí của Chính phủ.",
+            "Nhóm 35 ngành được miễn 100% học phí gồm công nghệ kỹ thuật cơ khí, chế tạo thiết bị cơ khí, công nghệ điện tử và năng lượng tòa nhà, công nghệ thực phẩm, xây dựng cầu đường, chăn nuôi – thú y, hộ sinh, điều khiển tàu biển, khai thác máy tàu thủy, nuôi trồng thủy sản, công tác xã hội và một số ngành nghệ thuật truyền thống như cải lương, dân ca.",
+            "Nhóm hơn 200 ngành nặng nhọc, độc hại, nguy hiểm (như công nghệ ô tô, điện – điện tử, điện dân dụng, y sĩ đa khoa, diễn viên múa) được giảm 70% học phí. Hiện trần học phí ở trường nghề chưa tự chủ là 16–28 triệu đồng/năm, trường tự chủ một phần được thu tối đa gấp đôi.",
+            "Đây mới là dự thảo, chưa có ngày hiệu lực. Với gia đình có con chuẩn bị chọn nghề và với bộ phận nhân sự đang khó tuyển thợ kỹ thuật, chính sách này đáng theo dõi: doanh nghiệp có thể phối hợp với trường nghề để đặt hàng đào tạo những ngành được miễn học phí."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Đề xuất ưu đãi thuế, đất cho du lịch; Đà Nẵng nằm trong nhóm thí điểm outlet miễn thuế",
+          "summary": "Bộ Văn hóa, Thể thao và Du lịch soạn nghị quyết cơ chế đặc thù phát triển du lịch: dự án từ 30.000 tỷ đồng được miễn thuế thu nhập doanh nghiệp 4 năm, giảm 50% trong 9 năm tiếp theo. Từ 1/2027, cơ sở lưu trú có thể trả giá điện sản xuất thay vì giá kinh doanh.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-loat-uu-dai-thue-dat-dai-phat-trien-du-lich-5137620.html",
+          "image": "https://i2-vnexpress.vnecdn.net/2026/10/27/du-kha-ch-tre-n-ho-gu-o-m-nga-9682-2757-1793112888.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=2hWN44daug_tOCGrqKBxaw",
+          "detail": [
+            "Dự thảo nghị quyết gồm 7 nhóm chính sách với 21 vấn đề, được lấy ý kiến tại hội nghị ngày 26/10 và dự kiến trình Quốc hội ngay kỳ họp này. Bối cảnh là Việt Nam chỉ đứng 97/110 nền kinh tế về mức độ ưu tiên cho du lịch, và phần lớn doanh nghiệp du lịch là vừa và nhỏ, khó tiếp cận vốn rẻ.",
+            "Dự án chia ba nhóm: “chất lượng cao” từ 3.000 tỷ đồng và 1.000 lao động; “động lực” từ 10.000 tỷ đồng, 1.500 lao động, hưởng thuế thu nhập doanh nghiệp 10% trong 10 năm; “động lực chiến lược” từ 30.000 tỷ đồng, 2.000 lao động, được miễn thuế 4 năm, giảm 50% trong 9 năm và hoạt động tối đa 70 năm. Casino, sân golf, cá cược và dự án có phân lô bán đất không được hưởng.",
+            "Khách sạn từ 4 sao có mật độ xây dựng dưới 25% được giảm tới 30% tiền thuê đất phần cây xanh, mặt nước. Mô hình mới như kinh tế đêm, du lịch số, du lịch chăm sóc sức khỏe được miễn thuế 5 năm; một số tổ hợp giải trí được thí điểm mở 24/7. Outlet và cửa hàng miễn thuế được định hướng ở Hà Nội, Quảng Ninh, Đà Nẵng, Khánh Hòa, TP.HCM và Phú Quốc, mỗi nơi có ít nhất một mô hình trước 2028.",
+            "Về nhân lực, chuyên gia du lịch được giảm 50% thuế thu nhập cá nhân trong 5 năm, doanh nghiệp được hỗ trợ tới 30% chi phí đào tạo, kèm quỹ đất làm nhà ở cho người lao động ngành du lịch. Với Đà Nẵng – nơi du lịch là ngành chủ lực, các ưu đãi này nếu được thông qua sẽ tác động trực tiếp đến đầu tư khách sạn, việc làm và giá dịch vụ."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Đại biểu đề nghị kiểm soát giá bán lại nhà ở xã hội sau 5 năm",
+          "summary": "Chiều 28/10, Quốc hội thảo luận dự án Luật Nhà ở sửa đổi. Nhiều đại biểu đề nghị gắn điều kiện mua nhà ở xã hội với mặt bằng thu nhập từng địa phương, có công thức kiểm soát giá bán lại sau 5 năm và hỗ trợ người nghèo khi chung cư cũ phải xây lại.",
+          "source": "Báo Tin tức – TTXVN",
+          "url": "https://baotintuc.vn/ky-hop-thu-hai-quoc-hoi-khoa-xvi-hoan-thien-chinh-sach-nha-o-de-nguoi-dan-de-tiep-can-hon-post1398061.html",
+          "tag": "Quốc hội",
+          "detail": [
+            "Dự thảo giữ quy định người mua nhà ở xã hội không được chuyển nhượng trong 5 năm để chống đầu cơ. Đại biểu Lý Anh Thư (An Giang) cho rằng sau mốc này luật chưa có nguyên tắc nào về giá bán lại, nên giá có thể bị đẩy cao, khiến người mua sau khó tiếp cận. Bà đề xuất giá bán lại tính từ giá mua ban đầu nhân hệ số điều chỉnh do cơ quan có thẩm quyền quy định.",
+            "Đại biểu Nguyễn Ngọc Sơn (Hải Phòng) đề nghị đánh giá nhà ở xã hội theo nhu cầu và khả năng chi trả thực tế chứ không chỉ đếm số căn; ưu tiên quỹ đất thật thay vì cho chủ đầu tư nộp tiền thay thế; điều kiện thu nhập phải theo mặt bằng giá từng nơi, ưu tiên công nhân khu công nghiệp và cán bộ trẻ. Ông cũng đề nghị kết nối dữ liệu nhà – đất – dân cư để phát hiện việc cho thuê lại, bán lại trái phép.",
+            "Với nhà ở cho thuê – điểm mới của dự luật – đại biểu Nguyễn Duy Thanh (Cà Mau) đề nghị ưu đãi thuế, tín dụng rõ ràng vì chủ đầu tư phải bỏ vốn lớn và thu hồi chậm, nhưng phải gắn với cam kết duy trì quỹ nhà và nguyên tắc tăng giá thuê. Đại biểu Nguyễn Thị Việt Nga (Hải Phòng) lưu ý người cao tuổi, thu nhập thấp sống ở chung cư xây sau 1994 nay xuống cấp có thể không đủ tiền tìm chỗ ở mới, cần được ưu tiên thuê hoặc mua nhà ở xã hội.",
+            "Cơ quan soạn thảo đã chỉnh lý một số điều, như giao UBND cấp tỉnh quyết định hỗ trợ tiền cho người khó khăn khi cải tạo chung cư. Với người lao động có ý định mua nhà ở xã hội, các đề xuất này nếu được tiếp thu sẽ làm thay đổi tiêu chí xét duyệt và khả năng bán lại căn hộ sau này."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "OpenAI nói AI của mình giải được 3 bài toán lớn trong toán, tin học, vật lý",
+          "summary": "OpenAI công bố các mô hình AI của hãng đã chứng minh giả thuyết “làm trơn cục bộ” trong mọi chiều, bác bỏ Giả thuyết Thời gian Hàm mũ (ETH) trong tin học lý thuyết và đưa ra chứng minh chặt chẽ cho một lý thuyết vật lý hạt. Các kết quả vẫn đang được giới chuyên môn kiểm chứng.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says",
+          "tag": "Khoa học",
+          "detail": [
+            "Đầu tuần này, OpenAI tuyên bố các mô hình AI của họ đã tạo ra kết quả mới ở ba lĩnh vực: giải tích điều hòa (một nhánh toán nghiên cứu sóng và dao động), lý thuyết độ phức tạp tính toán, và lý thuyết trường lượng tử trong vật lý. Hãng làm việc với ba nhóm chuyên gia, gọi là “người dẫn dắt”, để rà soát từng kết quả.",
+            "Cụ thể, AI được cho là đã chứng minh giả thuyết làm trơn cục bộ cho mọi số chiều không gian, trong khi trước đây mới chứng minh được ở 3 chiều. Kết quả thứ hai bác bỏ ETH – giả thuyết được giới tin học tin là đúng từ cuối thập niên 1990, nói rằng một số bài toán khó không thể giải nhanh hơn một ngưỡng nhất định. Kết quả thứ ba là chứng minh chặt chẽ về mặt toán học cho lý thuyết mô tả tương tác giữa các hạt quark và gluon.",
+            "Giáo sư Alex Iosevich (Đại học Rochester) gọi việc giải giả thuyết làm trơn là “bước phát triển lịch sử” và cho rằng toán lý thuyết sẽ thay đổi mạnh. Giáo sư Ryan Williams (MIT) nói nếu việc bác bỏ ETH được xác nhận thì đó là sự kiện lớn, nhưng phương pháp còn khó hiểu và chưa có ứng dụng thực tế ngắn hạn; giới nghiên cứu vẫn đang kiểm tra.",
+            "Kết quả toán và tin học đã được công khai ngay, còn phần vật lý chưa công bố. Chính OpenAI thừa nhận việc chọn nhóm chuyên gia ban đầu tạo ra “bất cân xứng thông tin”. Trước đó, Anthropic từng công bố phát hiện enzyme bằng AI vào tháng 9 và bị một số nhà khoa học cho là phóng đại.",
+            "Ý nghĩa với người đọc: AI đang chuyển từ công cụ viết, tóm tắt sang tham gia nghiên cứu khoa học thật sự. Tuy nhiên đây là tuyên bố của chính công ty, cần chờ bình duyệt độc lập trong nhiều tháng, nên nên xem là tín hiệu đáng chú ý chứ chưa phải kết luận."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Thường vụ Thành ủy Đà Nẵng bàn khu đô thị Tây Bắc sườn đồi, ranh giới quản lý trên biển",
+          "summary": "Chiều 28/10, Ban Thường vụ Thành ủy Đà Nẵng cho ý kiến chủ trương triển khai Khu đô thị Tây Bắc sườn đồi, phương án phân định ranh giới hành chính trên biển cho cấp thành phố và cấp xã, và hồ sơ xin áp dụng cơ chế của Luật Phát triển đô thị.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/ban-thuong-vu-thanh-uy-da-nang-cho-y-kien-nhieu-noi-dung-trong-tam-3356722.html",
+          "tag": "Thành ủy",
+          "detail": [
+            "Hội nghị do Bí thư Thành ủy Lê Ngọc Quang chủ trì, nghe báo cáo và cho ý kiến nhiều nội dung theo quy chế làm việc. Bài báo chỉ ghi nhận việc cho ý kiến, chưa nêu kết luận cụ thể cho từng nội dung.",
+            "Về đô thị, hội nghị bàn chủ trương triển khai dự án Khu đô thị Tây Bắc sườn đồi và hồ sơ đề nghị Bộ Chính trị cho phép Đà Nẵng áp dụng cơ chế, chính sách của Luật Phát triển đô thị. Ngoài ra còn có phương án phân định ranh giới quản lý hành chính trên biển cho thành phố và các xã ven biển – việc liên quan trực tiếp đến quản lý ngư trường và ngư dân sau khi sáp nhập với Quảng Nam.",
+            "Các nội dung khác gồm điều chỉnh danh mục vị trí việc làm năm 2026 của khối Đảng, Mặt trận và đoàn thể; biên chế viên chức từ nguồn thu của Báo và Phát thanh, Truyền hình Đà Nẵng; chủ trương kết nghĩa hữu nghị với tỉnh Bolikhamxay (Lào); đánh giá các nghị quyết chuyên đề nhiệm kỳ 2020–2025 của Đà Nẵng và Quảng Nam cũ; và tình hình theo dõi chỉ tiêu trên Trung tâm giám sát điều hành thông minh (IOC).",
+            "Với người dân và người làm nhân sự khu vực công ở Đà Nẵng, việc điều chỉnh danh mục vị trí việc làm sẽ ảnh hưởng đến tuyển dụng, bố trí cán bộ năm tới; còn dự án đô thị mới cần theo dõi thêm về quy hoạch và giải tỏa khi có quyết định chính thức."
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-10-28-1500",
       "date": "2026-10-28",
