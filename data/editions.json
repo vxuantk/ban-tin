@@ -1,6 +1,126 @@
 {
-  "updated": "2026-10-28T06:59:55+07:00",
+  "updated": "2026-10-28T09:23:16+07:00",
   "editions": [
+    {
+      "id": "2026-10-28-1100",
+      "date": "2026-10-28",
+      "slot": "11:00",
+      "createdAt": "2026-10-28T09:23:16+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "ai",
+          "title": "OpenAI chuẩn bị mua chip AI của Google, giảm phụ thuộc vào Nvidia",
+          "summary": "Theo The Information (Reuters dẫn lại tối 27/10), OpenAI có kế hoạch mua chip TPU do Google tự thiết kế. Đây là dấu hiệu Nvidia có thêm đối thủ thật sự trong thị trường chip AI, khi Amazon, Microsoft và Alphabet dự chi tới 600 tỷ USD cho hạ tầng AI trong năm nay.",
+          "source": "Reuters (qua Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-googles-ai-chips-the-information-reports-4977342",
+          "tag": "Chip AI",
+          "detail": [
+            "Bối cảnh: để chạy các mô hình AI như ChatGPT, các công ty cần lượng chip khổng lồ. Lâu nay OpenAI chủ yếu mua GPU (bộ xử lý đồ họa) của Nvidia – loại chip đắt và luôn khan hàng. Google thì tự làm chip riêng tên TPU (bộ xử lý tensor, chuyên cho tính toán AI) và từ năm nay bắt đầu bán trực tiếp cho một số khách hàng bên ngoài.",
+            "Nội dung chính: tờ The Information, dẫn một người nắm rõ sự việc, cho biết OpenAI dự định mua chip TPU của Google. Bản tin chưa nêu giá trị hợp đồng hay số lượng chip. OpenAI từ chối bình luận, Google chưa phản hồi vì ngoài giờ làm việc. Trước đó, từ tháng 6/2025 OpenAI đã thuê chip của Google qua dịch vụ đám mây, và tuần trước công ty cũng thông báo đưa các mô hình hàng đầu của mình lên nền tảng Google Cloud.",
+            "Con số đáng chú ý: Amazon, Microsoft và Alphabet (công ty mẹ Google) dự kiến chi tổng cộng tới 600 tỷ USD trong năm nay cho hạ tầng AI. Giám đốc tài chính Alphabet cho biết doanh thu bán TPU chỉ ghi nhận một phần nhỏ trong năm 2026, phần lớn sẽ rơi vào năm 2027. Các hợp đồng với khách hàng như Anthropic đã góp phần đẩy nhu cầu TPU tăng mạnh.",
+            "Các bên: tin này cho thấy chip của Google đang trở thành lựa chọn rẻ hơn thay cho Nvidia. Đồng thời OpenAI cũng tự phát triển chip riêng cùng Broadcom, dự kiến đưa vào sử dụng trước cuối năm 2026 – tức là công ty đang cố đa dạng nguồn cung để không bị lệ thuộc một nhà cung cấp. Tuy vậy, giới đầu tư ngày càng đặt câu hỏi khi nào khoản chi khổng lồ cho AI mới mang lại lợi nhuận tương xứng.",
+            "Ý nghĩa với Việt Nam: cạnh tranh giữa các nhà sản xuất chip có thể giúp giá thuê năng lực tính toán AI giảm dần, từ đó các dịch vụ AI mà doanh nghiệp Việt đang dùng (chatbot, trợ lý viết, phân tích dữ liệu…) rẻ và ổn định hơn. Alphabet công bố kết quả kinh doanh quý vào tối 28/10 giờ Mỹ (sáng 29/10 giờ Việt Nam), nhà đầu tư sẽ theo dõi xem chi tiêu AI có kéo tăng trưởng mảng đám mây hay không."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Vàng miếng SJC tăng 1 triệu, bán ra 143 triệu đồng/lượng",
+          "summary": "Sáng 28/10, Công ty SJC niêm yết vàng miếng 140–143 triệu đồng/lượng (mua–bán), tăng 1 triệu so với hôm qua; vàng nhẫn SJC 136–140 triệu. Vàng thế giới quanh 4.060 USD/ounce, nên giá trong nước vẫn cao hơn khoảng 15 triệu đồng/lượng.",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/gia-vang-hom-nay-28102026-vang-mieng-sjc-tang-manh-185261028084610884.htm",
+          "figure": {
+            "value": "143 tr",
+            "label": "SJC bán ra (đồng/lượng)",
+            "delta": "+1 triệu",
+            "dir": "up",
+            "spark": [
+              142,
+              143
+            ]
+          }
+        },
+        {
+          "cat": "fin",
+          "title": "Lợi nhuận quý 3: ACB lãi gần 5.900 tỷ, Sacombank giảm một nửa",
+          "summary": "ACB báo lãi trước thuế quý 3 đạt 5.879 tỷ đồng, tăng 9%; OCB tăng 7% lên 1.653 tỷ. Ngược lại Sacombank giảm 52% còn 1.757 tỷ, Hodeco giảm 90%. Mùa báo cáo quý 3 đang là yếu tố chi phối diễn biến cổ phiếu ngân hàng.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/cap-nhat-bao-cao-tai-chinh-quy-3-2026-sang-ngay-28-10-acb-lai-gan-5900-ty-dong-loi-nhuan-hodeco-giam-90-188261028000500098.chn",
+          "figure": {
+            "value": "5.879 tỷ",
+            "label": "Lãi trước thuế quý 3 của ACB",
+            "delta": "+9%",
+            "dir": "up"
+          }
+        },
+        {
+          "cat": "know",
+          "title": "Khoảng 4.000 người bị lấy thông tin để lập doanh nghiệp \"ma\"",
+          "summary": "Khoảng 4.000 cá nhân phản ánh bị dùng giấy tờ để đăng ký doanh nghiệp, hộ kinh doanh; có người chỉ biết khi nhận thông báo nợ thuế vài triệu đến vài chục triệu đồng, kèm lệnh tạm hoãn xuất cảnh. Ai nghi bị mạo danh cần liên hệ cơ quan đăng ký kinh doanh để phản ánh, và kiểm tra ngay khi nhận thông báo thuế bất thường.",
+          "source": "CafeF (theo VTC News)",
+          "url": "https://cafef.vn/khoang-4000-ca-nhan-bi-mao-danh-de-thanh-lap-doanh-nghiep-188261028065857835.chn",
+          "tag": "Bảo vệ danh tính"
+        },
+        {
+          "cat": "vn",
+          "title": "Siêu El Nino chạm mức kỷ lục, 59 kỷ lục nắng nóng trong 20 ngày",
+          "summary": "20 ngày đầu tháng 10 cả nước ghi nhận 59 kỷ lục nhiệt độ cao nhất ngày, gấp đôi tháng 9. El Nino dự báo đạt đỉnh cuối 2026, miền Bắc có mùa đông ấm hơn, còn miền Tây có thể bị xâm nhập mặn từ cuối tháng 12 – nông dân được khuyên gieo sạ trước tháng 12.",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/sieu-el-nino-cham-nguong-lich-su-ca-nuoc-nong-bat-thuong-185261027195448906.htm",
+          "figure": {
+            "value": "59",
+            "label": "Kỷ lục nhiệt độ 20 ngày đầu tháng 10",
+            "delta": "gấp 2,4 lần tháng 9",
+            "dir": "up",
+            "spark": [
+              17,
+              25,
+              59
+            ]
+          }
+        },
+        {
+          "cat": "biz",
+          "title": "Apple ra MacBook Pro 14 inch chip M6, giá từ 1.999 USD",
+          "summary": "Apple giới thiệu MacBook Pro 14 inch dùng chip M6, xử lý tác vụ AI nhanh hơn tới 25% so với M5, pin 24 giờ, cùng iMac 24 inch M6 giá từ 1.499 USD. Cả hai mở đặt trước từ 28/10 và bán từ 6/11 tại Mỹ.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675"
+        },
+        {
+          "cat": "vn",
+          "title": "Thủ tướng đối thoại với WEF tại Diễn đàn Kinh tế Mùa thu",
+          "summary": "Sáng 28/10, Thủ tướng Lê Minh Hưng dự phiên toàn thể Diễn đàn Kinh tế Mùa thu 2026 tại TP.HCM và đối thoại với Giám đốc điều hành WEF về vị thế Việt Nam trong tương lai toàn cầu. Diễn đàn (26–29/10) có hơn 1.800 đại biểu từ 60 quốc gia, vùng lãnh thổ.",
+          "source": "Znews",
+          "url": "https://znews.vn/thu-tuong-du-dien-dan-kinh-te-mua-thu-2026-tai-tphcm-post1692540.html",
+          "tag": "AEF 2026"
+        },
+        {
+          "cat": "fin",
+          "title": "Lãi suất niêm yết dưới 7%, lãi thực tế qua app vẫn 8–9%/năm",
+          "summary": "Sau yêu cầu giảm ít nhất 0,5% lãi tiền gửi từ 6 tháng của Ngân hàng Nhà nước (18/10), lãi niêm yết hầu hết dưới 7%/năm. Nhưng lãi ưu đãi qua app, kênh online vẫn phổ biến 8–9%, như VPBank 9,2% kỳ 12 tháng, NCB 9% – người gửi nên so sánh kỹ trước khi gửi.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/lai-suat-tiet-kiem-the-nao-sau-chi-dao-cua-ngan-hang-nha-nuoc-5136844.html",
+          "tag": "Gửi tiết kiệm"
+        },
+        {
+          "cat": "know",
+          "title": "Diễn tập an ninh mạng quốc gia: lỗi phổ biến là dùng chung mật khẩu",
+          "summary": "Cuộc diễn tập an ninh mạng quốc gia 2026 ngày 27/10 có 10 đội, giải 39/43 thử thách trên kịch bản tấn công một tổ chức tài chính giả định. Bộ Công an chỉ ra các lỗi hay gặp: dùng lại mật khẩu, cấp quyền quản trị quá rộng, lộ thông tin đăng nhập điện toán đám mây – điều doanh nghiệp nào cũng nên rà soát.",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/thu-lua-he-thong-truoc-cac-kich-ban-tan-cong-mang-the-he-moi-185261027222249299.htm",
+          "image": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/10/27/tnw-nth09898-17931151340612102880297-91-0-1431-2560-crop-17931154779062073624417.jpg"
+        },
+        {
+          "cat": "dn",
+          "title": "Đà Nẵng triển khai Tháng hành động vì bình đẳng giới 15/11–15/12",
+          "summary": "UBND TP Đà Nẵng ban hành Kế hoạch 547 với chủ đề bình đẳng giới trong lao động, sản xuất. Thành phố sẽ tổ chức tập huấn về việc làm, tiền lương, an sinh xã hội và hỗ trợ sinh kế, pháp lý cho phụ nữ khó khăn – nội dung đáng lưu ý với bộ phận nhân sự doanh nghiệp.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/trien-khai-thang-hanh-dong-vi-binh-dang-gioi-nam-2026-3356663.html",
+          "tag": "Bình đẳng giới"
+        }
+      ]
+    },
     {
       "id": "2026-10-28-0700",
       "date": "2026-10-28",
