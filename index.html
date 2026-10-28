@@ -142,14 +142,21 @@ li.rk .n{font-family:var(--f-display);font-weight:700;font-size:1.55rem;line-hei
   display:flex;flex-direction:column;align-items:center;gap:6px}
 .end .mark{font-family:var(--f-display);font-weight:700;letter-spacing:.3em;color:var(--ink)}
 .empty{border:1px dashed var(--rule);padding:28px;text-align:center;color:var(--muted);margin-top:26px}
-/* Phần "Đọc chi tiết" (tin AI tóm tắt dài, viết lại bằng tiếng Việt) */
-details.more{margin-top:10px;border-top:1px dotted var(--rule);padding-top:8px}
-details.more summary{cursor:pointer;font-size:.82rem;font-weight:600;color:var(--red);list-style:none;display:inline-flex;align-items:center;gap:6px}
-details.more summary::-webkit-details-marker{display:none}
-details.more summary::before{content:"+";font-family:var(--f-mono);display:inline-block;width:1em;text-align:center}
-details.more[open] summary::before{content:"−"}
-details.more summary:focus-visible{outline:2px solid var(--red);outline-offset:2px}
-details.more p{margin:8px 0 0;font-size:.95rem;line-height:1.65;color:var(--ink)}
+/* Canh đều hai lề cho tiêu đề và đoạn văn */
+h2,h3,p.sum,.more p{text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto}
+h2,h3{text-wrap:pretty}
+/* Phần "Đọc chi tiết": nút mở ở đầu, nút "Thu gọn" ở cuối phần mở rộng */
+.more{margin-top:10px;border-top:1px dotted var(--rule);padding-top:8px}
+.mbtn{font:inherit;font-size:.82rem;font-weight:600;color:var(--red);background:none;border:0;padding:4px 0;cursor:pointer;
+  display:inline-flex;align-items:center;gap:6px;letter-spacing:.02em}
+.mbtn i{font-style:normal;font-family:var(--f-mono);display:inline-block;width:1em;text-align:center}
+.mbtn:hover span{text-decoration:underline;text-underline-offset:3px}
+.mbtn:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+.mbody p{margin:10px 0 0;font-size:.95rem;line-height:1.7;color:var(--ink)}
+.mbody p:first-child{margin-top:4px}
+.mbtn.close{margin-top:12px;padding:6px 14px;border:1px solid var(--red);border-radius:2px}
+.mbtn.close:hover{background:var(--red);color:var(--paper)}
+.mbtn.close:hover span{text-decoration:none}
 </style>
 </head>
 <body>
@@ -198,7 +205,12 @@ function mini(it){const f=it.figure;if(!f||!f.value)return"";const d=dirOf(f);
   return `<div class="mini"><b>${esc(f.value)}</b>${f.delta?`<span class="delta ${d}">${arrow(d)}${esc(f.delta)}</span>`:""}${f.label?`<span class="small">${esc(f.label)}</span>`:""}</div>`}
 const catL=it=>`<span class="cat">${esc(CATS[it.cat]||CATS.know)}</span>`;
 const more=it=>{const d=Array.isArray(it.detail)?it.detail.filter(x=>typeof x==="string"&&x.trim()):(typeof it.detail==="string"&&it.detail.trim()?it.detail.split(/\n\s*\n/):[]);
-  return d.length?`<details class="more"><summary>Đọc chi tiết</summary>${d.map(x=>`<p>${esc(x)}</p>`).join("")}</details>`:""};
+  return d.length?`<div class="more"><button type="button" class="mbtn open" aria-expanded="false"><i>+</i><span>Đọc chi tiết</span></button><div class="mbody" hidden>${d.map(x=>`<p>${esc(x)}</p>`).join("")}<button type="button" class="mbtn close"><i>−</i><span>Thu gọn</span></button></div></div>`:""};
+/* Mở / thu gọn. Thu gọn xong, nếu đầu tin đã trôi khỏi màn hình thì cuộn về lại tin đó. */
+document.addEventListener("click",e=>{const b=e.target.closest(".mbtn");if(!b)return;const m=b.closest(".more"),body=m.querySelector(".mbody"),op=m.querySelector(".open");
+  if(b.classList.contains("open")){body.hidden=false;op.hidden=true;op.setAttribute("aria-expanded","true");return}
+  body.hidden=true;op.hidden=false;op.setAttribute("aria-expanded","false");
+  const art=m.closest("article,li")||m;if(art.getBoundingClientRect().top<0)art.scrollIntoView({behavior:"smooth",block:"start"});op.focus({preventScroll:true})});
 const by=it=>`<div class="by"><a class="src" href="${esc(safe(it.url))}" target="_blank" rel="noopener">Đọc bài gốc · <b>${esc(it.source||"Nguồn")}</b></a>${it.tag?`<span class="tag">${esc(it.tag)}</span>`:""}</div>`;
 
 const tLead=it=>`<article class="lead"><div class="lv">${visual(it,"lg")}<span class="flag">Tin chính</span></div>${catL(it)}<h2>${esc(it.title)}</h2><p class="sum">${esc(it.summary)}</p>${more(it)}${by(it)}</article>`;
