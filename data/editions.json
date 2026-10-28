@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T09:23:16+07:00",
+  "updated": "2026-10-28T09:25:24+07:00",
   "editions": [
     {
       "id": "2026-10-28-1100",
       "date": "2026-10-28",
       "slot": "11:00",
-      "createdAt": "2026-10-28T09:23:16+07:00",
+      "createdAt": "2026-10-28T09:25:24+07:00",
       "note": "",
       "items": [
         {
@@ -24,6 +24,14 @@
           ]
         },
         {
+          "cat": "dn",
+          "title": "Đà Nẵng mưa to đến hết 29/10, có nơi trên 250 mm",
+          "summary": "Do không khí lạnh kết hợp nhiễu động gió đông, từ Hà Tĩnh đến Đà Nẵng mưa phổ biến 60–130 mm cả đợt, cục bộ trên 250 mm; riêng đêm 28 đến 29/10 thêm 30–60 mm. Có nguy cơ mưa trên 100 mm trong 3 giờ gây ngập đô thị, khu công nghiệp và sạt lở; mưa giảm dần từ đêm 29/10.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/da-nang-co-mua-vua-mua-to-va-dong-3356667.html",
+          "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/27/screenshot-2026-10-27-171820.png"
+        },
+        {
           "cat": "fin",
           "title": "Vàng miếng SJC tăng 1 triệu, bán ra 143 triệu đồng/lượng",
           "summary": "Sáng 28/10, Công ty SJC niêm yết vàng miếng 140–143 triệu đồng/lượng (mua–bán), tăng 1 triệu so với hôm qua; vàng nhẫn SJC 136–140 triệu. Vàng thế giới quanh 4.060 USD/ounce, nên giá trong nước vẫn cao hơn khoảng 15 triệu đồng/lượng.",
@@ -39,6 +47,38 @@
               143
             ]
           }
+        },
+        {
+          "cat": "ai",
+          "title": "Oracle cho thuê chip AI của Google, đưa ChatGPT vào phần mềm doanh nghiệp",
+          "summary": "Oracle sẽ cung cấp chip TPU của Google trên nền tảng đám mây từ năm sau – lần đầu Google để một hãng đám mây lớn khác bán chip của mình. Hãng cũng tích hợp ChatGPT vào các ứng dụng quản trị và tung gói AI miễn phí ban đầu cho doanh nghiệp nhỏ, kèm 12.000 USD tín dụng đám mây mỗi năm.",
+          "source": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
+          "tag": "AI doanh nghiệp",
+          "detail": [
+            "Bối cảnh: Oracle là hãng phần mềm quản trị doanh nghiệp và dịch vụ đám mây lớn của Mỹ. Cùng lúc với tin OpenAI muốn mua chip của Google, Oracle công bố sẽ đưa chip TPU (chip chuyên cho AI do Google tự thiết kế) vào trung tâm dữ liệu của mình. Đây là lần đầu Google cung cấp loại chip này cho một nhà cung cấp đám mây cỡ lớn khác, cho thấy cuộc đua giành nguồn chip AI ngày càng mở rộng ra ngoài Nvidia.",
+            "Về phần cứng: Oracle bắt đầu lắp chip Google từ năm sau rồi tăng dần công suất. Theo CNBC, hãng còn bổ sung chip cỡ lớn của Cerebras và chip suy luận (chip chạy mô hình AI đã huấn luyện để trả lời người dùng) mang tên Jalapeño của OpenAI. OpenAI tự nhận chip này chạy một số mô hình mã nguồn mở nhanh gấp 1,5 lần đối thủ – đây là con số do chính OpenAI đưa ra.",
+            "Về phần mềm, Oracle hợp tác với OpenAI ra mắt AI Workspace: kết nối ChatGPT với các ứng dụng quản trị như quản lý khách hàng, đơn hàng, để trợ lý AI tự làm việc thay nhân viên. Ví dụ hãng đưa ra: khi một đơn hàng bị nhà cung cấp giao trễ, AI có thể tự tìm sản phẩm thay thế, kiểm tra tồn kho rồi cập nhật đơn – một chuỗi việc vốn cần người làm qua nhiều phần mềm.",
+            "Hai công cụ khác là App Composer, cho phép người không biết lập trình tự tạo phần mềm nội bộ bằng trợ lý AI (Oracle lo việc triển khai, bộ phận IT kiểm soát quyền truy cập và chi phí), và AI Security Mesh dùng mô hình bảo mật của OpenAI để dò lỗ hổng, xếp mức độ nguy hiểm và gợi ý cách sửa.",
+            "Với doanh nghiệp nhỏ, Oracle tung gói AI SMB Bundle 'miễn phí khi bắt đầu', gồm AI Workspace, App Composer, phần mềm kế toán, ChatGPT Business và Codex (công cụ lập trình của OpenAI), kèm 12.000 USD tín dụng đám mây mỗi năm.",
+            "Ý nghĩa với Việt Nam: xu hướng là AI không còn chỉ để chat mà được gắn thẳng vào phần mềm quản trị (bán hàng, kho, nhân sự) để tự xử lý quy trình. Doanh nghiệp Việt đang dùng phần mềm quản trị nước ngoài nên theo dõi các gói AI đi kèm, đồng thời xây quy định rõ về việc AI được phép truy cập dữ liệu nào."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Trợ lý \"dots\" của OpenAI: tự chủ động làm việc, nhưng còn hay hỏi quyền",
+          "summary": "Dots là trợ lý AI chạy nền của OpenAI, tự nhắc trùng lịch, hạn chót và đề xuất việc cần làm sau khi kết nối lịch, email, máy tính. Hiện chỉ dành cho gói ChatGPT Pro trở lên (từ 100 USD/tháng); TechCrunch nhận xét quyền riêng tư chưa được kiểm soát đủ chi tiết.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "tag": "Trợ lý AI",
+          "detail": [
+            "Bối cảnh: các hãng AI đang chuyển từ chatbot 'hỏi gì đáp nấy' sang trợ lý tự hoạt động ở chế độ nền và chủ động làm việc mà không cần người dùng ra lệnh. Dots là sản phẩm OpenAI ra mắt cuối tháng 9, được phát triển từ các công cụ lập trình tự động (agent – AI tự thực hiện chuỗi thao tác) của hãng. Tại hội nghị TechCrunch Disrupt 2026, trưởng nhóm sản phẩm doanh nghiệp của OpenAI chia sẻ cách sản phẩm được làm ra.",
+            "Cách hoạt động: dots là một 'trợ lý duy nhất' luôn đi cùng người dùng thay vì nhiều cuộc trò chuyện rời rạc. Khi được kết nối với lịch, email, máy tính và các công cụ khác, nó tự phát hiện trùng lịch, nhắc hạn chót, và định kỳ tự xem xét mình biết gì về người dùng để đề xuất việc có thể giúp. Ví dụ OpenAI kể: trợ lý của một kỹ sư đã tự phân tích sự cố hệ thống và đề xuất cách khắc phục trước cả khi kỹ sư phát hiện ra.",
+            "Giá và cách dùng: dots có trong ứng dụng ChatGPT trên máy tính và điện thoại, nhưng chỉ dành cho gói Pro trở lên, giá từ 100 USD/tháng (khoảng 2,6 triệu đồng).",
+            "Điểm yếu: phóng viên TechCrunch dùng thử thấy thời điểm nhắc việc chưa phải lúc nào cũng hữu ích – chính đại diện OpenAI kể trợ lý chỉ báo trùng lịch 3 phút trước giờ họp. Quyền riêng tư giống ChatGPT (có thể tắt việc dùng dữ liệu để huấn luyện, chọn tài nguyên cho phép truy cập) nhưng bị đánh giá là chưa đủ chi tiết, chẳng hạn không cho cấp quyền 'chỉ đọc' với ổ lưu trữ đám mây. Lúc đầu trợ lý hỏi xin quyền quá nhiều nên bị phàn nàn; OpenAI hứa sẽ làm các nút kiểm soát 'cực kỳ chi tiết'.",
+            "Câu hỏi còn bỏ ngỏ: nhiều doanh nghiệp, website và hệ thống thanh toán chưa sẵn sàng làm việc với trợ lý AI. OpenAI cho biết đang đàm phán với các công ty xử lý thanh toán – nghĩa là trong tương lai trợ lý có thể được tiêu tiền thay người dùng, một bước lớn trong khi nhiều người còn ngại cho AI đọc email.",
+            "Ý nghĩa với người dùng Việt Nam: trợ lý kiểu này có thể giúp nhân viên văn phòng (như nhân sự) quản lý lịch phỏng vấn, hạn chót và email. Nhưng trước khi cho AI truy cập email công ty và dữ liệu nhân viên, cần xem kỹ quyền truy cập và chính sách bảo mật dữ liệu của doanh nghiệp."
+          ]
         },
         {
           "cat": "fin",
@@ -80,28 +120,12 @@
           }
         },
         {
-          "cat": "biz",
-          "title": "Apple ra MacBook Pro 14 inch chip M6, giá từ 1.999 USD",
-          "summary": "Apple giới thiệu MacBook Pro 14 inch dùng chip M6, xử lý tác vụ AI nhanh hơn tới 25% so với M5, pin 24 giờ, cùng iMac 24 inch M6 giá từ 1.499 USD. Cả hai mở đặt trước từ 28/10 và bán từ 6/11 tại Mỹ.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675"
-        },
-        {
-          "cat": "vn",
-          "title": "Thủ tướng đối thoại với WEF tại Diễn đàn Kinh tế Mùa thu",
-          "summary": "Sáng 28/10, Thủ tướng Lê Minh Hưng dự phiên toàn thể Diễn đàn Kinh tế Mùa thu 2026 tại TP.HCM và đối thoại với Giám đốc điều hành WEF về vị thế Việt Nam trong tương lai toàn cầu. Diễn đàn (26–29/10) có hơn 1.800 đại biểu từ 60 quốc gia, vùng lãnh thổ.",
-          "source": "Znews",
-          "url": "https://znews.vn/thu-tuong-du-dien-dan-kinh-te-mua-thu-2026-tai-tphcm-post1692540.html",
-          "tag": "AEF 2026"
-        },
-        {
-          "cat": "fin",
-          "title": "Lãi suất niêm yết dưới 7%, lãi thực tế qua app vẫn 8–9%/năm",
-          "summary": "Sau yêu cầu giảm ít nhất 0,5% lãi tiền gửi từ 6 tháng của Ngân hàng Nhà nước (18/10), lãi niêm yết hầu hết dưới 7%/năm. Nhưng lãi ưu đãi qua app, kênh online vẫn phổ biến 8–9%, như VPBank 9,2% kỳ 12 tháng, NCB 9% – người gửi nên so sánh kỹ trước khi gửi.",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/lai-suat-tiet-kiem-the-nao-sau-chi-dao-cua-ngan-hang-nha-nuoc-5136844.html",
-          "tag": "Gửi tiết kiệm"
+          "cat": "dn",
+          "title": "Đà Nẵng triển khai Tháng hành động vì bình đẳng giới 15/11–15/12",
+          "summary": "UBND TP Đà Nẵng ban hành Kế hoạch 547 với chủ đề bình đẳng giới trong lao động, sản xuất. Thành phố sẽ tổ chức tập huấn về việc làm, tiền lương, an sinh xã hội và hỗ trợ sinh kế, pháp lý cho phụ nữ khó khăn – nội dung đáng lưu ý với bộ phận nhân sự doanh nghiệp.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/trien-khai-thang-hanh-dong-vi-binh-dang-gioi-nam-2026-3356663.html",
+          "tag": "Bình đẳng giới"
         },
         {
           "cat": "know",
@@ -113,11 +137,24 @@
         },
         {
           "cat": "dn",
-          "title": "Đà Nẵng triển khai Tháng hành động vì bình đẳng giới 15/11–15/12",
-          "summary": "UBND TP Đà Nẵng ban hành Kế hoạch 547 với chủ đề bình đẳng giới trong lao động, sản xuất. Thành phố sẽ tổ chức tập huấn về việc làm, tiền lương, an sinh xã hội và hỗ trợ sinh kế, pháp lý cho phụ nữ khó khăn – nội dung đáng lưu ý với bộ phận nhân sự doanh nghiệp.",
+          "title": "Trồng trọt Đà Nẵng chuyển từ tăng sản lượng sang tăng giá trị",
+          "summary": "Sở Nông nghiệp và Môi trường định hướng liên kết chuỗi, quản trị bằng dữ liệu, ứng dụng cảm biến, IoT và gắn nông nghiệp với du lịch. Thành phố đã có 98 dự án liên kết sản xuất – tiêu thụ; HTX rau Túy Loan cung ứng 15 tấn rau quả mỗi ngày và đón khoảng 8.000 lượt khách trải nghiệm mỗi năm.",
           "source": "Báo Đà Nẵng",
-          "url": "https://baodanang.vn/trien-khai-thang-hanh-dong-vi-binh-dang-gioi-nam-2026-3356663.html",
-          "tag": "Bình đẳng giới"
+          "url": "https://baodanang.vn/du-dia-moi-cho-nganh-trong-trot-3356648.html",
+          "figure": {
+            "value": "98",
+            "label": "Dự án liên kết sản xuất – tiêu thụ nông sản",
+            "delta": "15 tấn rau/ngày ở Túy Loan",
+            "dir": "up"
+          }
+        },
+        {
+          "cat": "dn",
+          "title": "Đà Nẵng siết xử lý đánh bắt thủy sản bằng kích điện, chất nổ",
+          "summary": "Thực hiện Chỉ thị 15/CT-UBND, biên phòng, công an và chính quyền cơ sở tăng tuần tra, tuyên truyền chống khai thác thủy sản bằng xung điện, chất nổ, ngư cụ cấm. Một trường hợp dùng kích điện trên sông Tam Kỳ vừa bị phạt 7,5 triệu đồng và tịch thu tang vật.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/tang-cuong-bao-ve-nguon-loi-thuy-san-3356654.html",
+          "tag": "Phạt 7,5 triệu"
         }
       ]
     },
