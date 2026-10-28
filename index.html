@@ -232,7 +232,7 @@ function render(){
   document.querySelectorAll(".pic img").forEach(img=>img.addEventListener("error",()=>{const box=img.parentElement;box.outerHTML=fig(shown[+box.dataset.k],box.dataset.s)}));
   $("end").hidden=false;
 }
-fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const e=(j.editions||[]).filter(x=>Array.isArray(x.items))[0];items=e?e.items:[];if(e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||"")){const[y,m,d]=e.date.split("-");$("mastTitle").textContent=`Bản Tin ${d}.${m}.${y}`}render()})
+fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const all=(j.editions||[]).filter(x=>Array.isArray(x.items));const e=all[0];/* hiện mọi tin trong ngày của bản mới nhất: bản mới xếp trước, bỏ tin trùng link */const day=e?all.filter(x=>x.date===e.date).sort((a,b)=>String(b.slot).localeCompare(String(a.slot))):[];const seen=new Set();items=[];day.forEach(x=>x.items.forEach(it=>{const k=it.url||it.title;if(seen.has(k))return;seen.add(k);items.push(it)}));if(e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||"")){const[y,m,d]=e.date.split("-");$("mastTitle").textContent=`Bản Tin ${d}.${m}.${y}`}render()})
   .catch(()=>{$("empty").hidden=false;$("empty").textContent="Không tải được bản tin. Thử mở lại trang."});
 </script>
 </body>
