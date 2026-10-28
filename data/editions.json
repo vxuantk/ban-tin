@@ -1,6 +1,130 @@
 {
-  "updated": "2026-10-28T11:00:15+07:00",
+  "updated": "2026-10-28T15:23:17+07:00",
   "editions": [
+    {
+      "id": "2026-10-28-1500",
+      "date": "2026-10-28",
+      "slot": "15:00",
+      "createdAt": "2026-10-28T15:23:17+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "know",
+          "title": "Chính phủ tính giảm giá điện và đưa thuế tiêu thụ đặc biệt xăng về 0% từ 1/11",
+          "summary": "Phó Thủ tướng Nguyễn Văn Thắng giao EVN xây phương án giảm giá điện bán lẻ bình quân và Bộ Tài chính trình phương án đưa thuế tiêu thụ đặc biệt với xăng về 0%, cùng áp dụng từ 1/11/2026 đến hết 31/3/2027. Nếu được duyệt, hóa đơn điện và giá xăng của mọi gia đình, doanh nghiệp sẽ nhẹ đi trong 5 tháng cuối năm và đầu năm sau.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-xem-xet-giam-gia-dien-tu-1-11-5137612.html",
+          "detail": [
+            "Chỉ đạo được đưa ra tại cuộc họp chiều tối 27/10 về các kịch bản điều hành giá xăng dầu và giá điện, với sự tham gia của Bộ Tài chính, Bộ Công Thương, Bộ Tư pháp, Văn phòng Chính phủ và EVN. Đây mới là phương án đang được xem xét gấp, chưa phải quyết định chính thức; Bộ Tài chính phải báo cáo cấp có thẩm quyền trước ngày 1/11.",
+            "Với xăng, thuế tiêu thụ đặc biệt (loại thuế đánh thêm lên một số mặt hàng như xăng, rượu bia, thuốc lá) hiện là 10% với xăng thường, 8% với E5 và 7% với E10. Thuế bảo vệ môi trường với xăng đang ở mức 0 đồng/lít. Trước đó, từ cuối tháng 3 đến tháng 6/2026, thuế tiêu thụ đặc biệt với xăng cũng từng được giảm để bình ổn thị trường.",
+            "Với điện, giá bán lẻ bình quân hiện là hơn 2.204 đồng/kWh (chưa VAT), áp dụng từ 10/5/2025. Biểu giá sinh hoạt bậc thang dao động từ 1.984 đồng/kWh cho 50 kWh đầu tiên đến 3.460 đồng/kWh cho phần dùng trên 400 kWh/tháng. EVN được yêu cầu rà soát, tiết kiệm tối đa chi phí để có dư địa giảm giá; Bộ Công Thương phải bảo đảm việc giảm bắt đầu đúng 1/11.",
+            "Theo số liệu bài báo dẫn, tổng chi phí sản xuất kinh doanh điện năm 2025 của EVN khoảng 2.092 đồng/kWh, thấp hơn giá bán hiện hành khoảng 5,3%. Tuy nhiên EVN vẫn còn khoảng 17.506 tỷ đồng chi phí (chủ yếu chênh lệch tỷ giá) chưa được tính vào giá, nên mức giảm cụ thể bao nhiêu hiện chưa được công bố.",
+            "Với người lao động và gia đình, đây là tin cần theo dõi trong vài ngày tới: nếu được thông qua, giá xăng bán lẻ sẽ giảm tương ứng phần thuế được bỏ và tiền điện từ kỳ hóa đơn tháng 11 có thể thấp hơn. Doanh nghiệp, nhất là sản xuất và vận tải, cũng được giảm chi phí đầu vào."
+          ],
+          "tag": "Từ 1/11"
+        },
+        {
+          "cat": "fin",
+          "title": "VN-Index giằng co quanh 1.761 điểm, khối ngoại bán ròng FPT",
+          "summary": "Đến 10h30 sáng 28/10, VN-Index ở mức 1.761,04 điểm, chỉ giảm 0,83 điểm sau khi có lúc xuống 1.754,72 điểm, nhờ VCB và VIC kéo lên. Khối ngoại bán ròng khoảng 135 tỷ đồng, mạnh nhất ở FPT, trong khi thị trường chờ quyết định lãi suất của Fed đêm nay.",
+          "source": "Vietstock",
+          "url": "https://vn.investing.com/news/stock-market-news/nhip-dap-thi-truong-2810-vnindex-thu-hep-da-giam-nho-vic-va-vcb-ap-luc-ban-rong-de-nang-fpt-2746131",
+          "image": "https://content-media.investing.com/vn/content/picc1e8f6d08cad3202161c903f91b86f59.jpg",
+          "detail": [
+            "Thị trường mở cửa phiên 28/10 trong trạng thái thận trọng, VN-Index lùi về 1.757,09 điểm lúc 9h30 rồi hồi dần. Biên độ trong phiên sáng từ 1.754,72 đến 1.765,40 điểm, cho thấy bên mua và bên bán đang giằng co sau ba phiên giảm liên tiếp trước đó.",
+            "Thanh khoản khớp lệnh tăng từ khoảng 683 tỷ đồng lúc 9h30 lên hơn 2.785 tỷ đồng lúc 10h30, cộng thêm khoảng 505 tỷ đồng giao dịch thỏa thuận. Trên sàn HOSE, số mã giảm (161) vẫn nhiều hơn số mã tăng (105), tức đa số cổ phiếu vẫn đỏ dù chỉ số gần như đứng giá.",
+            "Các cổ phiếu đỡ chỉ số nhiều nhất là VCB (+0,87 điểm), VIC (+0,81 điểm), STB và MWG. Chiều ngược lại, VHM, VPB, ACB, VJC kéo chỉ số xuống; FPT giảm 2,53% và là mã tác động tiêu cực lớn nhất trong rổ VN30.",
+            "Khối ngoại bán ròng khoảng 135 tỷ đồng, tập trung ở FPT (gần 70 tỷ), VPL, ACB; họ mua ròng TCB (khoảng 48 tỷ), MSN, VCB, TPB. Tâm lý chờ đợi đến từ cuộc họp Fed (công bố khoảng 1h sáng 29/10 giờ Việt Nam) và số liệu lạm phát PCE của Mỹ.",
+            "Với nhà đầu tư cá nhân, bức tranh cho thấy dòng tiền chưa trở lại mạnh và thị trường đang phân hóa. Các công ty chứng khoán chủ yếu khuyến nghị giữ tỷ trọng vừa phải, tránh mua đuổi trong lúc chỉ số còn ở dưới vùng kháng cự 1.770 điểm."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "TP.HCM công bố 10 thành viên đầu tiên của Trung tâm tài chính quốc tế",
+          "summary": "Sáng 28/10, Trung tâm tài chính quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) công bố 10 thành viên đầu tiên, đều là công ty holding, dự kiến huy động và đầu tư khoảng 2,7 tỷ USD đến năm 2027. Tháng 11 trung tâm sẽ ban hành quy chế tiếp nhận quỹ đầu tư.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/10-thanh-vien-trung-tam-tai-chinh-quoc-te-tp-hcm-se-huy-dong-2-7-ty-usd-5137827.html",
+          "detail": [
+            "Lễ công bố diễn ra trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026 tại TP.HCM, có Thủ tướng Lê Minh Hưng dự. Trung tâm tài chính quốc tế là khu vực có cơ chế riêng nhằm thu hút các quỹ đầu tư, công ty quản lý tài sản, ngân hàng quốc tế về hoạt động, tương tự mô hình Singapore hay Dubai.",
+            "10 thành viên đầu tiên gồm Saigon Marina IFC, AG&P, EQuest Capital và 7 công ty holding khác (công ty chuyên nắm giữ, quản lý vốn góp ở doanh nghiệp khác). Tổng vốn điều lệ đăng ký khoảng 33,63 triệu USD, nhưng số vốn dự kiến huy động và rót vào dự án đến 2027 lên tới khoảng 2,7 tỷ USD, vào giáo dục, hạ tầng, hàng hải, logistics, năng lượng, công nghệ tài chính và thanh toán.",
+            "Lộ trình: tháng 11/2026 hoàn thiện quy chế tiếp nhận quỹ đầu tư; giai đoạn đầu tập trung vào quỹ và quản lý tài sản với ba cấp độ giấy phép. Ngân hàng, công ty chứng khoán sẽ được cấp phép sau khi có đủ quy định. Theo VIFC-HCMC, đây là \"bước chuyển\" từ xây hệ sinh thái sang kết nối vốn với dự án cụ thể.",
+            "Tháng trước, TP.HCM đã tăng 17 bậc lên hạng 67 trong bảng xếp hạng các trung tâm tài chính toàn cầu. Nếu vận hành tốt, trung tâm có thể kéo thêm vốn ngoại, tạo việc làm chất lượng cao trong ngành tài chính và dịch vụ, kể cả với lao động từ miền Trung."
+          ],
+          "tag": "VIFC-HCMC"
+        },
+        {
+          "cat": "ai",
+          "title": "Meta huy động 37,5 tỷ USD cho hạ tầng AI, Nvidia rót 3 tỷ USD",
+          "summary": "Meta nâng đợt bán cổ phiếu phổ thông lên 25 tỷ USD (giá 625 USD/cổ phiếu) cùng 12,5 tỷ USD cổ phiếu ưu đãi chuyển đổi, tổng 37,5 tỷ USD để xây trung tâm dữ liệu AI. Nvidia cam kết mua 3 tỷ USD trong đợt này, cho thấy cuộc đua AI giờ cần cả tiền vốn cổ đông chứ không chỉ vay nợ.",
+          "source": "Investing.com / Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-3-bln-meta-064611851.html",
+          "detail": [
+            "Các ông lớn công nghệ đang chi hàng trăm tỷ USD mỗi năm cho chip và trung tâm dữ liệu phục vụ AI. Trước đây họ chủ yếu dùng tiền mặt và phát hành trái phiếu, nhưng khi chi phí vượt quá dòng tiền tự có, Meta chọn cách bán thêm cổ phiếu ở quy mô lớn nhất từ trước tới nay của hãng.",
+            "Cụ thể, Meta nâng đợt bán cổ phiếu phổ thông từ 22,5 tỷ lên 25 tỷ USD với giá 625 USD/cổ phiếu, kèm 12,5 tỷ USD cổ phiếu ưu đãi bắt buộc chuyển đổi (loại cổ phiếu trả cổ tức cố định, sau một thời gian tự chuyển thành cổ phiếu thường) giá 50 USD/đơn vị. Meta còn dự kiến một đợt chào bán cổ phiếu không có quyền biểu quyết khác vào năm 2027.",
+            "Nvidia cam kết đầu tư 3 tỷ USD vào đợt chào bán, đi kèm việc mở rộng hợp tác: hai bên cùng tối ưu hiệu năng huấn luyện và vận hành các mô hình AI Muse của Meta, còn Meta sẽ dùng thêm chip Vera Rubin, CPU Vera và thiết bị mạng của Nvidia. CEO Nvidia Jensen Huang nói hai bên sẽ \"tối ưu hạ tầng tính toán từ đầu đến cuối\".",
+            "Giới phân tích đánh giá trái chiều. Wells Fargo cho rằng đợt huy động lấp được khoản thiếu hụt vốn 60–80 tỷ USD của Meta cho năm tài chính 2027 và giảm phụ thuộc vào thị trường tín dụng biến động. Mizuho cho rằng nó gỡ bớt áp lực nguồn cung cổ phiếu mà nhà đầu tư lo ngại. Tuy vậy, việc phát hành thêm cũng làm pha loãng phần sở hữu của cổ đông hiện hữu; cổ phiếu Meta giảm gần 1,9% khi tin ra.",
+            "Ứng dụng trợ lý Muse của Meta thuộc nhóm được tải nhiều nhất ngay tuần đầu ra mắt, là lý do hãng mạnh tay đầu tư. Với người dùng phổ thông, việc Meta (chủ Facebook, Instagram, WhatsApp) dồn tiền cho AI đồng nghĩa các tính năng trợ lý AI sẽ xuất hiện dày hơn trong ứng dụng hằng ngày.",
+            "Ở góc độ rộng hơn, dòng tiền khổng lồ đổ vào chip AI tiếp tục đẩy giá linh kiện như bộ nhớ lên cao, ảnh hưởng tới giá máy tính, điện thoại bán lẻ trong năm tới."
+          ],
+          "tag": "Vốn cho AI"
+        },
+        {
+          "cat": "ai",
+          "title": "HP, Asus, Acer dời một phần sản xuất máy tính từ Việt Nam về Trung Quốc",
+          "summary": "Theo Nikkei Asia, HP, Asus và Acer đang chuyển một phần dây chuyền lắp ráp PC từ Thái Lan và Việt Nam về Trung Quốc để giảm chi phí, khi giá bộ nhớ tăng vọt vì bị AI hút hết nguồn cung; Dell cũng đang cân nhắc. Đây là tín hiệu đáng chú ý với ngành điện tử và việc làm ở các khu công nghiệp Việt Nam.",
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes",
+          "detail": [
+            "Vài năm qua, nhiều hãng máy tính chuyển bớt sản xuất từ Trung Quốc sang Việt Nam, Thái Lan để tránh rủi ro thuế quan và căng thẳng Mỹ – Trung. Nay theo các nguồn tin của Nikkei Asia, HP, Asus và Acer lại đưa một phần sản lượng PC quay về Trung Quốc, giao cho các nhà thầu lắp ráp Trung Quốc ít tên tuổi hơn; Dell cũng đang tính bước tương tự.",
+            "Nguyên nhân là chi phí linh kiện tăng mạnh. Các trung tâm dữ liệu AI đang hút phần lớn sản lượng chip nhớ toàn cầu, khiến bộ nhớ DRAM cho máy tính thông thường khan hiếm và đắt đỏ. Trung Quốc có chuỗi cung ứng linh kiện dày đặc và các hãng chip nhớ nội địa như CXMT, nên lắp ráp tại đó được các nguồn tin xem là lựa chọn tối ưu về chi phí. Báo cáo chưa nêu con số sản lượng cụ thể và các hãng chưa bình luận.",
+            "Với Việt Nam, đây chưa phải làn sóng rút đi hàng loạt, nhưng là lời nhắc rằng lợi thế lắp ráp có thể đảo chiều khi giá linh kiện thay đổi. Người lao động trong ngành điện tử và doanh nghiệp phụ trợ nên theo dõi; còn người tiêu dùng nên chuẩn bị tâm lý giá laptop, PC còn ở mức cao trong thời gian tới."
+          ],
+          "tag": "Chuỗi cung ứng"
+        },
+        {
+          "cat": "fin",
+          "title": "VIB lãi trước thuế gần 7.600 tỷ đồng sau 9 tháng, tăng 8%",
+          "summary": "Ngân hàng VIB báo lãi trước thuế 9 tháng gần 7.600 tỷ đồng, tăng 8% so với cùng kỳ; tổng thu nhập hoạt động hơn 17.300 tỷ, tăng 18%. Tỷ lệ nợ xấu ở mức 2,29%, dư nợ tín dụng hơn 411.000 tỷ đồng.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/vib-lai-truoc-thue-gan-7-600-ty-dong-trong-9-thang-5137882.html",
+          "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/28/1-vib-cong-bo-ket-qua-kinh-doa-3318-1740-1793171301.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=SFgBA6OALCak1rAKp8-JVQ",
+          "detail": [
+            "Mùa báo cáo tài chính quý 3 đang diễn ra, các ngân hàng lần lượt công bố kết quả. VIB cho biết 9 tháng đầu năm thu nhập lãi thuần đạt 13.180 tỷ đồng, thu nhập ngoài lãi chiếm 23% tổng thu nhập; chi phí hoạt động hơn 5.300 tỷ, giảm 2% nhờ tiết giảm chi phí.",
+            "Ngân hàng trích lập hơn 4.300 tỷ đồng dự phòng rủi ro tín dụng (tiền để sẵn phòng khi khoản vay không thu hồi được). Tỷ lệ nợ xấu 2,29%; tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE) đạt 16,2%.",
+            "Đến 30/9, tổng tài sản gần 600.000 tỷ đồng, dư nợ hơn 411.000 tỷ (tăng 8%), trong đó khách hàng cá nhân và doanh nghiệp nhỏ chiếm 66%. Tiền gửi khách hàng hơn 322.000 tỷ, tăng 9%. Các chỉ số an toàn như hệ số an toàn vốn CAR trên 11% (tối thiểu 8%) và tỷ lệ cho vay trên huy động 77% (giới hạn 85%) đều trong ngưỡng cho phép.",
+            "Với người gửi tiền và vay vốn, các con số cho thấy ngân hàng vẫn tăng trưởng ổn định nhưng nợ xấu trên 2% là điểm cần lưu ý. Với nhà đầu tư cổ phiếu, kết quả này là một mảnh ghép trong bức tranh lợi nhuận ngân hàng quý 3 đang phân hóa."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Chiều nay Quốc hội thảo luận Luật Nhà ở sửa đổi: ưu tiên nhà cho thuê",
+          "summary": "Dự thảo Luật Nhà ở (sửa đổi) gồm 130 điều, ít hơn 68 điều so với luật 2023, lần đầu có chương riêng về nhà ở cho thuê với giá thuê không vượt khung do tỉnh quy định. Nhà ở xã hội sau 5 năm chỉ được bán lại cho người đủ điều kiện mua nhà ở xã hội.",
+          "source": "Báo Tin tức – TTXVN",
+          "url": "https://baotintuc.vn/ky-hop-thu-2-quoc-hoi-khoa-xvi-phat-trien-nha-o-cho-thue-post1397895.html",
+          "detail": [
+            "Chiều 28/10, tại Kỳ họp thứ 2 Quốc hội khóa XVI, các đại biểu thảo luận tại hội trường về dự án Luật Nhà ở (sửa đổi). Mục tiêu sửa luật là khắc phục bất cập, đơn giản thủ tục, giảm chi phí cho doanh nghiệp và thực hiện chủ trương \"ưu tiên phát triển nhà ở cho thuê\".",
+            "Dự thảo chia nhà ở thành 4 nhóm: nhà thương mại, nhà cho thuê, nhà công vụ và nhà ở chính sách. Chương mới về nhà ở cho thuê quy định ai được thuê, phát triển bằng vốn nhà nước và tư nhân, kèm ưu đãi cho chủ đầu tư; giá thuê do hai bên thỏa thuận nhưng không vượt khung UBND tỉnh, thành ban hành.",
+            "Chủ đầu tư dự án nhà thương mại phải thực hiện nghĩa vụ nhà ở xã hội, nhà cho thuê theo hình thức do tỉnh quyết định: dành quỹ đất trong dự án, bố trí ở vị trí khác hoặc nộp tiền tương đương. Địa phương được quyết định khu vực cho phép phân lô, bán nền; 20/21 thủ tục hành chính được giao về chính quyền địa phương.",
+            "Với người lao động có thu nhập trung bình, nhất là ở các đô thị như Đà Nẵng, việc có thêm nguồn nhà cho thuê giá được kiểm soát là thay đổi đáng chú ý. Người mua nhà ở xã hội cần lưu ý quy định mới: sau 5 năm vẫn chỉ được bán lại cho đối tượng thuộc diện được mua nhà ở xã hội."
+          ],
+          "tag": "Quốc hội"
+        },
+        {
+          "cat": "dn",
+          "title": "Hội An phải đẩy nhanh giải ngân vốn công, chấn chỉnh chèo kéo khách du lịch",
+          "summary": "Làm việc với các phường Hội An, Hội An Đông, Hội An Tây và xã Tân Hiệp, Phó Chủ tịch UBND TP Đà Nẵng Nguyễn Thị Anh Thi yêu cầu điều chuyển vốn từ dự án chậm, vì tỷ lệ giải ngân chỉ 37–66%, chưa đạt mục tiêu 88% cuối tháng 10. Thành phố cũng yêu cầu xử lý nghiêm chèo kéo, bán hàng rong và giá không niêm yết ở phố cổ.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/day-nhanh-giai-ngan-von-dau-tu-cong-nang-cao-chat-luong-du-lich-hoi-an-3356697.html",
+          "detail": [
+            "Đến nay phường Hội An giải ngân hơn 81,5 tỷ đồng, đạt 66,1% kế hoạch, xấp xỉ bình quân toàn thành phố; Hội An Đông đạt 63,1%, Hội An Tây 51,57%, xã Tân Hiệp gần 37%. Sở Tài chính đánh giá các địa phương chưa đạt mục tiêu 88% vào cuối tháng 10; riêng vốn kéo dài từ 2025 nếu không giải ngân kịp sẽ bị hủy và địa phương phải tự lo nguồn bù.",
+            "Về du lịch, phường Hội An Đông ước đón khoảng 873.000 lượt khách lưu trú trong 10 tháng, trong đó gần 700.000 khách quốc tế. Làng gốm Thanh Hà và làng rau Trà Quế (Hội An Tây) đón khoảng 243.500 lượt, thu hơn 8,5 tỷ đồng. Khó khăn được nêu là thiếu liên kết điểm đến, hạ tầng chưa đồng bộ và ảnh hưởng thời tiết.",
+            "Thành phố yêu cầu tăng tuần tra ở phố cổ, rừng dừa Bảy Mẫu; xử lý đeo bám, chèo kéo khách, ăn xin trá hình, giữ xe tự phát thu tiền sai; phạt quán bar, pub gây ồn sau 22 giờ. Các địa phương phải công bố đường dây nóng, xử lý phản ánh trong 24 giờ và dùng mã QR để du khách đánh giá dịch vụ.",
+            "Sở Công Thương sẽ kiểm tra hàng giả mạo nhãn Hội An, chấn chỉnh giá không rõ ràng ở tiệm may đo, cửa hàng và dịch vụ thuyền thúng. Với người dân Đà Nẵng hay dẫn khách đi Hội An, đây là những thay đổi nên biết; khi gặp chèo kéo, ép giá có thể phản ánh qua đường dây nóng sắp công bố."
+          ],
+          "tag": "Hội An"
+        }
+      ]
+    },
     {
       "id": "2026-10-28-1100",
       "date": "2026-10-28",
