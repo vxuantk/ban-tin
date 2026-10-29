@@ -1,6 +1,118 @@
 {
- "updated": "2026-10-29T07:03:30+07:00",
+ "updated": "2026-10-29T11:11:04+07:00",
  "editions": [
+  {
+   "id": "2026-10-29-1100",
+   "date": "2026-10-29",
+   "slot": "11:00",
+   "createdAt": "2026-10-29T11:11:04+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "ai",
+     "title": "Hà Lan tính cắt khoảng 25.000 chỗ làm công chức, dựa vào AI để tinh gọn",
+     "summary": "Chính phủ Hà Lan muốn giảm khoảng 25.000 vị trí trong bộ máy nhà nước trong nhiều năm, đặt cược vào AI để làm việc năng suất hơn. Mục tiêu tiết kiệm 900 triệu euro/năm từ 2027 và 3,5 tỷ euro/năm từ 2035. Đây là ví dụ rõ nét về việc AI bắt đầu làm thay đổi quy mô nhân sự khu vực công.",
+     "source": "ThePrint (theo Bloomberg)",
+     "url": "https://theprint.in/world/dutch-govt-plans-to-cut-25000-jobs-in-ai-led-overhaul/3081944/",
+     "tag": "Việc làm & AI",
+     "detail": [
+      "Đầu tuần này, chính phủ Hà Lan công bố kế hoạch giảm dần khoảng 25.000 vị trí công chức trong nhiều năm tới. Lý do chính là bộ máy phình to quá nhanh: cuối năm 2025, số người làm cho chính quyền trung ương đạt kỷ lục khoảng 160.000, tăng 41% so với năm 2018, dù các nội các trước đều hứa sẽ cắt giảm.",
+      "Theo kế hoạch, khoản tiết kiệm sẽ tăng dần: khoảng 900 triệu euro mỗi năm vào năm 2027 và lên tới 3,5 tỷ euro mỗi năm (khoảng 3,9 tỷ USD) từ năm 2035. Nội các cho biết đầu năm sau sẽ trình bày cụ thể cách đưa trí tuệ nhân tạo vào công việc hành chính để bộ máy làm được nhiều hơn với ít người hơn.",
+      "Quốc vụ khanh phụ trách cải cách bộ máy Eric van den Burg nói chính phủ không thể tiếp tục cách làm cũ và sẽ phải đưa ra những \"lựa chọn khó khăn\" để có một nhà nước \"đơn giản hơn, thông minh hơn và nhỏ gọn hơn\". Đáng chú ý, ngân sách Hà Lan vẫn khá lành mạnh, thâm hụt chỉ 1,8% – thuộc nhóm thấp nhất EU – nên đây là cải cách chủ động chứ không phải do khủng hoảng.",
+      "Bài báo chưa nêu cụ thể cơ quan nào bị cắt hay cách AI sẽ được dùng ra sao, cũng chưa có phản hồi từ công đoàn. Việc giảm biên chế được thực hiện dần qua nhiều năm, nhiều khả năng chủ yếu bằng cách không tuyển thay người nghỉ hưu, nghỉ việc.",
+      "Với người làm nhân sự, đây là tín hiệu đáng theo dõi: không chỉ doanh nghiệp công nghệ mà cả khu vực nhà nước ở châu Âu đã bắt đầu lập kế hoạch nhân lực dựa trên AI. Việt Nam cũng đang tinh gọn bộ máy và xác định lại vị trí việc làm, nên câu chuyện \"AI thay phần việc nào, người lao động được đào tạo lại ra sao\" sẽ ngày càng thực tế."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Tesla tuyển 5 vị trí đầu tiên tại Việt Nam, gồm giám đốc nhân sự",
+     "summary": "Chưa đầy một tháng sau khi lập công ty con ở TP.HCM với vốn hơn 77,6 tỷ đồng, Tesla đăng tuyển 5 vị trí toàn thời gian. Bốn vị trí quản lý (kinh doanh, mua sắm, dịch vụ, đối tác nhân sự) yêu cầu ít nhất 5 năm kinh nghiệm.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/tesla-tuyen-nhan-su-o-viet-nam-5138056.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/29/img-1793235491-8584-1793235499.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=fzBrq6_okL2OlrchPUv2xQ",
+     "detail": [
+      "Giữa tháng 9/2026, Tesla thành lập Công ty TNHH Tesla Motors Việt Nam, trụ sở tại TP.HCM, vốn điều lệ hơn 77,6 tỷ đồng, đăng ký ngành bán buôn ô tô và xe có động cơ. Đến cuối tháng 10, trang tuyển dụng khu vực châu Á – Thái Bình Dương của hãng đã đăng tin tuyển người cho thị trường Việt Nam; phụ trách tuyển dụng khu vực viết trên LinkedIn rằng Tesla \"chính thức đến Việt Nam\".",
+      "Có 5 vị trí toàn thời gian: 4 vị trí cấp quản lý phụ trách kinh doanh, mua sắm, dịch vụ và đối tác nhân sự (HR business partner – người làm nhân sự đồng hành trực tiếp với các bộ phận kinh doanh), cùng 1 chuyên viên phát triển hạ tầng trạm sạc. Các vị trí quản lý cần tối thiểu 5 năm kinh nghiệm tương đương, thích nghi nhanh và giỏi giải quyết vấn đề.",
+      "Chuyên viên trạm sạc phải quản lý cùng lúc hơn 20 dự án ở nhiều giai đoạn, ưu tiên người có kinh nghiệm bất động sản, quy hoạch điện, hạ tầng sạc và thủ tục cấp phép. Tin tuyển dụng không công bố mức lương, thưởng.",
+      "Pháp nhân tại Việt Nam có ba người đại diện, trong đó hai người quốc tịch Mỹ từng giữ vị trí cấp cao ở Tesla tại các thị trường khác, và một người Việt sinh năm 1983. Trên toàn cầu, quý III Tesla có doanh thu 28 tỷ USD nhưng lợi nhuận ròng chỉ 787 triệu USD, giảm 43% do chi mạnh cho robot hình người và AI.",
+      "Việc tuyển trưởng bộ phận dịch vụ và hạ tầng sạc cho thấy Tesla chuẩn bị bán xe và xây mạng lưới sạc thực sự, không chỉ đặt văn phòng đại diện. Với thị trường lao động, đây là cơ hội cho nhân sự cấp trung – cao trong ngành ô tô, năng lượng và nhân sự; cạnh tranh trên thị trường xe điện với VinFast và các hãng Trung Quốc cũng sẽ nóng hơn."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Mỗi bất động sản sẽ có mã định danh điện tử, liên thông dữ liệu",
+     "summary": "Dự thảo Luật Kinh doanh bất động sản sửa đổi đề xuất mỗi bất động sản có một mã định danh duy nhất, dùng xuyên suốt từ đất đai, xây dựng đến giao dịch, thế chấp, thuế. Quốc hội sẽ thảo luận tại hội trường ngày 30/10.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/lien-thong-du-lieu-quan-ly-bat-dong-san-bang-ma-dinh-danh-post1398243.html",
+     "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V75LamkQsU71Ozaa3ddDriNBgv9UvX_p_70BZhWIio0zsX3GA9clXzHbiXQnrzDeXOfhDLKiwG2mUdc_r13fpgOsSiqflupx6D5oYLmewL5tXDVbLGh6H7YJDQHnZ_ZznVA/potal-tp-ho-chi-minh-tang-toc-cap-so-hong-cho-nguoi-mua-nha-stand.jpg.webp",
+     "detail": [
+      "Trong dự thảo Luật Kinh doanh bất động sản (sửa đổi) đang trình Quốc hội tại Kỳ họp thứ hai, Bộ Xây dựng bổ sung quy định về mã định danh điện tử cho từng bất động sản, kèm quy trình giao dịch và cơ chế chia sẻ dữ liệu với hệ thống thông tin nhà ở và thị trường. Đây là một phần của chủ trương chuyển đổi số theo Nghị quyết 57.",
+      "Đại biểu Nguyễn Thị Việt Nga đề nghị coi mã này là \"khóa liên kết\" nối mọi hồ sơ của một tài sản: đất đai, xây dựng, giao dịch, thế chấp, cấp sổ và nghĩa vụ thuế. Với nhà đất đã có, mã lấy từ dữ liệu đăng ký đất đai; với nhà hình thành trong tương lai (mua trên giấy), mã nên được tạo ngay khi căn hộ đã xác định trong dự án được duyệt, trước khi mở bán, và dùng tiếp sau khi có sổ.",
+      "Bà Nga lưu ý mã định danh không phải là một loại giấy chứng nhận hay giấy phép mới; luật cần nói rõ ai tạo mã, ai chịu trách nhiệm khi sai, sửa ra sao khi tách hoặc gộp tài sản. Bà cũng cảnh báo không nên đặt thêm thủ tục \"thông báo\" bắt buộc cho mọi công trình vì dễ biến thành kiểm tra trước, làm chậm dự án và tăng chi phí.",
+      "Cục trưởng Cục Quản lý nhà và thị trường bất động sản Hoàng Anh Tuấn cho biết dữ liệu phải được cập nhật liên tục, chính xác, có chuẩn thống nhất, bảo vệ dữ liệu cá nhân và phân quyền khai thác rõ ràng. Đây vẫn là thiết kế trong dự thảo, chưa có hiệu lực.",
+      "Nếu được thông qua, người mua nhà có thể tra cứu tình trạng pháp lý của căn nhà (đang thế chấp, đã bán cho ai, đã có sổ chưa) đáng tin cậy hơn, giảm rủi ro mua phải nhà bị bán trùng; người dân cũng đỡ phải khai đi khai lại một thông tin ở nhiều nơi."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "California Fitness đóng loạt cơ sở, hội viên thẻ dài hạn lo mất tiền",
+     "summary": "Chuỗi phòng tập California Fitness & Yoga đã đóng gần hết cơ sở ở Hà Nội, TP.HCM, cả chi nhánh Đà Nẵng từ 24–25/10; nhiều người mua thẻ hàng chục đến hơn 100 triệu đồng chưa được hoàn tiền. Luật sư khuyên lưu giữ chứng từ và gửi yêu cầu hoàn tiền bằng văn bản.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/khach-lo-mat-tien-khi-california-fitness-dung-hoat-dong-5138020.html",
+     "tag": "Quyền lợi khách hàng",
+     "detail": [
+      "California Fitness & Yoga, chuỗi phòng tập từng có khoảng 35 câu lạc bộ trên cả nước năm 2025, đang tạm ngưng hàng loạt cơ sở. Ở Hà Nội, cả 9 cơ sở đều khóa cửa; ở TP.HCM hầu như chỉ còn cơ sở Aeon Mall Bình Tân hoạt động; các chi nhánh ở Đà Nẵng và Biên Hòa đóng từ 24–25/10. Nhóm hội viên trên mạng xã hội ở Hà Nội đã hơn 600 người, ở TP.HCM gần 230 người.",
+      "Nhiều khách vừa mua hoặc gia hạn thẻ dài hạn ngay trước khi đóng cửa: một hội viên ở TP.HCM mua gói gần 104 triệu đồng cuối tháng 8, mới tập hơn 10 buổi; một người ở Hà Nội gia hạn thêm 20 triệu đồng. Gọi tổng đài không ai nghe máy. Người mua trả góp vẫn phải trả gốc và lãi cho ngân hàng dù không còn được dùng dịch vụ.",
+      "Ngày 19/10, CEO của chuỗi đăng video xin lỗi, xin thêm 30 ngày để tái cấu trúc, dự kiến khoảng 19/11 mới công bố phương án cho các gói dài hạn. Nhân viên được thông báo tạm nghỉ từ 25 đến 31/10; một nhân viên tư vấn cho biết bị nợ lương 5 tháng kể từ tháng 6/2026.",
+      "Luật sư khuyên hội viên lưu hợp đồng, hóa đơn, sao kê ngân hàng, thông báo đóng cửa và tin nhắn với nhân viên; gửi văn bản yêu cầu hoàn tiền đến đúng pháp nhân ghi trên hợp đồng, có hạn trả lời. Nếu bị né tránh, có thể nhờ Hội Bảo vệ quyền lợi người tiêu dùng hoặc UBND phường hòa giải, khởi kiện, hoặc tố giác nếu nghi chiếm đoạt tài sản. Doanh nghiệp ngừng dịch vụ mà không báo trước ít nhất 3 ngày làm việc có thể bị phạt 30–50 triệu đồng.",
+      "Bài học chung: hạn chế trả trước số tiền lớn cho các gói dịch vụ \"trọn đời\" hoặc nhiều năm (phòng tập, spa, học tiếng Anh), nhất là khi doanh nghiệp đã có dấu hiệu cắt giảm quyền lợi. Với người làm nhân sự, vụ nợ lương nhiều tháng cũng là lời nhắc kiểm tra tình trạng đóng BHXH, lương của mình qua ứng dụng VssID."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Lớp 5, 9, 12 sẽ làm chung đề kiểm tra cuối kỳ do Sở ra đề",
+     "summary": "Theo Thông tư 89, đề kiểm tra cuối học kỳ một số môn ở lớp 5, 9 và 12 sẽ do Sở GD-ĐT ra, thẩm định và phát về trường. Bộ GD-ĐT nói mục tiêu là có dữ liệu tin cậy, chứ không dùng kết quả để xếp hạng trường hay đánh giá giáo viên một cách máy móc.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/hoc-sinh-cuoi-cap-kiem-tra-chung-de-thi-de-co-du-lieu-du-tin-cay-100261029095307622.htm",
+     "tag": "Giáo dục",
+     "detail": [
+      "Từ năm học này, theo Thông tư 89 của Bộ GD-ĐT, bài kiểm tra cuối học kỳ ở một số môn của học sinh các lớp cuối cấp (lớp 5, 9 và 12) sẽ không còn do từng trường tự ra đề. Sở GD-ĐT các tỉnh, thành sẽ chủ trì ra đề, thẩm định và phát đề xuống các trường. Thay đổi này gắn với Chỉ thị 37 của Thủ tướng về bảo đảm trung thực, khách quan trong dạy, học, kiểm tra và đánh giá.",
+      "Sáng 29/10, Vụ trưởng Vụ Giáo dục phổ thông Thái Văn Tài giải thích mục đích không chỉ là chống \"làm đẹp\" điểm số, mà để kết quả phản ánh đúng năng lực thật của học sinh. Khi các trường cùng làm một đề, cơ quan quản lý có cơ sở so sánh; chỗ nào bất thường sẽ được xem xét, nhưng chênh lệch điểm không mặc nhiên bị coi là gian lận và phải được kiểm chứng bằng dữ liệu, đúng quy trình.",
+      "Ông Tài nhấn mạnh kết quả kiểm tra chung không phải căn cứ duy nhất để xếp hạng trường, đánh giá giáo viên hay kết luận năng lực một em học sinh. Đánh giá cũng không có nghĩa là ra đề khó hơn hay chỉ chạy theo điểm; học sinh yếu cần được hỗ trợ chứ không bị dán nhãn. Bộ tóm tắt tinh thần là \"học thật, thi thật, đánh giá thật\".",
+      "Với phụ huynh có con học lớp 5, 9 hoặc 12, nên lưu ý kỳ kiểm tra cuối học kỳ I tới có thể khác so với các năm trước: đề do Sở ra nên con không thể chỉ ôn theo dạng đề quen của trường. Cách tốt nhất là giúp con nắm chắc kiến thức nền thay vì luyện đề, và theo dõi thông báo cụ thể của Sở GD-ĐT địa phương về môn kiểm tra chung."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Bãi rác Tam Xuân 2 sắp đầy, Đà Nẵng gấp rút làm khu xử lý rác phía nam",
+     "summary": "Bãi rác Tam Xuân 2 nhận khoảng 500 tấn/ngày và dự kiến đầy vào cuối 2027, gây mùi và nước rỉ rác cho dân quanh vùng. Khu xử lý Nam Quảng Nam (Núi Thành) 156 tỷ đồng phấn đấu xong giai đoạn 1 cuối 2026, cùng nhà máy điện rác 2.184 tỷ đồng.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/day-nhanh-dau-tu-ha-tang-xu-ly-chat-thai-phia-nam-3356771.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/22/rac1-1--455b1e30c08f6b075a26884ebcb92e7a.jpg",
+     "detail": [
+      "Khu xử lý rác Tam Xuân 2 (xã Tam Xuân) hoạt động từ năm 2004, rộng khoảng 22,5 ha với hai ô chôn lấp sức chứa tổng cộng khoảng 1,3 triệu tấn. Mỗi ngày bãi nhận khoảng 500 tấn rác từ khu vực phía nam thành phố và dự kiến sẽ đầy vào cuối năm 2027. Vì xử lý bằng chôn lấp nên mùi hôi, nước rỉ rác và ô nhiễm vẫn kéo dài, người dân thôn Bích Ngô bức xúc nhiều năm.",
+      "Tỉnh Quảng Nam cũ từng hứa đóng cửa bãi này từ năm 2023, khi khu xử lý mới đi vào hoạt động, nhưng quy hoạch và hạ tầng chậm. Cuối 2023, chính quyền đối thoại với dân và cam kết hoàn thành khu xử lý ở Núi Thành vào cuối 2026 để có thể đóng Tam Xuân 2. Người dân cũng phản ánh tuyến đường vào bãi dài hơn 4,5 km nhưng sau 5 năm mới làm xong 600 m đầu.",
+      "Khu xử lý chất thải rắn Nam Quảng Nam (xã Núi Thành) rộng 15,8 ha, công suất 350 tấn/ngày, xử lý 600 m³ nước rỉ rác mỗi ngày, vốn khoảng 156 tỷ đồng, đã xong giải phóng mặt bằng. Cùng vị trí, nhà máy điện rác được duyệt ngày 12/10/2026 có vốn 2.184 tỷ đồng, công suất 1.215 tấn/ngày và phát điện 15 MW.",
+      "Theo Sở Nông nghiệp và Môi trường, Đà Nẵng sẽ có ba khu xử lý tập trung: Khánh Sơn, Đại Hiệp và Nam Quảng Nam. Xã Tam Xuân đề nghị thành phố làm dự án xử lý nước rỉ rác, cải tạo, thoát nước và có chính sách hỗ trợ người dân sống gần bãi rác. Khi các nhà máy mới chạy, áp lực rác phía nam sẽ giảm, rác được đốt phát điện thay vì chôn lấp."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Chrome dùng AI đọc Gmail để tự điền biểu mẫu, người dùng phải tự bật",
+     "summary": "Google nâng cấp tính năng tự điền của Chrome: AI có thể lấy mã đặt vé máy bay, số thành viên, mã đơn hàng, địa chỉ… từ Gmail để điền vào biểu mẫu. Tính năng chỉ chạy khi người dùng bật và hiện mới có ở Mỹ.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
+     "detail": [
+      "Ngày 28/10 (giờ Mỹ), Google công bố bản nâng cấp cho tính năng tự điền (autofill) của trình duyệt Chrome. Trước đây Chrome chỉ điền lại những gì bạn từng gõ như tên, địa chỉ; nay trợ lý AI có thể tìm trong hộp thư Gmail để gợi ý những thông tin như mã xác nhận chuyến bay, số thẻ thành viên, mã vận đơn, số đơn hàng, địa chỉ, số điện thoại hay cả số thẻ tín dụng.",
+      "Tính năng này mở rộng từ \"Personal Intelligence\" – cơ chế cho phép kết nối các ứng dụng Google với trợ lý Gemini để AI tra cứu chi tiết cá nhân và trả lời câu hỏi. Nó có trên Chrome máy tính và trong ứng dụng Gemini trong Chrome trên iOS, Android, nhưng hiện chỉ dành cho người dùng ở Mỹ.",
+      "Google nhấn mạnh đây là tính năng tùy chọn: người dùng phải tự bật \"tự điền nâng cao\" trong cài đặt Chrome, và dữ liệu nhạy cảm được mã hóa. Tuy nhiên hãng không giải thích chi tiết cách mã hóa hay ai có thể truy cập dữ liệu.",
+      "TechCrunch so sánh tính năng này với việc iPhone tự điền mã xác minh từ tin nhắn – nhỏ nhưng tiện. Đồng thời, đây cũng là cách Google giữ chân người dùng trong hệ sinh thái trình duyệt và AI của mình.",
+      "Khi tính năng về Việt Nam, người dùng nên cân nhắc: tiện lợi đi kèm việc cho AI quyền đọc email, nơi chứa nhiều thông tin tài chính, công việc. Với máy tính dùng chung ở cơ quan, hoặc tài khoản chứa email nhân sự, lương thưởng, không nên bật; nếu bật thì cần đặt khóa màn hình và xác thực hai lớp cho tài khoản Google."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-10-29-0700",
    "date": "2026-10-29",
