@@ -1,6 +1,124 @@
 {
- "updated": "2026-10-29T15:10:43+07:00",
+ "updated": "2026-10-29T19:41:44+07:00",
  "editions": [
+  {
+   "id": "2026-10-29-1900",
+   "date": "2026-10-29",
+   "slot": "19:00",
+   "createdAt": "2026-10-29T19:41:44+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Xăng dầu đồng loạt tăng từ 15h hôm nay, diesel vượt 30.000 đồng/lít",
+     "summary": "Từ 15 giờ 29/10, xăng E5 RON92 tăng 666 đồng lên 26.027 đồng/lít, E10 RON95 tăng 521 đồng lên 25.734 đồng/lít. Dầu diesel tăng mạnh nhất, 696 đồng, lên 30.246 đồng/lít — mức ảnh hưởng trực tiếp tới chi phí vận tải và giá hàng hóa.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/gia-xang-dau-tang-tu-15-gio-ngay-2910-post1398352.html",
+     "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V75mqrpixU7XA8PugmVKcrUBfNTBEcPNuFv2PNlq5l3P2LrKRCn8pGN4wYsbWescQMg/baotintuc_tr_xang1510.png.webp",
+     "detail": [
+      "Liên Bộ Công Thương – Tài chính điều chỉnh giá xăng dầu chiều 29/10, xác nhận dự báo tăng giá đã nêu từ đầu ngày. Đây là kỳ tăng sau đợt 22/10, khi xăng giảm mạnh hơn 1.600–1.800 đồng/lít nhưng diesel đã tăng 444 đồng.",
+      "Bảng giá tối đa mới: xăng E5 RON92 là 26.027 đồng/lít (+666 đồng), xăng E10 RON95-III là 25.734 đồng/lít (+521 đồng), dầu diesel 0.05S là 30.246 đồng/lít (+696 đồng), dầu mazut 23.596 đồng/kg (+223 đồng). Kỳ này cơ quan điều hành không trích lập và cũng không chi Quỹ bình ổn giá cho mặt hàng nào, tức giá phản ánh khá sát biến động thế giới.",
+      "Lý do là giá thành phẩm thế giới đi lên: xăng RON92 bình quân kỳ qua tăng 4,68% lên khoảng 138,6 USD/thùng, diesel tăng 2,71% lên 172,6 USD/thùng. Thị trường dầu chịu tác động của giao tranh ở Yemen và các vụ tấn công cơ sở dầu khí Saudi Arabia, tồn kho dầu Mỹ giảm và xung đột Nga – Ukraine kéo dài.",
+      "Theo số liệu liên Bộ, giá xăng trong nước vẫn thấp hơn các nước láng giềng như Thái Lan (khoảng 32.550 đồng/lít, có trợ giá), Campuchia hay Trung Quốc. Với gia đình và doanh nghiệp ở Đà Nẵng, diesel vượt mốc 30.000 đồng sẽ đẩy chi phí vận chuyển, nhất là xe tải và tàu cá, nên giá một số hàng hóa có thể nhích lên trong những tuần tới."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index mất hơn 11 điểm, cổ phiếu dầu khí lao dốc, khối ngoại bán ròng 400 tỷ",
+     "summary": "Phiên 29/10, VN-Index giảm 11,04 điểm xuống 1.755,61 điểm, số mã giảm gấp đôi mã tăng trên HOSE. Nhóm dầu khí bị bán mạnh dù giá dầu thế giới tăng, khối ngoại tiếp tục bán ròng hơn 400 tỷ đồng.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/chung-khoan-2910-dau-khi-lao-doc-vn-index-mat-hon-11-diem-post1398385.html",
+     "figure": {
+      "value": "1.755,61",
+      "label": "VN-Index đóng cửa 29/10",
+      "delta": "-11,04 điểm",
+      "dir": "down",
+      "spark": [
+       1766.65,
+       1755.61
+      ]
+     },
+     "detail": [
+      "Thị trường mở phiên chiều xanh nhẹ nhưng lực bán lan rộng khiến cả ba sàn đóng cửa trong sắc đỏ. VN-Index chốt ở 1.755,61 điểm, HNX-Index giảm 4,54 điểm còn 435,12 điểm, UPCoM giảm 1,64 điểm còn 124,1 điểm.",
+      "Thanh khoản thấp: giá trị khớp lệnh trên HOSE chỉ khoảng 14.505 tỷ đồng. Toàn sàn HOSE có 215 mã giảm so với 97 mã tăng, cho thấy tâm lý thận trọng vẫn chi phối và dòng tiền chưa quay lại.",
+      "Dầu khí là nhóm giảm sâu nhất: PVP giảm sàn, PVT giảm 6,78%, BSR và PLX giảm gần 4%, GAS giảm 2,91%. Điều này ngược với đà tăng của giá dầu Brent (trên 111 USD/thùng). Nhóm bất động sản (VHM -2,2%), cảng biển – vận tải (GMD -3,52%, HAH -3,06%) và FPT (-2,41%) cũng gây áp lực; ở chiều ngược lại HPG tăng 2,17%.",
+      "Khối ngoại bán ròng hơn 400 tỷ đồng, tập trung ở TCB (khoảng 118 tỷ), FPT (gần 115 tỷ) và SSB. Với nhà đầu tư cá nhân, đây là tín hiệu thị trường còn rung lắc quanh vùng 1.750 điểm; nên hạn chế vay ký quỹ và chờ dòng tiền cải thiện rõ hơn."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Doanh nghiệp nhỏ và vừa sẽ mở rộng tới 300 lao động, doanh thu 400 tỷ",
+     "summary": "Chiều 29/10, Quốc hội thảo luận dự án Luật Phát triển doanh nghiệp nhỏ và vừa, nâng tiêu chí lên tối đa 300 lao động, vốn 150 tỷ hoặc doanh thu 400 tỷ đồng. Bộ trưởng Tài chính cho biết các ngưỡng tăng khoảng 30% so với 2017, đi kèm ưu đãi thuế 3 năm và 20% mua sắm công dành cho nhóm này.",
+     "source": "Báo Công Luận",
+     "url": "https://congluan.vn/bo-truong-bo-tai-chinh-ngo-van-tuan-lam-ro-ve-tieu-chi-xac-dinh-doanh-nghiep-nho-va-vua-post365677.html",
+     "tag": "Luật DN nhỏ và vừa",
+     "detail": [
+      "Dự thảo luật thay thế Luật Hỗ trợ doanh nghiệp nhỏ và vừa năm 2017. Theo Điều 4, doanh nghiệp được xếp vào nhóm nhỏ và vừa nếu có bình quân không quá 300 lao động (cũ là 200) và đáp ứng một trong hai ngưỡng: tổng nguồn vốn không quá 150 tỷ đồng (cũ 100 tỷ) hoặc doanh thu không quá 400 tỷ đồng (cũ 300 tỷ). Đây là mức trần; Chính phủ sẽ quy định cụ thể theo từng ngành.",
+      "Bộ trưởng Tài chính Ngô Văn Tuấn giải thích các chỉ số tăng trưởng, lạm phát và quy mô doanh nghiệp đã tăng khoảng 30% trong gần 10 năm, đồng thời có tham khảo IFC, OECD, Thái Lan, Nhật Bản, Trung Quốc. Theo báo cáo tiếp thu, tỷ lệ doanh nghiệp thuộc diện nhỏ và vừa dự kiến tăng từ 97,4% lên khoảng 98,4%.",
+      "Chính sách đi kèm gồm hỗ trợ thuế trong 3 năm đầu hoạt động, dành tối thiểu 20% kinh phí mua sắm công cho doanh nghiệp nhỏ và vừa (ưu tiên gói thầu dưới 20 tỷ đồng), và cơ chế để địa phương đầu tư hạ tầng riêng cho nhóm này. Hơn một năm qua đã có khoảng 226.000 gói thầu dưới 20 tỷ, với hơn 12.000 doanh nghiệp tham gia.",
+      "Các đại biểu góp ý thêm: cần làm rõ cách xác định quy mô với doanh nghiệp mới lập hoặc đa ngành, không cắt hỗ trợ đột ngột khi doanh nghiệp tăng trưởng vượt ngưỡng; bổ sung quỹ đất cho chế biến nông sản, cho vay dựa trên hợp đồng tiêu thụ và hàng tồn kho; tách bạch tư vấn quản trị với tư vấn pháp lý. Với chủ doanh nghiệp và bộ phận nhân sự, việc nâng trần 300 lao động nghĩa là nhiều công ty cỡ vừa sẽ được hưởng thêm ưu đãi khi luật có hiệu lực."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng soạn nghị quyết chung thu hút nhân lực chất lượng cao, làm kế hoạch kinh tế đêm",
+     "summary": "Chủ tịch UBND Đà Nẵng Nguyễn Mạnh Hùng yêu cầu tổng hợp các cơ chế thu hút nhân lực hiện có thành một nghị quyết chung, chính sách phải có số liệu chứng minh. Thành phố cũng gấp rút hoàn thiện kế hoạch công nghiệp văn hóa và kinh tế đêm trước cuối năm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-tim-giai-phap-thu-hut-nhan-luc-chat-luong-cao-phat-trien-kinh-te-dem-3356795.html",
+     "tag": "Nhân lực Đà Nẵng",
+     "detail": [
+      "Sáng 29/10, lãnh đạo UBND thành phố làm việc với các sở, ngành về hai nhóm việc: thu hút nhân lực chất lượng cao và phát triển công nghiệp văn hóa, kinh tế đêm. Đây là các mảng được kỳ vọng góp phần vào mục tiêu tăng trưởng hai con số của Đà Nẵng.",
+      "Về nhân lực, các sở đề xuất rà soát lại chính sách theo nhu cầu thực tế: xác định ngành, lĩnh vực ưu tiên, phân loại đối tượng và tiêu chí đào tạo. Chủ tịch UBND yêu cầu gom các cơ chế đang áp dụng, xây dựng một nghị quyết chung và thành lập Ban chỉ đạo có lãnh đạo thành phố tham gia; ông nhấn mạnh chính sách phải \"sát thực tiễn, có đánh giá, số liệu chứng minh\" và quan tâm thu hút người dân tộc thiểu số.",
+      "Về công nghiệp văn hóa, Sở Văn hóa, Thể thao và Du lịch sẽ lập kế hoạch có sản phẩm cụ thể trước cuối năm; dự kiến trình HĐND các chính sách như tín dụng ưu đãi, hỗ trợ sáng tác, hỗ trợ đoàn làm phim quảng bá thành phố và sự kiện văn hóa mang thương hiệu Đà Nẵng, cùng danh mục sự kiện năm 2027. Kế hoạch kinh tế đêm hướng tới đẩy nhanh dự án lớn và tổ chức lễ hội kích cầu du lịch.",
+      "Với người làm nhân sự và doanh nghiệp tại Đà Nẵng, một nghị quyết chung về thu hút nhân lực có thể thay đổi cách thành phố hỗ trợ tuyển dụng chuyên gia, kỹ sư và lao động trình độ cao; nên theo dõi khi dự thảo được công bố lấy ý kiến. Bài báo chưa nêu con số cụ thể về mức hỗ trợ hay thời điểm trình HĐND."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic ra công cụ giúp doanh nghiệp xem tiền chi cho AI mang lại gì",
+     "summary": "Anthropic tung bộ công cụ cho khách hàng Claude Enterprise: báo cáo chi phí theo mức dùng, ngân sách chung cho cả nhóm và khảo sát nhân viên ngay trong ứng dụng. Động thái nhằm trả lời câu hỏi lớn của các giám đốc tài chính: chi tiêu AI tăng vọt có đáng không.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+     "tag": "AI doanh nghiệp",
+     "detail": [
+      "Khi doanh nghiệp dùng AI ngày càng nhiều, chi phí tăng nhanh nhưng hiệu quả khó đo. Theo một báo cáo của KPMG được dẫn lại, chỉ khoảng 12% công ty thường xuyên kiểm tra xem dự án AI có tạo ra giá trị lớn hơn chi phí hay không.",
+      "Bộ công cụ mới dành cho khách hàng Claude Enterprise gồm ba phần. Báo cáo chi tiêu cho thấy lượng \"token\" (đơn vị tính lượng chữ AI xử lý) và chi phí tương ứng, giúp quản lý biết việc nào tốn tiền nhất. Ngân sách chung cho phép cả nhóm dùng một hạn mức tháng thay vì giới hạn cứng từng người. Khảo sát trong ứng dụng hỏi trực tiếp nhân viên xem AI có giúp họ làm việc nhanh hơn không.",
+      "Bối cảnh là công cụ lập trình Claude Code tăng trưởng rất mạnh. Dữ liệu của hãng phân tích Jellyfish từ hơn 276.000 khách hàng cho thấy công cụ dựa trên mô hình của Anthropic chiếm khoảng một phần ba số đề xuất sửa code được gửi duyệt, và chi tiêu cho nhóm công cụ này tăng khoảng 10 lần từ đầu năm. Nhà khoa học của Jellyfish nhận xét nhiều giám đốc tài chính không lường trước tốc độ này.",
+      "Anthropic cũng khẳng định dữ liệu khách hàng doanh nghiệp mặc định không được dùng để huấn luyện mô hình. Hãng đang chuẩn bị niêm yết cổ phiếu và cạnh tranh gay gắt với OpenAI trong mảng khách hàng doanh nghiệp.",
+      "Với bộ phận nhân sự, ý tưởng khảo sát nhân viên ngay trong công cụ AI là gợi ý đáng tham khảo: đo hiệu quả AI không chỉ bằng chi phí, mà cả bằng cảm nhận năng suất của người dùng thực tế. Đây cũng là xu hướng các công ty Việt Nam đang triển khai AI nên chuẩn bị: đặt ngân sách và chỉ số đánh giá ngay từ đầu."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic đề xuất cho phép chính quyền xin tòa chặn mô hình AI nguy hiểm",
+     "summary": "Trong thư gửi Thống đốc California, Anthropic cho rằng khi một mô hình AI bị đánh giá có rủi ro nghiêm trọng, cơ quan nhà nước nên được đề nghị tòa án chặn phát hành. Hãng phản đối cơ chế \"công tắc tắt\" toàn bộ mô hình, ưu tiên biện pháp hẹp hơn.",
+     "source": "Reuters (qua The Star)",
+     "url": "https://thestar.com.my/tech/tech-news/2026/10/29/anthropic-tells-california-governor-courts-should-be-able-to-block-risky-ai-models",
+     "image": "https://apicms.thestar.com.my/uploads/images/2026/10/29/4185327.jpg",
+     "detail": [
+      "Tháng 9, Thống đốc bang California Gavin Newsom lập một nhóm chuyên gia để đề xuất yêu cầu an toàn với AI. Bang này là nơi đặt trụ sở của hầu hết công ty AI lớn, nên quy định ở đây có sức ảnh hưởng toàn cầu.",
+      "Trong thư đề ngày 15/10 (Reuters đưa tin ngày 28/10), Anthropic viết rằng khi một cuộc đánh giá cho thấy mô hình có rủi ro nghiêm trọng, \"chính phủ nên có thể đề nghị tòa án chặn nó\". Đề xuất này nhắc lại lập trường chính sách trước đây của hãng; OpenAI cũng gửi khuyến nghị riêng cho ông Newsom ngày 20/10.",
+      "Anthropic phản đối yêu cầu \"công tắc tắt\" (kill switch) buộc tắt toàn bộ mô hình, cho rằng nó tạo cảm giác an toàn giả. Thay vào đó, hãng đề xuất biện pháp có mục tiêu như vô hiệu hóa một trợ lý AI có vấn đề hoặc cắt quyền truy cập của một khách hàng cụ thể.",
+      "Ở cấp liên bang, một nhóm thượng nghị sĩ Mỹ từng bàn dự luật cho phép chặn phát hành mô hình không an toàn, còn Hạ viện có đề xuất \"Đạo luật công tắc tắt AI\" từ tháng 7, nhưng cả hai chưa tiến triển. Bản thân Anthropic từng bị chính quyền yêu cầu hạn chế truy cập nước ngoài với một số mô hình vì lý do an ninh, sau đó lệnh này được dỡ bỏ.",
+      "Cuộc tranh luận này quyết định tương lai các công cụ AI mà người dùng, kể cả ở Việt Nam, đang dùng hằng ngày: quy định chặt có thể làm chậm việc ra mắt mô hình mới, nhưng giúp giảm rủi ro như AI hỗ trợ tấn công mạng. Văn phòng Thống đốc California chưa phản hồi về lá thư."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "VEAM chi gần 7.000 tỷ trả cổ tức, Bộ Công Thương nhận hơn 6.100 tỷ",
+     "summary": "Tổng công ty Máy động lực và Máy nông nghiệp (VEAM, mã VEA) sẽ trả cổ tức tiền mặt 52,4%, tức 5.240 đồng mỗi cổ phiếu, chốt danh sách ngày 13/11. Với 88,47% vốn, Bộ Công Thương sẽ nhận hơn 6.160 tỷ đồng.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/veam-sap-chi-hon-6900-ty-dong-tra-co-tuc-nam-2025-188261029152354469.chn",
+     "tag": "Cổ tức",
+     "detail": [
+      "VEAM là doanh nghiệp nhà nước nổi tiếng với khoản lãi lớn từ các công ty liên doanh, liên kết. Đợt trả cổ tức năm 2025 bằng tiền mặt có tổng giá trị khoảng 6.963 tỷ đồng trên gần 1,33 tỷ cổ phiếu đang lưu hành; ngày chốt quyền là 13/11/2026 và dự kiến thanh toán ngày 14/12/2026.",
+      "Bộ Công Thương sở hữu gần 1,18 tỷ cổ phiếu (88,47% vốn) nên sẽ nhận phần lớn, hơn 6.160 tỷ đồng, nộp về ngân sách. Cổ đông nhỏ nắm cổ phiếu VEA trước ngày chốt sẽ nhận 5.240 đồng cho mỗi cổ phiếu.",
+      "Kết quả 6 tháng đầu năm 2026 cho thấy nguồn tiền dồi dào: lợi nhuận sau thuế gần 3.986 tỷ đồng, tăng 16,9%; riêng lãi từ liên doanh, liên kết hơn 3.521 tỷ đồng. Doanh thu thuần chỉ khoảng 2.571 tỷ, tức lợi nhuận chủ yếu đến từ phần góp vốn chứ không phải hoạt động sản xuất.",
+      "Tổng tài sản VEAM khoảng 32.175 tỷ đồng, trong đó 85% nợ phải trả là cổ tức và lợi nhuận phải chia. Với nhà đầu tư cá nhân, cổ phiếu trả cổ tức tiền mặt cao như VEA thường được chú ý trước ngày chốt quyền, nhưng giá thường điều chỉnh giảm tương ứng sau ngày giao dịch không hưởng quyền."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-10-29-1500",
    "date": "2026-10-29",
