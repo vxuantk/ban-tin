@@ -1,6 +1,140 @@
 {
- "updated": "2026-10-29T11:11:04+07:00",
+ "updated": "2026-10-29T15:10:43+07:00",
  "editions": [
+  {
+   "id": "2026-10-29-1500",
+   "date": "2026-10-29",
+   "slot": "15:00",
+   "createdAt": "2026-10-29T15:10:43+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "vn",
+     "title": "Sửa Luật Đất đai: bồi thường phải sát giá thực tế, bảng giá đất mới từ 2028",
+     "summary": "Sáng 29/10, Quốc hội thảo luận dự án Luật Đất đai sửa đổi; nhiều đại biểu đề nghị luật ghi rõ mức bồi thường tối thiểu và thời hạn chi trả khi thu hồi đất. Bộ trưởng Nông nghiệp và Môi trường cho biết Nhà nước sẽ định giá theo bảng giá đất kèm hệ số điều chỉnh, dự kiến áp dụng từ 1/1/2028.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/de-xuat-bo-sung-nguyen-tac-boi-thuong-toi-thieu-khi-thu-hoi-dat-5138166.html",
+     "tag": "Quốc hội",
+     "detail": [
+      "Phiên thảo luận sáng 29/10 tại Kỳ họp thứ hai, Quốc hội khóa XVI xoay quanh chuyện người dân bị thu hồi đất được đền bù thế nào. Đại biểu Nguyễn Bình Tân (Cà Mau) đề nghị bổ sung nguyên tắc bồi thường \"tương xứng với giá trị thực tế của đất bị thu hồi\", tính cả khả năng người dân tạo lập chỗ ở mới và khôi phục sinh kế.",
+      "Theo ông Tân, luật nên đặt ra mức bảo đảm tối thiểu về bồi thường, hỗ trợ và thời hạn chi trả, còn Chính phủ quy định cách tính. Căn cứ định giá, dữ liệu so sánh, kết quả kiểm kê và phương án bồi thường phải được công khai để người dân xem, phản hồi và yêu cầu xem xét lại. Ông cũng đề nghị làm rõ chuyện tạm cư: thời hạn, tiêu chuẩn chỗ ở, tiền hỗ trợ thuê nhà và trách nhiệm khi chậm bố trí tái định cư.",
+      "Đại biểu Nguyễn Thị Yến Nhi (Vĩnh Long) góp ý về cơ chế bồi thường bổ sung khi giá đền bù thấp hơn giá thỏa thuận trung bình: cần dùng giao dịch kiểm chứng được, ngăn tình trạng khai giá thấp làm méo mức trung bình. Người chưa đồng thuận phải được xem hồ sơ, yêu cầu giải trình, khiếu nại hoặc khởi kiện.",
+      "Giải trình cuối phiên, Bộ trưởng Trịnh Việt Hùng nói dự thảo chuyển từ tư duy \"bồi thường tài sản\" sang \"tái thiết cuộc sống\" người bị thu hồi đất. Mỗi thửa đất sẽ có một mã định danh thống nhất toàn quốc; cơ quan nhà nước không được bắt dân nộp lại giấy tờ đã có trong cơ sở dữ liệu. Cả nước có khoảng 105 triệu thửa, hơn 70 triệu thửa đã có dữ liệu.",
+      "Điểm đáng chú ý với người có đất: Nhà nước sẽ xác định giá bằng bảng giá đất do UBND tỉnh ban hành cộng hệ số điều chỉnh, thay vì định giá riêng từng trường hợp, dự kiến từ 1/1/2028. Khi nhà đầu tư ứng trước tiền bồi thường, khoản này sẽ được trừ vào tiền sử dụng đất hoặc tiền thuê đất."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Giá xăng dầu điều chỉnh chiều nay, dự báo tăng 700–900 đồng/lít",
+     "summary": "Liên bộ Công Thương – Tài chính điều chỉnh giá xăng dầu chiều 29/10; một số doanh nghiệp đầu mối dự báo các mặt hàng tăng khoảng 700–900 đồng/lít, xăng E10 tăng khoảng 850 đồng. Nguyên nhân chính là giá dầu thế giới tăng mạnh vì căng thẳng ở Trung Đông.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-29102026-xang-e10-chieu-nay-tang-hay-giam-185261029082300087.htm",
+     "image": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/10/29/tnw-xang-dau-nhat-thinh-online-214-1745199162148944101543-17932369127401499864200-106-0-1706-2560-crop-17932369532311442722516.jpg",
+     "detail": [
+      "Trước kỳ điều chỉnh, giá bán lẻ tối đa đang là: xăng E5 RON92 khoảng 25.361 đồng/lít, xăng E10 RON95-III khoảng 25.213 đồng/lít, dầu diesel 29.550 đồng/lít (theo VietNamNet). Nếu dự báo đúng, giá diesel có thể vượt mốc 30.000 đồng/lít.",
+      "Dự báo tăng 700–900 đồng/lít là của một số thương nhân đầu mối và chưa tính việc dùng Quỹ bình ổn giá. Quỹ bình ổn là khoản tiền doanh nghiệp trích lại để \"đệm\" khi giá lên; nếu liên bộ cho chi quỹ, mức tăng thực tế có thể thấp hơn.",
+      "Trên thế giới, dầu Brent đã vượt 110 USD/thùng, dầu WTI của Mỹ tăng 3% lên khoảng 102,8 USD/thùng. Thị trường lo nguồn cung Trung Đông bị gián đoạn sau tin nhà máy lọc dầu lớn ở Ả Rập Xê Út bị tấn công; tồn kho dầu thô Mỹ cũng giảm 1,9 triệu thùng, ngược với dự báo tăng.",
+      "Nhóm OPEC+ (các nước xuất khẩu dầu và đồng minh) họp vào cuối tuần này, dự kiến giữ nguyên sản lượng tháng 12. Với gia đình và doanh nghiệp vận tải, giá xăng dầu tăng sẽ kéo theo chi phí đi lại, giao hàng; nên theo dõi giá chính thức công bố chiều nay (thường áp dụng từ 15h)."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index mất hơn 12 điểm phiên sáng, lùi sát mốc 1.750",
+     "summary": "Kết phiên sáng 29/10, VN-Index giảm 12,12 điểm (−0,69%) xuống 1.754,53 điểm; 218 mã giảm, chỉ 81 mã tăng. Cổ phiếu năng lượng kéo thị trường đi xuống, trong khi Hòa Phát tăng 2,4% nhờ lợi nhuận quý III tốt.",
+     "source": "Tin nhanh Chứng khoán",
+     "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-sang-2910-sac-do-lan-rong-vn-index-lui-ve-sat-moc-1750-diem-post400417.html",
+     "figure": {
+      "value": "1.754,53",
+      "label": "VN-Index, nghỉ trưa 29/10",
+      "delta": "−12,12 điểm (−0,69%)",
+      "dir": "down",
+      "spark": [
+       1766.65,
+       1769.55,
+       1751.67,
+       1754.53
+      ]
+     },
+     "detail": [
+      "Sau phiên hồi phục nhẹ hôm qua nhờ nhóm ngân hàng, thị trường sáng nay rung lắc rồi giảm mạnh về cuối phiên. VN-Index mở cửa ở 1.769,55 điểm, có lúc xuống 1.751,67 điểm trước khi chốt phiên sáng ở 1.754,53 điểm. Rổ VN30 mất gần 15 điểm.",
+      "Nhóm năng lượng giảm sâu nhất, hơn 4%: GAS giảm 4,6%, BSR giảm 4,3%, PVT giảm sàn. FPT giảm 2,8% cũng gây áp lực. Ngược lại, cổ phiếu thép là điểm sáng: HPG tăng khoảng 2,4% với thanh khoản cao nhất thị trường, cùng BID và GVR giúp chỉ số không giảm sâu hơn.",
+      "Giá trị giao dịch trên HoSE đạt khoảng 8.131 tỷ đồng, tăng khoảng 46% so với phiên sáng hôm trước. Theo một số nguồn, khối ngoại tiếp tục bán ròng khoảng 600 tỷ đồng trong phiên sáng. Sàn HNX giảm 0,97% xuống 257,33 điểm, UPCoM giảm 1,21%.",
+      "Giới phân tích xem 1.750 điểm là ngưỡng quan trọng trong ngắn hạn và khuyên nhà đầu tư cá nhân thận trọng, tránh mua đuổi, kiểm soát tỷ trọng cổ phiếu khi thị trường còn biến động."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng miếng SJC đi ngang ở 139,7–142,7 triệu đồng/lượng",
+     "summary": "Trong ngày 29/10, vàng miếng SJC giữ giá mua 139,7 triệu, bán 142,7 triệu đồng/lượng; chênh lệch mua – bán 3 triệu đồng. Vàng nhẫn và vàng các thương hiệu khác thấp hơn SJC khoảng 1–2 triệu đồng/lượng.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/gia-vang-hom-nay-29102026-sjc-1397-1427-trieu-dongluong-di-ngang-3356782.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/29/img_122bf236.jpg",
+     "detail": [
+      "Theo bảng giá cập nhật trong buổi sáng, vàng miếng SJC và DOJI (Hà Nội, TP.HCM) cùng niêm yết 139,7 triệu đồng/lượng mua vào, 142,7 triệu đồng/lượng bán ra, không đổi so với lần cập nhật trước. Mức này thấp hơn khoảng 0,3 triệu đồng so với vùng 140–143 triệu của bản tin sáng.",
+      "Các thương hiệu khác: Bảo Tín Minh Châu mua 137,4 – bán 141,4 triệu; PNJ mua 137 – bán 141 triệu; Phú Quý mua 138,2 – bán 142,7 triệu đồng/lượng. Vàng nhẫn DOJI bán ra khoảng 141,6 triệu đồng/lượng.",
+      "Chênh lệch giữa giá mua và giá bán vàng miếng vẫn ở mức 3 triệu đồng/lượng, nghĩa là người mua hôm nay rồi bán lại ngay sẽ lỗ khoảng 2%. Người có nhu cầu tích trữ nên so sánh giá giữa các cửa hàng và không nên mua dồn một lúc khi thị trường còn đứng giá."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Đề xuất tiếp tục hỗ trợ tiền đóng BHYT cho 1,3 triệu người từ 1/11",
+     "summary": "Bộ Y tế đề xuất ngân sách tiếp tục hỗ trợ ít nhất 70% tiền đóng bảo hiểm y tế cho khoảng 1,3 triệu người dân tộc thiểu số ở các xã đã ra khỏi diện khó khăn. Chính sách cũ hết hạn ngày 31/10/2026; nếu không gia hạn, nhiều người phải tự đóng gấp khoảng 3,3 lần.",
+     "source": "VietNamNet",
+     "url": "https://vietnamnet.vn/de-xuat-tiep-tuc-ho-tro-tien-dong-bhyt-cho-1-3-trieu-nguoi-tu-ngay-1-11-2569534.html",
+     "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/29/thanh-toan-vien-phi-benh-vien-viet-duc-1648.jpg?width=0&s=a_xtzRRVOLkSrm5NjJd-kg",
+     "detail": [
+      "Đối tượng là người dân tộc thiểu số từng sống ở các xã khu vực II, III hoặc thôn đặc biệt khó khăn giai đoạn 2016–2020, nhưng địa bàn này không còn trong danh sách giai đoạn 2021–2025. Theo Nghị định 75/2023, họ được ngân sách hỗ trợ ít nhất 70% mức đóng BHYT trong 36 tháng, từ 1/11/2023 đến hết 31/10/2026.",
+      "Bộ Y tế đề nghị Chính phủ cho áp dụng tiếp mức hỗ trợ này từ 1/11/2026 cho đến khi nghị định sửa đổi Nghị định 188/2025 có hiệu lực. Lý do: phần lớn những người này thuộc hộ thu nhập thấp, nếu mất hỗ trợ dễ bỏ BHYT, kéo theo gián đoạn khám chữa bệnh, nhất là người mắc bệnh mạn tính.",
+      "Hiện khoảng 1,4 triệu người đang được hỗ trợ; phần 70% từ ngân sách trung ương khoảng 1.075 tỷ đồng. Có 15 tỉnh, thành đã hỗ trợ nốt 30% còn lại, nhưng 17 tỉnh, thành chưa hỗ trợ thêm. Kinh phí dự kiến khoảng 207 tỷ đồng cho 2 tháng cuối năm 2026 và bình quân hơn 1.240 tỷ đồng/năm giai đoạn 2027–2030.",
+      "Với người làm nhân sự hay có người thân ở vùng dân tộc thiểu số, đây là thông tin cần theo dõi: nếu đề xuất được duyệt, thẻ BHYT của nhóm này tiếp tục được ngân sách hỗ trợ mà không bị đứt quãng từ đầu tháng 11."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng mưa hơn 340 mm, nguy cơ lũ quét, sạt lở ở hàng chục xã, phường",
+     "summary": "Trong 24 giờ đến 3h sáng 29/10, Suối Lương (Đà Nẵng) đo được 340,8 mm mưa, Bà Nà 229,8 mm; đất nhiều nơi đã gần bão hòa. Cơ quan khí tượng cảnh báo rủi ro lũ quét, sạt lở cấp 1 ở hơn 40 xã, phường của thành phố.",
+     "source": "Sức khỏe & Đời sống",
+     "url": "https://suckhoedoisong.vn/canh-bao-nguy-co-sat-lo-ngap-ung-tu-quang-tri-den-da-nang-169261029061617025.htm",
+     "tag": "Cảnh báo mưa lũ",
+     "detail": [
+      "Đợt mưa do không khí lạnh kết hợp nhiễu động gió đông gây ra từ tối 27/10, trải dài từ Hà Tĩnh đến Đà Nẵng. Ngoài Đà Nẵng, Huế cũng mưa rất lớn: Bạch Mã 287,2 mm, Dương Hòa 227,4 mm. Độ ẩm đất nhiều nơi đã trên 85% hoặc bão hòa, nghĩa là đất khó ngấm thêm nước và dễ sạt.",
+      "Ở Đà Nẵng, các khu vực có nguy cơ gồm Bà Nà, An Khê, Hải Vân, Hòa Khánh, Liên Chiểu, Sơn Trà, Đại Lộc, Hòa Tiến, Hòa Vang, Sông Vàng cùng khoảng 30 xã, phường khác như Trà My, Tây Giang, Núi Thành. Cấp độ rủi ro thiên tai do lũ quét, sạt lở, sụt lún đất là cấp 1.",
+      "Theo dự báo, mưa lớn giảm dần từ đêm 29/10, nhưng trong ngày vẫn có thể mưa thêm 10–20 mm, có nơi trên 40 mm. Trên biển, vùng Bắc Biển Đông (gồm Hoàng Sa) có gió mạnh cấp 6, giật cấp 7–8, sóng cao 2–4 m, rủi ro thiên tai cấp 2.",
+      "Người dân ở vùng núi, ven suối nên hạn chế đi lại qua ngầm, tràn và sườn dốc; người ở vùng trũng trong thành phố cần đề phòng ngập cục bộ khi mưa to trong thời gian ngắn."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "OpenAI được cho là đàm phán mua chip AI của Google, giảm phụ thuộc Nvidia",
+     "summary": "Theo The Information và Reuters, OpenAI đang đàm phán mua trực tiếp chip TPU (chip AI do Google tự thiết kế) thay vì chỉ thuê qua dịch vụ đám mây. Nếu thành, OpenAI sẽ dùng song song chip Nvidia, Google và chip tự làm cùng Broadcom.",
+     "source": "Tech Times",
+     "url": "https://www.techtimes.com/articles/329677/20261029/openai-eyes-google-chip-ownership-three-vendor-silicon-strategy-takes-shape.htm",
+     "image": "https://d.techtimes.com/en/full/441692/openai.jpg",
+     "detail": [
+      "Trang tin công nghệ The Information đưa tin đầu tiên rằng OpenAI muốn mua đứt chip TPU của Google; Reuters sau đó xác nhận ở mức khái quát. OpenAI từ chối bình luận, Google không phản hồi. Các bài báo chưa nêu giá trị, số lượng chip hay thời gian giao hàng.",
+      "TPU (Tensor Processing Unit) là loại chip Google tự thiết kế để chạy AI. Từ năm 2025, OpenAI đã thuê TPU qua Google Cloud, nhưng khi đó nói chưa có kế hoạch dùng ở quy mô lớn. Chuyển từ thuê sang sở hữu giúp giảm chi phí cho khối lượng tính toán lớn và ổn định, đổi lại kém linh hoạt hơn.",
+      "Người phụ trách phần cứng của OpenAI, ông Richard Ho, từng làm ở Google khoảng 9 năm và tham gia dẫn dắt dự án Cloud TPU. OpenAI cũng có chip suy luận riêng tên Jalapeño, thiết kế cùng Broadcom, công bố tháng 6/2026 và dự kiến đưa vào trung tâm dữ liệu cuối năm nay. Chip Nvidia vẫn là trụ cột để huấn luyện mô hình.",
+      "Quan hệ với Nvidia vẫn rất lớn: theo các báo cáo, Nvidia đầu tư khoảng 30 tỷ USD vào OpenAI, và OpenAI cam kết chi khoảng 600 tỷ USD mua máy chủ Nvidia đến năm 2030. Một số ước tính chưa kiểm chứng cho rằng doanh thu bán TPU ra ngoài của Google có thể lên hàng chục tỷ USD từ 2027.",
+      "Ý nghĩa: các công ty AI lớn đang tìm thêm nguồn chip để giảm phụ thuộc vào một nhà cung cấp và hạ chi phí vận hành. Cạnh tranh chip AI gay gắt hơn có thể giúp giá dịch vụ AI mà doanh nghiệp, người dùng phổ thông trả về lâu dài giảm xuống."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "GitHub: hơn 40% yêu cầu sửa code giờ do “trợ lý AI tự hành” tạo ra",
+     "summary": "Báo cáo Octoverse 2026 của GitHub cho thấy tỷ lệ yêu cầu thay đổi mã nguồn do AI tác tử khởi tạo tăng từ khoảng 17% (tháng 3) lên hơn 40% (tháng 9). Nền tảng hiện có hơn 225 triệu lập trình viên, số lượt commit gấp hơn 3 lần hai năm trước.",
+     "source": "GitHub Blog",
+     "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+     "image": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogHeader_2.jpg",
+     "detail": [
+      "GitHub là nền tảng lưu trữ và cộng tác viết phần mềm lớn nhất thế giới, thuộc Microsoft. Mỗi năm GitHub công bố báo cáo Octoverse về hoạt động lập trình. Bản 2026, công bố ngày 28/10, tính cho 12 tháng đến 30/9/2026.",
+      "Con số nổi bật nhất là vai trò của \"AI tác tử\" (agent) – loại AI có thể tự nhận việc, tự viết code và gửi đề xuất sửa đổi (pull request) cho con người duyệt. Tỷ lệ pull request do agent khởi tạo tăng từ khoảng 17% hồi tháng 3 lên hơn 40% vào tháng 9; riêng tháng 9 có 110 triệu yêu cầu như vậy. 55% người dùng Copilot hằng tháng đã dùng tính năng tác tử, so với 35% một năm trước.",
+      "Quy mô hoạt động lập trình cũng lập kỷ lục: 34,3 tỷ commit (lần lưu thay đổi mã), 17,9 tỷ lượt đẩy mã, 1,3 tỷ pull request được chấp nhận. Tổng số lập trình viên vượt 225 triệu; Mỹ có 38,3 triệu, Ấn Độ 32 triệu và đang tăng nhanh hơn Mỹ. TypeScript vượt Python thành ngôn ngữ phổ biến nhất.",
+      "GitHub ghi nhận các kho mã phục vụ khai khoáng, xây dựng, y tế, nông nghiệp đều tăng gấp nhiều lần từ 2022, cho thấy phần mềm và AI đang lan sang mọi ngành. Báo cáo viết rằng điều thay đổi là việc biến \"ý tưởng cuối tuần\" thành sản phẩm thật đã dễ hơn nhiều.",
+      "Với người làm nhân sự, đây là tín hiệu rõ về thay đổi trong công việc lập trình: kỹ năng giao việc, kiểm tra và duyệt sản phẩm do AI làm ra đang quan trọng ngang kỹ năng tự viết code. Khi tuyển dụng hay đào tạo nhân sự kỹ thuật, doanh nghiệp nên tính đến năng lực làm việc cùng công cụ AI."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-10-29-1100",
    "date": "2026-10-29",
