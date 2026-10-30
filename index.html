@@ -157,6 +157,10 @@ h2,h3{text-wrap:pretty}
 .mbtn.close{margin-top:12px;padding:6px 14px;border:1px solid var(--red);border-radius:2px}
 .mbtn.close:hover{background:var(--red);color:var(--paper)}
 .mbtn.close:hover span{text-decoration:none}
+/* Trang riêng từng mảng: dải tên mảng dưới đầu báo */
+.sect{display:flex;align-items:baseline;justify-content:space-between;gap:6px 16px;flex-wrap:wrap;padding:14px 0 10px;border-bottom:1px solid var(--ink)}
+.sect h2{font-family:var(--f-display);font-weight:700;font-size:1.6rem;letter-spacing:.04em;text-transform:uppercase;margin:0;color:var(--red)}
+.sect span{font-size:.82rem;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -165,6 +169,7 @@ h2,h3{text-wrap:pretty}
     <h1 id="mastTitle">Bản Tin</h1>
     <nav class="nav" id="cats" role="group" aria-label="Lọc theo mảng"></nav>
   </header>
+  <div class="sect" id="sect" hidden><h2 id="sectName"></h2><span id="sectCount"></span></div>
   <main class="front" id="front" hidden>
     <section class="col-l" id="colL"></section>
     <section class="col-c" id="colC"></section>
@@ -183,6 +188,8 @@ fin:'<path d="M8 50l14-14 10 8 22-24"/><path d="M42 20h12v12"/>',
 biz:'<rect x="8" y="22" width="48" height="32" rx="4"/><path d="M24 22v-6a4 4 0 014-4h8a4 4 0 014 4v6M8 36h48"/>',
 know:'<path d="M32 8a16 16 0 00-9 29v7h18v-7A16 16 0 0032 8zM24 52h16M27 58h10"/>',
 dn:'<path d="M6 44h52M6 44c8-14 18-22 26-22s18 8 26 22M16 44V30M26 44V24M38 44V24M48 44V30M6 54c6-4 10-4 16 0s10 4 16 0 10-4 16 0"/>'};
+const SLUG={ai:"ai",vn:"trong-nuoc",fin:"tai-chinh",biz:"kinh-doanh",know:"kien-thuc",dn:"da-nang"};
+const BYSLUG=Object.fromEntries(Object.entries(SLUG).map(([k,v])=>[v,k]));
 const $=id=>document.getElementById(id);
 let items=[],cat="all",shown=[];
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -221,15 +228,20 @@ const tCard=it=>`<article class="card">${visual(it,"lg")}${catL(it)}<h3>${esc(it
 
 function nav(){const cs=$("cats");cs.innerHTML="";
   [["all","Tất cả"],...Object.entries(CATS)].forEach(([k,n])=>{
-    if(k!=="all"&&!items.some(i=>i.cat===k))return;
+    if(k!=="all"&&k!==cat&&!items.some(i=>i.cat===k))return;
     const b=document.createElement("button");b.textContent=n;b.setAttribute("aria-pressed",String(cat===k));
-    b.onclick=()=>{cat=k;render();window.scrollTo({top:0,behavior:"smooth"})};cs.appendChild(b)})}
+    b.onclick=()=>{const h=k==="all"?"":"#"+SLUG[k];if(location.hash!==h){if(h)location.hash=h;else history.pushState(null,"",location.pathname+location.search);}route();window.scrollTo({top:0,behavior:"smooth"})};cs.appendChild(b)})}
+/* Mỗi mảng có link riêng: …/ban-tin/#da-nang, #ai, #tai-chinh… */
+function route(){const k=BYSLUG[decodeURIComponent(location.hash.slice(1))];cat=k||"all";document.title=k?CATS[k]+" · Bản Tin Gọn":"Bản Tin Gọn";if(loaded)render()}
+let loaded=false;window.addEventListener("hashchange",route);window.addEventListener("popstate",route);
 
 function render(){
-  if(!items.length){$("empty").hidden=false;return}
-  if(cat!=="all"&&!items.some(i=>i.cat===cat))cat="all";
   nav();
   const list=cat==="all"?items:items.filter(i=>i.cat===cat);shown=list;
+  $("sect").hidden=cat==="all";if(cat!=="all"){$("sectName").textContent=CATS[cat];$("sectCount").textContent=`${list.length} tin hôm nay`}
+  if(!list.length){$("front").hidden=true;$("more").hidden=true;$("end").hidden=true;$("empty").hidden=false;
+    $("empty").textContent=cat==="all"?"Chưa có bản tin nào.":`Hôm nay chưa có tin mảng ${CATS[cat]}. Bản kế tiếp sẽ cập nhật.`;return}
+  $("empty").hidden=true;
   let li=list.findIndex(hasImg);if(li<0)li=0;
   const lead=list[li],rest=list.filter((_,i)=>i!==li);
   const solo=cat!=="all"||list.length<4;
@@ -244,8 +256,9 @@ function render(){
   document.querySelectorAll(".pic img").forEach(img=>img.addEventListener("error",()=>{const box=img.parentElement;box.outerHTML=fig(shown[+box.dataset.k],box.dataset.s)}));
   $("end").hidden=false;
 }
-fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const all=(j.editions||[]).filter(x=>Array.isArray(x.items));const e=all[0];/* hiện mọi tin trong ngày của bản mới nhất: bản mới xếp trước, bỏ tin trùng link */const day=e?all.filter(x=>x.date===e.date).sort((a,b)=>String(b.slot).localeCompare(String(a.slot))):[];const seen=new Set();items=[];day.forEach(x=>x.items.forEach(it=>{const k=it.url||it.title;if(seen.has(k))return;seen.add(k);items.push(it)}));if(e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||"")){const[y,m,d]=e.date.split("-");$("mastTitle").textContent=`Bản Tin ${d}.${m}.${y}`}render()})
+fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const all=(j.editions||[]).filter(x=>Array.isArray(x.items));const e=all[0];/* hiện mọi tin trong ngày của bản mới nhất: bản mới xếp trước, bỏ tin trùng link */const day=e?all.filter(x=>x.date===e.date).sort((a,b)=>String(b.slot).localeCompare(String(a.slot))):[];const seen=new Set();items=[];day.forEach(x=>x.items.forEach(it=>{const k=it.url||it.title;if(seen.has(k))return;seen.add(k);items.push(it)}));if(e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||"")){const[y,m,d]=e.date.split("-");$("mastTitle").textContent=`Bản Tin ${d}.${m}.${y}`}loaded=true;route()})
   .catch(()=>{$("empty").hidden=false;$("empty").textContent="Không tải được bản tin. Thử mở lại trang."});
+route();
 </script>
 </body>
 </html>
