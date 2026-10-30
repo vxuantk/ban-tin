@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-30T11:05:00+07:00",
+ "updated": "2026-10-30T15:10:00+07:00",
  "editions": [
+  {
+   "id": "2026-10-30-1500",
+   "date": "2026-10-30",
+   "slot": "15:00",
+   "createdAt": "2026-10-30T15:10:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Giá điện có thể giảm từ 1/11, thuế tiêu thụ đặc biệt với xăng về 0%",
+     "summary": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu EVN khẩn trương làm phương án giảm giá bán lẻ điện bình quân và rà soát đưa thuế tiêu thụ đặc biệt với xăng về 0%, dự kiến áp dụng từ 1/11. Mục tiêu là hạ chi phí năng lượng, kìm lạm phát trong bối cảnh giá dầu thế giới quanh 114 USD/thùng.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-dien-co-the-giam-tu-ngay-1-11-188261030105229458.chn",
+     "tag": "Dự kiến từ 1/11",
+     "detail": [
+      "Chỉ đạo được đưa ra chiều tối 27/10: Phó Thủ tướng Nguyễn Văn Thắng yêu cầu Tập đoàn Điện lực Việt Nam (EVN) rà soát, cắt giảm chi phí và xây dựng phương án giảm giá bán lẻ điện bình quân. Cùng lúc, Chính phủ yêu cầu rà soát việc đưa thuế tiêu thụ đặc biệt (một loại thuế đánh thêm vào một số hàng hóa như xăng, rượu bia, ô tô) với xăng về mức 0%.",
+      "Bộ Công Thương đã yêu cầu EVN hoàn thiện phương án để Bộ cho ý kiến; nội dung nào vượt thẩm quyền sẽ được báo cáo lên Chính phủ. Thời điểm dự kiến áp dụng là từ ngày 1/11/2026. Hiện bài báo chưa nêu mức giảm cụ thể bao nhiêu phần trăm hay bao nhiêu đồng mỗi kWh.",
+      "EVN được cho là có dư địa giảm giá: theo tập đoàn này, lợi nhuận 8 tháng đầu năm đạt hơn 12.000 tỷ đồng, và đến cuối tháng 6 đã xử lý hết khoản lỗ lũy kế trên báo cáo tài chính hợp nhất. Theo Cục Thống kê, điện sinh hoạt chiếm khoảng 4,8% rổ hàng hóa dùng để tính chỉ số giá tiêu dùng (CPI), nên giảm giá điện sẽ giúp kéo lạm phát xuống đáng kể.",
+      "Với gia đình, nếu được duyệt, hóa đơn tiền điện từ tháng 11 có thể nhẹ hơn, đặc biệt trong mùa sắm sửa cuối năm. Với doanh nghiệp, giá điện và xăng thấp hơn giúp giảm chi phí sản xuất, vận chuyển. Người đọc nên theo dõi quyết định chính thức của Bộ Công Thương và EVN trong vài ngày tới."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Tin tặc dùng 'đội quân' AI DeepSeek tấn công hơn 200 tổ chức ở 14 nước",
+     "summary": "Hãng bảo mật CrowdStrike cho biết nhóm tin tặc VAPOR PANDA, có liên hệ với Trung Quốc, dùng bộ công cụ AI tự động ARTEX chạy chủ yếu trên mô hình DeepSeek để nhắm vào hơn 200 tổ chức trong 11 ngày. Ít nhất 9 nơi bị xâm nhập sâu, gồm cơ quan chính phủ, hãng dược và nhà mạng.",
+     "source": "CrowdStrike",
+     "url": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+     "detail": [
+      "Ngày 29/10, nhóm tình báo mối đe dọa của CrowdStrike (công ty an ninh mạng lớn của Mỹ) công bố báo cáo về chiến dịch tấn công bắt đầu từ 17/10. Thủ phạm là VAPOR PANDA, nhóm gián điệp mạng có liên hệ với Trung Quốc, hoạt động từ năm 2021 và thường nhắm vào cơ quan nhà nước, viện nghiên cứu, ngành năng lượng. Đây là lần đầu nhóm này bị phát hiện dùng công cụ tấn công điều khiển bằng AI.",
+      "Công cụ có tên ARTEX là một hệ thống 'AI tác tử' (agent – AI có thể tự lên kế hoạch và tự hành động): một tác tử chính điều phối nhiều tác tử phụ lo việc lập kế hoạch và thực thi, cùng nhau dò tìm lỗ hổng, đột nhập và lan rộng trong mạng nội bộ. Các tác tử chủ yếu chạy trên mô hình ngôn ngữ DeepSeek của Trung Quốc, kèm một mô hình thương mại khác chưa xác định. Chỉ một người vận hành đứng sau, ra lệnh bằng tiếng Trung ở các điểm cần quyết định, nhưng chạy được nhiều cuộc tấn công song song.",
+      "Quy mô rất lớn: hơn 200 tổ chức ở ít nhất 14 quốc gia bị nhắm tới chỉ trong 11 ngày; 9 tổ chức đã bị xâm nhập và cài cửa hậu (phần mềm cho phép kẻ tấn công quay lại bất cứ lúc nào), ít nhất 12 nơi khác bị dò mật khẩu hàng loạt. Nạn nhân gồm bộ ngoại giao một số nước Mỹ Latinh, bộ nội vụ một nước Trung Đông, một cơ quan chính phủ Hy Lạp, hai hãng dược Mỹ và các nhà mạng viễn thông ở Mỹ, Bỉ, Philippines. Riêng một vụ, các tác tử AI đã 'đọc' khoảng 1,4 tỷ token (đơn vị văn bản).",
+      "Điểm đáng chú ý là AI tận dụng cả những sơ hở cũ: khóa bảo mật trong bản sao lưu từ năm 2022 chưa được thay, cấu hình VPN bị lộ từ 2024. Các tác tử còn được lệnh tìm những máy tính chưa cài phần mềm bảo vệ để tấn công vào đó. CrowdStrike dự báo trong 12 tháng tới, các nhóm tin tặc sẽ tiếp tục kết hợp kiểu công cụ này với mô hình AI thương mại.",
+      "Khuyến nghị của CrowdStrike: thay ngay các khóa, mật khẩu dịch vụ khi nghi bị lộ (kể cả trong bản sao lưu cũ), vá các thiết bị kết nối Internet, và cài phần mềm giám sát bảo mật trên mọi máy, kể cả máy chủ nội bộ. Với doanh nghiệp Việt Nam, bài học là AI giúp một kẻ tấn công làm việc của cả đội, nên những lỗ hổng 'nhỏ, để sau' giờ bị khai thác nhanh hơn nhiều."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "TP.HCM thông qua quy hoạch tổng thể đến 2050: 5 cực tăng trưởng, 27 triệu dân",
+     "summary": "Chiều 30/10, HĐND TP.HCM thông qua quy hoạch tổng thể đầu tiên sau sáp nhập, trên diện tích khoảng 6.772 km² với 168 phường, xã, đặc khu. Thành phố dự kiến có khoảng 18 triệu dân năm 2030 và 27 triệu năm 2050, phát triển theo 5 cực tăng trưởng và 5 trung tâm vệ tinh.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/tphcm-thong-qua-quy-hoach-tong-the-den-nam-2050-tam-nhin-100-nam-185261030124446316.htm",
+     "tag": "Quy hoạch 2050",
+     "detail": [
+      "Tại kỳ họp thứ 6 HĐND khóa XI, TP.HCM thông qua quy hoạch tổng thể giai đoạn 2025–2050, tầm nhìn 100 năm, cùng 46 nghị quyết khác. Đây là bản quy hoạch đầu tiên của thành phố sau khi hợp nhất, bao trùm khoảng 6.772,59 km², 168 đơn vị phường, xã, đặc khu, và cả phần đất lấn biển nếu cần. Bản tin sáng nay đã đưa thông tin HĐND bắt đầu xem xét quy hoạch này.",
+      "Thành phố được định hình với 5 cực tăng trưởng: lõi trung tâm lịch sử làm trung tâm tài chính quốc tế; cực Đông (Thủ Đức, Thuận An, Dĩ An, Tân Uyên) về công nghệ cao, AI, bán dẫn, giáo dục, nối với sân bay Long Thành; cực Bắc (Thủ Dầu Một, Bến Cát, Bàu Bàng) về công nghiệp – logistics; cực Nam (Châu Đức đến Cần Giờ) về cảng biển, thương mại tự do, năng lượng; cực Tây (khu vực Bình Chánh cũ đến Hóc Môn) về đô thị, giáo dục, y tế.",
+      "Ngoài ra có 5 trung tâm vệ tinh gồm Côn Đảo, Long Hải – Hồ Tràm, Hóc Môn – Củ Chi, Bàu Bàng và Bắc Tân Uyên, nhằm tạo việc làm tại chỗ và giảm áp lực cho khu trung tâm. Đường sắt đô thị, giao thông công cộng sức chở lớn và mô hình TOD (phát triển đô thị quanh nhà ga) là xương sống kết nối; rừng ngập mặn Cần Giờ, hành lang xanh và vùng ven biển được bảo vệ để chống ngập, thích ứng biến đổi khí hậu.",
+      "Dân số tính toán khoảng 18 triệu người năm 2030 và 27 triệu năm 2050. Chủ tịch HĐND Võ Văn Minh yêu cầu UBND sớm ban hành chương trình, kế hoạch hành động, nêu rõ đơn vị chủ trì và thời hạn, giải ngân 100% vốn đầu tư công. Với người lao động và doanh nghiệp, quy hoạch cho thấy hướng dịch chuyển việc làm và hạ tầng của đầu tàu kinh tế cả nước trong nhiều năm tới."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Ngân hàng Trung ương Nhật giữ lãi suất 1,25%, lần đầu nói lạm phát đạt mục tiêu",
+     "summary": "Ngày 30/10, Ngân hàng Trung ương Nhật Bản (BOJ) giữ lãi suất ngắn hạn ở khoảng 1,25%, nhưng lần đầu từ năm 2013 nhận định lạm phát nền về cơ bản đã đạt mục tiêu 2%. BOJ để ngỏ khả năng tiếp tục tăng lãi suất, điều ảnh hưởng tới đồng yên và lao động Việt tại Nhật.",
+     "source": "Vietnam+ (TTXVN)",
+     "url": "https://www.vietnamplus.vn/ngan-hang-trung-uong-nhat-ban-giu-nguyen-lai-suat-o-muc-125-post1145190.vnp",
+     "tag": "Lãi suất 1,25%",
+     "detail": [
+      "Sau cuộc họp chính sách kéo dài hai ngày, BOJ quyết định giữ lãi suất điều hành ngắn hạn ở khoảng 1,25%. Lý do là ngân hàng muốn có thêm thời gian đánh giá tác động của lần tăng lãi suất hồi tháng 9 tới các hộ gia đình và doanh nghiệp Nhật.",
+      "Điểm mới quan trọng: lần đầu tiên kể từ khi đặt mục tiêu ổn định giá 2% vào năm 2013, BOJ cho rằng lạm phát nền (lạm phát đã loại bỏ các mặt hàng biến động mạnh) 'về cơ bản phù hợp với mục tiêu'. Trước đây, ngân hàng chỉ dự kiến đạt mốc này trong khoảng nửa sau tài khóa 2026 đến tài khóa 2027.",
+      "BOJ nêu các yếu tố đẩy giá lên gồm nhu cầu liên quan đến AI tăng, đồng yên có xu hướng mất giá, giá dầu thô cao và giá hàng hóa, dịch vụ – đặc biệt là thực phẩm – đi lên. Ngân hàng nhấn mạnh mục tiêu là giữ giá ổn định bền vững chứ không chỉ chạm mốc 2%, và sẵn sàng tăng lãi suất tiếp nếu điều kiện cho phép.",
+      "Với Việt Nam, đồng yên yếu đang khiến thu nhập quy đổi của lao động Việt tại Nhật giảm, và doanh nghiệp xuất khẩu lao động khó tuyển người (như bản tin sáng nay đã đưa). Nếu BOJ tiếp tục tăng lãi suất, đồng yên có thể được hỗ trợ, nhưng thị trường vẫn chờ tín hiệu rõ hơn từ cuộc họp báo của Thống đốc Ueda và kỳ họp tháng 12."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Đề xuất miễn trách nhiệm cho cán bộ sai sót vì lợi ích chung, không vụ lợi",
+     "summary": "Tại hội thảo sáng 30/10, ông Phạm Văn Hòa, Ủy viên Ủy ban Pháp luật và Tư pháp của Quốc hội, cho rằng theo Nghị quyết 37/2026, sai sót khi thực thi nhiệm vụ có thể được xem xét miễn trách nhiệm nếu không vụ lợi, không tham nhũng, không cố ý. Mục tiêu là để cán bộ bớt sợ sai, dám làm.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/dai-bieu-quoc-hoi-can-phan-biet-sai-sot-vi-loi-ich-chung-voi-hanh-vi-tham-nhung-185261030110755876.htm",
+     "tag": "Nghị quyết 37/2026",
+     "detail": [
+      "Hội thảo 'Nộp tiền khắc phục hậu quả án kinh tế: Hài hòa giữa nghiêm trị và khoan hồng' do Báo Nông thôn Ngày nay/Dân Việt tổ chức sáng 30/10 bàn về cách xử lý các vụ án kinh tế. Ông Phạm Văn Hòa, Ủy viên Ủy ban Pháp luật và Tư pháp của Quốc hội, nhấn mạnh cần phân biệt rõ sai sót vì lợi ích chung với hành vi tham nhũng.",
+      "Theo ông Hòa, Nghị quyết 37/2026 đặt ra cơ chế đặc thù trong xử lý vi phạm hình sự và kỷ luật liên quan kinh tế nhà nước, kinh tế tư nhân, khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số. Sai sót trong thực thi nhiệm vụ, kể cả gây thất thoát tài sản nhà nước, có thể được xem xét miễn trách nhiệm nếu đủ các điều kiện: không vụ lợi, không tham nhũng, không cố ý và không gây hậu quả đặc biệt nghiêm trọng.",
+      "Ông thừa nhận hiện một bộ phận cán bộ e ngại, né tránh trách nhiệm vì sợ rủi ro pháp lý, làm chậm công việc chung. Tuy vậy, người tham nhũng hay chiếm đoạt tài sản vẫn phải chịu trách nhiệm; việc thành khẩn khai báo và khắc phục hậu quả chỉ được tính khi xem xét khoan hồng. PGS-TS Đỗ Cảnh Thìn (ĐH Quốc gia Hà Nội) đồng tình, cho rằng cần nghiêm trị kẻ chủ mưu, ngoan cố và khoan hồng với người hợp tác, tránh oan sai.",
+      "Với người dân và doanh nghiệp, nếu cơ chế này được áp dụng đúng, thủ tục và các dự án vốn bị 'đứng hình' vì cán bộ sợ ký có thể được giải quyết nhanh hơn — đúng với yêu cầu thay thế cán bộ né tránh trách nhiệm mà Chính phủ vừa trình Quốc hội."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng có 34 dự án trọng điểm, quốc lộ 14D phấn đấu xong 10 km trước Tết",
+     "summary": "Đà Nẵng có 34 dự án trọng điểm vốn công và vốn hỗn hợp giai đoạn 2026–2030, trong đó 6 dự án đang thi công. Dự án nâng cấp quốc lộ 14D (4.518 tỷ đồng) đã giải ngân hết 950 tỷ vốn năm 2026 và phấn đấu xong 10 km đầu trước Tết 2027, nhưng còn 606 hồ sơ mặt bằng tồn.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/thao-go-vuong-mac-thuc-day-tien-do-du-an-trong-diem-3356853.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/29/14d12-9f490ecce87aee9f40e4b64269054658.jpg",
+     "detail": [
+      "Theo chương trình hành động số 51 của Thành ủy, Đà Nẵng có 34 dự án quy mô lớn dùng vốn đầu tư công hoặc vốn hỗn hợp, cùng 29 nhóm dự án ngoài ngân sách cho giai đoạn 2026–2030. Trong 34 dự án, 13 dự án đã có chủ trương đầu tư: 6 đang thi công, 2 đã duyệt báo cáo khả thi và dự kiến khởi công cuối năm nay, 5 đang hoàn thiện hồ sơ. Vướng mắc chính vẫn là giải phóng mặt bằng, nguồn vốn và thủ tục.",
+      "Để gỡ khó, thành phố áp dụng cơ chế 'luồng xanh' theo Quyết định 4573 ngày 7/10/2026, rút ngắn ít nhất 50% thời gian xử lý thủ tục cho dự án đầu tư công so với mức tối đa luật cho phép. Ưu tiên dành cho giao thông, khu tái định cư và hạ tầng xã hội.",
+      "Dự án nâng cấp quốc lộ 14D có vốn 4.518 tỷ đồng, khởi công ngày 26/6/2026; 950 tỷ đồng vốn kế hoạch năm nay đã giải ngân hết, mục tiêu hoàn thành 10 km đầu tiên trước Tết 2027. Tuy nhiên, trong 2.811 hồ sơ mặt bằng, mới 1.406 hồ sơ được kiểm đếm thực địa, còn 606 hồ sơ tồn đọng do thay đổi bản đồ địa chính khiến việc xác nhận nguồn gốc đất chậm.",
+      "Các dự án lớn khác gồm nhà máy xử lý chất thải rắn Khánh Sơn công suất 1.000 tấn/ngày (2.777 tỷ, theo hình thức PPP – hợp tác công tư), dự án dược liệu, sâm Ngọc Linh 10.920 tỷ đồng của Trường Hải tại các xã Trà Tập, Trà Linh, Trà Đốc, Phước Thành, và dự án phát triển đô thị phía Nam, chống ngập 7.000 tỷ đồng được Ngân hàng Thế giới cam kết tài trợ, dự kiến khởi công tháng 1/2028. Với người dân, nhà máy rác Khánh Sơn và dự án chống ngập là hai công trình ảnh hưởng trực tiếp đến môi trường sống."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng dày đặc lễ hội cuối năm: lồng đèn Hội An, chợ Giáng sinh, đếm ngược 2027",
+     "summary": "Từ nay đến đầu năm 2027, Đà Nẵng tổ chức chuỗi sự kiện gồm triển lãm nghệ thuật DACC (30/10–8/11), 'Âm vang Mỹ Sơn' (15/11, 15/12), Lễ hội đèn lồng quốc tế Hội An (3–6/12) và Lễ hội chào năm mới bên sông Hàn (30/12–3/1). Mục tiêu là kích cầu du lịch mùa thấp điểm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-to-chuc-nhieu-le-hoi-su-kien-dac-sac-dip-cuoi-nam-2026-3356862.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/29/7.jpg",
+     "detail": [
+      "Mùa mưa cuối năm thường là thời điểm du lịch Đà Nẵng vắng khách, nên thành phố lên lịch hàng loạt sự kiện văn hóa để giữ chân du khách. Mở màn là chương trình Kết nối Nghệ thuật Sáng tạo Đà Nẵng 2026 (DACC 2026) từ 30/10 đến 8/11 tại Bảo tàng Đà Nẵng và Bảo tàng Điêu khắc Chăm.",
+      "Từ 18 đến 24/11 diễn ra Tuần Văn hóa – Đại đoàn kết dân tộc 2026 ở nhiều địa điểm, giới thiệu ẩm thực, nghề thủ công và nghệ thuật dân gian. Chương trình 'Âm vang Mỹ Sơn' quảng bá văn hóa Chăm sẽ tổ chức định kỳ vào ngày 15/11 và 15/12 tại khu đền tháp Mỹ Sơn.",
+      "Điểm nhấn tháng 12 là Lễ hội đèn lồng quốc tế Hội An với chủ đề 'Hội An – Sắc màu di sản' từ 3 đến 6/12 dọc sông Hoài và khu phố cổ, có triển lãm đèn lồng, sắp đặt nghệ thuật, workshop làm thủ công và biểu diễn. Cùng thời gian, chợ Giáng sinh tại Ariyana Đà Nẵng dự kiến có hơn 80 gian hàng.",
+      "Cuối năm có Lễ hội chào năm mới từ 30/12/2026 đến 3/1/2027 dọc sông Hàn và các địa phương; đêm 31/12 dự kiến tổ chức đếm ngược tại công viên Biển Đông, quảng trường Tam Thanh và quảng trường Tây Giang. Gia đình ở Đà Nẵng có thể lên kế hoạch vui chơi sớm; các cơ sở lưu trú, ăn uống có cơ hội tăng doanh thu mùa thấp điểm."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-10-30-1100",
    "date": "2026-10-30",
