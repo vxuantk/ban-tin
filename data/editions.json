@@ -1,6 +1,139 @@
 {
- "updated": "2026-10-30T07:22:05+07:00",
+ "updated": "2026-10-30T11:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-10-30-1100",
+   "date": "2026-10-30",
+   "slot": "11:00",
+   "createdAt": "2026-10-30T11:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Vàng miếng SJC giảm 1,3 triệu đồng, về 141,4 triệu/lượng – thấp nhất một tháng",
+     "summary": "Sáng 30/10, vàng miếng SJC, PNJ, Bảo Tín Mạnh Hải đồng loạt giảm 1,3 triệu đồng, mua vào 138,4 triệu, bán ra 141,4 triệu đồng/lượng. Vàng nhẫn giảm 0,8–1,3 triệu. Giá thế giới quanh 4.024 USD/ounce do khả năng Mỹ còn tăng lãi suất.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/gia-vang-hom-nay-30-10-lao-doc-ve-day-trong-1-thang-qua-176261030085721728.chn",
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/10/30/gia-vang-17933246949281207334021-0-0-429-686-crop-1793324699962703328675.jpg",
+     "detail": [
+      "Bản sáng nay ghi nhận giá vàng SJC còn đứng ở 142,7 triệu đồng/lượng chiều bán. Đến khoảng 9h sáng 30/10, các thương hiệu lớn đã hạ mạnh: SJC, PNJ và Bảo Tín Mạnh Hải cùng niêm yết 138,4 triệu (mua) – 141,4 triệu (bán), giảm 1,3 triệu đồng so với sáng hôm qua. Phú Quý mua vào thấp hơn, ở 137,4 triệu; Mi Hồng mua vào cao nhất thị trường, 139,9 triệu đồng.",
+      "Vàng nhẫn cũng đi xuống, mức giảm 0,8–1,3 triệu đồng tùy nơi. Nhẫn SJC còn 134,7–138,7 triệu đồng/lượng, nhẫn PNJ 136–140 triệu, Phú Quý 137,4–140,4 triệu. Khoảng chênh giữa giá mua và giá bán vẫn rộng, khoảng 3–4 triệu đồng/lượng, nghĩa là ai mua vào rồi bán ngay sẽ lỗ khoản này.",
+      "Trên thế giới, vàng giao ngay sáng nay quanh 4.023,8 USD/ounce, giảm nhẹ so với chiều qua. Nguyên nhân chính là kinh tế Mỹ tăng trưởng tốt hơn dự báo trong khi lạm phát còn cao, khiến khả năng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất vào tháng 12 lớn hơn. Lãi suất cao thường làm vàng – tài sản không sinh lãi – kém hấp dẫn.",
+      "Giá dầu hạ nhiệt và tín hiệu ngoại giao mới giữa Mỹ và Iran cũng làm giảm lo ngại lạm phát năng lượng, bớt lực đỡ cho vàng. Tuy vậy, rủi ro địa chính trị vẫn còn nên giá có thể dao động mạnh. Với người mua vàng để tích lũy, đây là thời điểm nên theo dõi thêm, tránh mua dồn một lần và chú ý chênh lệch mua – bán."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Chính phủ đặt mục tiêu năm 2027 tăng trưởng từ 10%, thu nhập bình quân 6.100 USD",
+     "summary": "Hôm nay Quốc hội thảo luận kế hoạch kinh tế – xã hội 2027 với 45 chỉ tiêu, trong đó GDP tăng từ 10%, lạm phát khoảng 4,5%, GDP bình quân đầu người 6.100 USD. Năm 2026 dự kiến đạt và vượt 14/15 chỉ tiêu.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/chinh-phu-dat-muc-tieu-phan-dau-gdp-binh-quan-dau-nguoi-dat-6100-usd-176261030085104973.chn",
+     "tag": "Quốc hội",
+     "detail": [
+      "Ngày 30/10, Quốc hội bắt đầu thảo luận tại hội trường về kết quả kinh tế – xã hội năm 2026, kế hoạch năm 2027, cùng ngân sách nhà nước và đầu tư công. Phiên chiều được truyền hình trực tiếp và các thành viên Chính phủ sẽ trả lời thêm ý kiến đại biểu. Năm 2027 được xác định là năm tăng tốc để thực hiện Nghị quyết Đại hội XIV của Đảng.",
+      "Kế hoạch 2027 có 45 chỉ tiêu, nổi bật là: GDP tăng 10% trở lên; chỉ số giá tiêu dùng (CPI – thước đo lạm phát) tăng khoảng 4,5%; GDP bình quân đầu người khoảng 6.100 USD; năng suất lao động xã hội tăng 8,6%; tỷ lệ hộ nghèo đa chiều giảm 1–1,5 điểm phần trăm.",
+      "Về năm 2026, Chính phủ dự kiến đạt và vượt 14/15 chỉ tiêu. GDP quý III tăng 9,95%, chín tháng tăng 9,01%. Thu ngân sách ước 3,06 triệu tỷ đồng, tăng 14%, dù đã miễn, giảm, gia hạn khoảng 360.000 tỷ đồng thuế phí. Kim ngạch xuất nhập khẩu cả năm ước khoảng 1.110 tỷ USD, lần đầu vượt mốc 1.000 tỷ USD.",
+      "Với người lao động, báo cáo nêu thu nhập bình quân đạt 9,06 triệu đồng/tháng, tăng khoảng 9,4%; lương cơ sở đã tăng 8% từ 1/7/2026. Về nhà ở xã hội, cả nước có 907 dự án với khoảng 858.500 căn, trong đó 301 dự án đã hoàn thành. Mục tiêu tăng trưởng hai con số đồng nghĩa nhiều dự án hạ tầng và đầu tư công tiếp tục được đẩy nhanh trong năm tới."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index mất gần 25 điểm sáng nay, cổ phiếu Vingroup kéo thị trường",
+     "summary": "Khoảng 10h15 ngày 30/10, VN-Index giảm gần 25 điểm xuống quanh 1.731 điểm; riêng VIC và VHM lấy đi khoảng 15 điểm. Thanh khoản gần gấp đôi phiên trước, trong khi KOS bất ngờ tăng trần sau chuỗi giảm sàn dài.",
+     "source": "Người Quan Sát",
+     "url": "https://nguoiquansat.vn/vn-index-roi-gan-25-diem-dong-tien-tim-den-tch-dxg-fpt-giua-sac-do-bao-trum-325080.html",
+     "figure": {
+      "value": "≈1.731",
+      "label": "VN-Index lúc 10h15 ngày 30/10",
+      "delta": "−25 điểm",
+      "dir": "down",
+      "spark": [
+       1766,
+       1755.61,
+       1731
+      ]
+     },
+     "detail": [
+      "Sau phiên mất hơn 11 điểm hôm qua (đóng cửa 1.755,61 điểm), thị trường chứng khoán sáng 30/10 tiếp tục giảm mạnh. Đến khoảng 10h15, VN-Index còn quanh 1.731 điểm, mất gần 25 điểm, sắc đỏ lan rộng ở nhóm cổ phiếu lớn.",
+      "Nhóm Vingroup là lực kéo chính: VIC giảm 3,2%, VHM giảm 2,7%, hai mã này lấy đi khoảng 15 điểm của chỉ số. Nhiều ngân hàng như VPB, TCB, VCB, LPB cũng giảm; cổ phiếu chứng khoán ORS mất hơn 5%. Giá trị giao dịch gần gấp đôi cùng thời điểm phiên trước, cho thấy áp lực bán đang mạnh.",
+      "Ở chiều ngược lại, KOS gây chú ý khi mở cửa ở giá sàn 3.540 đồng rồi được mua mạnh, khớp hơn 74 triệu cổ phiếu và lên giá trần sau 29 phiên giảm sàn liên tiếp. TCH tăng hơn 1% nhờ lợi nhuận tốt, DXG tăng 1,2% khi lãnh đạo đăng ký mua 15 triệu cổ phiếu, FPT nhích 1% sau khi về đáy ba năm.",
+      "Đây là diễn biến giữa phiên, kết quả cuối ngày có thể khác. Với nhà đầu tư cá nhân, giai đoạn thị trường biến động mạnh nên hạn chế dùng vay ký quỹ (margin – vay tiền công ty chứng khoán để mua cổ phiếu) và tránh mua đuổi theo các mã tăng đột biến."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Sửa Luật Kinh doanh bất động sản: chỉ dự án đủ điều kiện mới được nhận tiền cọc",
+     "summary": "Giải trình trước Quốc hội sáng 30/10, Bộ trưởng Xây dựng cho biết dự luật cấm nhận đặt cọc với nhà đất chưa đủ điều kiện bán, chủ đầu tư phải làm xong móng mới được nhận cọc. Mỗi bất động sản sẽ có mã định danh điện tử để chống lừa đảo, đầu cơ.",
+     "source": "Sức khỏe & Đời sống",
+     "url": "https://suckhoedoisong.vn/bo-truong-bo-xay-dung-chi-du-an-du-dieu-kien-moi-duoc-nhan-tien-dat-coc-169261030100530171.htm",
+     "tag": "Luật sửa đổi",
+     "detail": [
+      "Sáng 30/10, Quốc hội thảo luận dự án Luật Kinh doanh bất động sản (sửa đổi). Nhiều đại biểu lo ngại tình trạng dự án \"ma\", thiếu minh bạch và thông tin sai lệch khiến người mua nhà chịu thiệt. Bộ trưởng Xây dựng Trần Hồng Minh đã giải trình các nội dung này.",
+      "Theo dự luật, chỉ dự án đủ điều kiện mới được nhận tiền đặt cọc. Luật cấm nhận cọc với bất động sản chưa đủ điều kiện đưa vào kinh doanh; trước khi nhận cọc, chủ đầu tư phải hoàn tất nhiều thủ tục, trong đó có việc xây xong phần móng. Vi phạm sẽ được xử lý theo pháp luật dân sự.",
+      "Khoản 5% giá trị còn lại sẽ được bảo lãnh qua ngân hàng, nhằm ràng buộc chủ đầu tư thực hiện nghĩa vụ đến khi nghiệm thu, bàn giao nhà và làm sổ đỏ cho người mua. Doanh nghiệp cũng phải có vốn chủ sở hữu tối thiểu 15% trước khi quyết định đầu tư dự án.",
+      "Mỗi bất động sản trong cơ sở dữ liệu quốc gia sẽ có mã định danh điện tử – như một \"số căn cước\" của căn nhà – để chống gian lận, đầu cơ. Hệ thống đã ghi nhận hơn 66.300 giao dịch và 816 dự án. Với người đang định mua nhà dự án, đây là lưu ý quan trọng: chỉ nên đặt cọc khi dự án đã đủ điều kiện pháp lý."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic thành khách hàng lớn nhất của SpaceX, chiếm hơn 1/3 doanh thu",
+     "summary": "Theo Bloomberg, khách hàng bí ẩn đóng góp 34,5% doanh thu quý III của SpaceX chính là Anthropic, công ty làm ra Claude. Anthropic thuê năng lực tính toán tại trung tâm dữ liệu của SpaceX, cam kết chi tới 120,5 tỷ USD đến năm 2029.",
+     "source": "The Next Web (dẫn Bloomberg)",
+     "url": "https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b",
+     "image": "https://media.thenextweb.com/2026/10/spacex-hangar-launch-tower-kennedy-space-center.jpg",
+     "detail": [
+      "Trong báo cáo quý III, SpaceX – công ty tên lửa và vệ tinh của Elon Musk – cho biết khoảng 34,5% doanh thu quý đến từ một khách hàng duy nhất, chỉ được gọi là \"Khách hàng B\". Bloomberg đưa tin khách hàng này là Anthropic, công ty phát triển trợ lý AI Claude, vượt cả Chính phủ Mỹ để thành khách hàng lớn nhất của SpaceX.",
+      "Anthropic thuê năng lực tính toán (máy chủ, chip AI để huấn luyện và vận hành mô hình) tại các trung tâm dữ liệu của SpaceX ở Memphis, bang Tennessee. Hồ sơ IPO của Anthropic cho thấy khoản thanh toán khoảng 3,1 tỷ USD mỗi tháng bắt đầu từ tháng 12, với tổng cam kết có thể lên tới 120,5 tỷ USD theo các hợp đồng kéo dài đến năm 2029.",
+      "Nhờ hợp đồng này, mảng AI của SpaceX (nay gọi là Super Intelligence) lần đầu có lãi trong quý vừa qua, doanh thu toàn công ty tăng 161%. SpaceX cũng cho Google thuê năng lực tính toán, với khoản thu khoảng 920 triệu USD mỗi tháng.",
+      "Rủi ro là SpaceX phụ thuộc quá nhiều vào một khách hàng: từ đầu năm 2027, Anthropic có quyền hủy hợp đồng với thông báo trước 90 ngày. Elon Musk lập luận rằng SpaceX an toàn hơn các công ty chuyên cho thuê máy chủ AI vì còn mảng Internet vệ tinh Starlink và dịch vụ phóng tên lửa.",
+      "Anthropic từ chối bình luận, SpaceX không phản hồi. Câu chuyện cho thấy cuộc đua AI tốn kém đến mức nào: các công ty AI phải chi hàng chục tỷ USD mỗi năm chỉ để thuê sức mạnh tính toán, và chi phí này cuối cùng sẽ phản ánh vào giá dịch vụ AI mà doanh nghiệp, người dùng phải trả."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng mở đợt cao điểm 90 ngày: 100% người dân đủ điều kiện có định danh mức 2",
+     "summary": "UBND TP Đà Nẵng phát động 90 ngày cao điểm phát triển công dân số, mục tiêu 100% công dân đủ điều kiện có tài khoản định danh điện tử mức 2 và tích hợp giấy tờ trên VNeID. Ít nhất 50% hồ sơ thủ tục thuộc diện miễn, giảm phí được hưởng ưu đãi.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-trien-khai-dot-cao-diem-90-ngay-dem-phat-trien-cong-dan-so-3356844.html",
+     "tag": "VNeID",
+     "detail": [
+      "UBND TP Đà Nẵng vừa ban hành Công văn số 11144/UBND-CATP về đợt cao điểm 90 ngày đêm phát triển \"công dân số\". Trọng tâm là kích hoạt tài khoản định danh điện tử mức 2 (tài khoản VNeID có xác thực khuôn mặt, dùng được cho thủ tục hành chính) và tích hợp 12 loại thông tin, giấy tờ vào ứng dụng VNeID.",
+      "Mục tiêu đặt ra: 100% công dân đủ điều kiện trên địa bàn có tài khoản mức 2; 100% người đã có tài khoản xác nhận, tích hợp đủ thông tin, trong đó có 5 loại giấy tờ cơ bản theo Nghị quyết 66.22; và ít nhất 50% hồ sơ thủ tục thuộc danh mục miễn, giảm phí, lệ phí được hưởng ưu đãi.",
+      "Công an thành phố chủ trì, cùng UBND các xã, phường rà soát danh sách người chưa đăng ký, chưa kích hoạt hoặc chưa tích hợp giấy tờ, giao chỉ tiêu tới từng tổ dân phố, thôn. Mặt trận và các đoàn thể được yêu cầu vận động đoàn viên, hội viên, người lao động tham gia.",
+      "Với người dân và người lao động ở Đà Nẵng, nên mở VNeID kiểm tra tài khoản đã ở mức 2 chưa và tích hợp các giấy tờ được thông báo, vì làm đủ sẽ được hưởng ưu đãi miễn, giảm phí khi làm thủ tục hành chính. Bộ phận nhân sự doanh nghiệp cũng có thể nhắc nhân viên hoàn tất để thuận tiện khi giải quyết các thủ tục liên quan."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Cà Mau có 2 ca viêm não mô cầu, một người tử vong; phía Nam đã 42 ca",
+     "summary": "Hai phụ nữ ở xã Sông Đốc, Cà Mau mắc bệnh não mô cầu, một người 46 tuổi tử vong. Từ đầu năm khu vực phía Nam ghi nhận 42 ca, 7 ca tử vong; bệnh tiến triển rất nhanh, cần đi khám ngay khi sốt cao, cứng cổ, nổi ban xuất huyết.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/hai-nguoi-o-ca-mau-mac-nao-mo-cau-mot-ca-tu-vong-5138518.html",
+     "tag": "Sức khỏe",
+     "detail": [
+      "Ngày 29/10, Trung tâm Kiểm soát bệnh tật Cà Mau ghi nhận hai ca mắc não mô cầu tại xã Sông Đốc. Một phụ nữ 46 tuổi đã tử vong – ca tử vong thứ hai do bệnh này tại tỉnh trong năm. Bệnh nhân còn lại 33 tuổi, khởi phát từ 25/10, đang điều trị tại Bệnh viện Đa khoa Cà Mau.",
+      "22 người tiếp xúc gần với ca tử vong và 4 người thân của bệnh nhân thứ hai đã được uống kháng sinh dự phòng, tự theo dõi sức khỏe 10 ngày; hiện chưa ai sốt. Khu vực nhà bệnh nhân được phun khử khuẩn. Viện Pasteur TP.HCM và Bệnh viện Bệnh Nhiệt đới đã vào hỗ trợ rà soát việc khoanh vùng, điều trị.",
+      "Từ đầu năm, khu vực phía Nam có 42 ca mắc, 7 ca tử vong. Chưa rõ nguyên nhân số ca tăng; chuyên gia cho rằng có thể do xét nghiệm tốt hơn và mầm bệnh đường hô hấp lây lan ở nơi đông người. Bệnh có quanh năm nhưng tăng vào thu, đông, xuân.",
+      "Vi khuẩn não mô cầu lây qua giọt bắn đường hô hấp, có thể gây tử vong hoặc tổn thương não vĩnh viễn nếu không chữa kịp. Dấu hiệu cần đi viện ngay: sốt cao, đau đầu, buồn nôn, cứng cổ, nổi chấm đỏ hoặc mảng xuất huyết dưới da. Nên giữ vệ sinh nhà ở, đeo khẩu trang nơi đông người; hiện đã có vaccine phòng bệnh, có thể hỏi cơ sở tiêm chủng."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Hãng AI Canada Cohere gọi vốn kỷ lục, được định giá 20,5 tỷ USD",
+     "summary": "Cohere hoàn tất vòng đầu của đợt gọi vốn Series E, nhắm tới 7 tỷ đô la Canada, với định giá trước vốn mới 20,5 tỷ USD theo Bloomberg. Chính phủ Canada cam kết rót tới 1,14 tỷ, Nvidia tiếp tục tham gia.",
+     "source": "The Next Web (dẫn Bloomberg)",
+     "url": "https://thenextweb.com/news/cohere-series-e-c7bn-canada-nvidia",
+     "tag": "Gọi vốn",
+     "detail": [
+      "Cohere là công ty AI của Canada, tập trung bán mô hình AI cho doanh nghiệp và chính phủ thay vì làm chatbot cho người dùng phổ thông như ChatGPT. Ngày 29/10, công ty công bố hoàn tất vòng đầu của đợt gọi vốn Series E (vòng gọi vốn thứ năm), nhắm tới tổng cộng 7 tỷ đô la Canada – khoản huy động tư nhân lớn nhất của một công ty công nghệ Canada.",
+      "Theo Bloomberg, mức định giá trước khi nhận vốn mới là 20,5 tỷ USD, gấp khoảng ba lần một năm trước. Dẫn đầu là nhóm Schwarz (chủ chuỗi siêu thị Lidl, Kaufland của Đức); Chính phủ Canada cam kết rót tới 1,14 tỷ; các nhà đầu tư cũ gồm Nvidia, Inovia Capital tiếp tục tham gia.",
+      "Cohere hiện có khoảng 300 khách hàng, tăng 20 lần trong một năm, gồm ngân hàng RBC, TD, Fujitsu, PwC. Doanh thu định kỳ hằng năm tăng hơn 165% trong năm tính đến cuối tháng 9. Công ty cũng đã thỏa thuận sáp nhập với hãng AI Aleph Alpha của Đức và mua startup an ninh mạng AISLE.",
+      "Tiền mới sẽ dùng để tuyển hơn 1.000 nhân sự, phát triển mô hình cho các ngành bị quản lý chặt như ngân hàng, quốc phòng, và mua năng lực tính toán; khoảng 1,2 tỷ sẽ đầu tư hạ tầng tại Canada đến 2030.",
+      "Điểm đáng chú ý là xu hướng \"AI chủ quyền\": các nước muốn có hãng AI riêng để không phụ thuộc vào Mỹ hay Trung Quốc. Ban lãnh đạo Cohere phản bác quan điểm chỉ vài nước, vài công ty mới làm được AI hàng đầu – một góc nhìn cũng liên quan tới tham vọng phát triển AI trong nước của Việt Nam."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-10-30-0700",
    "date": "2026-10-30",
