@@ -1,6 +1,311 @@
 {
- "updated": "2026-10-29T19:41:44+07:00",
+ "updated": "2026-10-30T07:22:05+07:00",
  "editions": [
+  {
+   "id": "2026-10-30-0700",
+   "date": "2026-10-30",
+   "slot": "07:00",
+   "createdAt": "2026-10-30T07:22:05+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, sớm hơn cả năm 2025",
+     "summary": "Đến 29/10, tổng kim ngạch xuất nhập khẩu đạt khoảng 1.001 tỷ USD, lần đầu chạm mốc nghìn tỷ, vượt quy mô cả năm 2025. Xuất khẩu tăng 27,2%, nhập khẩu tăng 37,6%, nhưng cán cân đang thâm hụt khoảng 14 tỷ USD.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/lan-dau-kim-ngach-xuat-nhap-khau-vuot-1-000-ty-usd-5138495.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/29/DJI202602041709390263D-1793270-2801-7902-1793271325.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=6XSDS6Lqe1Ju7kjS5XQ_jg",
+     "detail": [
+      "Theo Cục Hải quan, chưa hết tháng 10 mà tổng giá trị hàng hóa Việt Nam mua bán với thế giới đã đạt khoảng 1.001 tỷ USD. Để so sánh, năm 2007 – thời điểm vào WTO – con số này mới khoảng 100 tỷ USD; cả năm 2025 đạt gần 930 tỷ USD.",
+      "Cụ thể, xuất khẩu khoảng 493 tỷ USD (tăng 27,2%), nhập khẩu gần 508 tỷ USD (tăng 37,6%). Vì nhập tăng nhanh hơn xuất, Việt Nam đang nhập siêu khoảng 14 tỷ USD. Xuất khẩu cả năm được dự báo tăng trên 25%, vượt xa mục tiêu 15–16% Chính phủ đặt ra.",
+      "Khối doanh nghiệp vốn nước ngoài (FDI) vẫn là đầu tàu với khoảng 778 tỷ USD, tăng 37%; doanh nghiệp trong nước đạt khoảng 223 tỷ USD, tăng 16%. Ba nhóm hàng lớn nhất – máy tính và linh kiện điện tử, điện thoại, máy móc thiết bị – cộng lại khoảng 532 tỷ USD, tăng 49%. Xuất sang các nước có hiệp định thương mại tự do tăng mạnh: Mexico 42,5%, Hàn Quốc 19,1%, Nhật Bản 18,6%.",
+      "Bộ Công Thương đang soạn chiến lược đến 2030: xuất khẩu tăng 15–16%/năm, không để thị trường nào chiếm quá 25% kim ngạch xuất khẩu nhằm giảm phụ thuộc, và nâng tỷ trọng của doanh nghiệp Việt lên 28–30%. Với người lao động, xuất khẩu tăng mạnh nghĩa là nhu cầu tuyển dụng ở nhà máy điện tử, linh kiện vẫn cao; nhưng việc phần lớn giá trị nằm trong tay khối FDI cho thấy doanh nghiệp nội còn yếu."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Amazon: mảng đám mây AWS tăng 39%, nhanh nhất gần 5 năm nhờ AI",
+     "summary": "Quý 3/2026, doanh thu AWS đạt 46 tỷ USD, tăng 39%, tốc độ cao nhất gần 5 năm. Nhưng Amazon chi 77,3 tỷ USD mua máy chủ, trung tâm dữ liệu chỉ trong một quý, khiến dòng tiền tự do 12 tháng âm 42,4 tỷ USD.",
+     "source": "Amazon (thông cáo kết quả kinh doanh)",
+     "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+     "tag": "AWS +39%",
+     "detail": [
+      "Amazon công bố kết quả quý 3/2026 (kết thúc 30/9) vào rạng sáng 30/10 giờ Việt Nam. Tổng doanh thu đạt 201,9 tỷ USD, tăng 12%; Amazon giải thích mức tăng bị kéo thấp khoảng 4 điểm phần trăm do ngày hội mua sắm Prime Day năm nay dời sang quý 2.",
+      "Điểm sáng là AWS – mảng cho thuê hạ tầng điện toán đám mây, nơi các công ty thuê máy chủ để chạy AI. Doanh thu AWS đạt 46 tỷ USD, tăng 39%, nhanh nhất gần 5 năm, quy mô cả năm ước 184 tỷ USD. Dịch vụ Bedrock (cho doanh nghiệp dùng nhiều mô hình AI qua một cổng) có lượng sử dụng tăng gần 17 lần so với năm trước.",
+      "Lợi nhuận hoạt động đạt 28,1 tỷ USD, biên lợi nhuận 13,9% – cao nhất từ trước tới nay của Amazon. Lợi nhuận ròng 20,7 tỷ USD, thấp hơn một chút so với cùng kỳ vì năm ngoái có khoản lãi 9,5 tỷ USD từ khoản đầu tư vào Anthropic.",
+      "Mặt trái là chi phí: riêng quý 3, Amazon chi 77,3 tỷ USD mua tài sản như trung tâm dữ liệu, chip; giữ kế hoạch chi khoảng 220 tỷ USD cả năm 2026. Do đó dòng tiền tự do (tiền còn lại sau khi trừ chi đầu tư) 12 tháng gần nhất âm 42,4 tỷ USD, trong khi năm trước còn dương 14,8 tỷ USD.",
+      "CEO Andy Jassy cho rằng khoản đầu tư \"đang phát huy hiệu quả\" và dự kiến AWS tăng trưởng trên 40% trong cả 2027 và 2028. Cho quý 4, Amazon dự báo doanh thu 240–247 tỷ USD.",
+      "Ý nghĩa: cuộc đua AI giữa các ông lớn (Amazon, Microsoft, Google) đang ở giai đoạn đốt tiền rất mạnh. Với doanh nghiệp Việt dùng dịch vụ đám mây, cạnh tranh này giúp có thêm nhiều công cụ AI dựng sẵn, nhưng giá dịch vụ có thể chưa giảm sớm vì chi phí hạ tầng quá lớn."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng thế giới lùi về 4.021 USD/ounce, vàng miếng SJC giữ 142,7 triệu",
+     "summary": "Sáng 30/10, vàng thế giới quanh 4.021 USD/ounce, giảm khoảng 39 USD so với hôm trước. Vàng miếng SJC đứng ở 139,7–142,7 triệu đồng/lượng, còn vàng nhẫn SJC giảm 300.000 đồng, xuống 135,2–139,2 triệu.",
+     "source": "Thời báo Tài chính Việt Nam",
+     "url": "https://thoibaotaichinhvietnam.vn/gia-vang-hom-nay-ngay-30-10-vang-the-gioi-lui-ve-4-021-usd-ounce-vang-nhan-sjc-giam-300-000-dong-luong-206137.html",
+     "image": "https://thoibaotaichinhvietnam.vn/stores/news_dataimages/2026/092026/16/06/in_social/gia-vang-dam-mau-giu-nguyen-220260916063604.jpg?v=2.720260812095833",
+     "detail": [
+      "Trong nước, vàng miếng tại SJC, DOJI, PNJ đều giữ 139,7 triệu đồng/lượng mua vào và 142,7 triệu bán ra, không đổi so với phiên trước. Vàng nhẫn phân hóa: SJC giảm 300.000 đồng còn 135,2–139,2 triệu; DOJI giảm 100.000 đồng còn 137,5–141,5 triệu; Bảo Tín Minh Châu đứng ở 137,4–141,4 triệu; PNJ 137–141 triệu.",
+      "Trên thế giới, giá vàng giao ngay quanh 4.021 USD/ounce, thấp hơn khoảng 39 USD so với cùng giờ hôm trước. Quy đổi theo tỷ giá Vietcombank chỉ tương đương khoảng 126,1 triệu đồng/lượng (chưa thuế phí), tức vàng miếng trong nước đang cao hơn thế giới hơn 16 triệu đồng/lượng.",
+      "Nguyên nhân chính là dữ liệu kinh tế Mỹ mạnh và lạm phát dai dẳng, khiến thị trường lo Fed (ngân hàng trung ương Mỹ) có thể tăng lãi suất vào tháng 12. Lãi suất cao làm vàng – tài sản không sinh lãi – kém hấp dẫn. Tín hiệu ngoại giao Mỹ – Iran và giá dầu giảm cũng làm nhu cầu trú ẩn yếu đi.",
+      "Với người mua vàng, chênh lệch mua – bán vàng miếng vẫn khoảng 3 triệu đồng/lượng và khoảng cách với giá thế giới còn hơn 16 triệu đồng, nên mua lướt sóng ngắn hạn dễ lỗ. Cần theo dõi thêm quyết định của Fed tháng 12 và diễn biến Trung Đông."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Doanh nghiệp đã sạch nợ thuế được làm thủ tục giải thể trong 12 giờ",
+     "summary": "Bộ trưởng Tài chính Ngô Văn Tuấn cho biết cơ quan đăng ký kinh doanh xử lý giải thể trong 12 giờ khi doanh nghiệp hoàn thành nghĩa vụ tài chính. Hiện còn hơn 2 triệu mã số thuế 'treo' cần làm sạch, trong đó 1,2 triệu của doanh nghiệp và chi nhánh.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/bo-truong-tai-chinh-doanh-nghiep-sach-no-thue-duoc-xu-ly-giai-the-trong-12-gio-5138490.html",
+     "tag": "Giải thể 12 giờ",
+     "detail": [
+      "Chiều 29/10, khi giải trình trước Quốc hội về dự luật Phát triển doanh nghiệp nhỏ và vừa, Bộ trưởng Tài chính thừa nhận doanh nghiệp \"rút khỏi thị trường đang khó hơn gia nhập\". Cả nước có khoảng 2,8 triệu mã số thuế ở trạng thái ngừng kinh doanh hoặc không còn hoạt động tại địa chỉ đăng ký; 8 tháng qua mới đóng được gần 600.000 mã.",
+      "Ông đưa ví dụ một doanh nghiệp ngừng hoạt động 10 năm, không phát sinh giao dịch, vẫn bị tính khoảng 62 triệu đồng tiền thuế và phạt, chủ yếu do lệ phí môn bài (1–3 triệu đồng/năm) cộng tiền chậm nộp. Theo kiến nghị của Hiệp hội doanh nghiệp nhỏ và vừa, Bộ đã chỉ đạo xử lý hồ sơ giải thể trong 12 giờ kể từ khi doanh nghiệp xong nghĩa vụ tài chính.",
+      "Bộ Tài chính cũng đề xuất xóa lệ phí môn bài và tiền chậm nộp phát sinh đến hết năm 2025 cho doanh nghiệp làm thủ tục giải thể, giảm 30–70% tiền phạt chậm nộp hồ sơ khai thuế với doanh nghiệp đã ngừng hoạt động nhưng chưa đóng mã số thuế.",
+      "Đại biểu Nguyễn Hải Long (đoàn Đà Nẵng) dẫn số liệu gần 292.000 doanh nghiệp đã ngừng hoạt động nhưng chưa giải thể, và đề xuất cơ chế tự động chấm dứt cho doanh nghiệp siêu nhỏ không có doanh thu, hóa đơn, lao động, nợ thuế trong 12 tháng liên tiếp. Ông cảnh báo doanh nghiệp 'treo' có thể bị lợi dụng để mua bán hóa đơn.",
+      "Ý nghĩa thực tế: ai từng mở công ty rồi bỏ không nên kiểm tra lại tình trạng mã số thuế, vì nợ môn bài và tiền phạt vẫn cộng dồn hằng năm; chính sách xóa nợ nếu được thông qua sẽ là cơ hội đóng công ty với chi phí thấp."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Doanh nghiệp xuất khẩu lao động khó tuyển người đi Nhật vì yên mất giá",
+     "summary": "Trước đây mỗi đơn hàng đi Nhật có 7–8 ứng viên, nay chỉ còn khoảng 2 người mỗi vị trí. Đồng yên giảm từ 200–220 đồng xuống 160–170 đồng khiến thu nhập quy đổi giảm, thanh niên chuyển sang Đài Loan hoặc làm việc trong nước.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/doanh-nghiep-chat-vat-tim-lao-dong-di-nhat-5137965.html",
+     "image": "https://i2-vnexpress.vnecdn.net/2026/10/29/IMG18922JPG-1793240334-9500-1793267617.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=svR_C4RNSPAk3K78m-PduQ",
+     "detail": [
+      "Nhật Bản vẫn là thị trường lớn nhất, chiếm hơn một nửa số lao động Việt Nam đi làm việc ở nước ngoài mỗi năm; 6 tháng đầu 2026 Nhật tiếp nhận gần 28.500 người. Nhưng các công ty phái cử cho biết nguồn ứng viên giảm mạnh: một doanh nghiệp ở Hà Nội nhận trên 600 đơn hàng/năm nhưng nguồn lao động giảm khoảng 60%, nhiều đợt tuyển ở nông thôn chỉ đáp ứng khoảng 10% chỉ tiêu.",
+      "Lý do lớn nhất là đồng yên mất giá: 1 yên trước đổi được 200–220 đồng, nay chỉ còn 160–170 đồng, mỗi 10.000 yên mất 400.000–600.000 đồng khi gửi về. Thu nhập trước đây 30–40 triệu đồng/tháng, gửi về 20–25 triệu, đến nay khoản tiết kiệm gần như không tăng. Thời gian chờ xuất cảnh sang Nhật khoảng 7 tháng và yêu cầu tiếng Nhật cao, trong khi Đài Loan chỉ 1–2 tháng.",
+      "Người trẻ nông thôn cũng có thêm lựa chọn như làm nhà máy trong nước, chạy xe công nghệ, dịch vụ; người đi thường chọn việc nhẹ như thực phẩm, kho vận, rất ít người chọn cơ khí nặng nhọc. Đối tác Nhật vẫn giữ yêu cầu chiều cao 1,65–1,68 m với một số ngành.",
+      "Từ đầu năm 2027, Nhật dự kiến thay chương trình thực tập sinh kỹ năng bằng chương trình việc làm mới với điều kiện cao hơn, nên cạnh tranh ứng viên sẽ gay gắt hơn. Với người lao động, nên tính kỹ tổng chi phí, thời gian chờ và tỷ giá; khi về nước sau hợp đồng 3 năm còn có thể nhận lại khoảng 100–150 triệu đồng tiền bảo hiểm hưu trí Nhật (nenkin)."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Mistral công bố mã nguồn mô hình AI nghìn tỷ tham số, nhắm an ninh mạng",
+     "summary": "Ngày 29/10, Mistral (Pháp) cho tải tự do 'trọng số' mô hình Mistral Large 4 với khoảng một nghìn tỷ tham số. Công ty nói mô hình dùng ít hơn 47% lượng tính toán mỗi tác vụ so với đối thủ mở GLM-5.3 của Trung Quốc.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+     "tag": "AI mã nguồn mở",
+     "detail": [
+      "Mistral là công ty AI lớn nhất châu Âu. Mô hình Mistral Large 4 (biệt danh \"Le Chonk\") được giới thiệu đầu tháng 10, nay công ty công bố toàn bộ trọng số – tức phần 'bộ não' đã huấn luyện xong – trên Hugging Face để doanh nghiệp, chính phủ tự tải về và chạy trên máy chủ của mình.",
+      "Mô hình có khoảng một nghìn tỷ tham số (tham số là các con số mô hình học được, càng nhiều thường càng mạnh). Mistral cho biết hiệu năng tương đương GLM-5.3 – mô hình mở hàng đầu của Trung Quốc – nhưng dùng ít hơn 47% lượng 'token' (đơn vị chữ AI xử lý) mỗi tác vụ, nên rẻ hơn khi vận hành. Công ty cũng nói mô hình đứng đầu nhóm mô hình mở về khả năng tự viết code trên bảng xếp hạng Artificial Analysis.",
+      "Điểm nhấn là an ninh mạng: Mistral quảng bá mô hình giúp tổ chức phát hiện, điều phối và phản ứng với sự cố bảo mật theo thời gian thực. Phó chủ tịch khoa học Pierre Stock nói vì trọng số đã công khai nên khả năng này \"không thể bị cắt\", tổ chức có thể chạy hoàn toàn nội bộ.",
+      "Đây là phần của cuộc cạnh tranh giữa phe AI 'mở' (Mistral, các công ty Trung Quốc) và phe 'đóng' (OpenAI, Anthropic, Google – chỉ cho dùng qua dịch vụ trả phí). Mistral lập luận doanh nghiệp, chính phủ không nên phụ thuộc vào công ty AI nước ngoài.",
+      "Mặt khác, ông Stock thừa nhận rủi ro khi công cụ mạnh rơi vào tay kẻ xấu, nhưng cho rằng phe phòng thủ cần có công cụ nhanh vì tin tặc cũng đang dùng AI.",
+      "Với doanh nghiệp Việt Nam, mô hình mở mạnh giúp có thêm lựa chọn chạy AI trên hạ tầng riêng, giữ dữ liệu trong nội bộ; tuy nhiên mô hình cỡ này đòi hỏi máy chủ GPU rất đắt, phù hợp với tổ chức lớn hơn là doanh nghiệp nhỏ."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Fed để ngỏ tăng lãi suất tháng 12, tỷ giá Việt Nam chịu áp lực",
+     "summary": "Fed giữ lãi suất ở 3,75–4% nhưng toàn bộ chuyên gia trong khảo sát của Reuters dự báo sẽ tăng vào tháng 12. Chuyên gia cho rằng tỷ giá và nhu cầu ngoại tệ cuối năm là áp lực lớn nhất, khiến dư địa giảm lãi suất cho vay trong nước hẹp lại.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/fed-giu-nguyen-lai-suat-ap-luc-nao-doi-voi-viet-nam-176261029201003076.chn",
+     "tag": "Lãi suất Fed 3,75–4%",
+     "detail": [
+      "Cuộc họp ngày 28/10 của Fed giữ nguyên lãi suất, nhưng khả năng tăng vào tháng 12 vẫn để ngỏ. Trước cuộc họp, 94/100 chuyên gia Reuters khảo sát dự báo đúng việc giữ nguyên, và tất cả đều dự báo tăng lãi suất vào tháng 12.",
+      "PGS.TS Nguyễn Văn Phương (ĐH Kinh tế, ĐHQG Hà Nội) cho rằng tác động đến Việt Nam đi qua tỷ giá trước tiên: kỳ vọng USD mạnh lên, cộng nhu cầu ngoại tệ thanh toán cuối năm, khiến doanh nghiệp nhập khẩu mua USD sớm còn doanh nghiệp xuất khẩu giữ ngoại tệ, làm cung cầu căng thẳng.",
+      "Dòng vốn đầu tư vào cổ phiếu, trái phiếu có thể rút ra nhanh khi tài sản bằng USD sinh lời cao hơn, còn vốn FDI phụ thuộc nhiều hơn vào triển vọng kinh doanh. Doanh nghiệp vay nợ nước ngoài, nhất là khoản vay lãi suất thả nổi, sẽ chịu chi phí cao hơn.",
+      "Ông cho rằng giảm lãi suất VND cần thận trọng, vì giảm quá nhanh khiến giữ tiền đồng kém hấp dẫn. Với người dân và doanh nghiệp: kỳ vọng lãi vay tiếp tục giảm mạnh trong vài tháng tới nên tiết chế; ai có khoản thanh toán bằng ngoại tệ nên tính trước, cân nhắc công cụ chốt tỷ giá kỳ hạn."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vietcombank, BIDV, VietinBank vào kế hoạch cơ cấu vốn nhà nước 2026–2030",
+     "summary": "Theo Quyết định 2054/QĐ-TTg ký ngày 27/10, Nhà nước giữ từ 65% vốn trở lên tại Vietcombank và BIDV, nâng tỷ lệ tại VietinBank từ 64,46% lên 65%. Agribank tiếp tục giữ 100% vốn nhà nước đến 2030.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vietcombank-bidv-va-vietinbank-vao-dien-co-cau-lai-von-nha-nuoc-188261029003832672.chn",
+     "tag": "Sở hữu nhà nước ≥65%",
+     "detail": [
+      "Phó Thủ tướng Nguyễn Văn Thắng đã ký quyết định phê duyệt kế hoạch cơ cấu lại vốn nhà nước tại doanh nghiệp giai đoạn 2026–2030. Ba ngân hàng thương mại lớn có vốn nhà nước nằm trong danh sách.",
+      "Hiện Nhà nước sở hữu khoảng 74,8% Vietcombank, 76,73% BIDV và 64,46% VietinBank. Định hướng đến 2030 là giữ tối thiểu 65% ở cả ba, nghĩa là Vietcombank và BIDV còn dư địa giảm tỷ lệ (thông qua bán bớt hoặc phát hành thêm cổ phiếu cho cổ đông khác), còn VietinBank cần tăng nhẹ khoảng 0,54 điểm phần trăm.",
+      "Bài báo lưu ý đây chỉ là định hướng, không có nghĩa các ngân hàng sẽ bán vốn hay phát hành cổ phiếu ngay; thời điểm và cách làm do Bộ Tài chính và Ngân hàng Nhà nước chủ động quyết định. Danh sách còn có Vietnam Airlines, Tổng công ty Hàng hải (VIMC) và Tập đoàn Cao su (GVR); đơn vị nào không đạt phải giải trình trách nhiệm.",
+      "Với nhà đầu tư chứng khoán, việc Vietcombank và BIDV được phép giảm tỷ lệ sở hữu nhà nước mở ra khả năng tăng vốn, bán cổ phần cho nhà đầu tư chiến lược trong vài năm tới – yếu tố giúp ngân hàng có thêm vốn để cho vay."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Chiều nay Quốc hội thảo luận kế hoạch kinh tế – xã hội 2027",
+     "summary": "Chiều 30/10, Quốc hội thảo luận tình hình kinh tế – xã hội 2026, kế hoạch 2027, dự toán ngân sách và đầu tư công, phát thanh truyền hình trực tiếp. Buổi sáng thảo luận sửa Luật Kinh doanh bất động sản và Luật Thực hiện dân chủ ở cơ sở.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/ngay-3010-quoc-hoi-thao-luan-ke-hoach-phat-trien-kinh-te-xa-hoi-post1398457.html",
+     "tag": "Trực tiếp chiều nay",
+     "detail": [
+      "Đây là ngày làm việc tiếp theo của Kỳ họp thứ 2, Quốc hội khóa XVI. Buổi sáng, đại biểu thảo luận tại hội trường dự án Luật Kinh doanh bất động sản (sửa đổi), sau đó Bộ trưởng Xây dựng giải trình; tiếp đến là Luật Thực hiện dân chủ ở cơ sở (sửa đổi) với phần giải trình của Bộ trưởng Nội vụ.",
+      "Buổi chiều là phiên được chú ý nhất: thảo luận kết quả thực hiện kế hoạch kinh tế – xã hội năm 2026 và kế hoạch 2027; thu chi ngân sách 2026, dự toán ngân sách 2027; kế hoạch đầu tư công; quyết toán ngân sách 2025 và tổng kết dự án đường Hồ Chí Minh giai đoạn hai làn xe. Các thành viên Chính phủ sẽ giải trình cuối phiên; phiên này được phát thanh, truyền hình trực tiếp.",
+      "Hôm trước (29/10), 30 đại biểu đã phát biểu về dự án Luật Phát triển doanh nghiệp nhỏ và vừa, góp ý về tiêu chí xác định doanh nghiệp nhỏ và vừa, ưu đãi thuế, vốn và khởi nghiệp.",
+      "Luật Kinh doanh bất động sản sửa đổi liên quan trực tiếp đến người mua nhà (điều kiện bán nhà hình thành trong tương lai, đặt cọc, bảo vệ người mua), còn phiên chiều sẽ cho biết mục tiêu tăng trưởng, chi tiêu công của năm tới – ảnh hưởng tới việc làm và thu nhập."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Chính sách mới tháng 11: tổ chức nước ngoài tuyển người Việt phải thông báo",
+     "summary": "Từ 15/11, tổ chức nước ngoài tuyển người Việt phải báo cơ quan quản lý trước khi tuyển và trong 10 ngày làm việc sau khi ký hợp đồng. Cũng trong tháng 11, có hiệu lực quy định phạt vi phạm về dữ liệu, xổ số và phổ cập mầm non cho trẻ 5–6 tuổi.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/nhung-chinh-sach-moi-noi-bat-co-hieu-luc-tu-thang-112026-post1398261.html",
+     "tag": "Hiệu lực tháng 11",
+     "detail": [
+      "Nghị định 371/2026/NĐ-CP (hiệu lực 15/11) về tuyển người Việt Nam làm việc cho tổ chức, cá nhân nước ngoài: trước khi tuyển phải thông báo bằng văn bản (có thể qua email chính thức) cho cơ quan quản lý về vị trí, số lượng; phải đăng tin công khai trên Sàn giao dịch việc làm quốc gia hoặc kênh hợp pháp. Trong 10 ngày làm việc sau khi ký hợp đồng, phải báo họ tên, số định danh, vị trí và ngày bắt đầu làm việc của người lao động. Người làm nhân sự ở văn phòng đại diện, tổ chức quốc tế cần lưu ý.",
+      "Nghị định 363/2026/NĐ-CP (hiệu lực 11/11) quy định xử phạt hành chính trong lĩnh vực dữ liệu, trong đó thu thập, tạo lập dữ liệu làm rò rỉ thông tin nhạy cảm có thể bị phạt tới 40–60 triệu đồng (bài báo nêu hai con số chưa thống nhất). Nghị định 389/2026/NĐ-CP (hiệu lực 30/11) về xổ số: phạt tối đa 100 triệu đồng với cá nhân, 200 triệu với tổ chức.",
+      "Nghị định 353/2026/NĐ-CP (hiệu lực 1/11) về phổ cập giáo dục mầm non cho trẻ 5–6 tuổi: trẻ được miễn, giảm, hỗ trợ học phí và chi phí học tập; Nhà nước ưu tiên đầu tư điều kiện dạy học.",
+      "Ngoài ra, Nghị định 392/2026/NĐ-CP (15/11) yêu cầu 10 ngành nghề như vũ trường, kinh doanh lưu trú, casino phải có phương án bảo đảm an ninh trật tự; Nghị định 379/2026/NĐ-CP (16/11) quy định giá xe công tối đa 950 triệu đồng với xe phục vụ công tác chung."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Hạn nộp thuế sử dụng đất phi nông nghiệp năm nay là 2/11",
+     "summary": "Hạn nộp thuế đất ở, đất phi nông nghiệp hằng năm là 31/10, nhưng năm nay rơi vào thứ Bảy nên lùi sang thứ Hai 2/11/2026. Người dân có thể tra cứu và nộp qua ứng dụng eTax Mobile; nhận thông báo 0 đồng vẫn nên kiểm tra lại.",
+     "source": "Thị trường Tài chính Tiền tệ",
+     "url": "https://thitruongtaichinhtiente.vn/thue-su-dung-dat-phi-nong-nghiep-nhung-luu-y-truoc-han-nop-ngay-2-11-86352.html",
+     "tag": "Hạn 2/11",
+     "detail": [
+      "Thuế sử dụng đất phi nông nghiệp (thường gọi là thuế đất ở, thuế nhà đất) phải nộp mỗi năm. Từ năm thứ hai trở đi, hạn là 31/10; năm 2026 ngày này là thứ Bảy nên hạn chuyển sang 2/11. Người mới nộp lần đầu có 30 ngày kể từ khi cơ quan thuế ra thông báo.",
+      "Cách nộp nhanh: đăng nhập eTax Mobile, tra cứu nghĩa vụ, chọn đúng khoản thuế, kiểm tra số tiền và thông tin thửa đất hoặc căn hộ, thanh toán rồi lưu chứng từ. Chủ căn hộ chung cư nên kiểm tra diện tích đất được phân bổ và tên người nộp.",
+      "Nếu đã bán nhà, chuyển nhượng đất mà vẫn nhận thông báo thuế, hoặc đã nộp nhưng hệ thống vẫn báo nợ, nên chuẩn bị hợp đồng, giấy tờ chuyển quyền, chứng từ nộp và gửi phản hồi qua eTax Mobile hoặc liên hệ cơ quan thuế nơi có đất. Hiện ngành thuế đang chuẩn hóa dữ liệu đất đai nên sai sót kiểu này khá phổ biến.",
+      "Theo hướng dẫn được dẫn trong bài (của Thuế Hà Nội), hộ gia đình, cá nhân có tổng số thuế từ 50.000 đồng/năm trở xuống trên cùng địa bàn được miễn. Nộp trễ sẽ bị tính tiền chậm nộp, nên người ở Đà Nẵng và các địa phương khác cũng nên kiểm tra trước cuối tuần này."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng mở rộng hợp tác du lịch với đối tác Singapore, Úc sau DITF 2026",
+     "summary": "Hiệp hội Du lịch Đà Nẵng ký hợp tác với các đối tác lữ hành Singapore, dịch vụ hàng không Úc, golf và du lịch giáo dục. Ngày hội Du lịch quốc tế DITF 2026 có hơn 300 đơn vị bán, 550 bên mua và hơn 7.000 lượt kết nối giao thương.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-dang-ket-noi-khai-thac-thi-truong-du-lich-quoc-te-3356770.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/28/2(3).jpg",
+     "detail": [
+      "Ngày hội Du lịch quốc tế Đà Nẵng (DITF 2026) diễn ra 17–18/10 với chủ đề kết nối đối tác. Hiệp hội Du lịch Đà Nẵng đã ký văn bản hợp tác với nhiều đơn vị quốc tế: Singapore Travel Consortium (mở đường tới các công ty lữ hành, tour gia đình, tour nhiều điểm đến), Golf and Beyond (tour golf kết hợp nghỉ dưỡng, ẩm thực), mạng lưới dịch vụ hàng không của Úc, và một liên minh du lịch văn hóa – giáo dục.",
+      "Quy mô sự kiện: hơn 300 đơn vị cung ứng dịch vụ, 150 đơn vị mua quốc tế và 400 nội địa, hơn 1.500 đại biểu, hơn 7.000 lượt gặp gỡ giao thương giữa doanh nghiệp (B2B). Ban tổ chức còn đưa các hãng lữ hành quốc tế đi khảo sát khách sạn, điểm tham quan, ẩm thực của thành phố.",
+      "Ông Cao Trí Dũng, Chủ tịch Hiệp hội, cho rằng các biên bản ghi nhớ là cơ sở để hợp tác lâu dài và lợi ích lan tỏa cho nhiều doanh nghiệp. Ông Nguyễn Đức Quỳnh (Khu du lịch Bắc Mỹ An) lưu ý gặp gỡ chỉ có giá trị khi chốt được bước tiếp theo cụ thể như gửi báo giá, hẹn lịch đàm phán.",
+      "Với người làm du lịch, khách sạn ở Đà Nẵng, việc mở rộng thị trường Singapore, Úc và khách golf có thể tăng lượng khách mùa thấp điểm cuối năm; hiệu quả thực tế sẽ cần thời gian kiểm chứng."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Sân bay Phú Quốc đưa đường băng số 2 vào khai thác, chuẩn bị APEC 2027",
+     "summary": "Sáng 29/10, đường băng dài 3.300 m của sân bay Phú Quốc đưa vào khai thác sau khoảng 8 tháng thi công, đón được máy bay thân rộng. Đường băng số 1 sẽ đóng khoảng 6 tháng để nâng lên 3.500 m, dự kiến hoạt động lại tháng 5/2027.",
+     "source": "VOV",
+     "url": "https://vov.vn/xa-hoi/dua-duong-bang-thu-2-san-bay-phu-quoc-vao-khai-thac-san-sang-phuc-vu-apec-2027-post1345575.vov",
+     "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/spq1.jpg?v=1793311845",
+     "detail": [
+      "Phú Quốc (An Giang) sẽ đăng cai Tuần lễ Cấp cao APEC năm 2027, nên sân bay đang được mở rộng gấp. Lượng chuyến bay hiện tăng khoảng 45% so với cùng kỳ. Lúc 7h05 sáng 29/10, chuyến 9G1955 của hãng Sun PhuQuoc Airways là chuyến thương mại đầu tiên hạ cánh trên đường băng mới.",
+      "Đường băng số 2 dài 3.300 m, rộng 45 m, đạt chuẩn Code E (đón được Boeing 787, Airbus A350, Boeing 777), có hệ thống hạ cánh bằng thiết bị ILS. Công trình huy động hơn 20 nhà thầu, tư vấn và hơn 6.000 kỹ sư, công nhân làm 3 ca. Công suất giai đoạn 1 là 24 triệu khách/năm; năm 2027 dự kiến đón khoảng 13,5 triệu khách, hơn một nửa là khách quốc tế.",
+      "Tiếp theo, đường băng số 1 tạm đóng khoảng 6 tháng để kéo dài từ 3.000 lên 3.500 m, đón được máy bay lớn nhất như A380; trong thời gian này mọi chuyến bay dồn sang đường băng số 2. Nhà ga T2 do công ty Singapore thiết kế, có làm thủ tục bằng sinh trắc học, dự kiến mở tháng 5/2027; Changi Airports International tham gia vận hành.",
+      "Cùng chiều 29/10, sân bay Phù Cát (Gia Lai) cũng khánh thành đường băng số 2 và đón chuyến bay quốc tế đầu tiên từ Macau. Người đi du lịch Phú Quốc mùa đông này nên theo dõi lịch bay vì tần suất tăng khoảng 34% trong khi chỉ còn một đường băng hoạt động."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Quỹ được OpenAI hậu thuẫn mua hãng an ninh ADT, định giá 15,3 tỷ USD",
+     "summary": "Thrive Holdings – công ty tách ra từ quỹ Thrive Capital, có OpenAI là đối tác và nhà đầu tư – mua hãng an ninh gia đình ADT với giá 10 USD/cổ phiếu, khoảng 7,6 tỷ USD vốn cổ phần. Mục tiêu là làm mới ADT bằng AI.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800",
+     "detail": [
+      "Ngày 29/10 (giờ Mỹ), Thrive Holdings và ADT – công ty lắp đặt hệ thống báo động, camera an ninh gia đình nổi tiếng ở Mỹ – công bố thương vụ. Cổ đông ADT nhận 10 USD mỗi cổ phiếu, tổng khoảng 7,6 tỷ USD; tính cả nợ, giá trị doanh nghiệp khoảng 15,3 tỷ USD.",
+      "Thrive Holdings là một nhánh đầu tư tư nhân của Thrive Capital (quỹ do Josh Kushner sáng lập). Công ty đang nắm hơn 75 doanh nghiệp, với chiến lược mua các công ty truyền thống rồi giữ lâu dài và 'hồi sinh' bằng AI. OpenAI vừa là đối tác vừa là nhà đầu tư: cung cấp mô hình AI, công nghệ và kỹ sư làm việc trực tiếp tại các công ty con.",
+      "Hai bên chưa nói sẽ ra sản phẩm an ninh AI cụ thể nào, chỉ cho biết sẽ đầu tư phát triển sản phẩm mới; ADT sẽ là nền tảng cho mảng an ninh nhà thông minh của Thrive.",
+      "Thương vụ diễn ra khi các ông lớn cũng đổ vào an ninh gia đình dùng AI: Apple ra dòng sản phẩm nhà thông minh, an ninh mới cùng LG và Schneider Electric; Amazon cập nhật camera dùng AI; một số startup thử nghiệm chó robot làm bảo vệ.",
+      "Ý nghĩa: mô hình 'mua doanh nghiệp cũ, gắn AI vào' cho thấy AI đang được đưa vào những ngành dịch vụ truyền thống chứ không chỉ công ty công nghệ. Xu hướng camera nhận diện, cảnh báo thông minh nhiều khả năng sẽ lan sang các sản phẩm an ninh gia đình bán ở Việt Nam."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ trưởng Tài chính: Việt Nam không thể tăng trưởng hai con số nếu thiếu FDI",
+     "summary": "Bộ trưởng Ngô Văn Tuấn nói vốn FDI là yếu tố then chốt cho mục tiêu tăng trưởng hai con số. Vốn FDI thực hiện 9 tháng đạt khoảng 21 tỷ USD, mục tiêu cả năm tối thiểu 30 tỷ USD.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/bo-truong-bo-tai-chinh-viet-nam-co-the-tang-truong-ma-khong-can-fdi-duoc-khong-xin-thua-rang-cau-tra-loi-rat-don-gian-khong-the-188261028233408144.chn",
+     "tag": "FDI 9 tháng ~21 tỷ USD",
+     "detail": [
+      "Phát biểu khi thảo luận ở tổ về dự án sửa đổi Luật Đầu tư (tổ gồm đoàn đại biểu Quảng Ninh, Đà Nẵng, Cao Bằng), Bộ trưởng đặt câu hỏi Việt Nam có thể tăng trưởng mà không cần FDI không, và tự trả lời: \"Không thể!\".",
+      "Số liệu ông nêu: đến tháng 8/2026 cả nước có khoảng 47.796 dự án FDI còn hiệu lực, tổng vốn đăng ký 561,6 tỷ USD. Để tăng trưởng hai con số, tổng vốn đầu tư xã hội cần khoảng 40% GDP, đồng thời hệ số ICOR (số đồng vốn cần để tạo ra một đồng tăng trưởng – càng thấp càng hiệu quả) phải giảm từ 6,4 xuống khoảng 4,5–4,8. Nhu cầu vốn 2026–2030 ước gấp 2,67 lần giai đoạn trước.",
+      "Theo ông, cần thay đổi cách hỗ trợ nhà đầu tư: vì thuế tối thiểu toàn cầu làm ưu đãi thuế truyền thống kém tác dụng, chính sách nên tập trung vào công nghệ cao, nghiên cứu và liên kết doanh nghiệp FDI với doanh nghiệp trong nước, ví dụ chuỗi bán dẫn với từng công đoạn khác nhau.",
+      "Ông cũng thừa nhận doanh nghiệp Việt còn hạn chế về chất lượng, giá thành, năng lực cung ứng. Với người lao động và các địa phương như Đà Nẵng đang hút đầu tư công nghệ, điều này đồng nghĩa nhu cầu nhân lực kỹ thuật, bán dẫn sẽ tăng và chính sách thu hút sẽ ưu tiên dự án công nghệ cao."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Báo cáo quý 3: Hòa Phát lãi hơn 8.200 tỷ, Thế giới Di động tăng 95%",
+     "summary": "Quý 3/2026, Hòa Phát lãi sau thuế 8.265 tỷ đồng, gấp đôi cùng kỳ, doanh thu tăng 70%. Thế giới Di động lãi trước thuế 4.239 tỷ đồng (+95%), Vincom Retail lãi 1.522 tỷ (+10,6%).",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-29-10-mot-doanh-nghiep-bat-dong-san-bao-lai-tang-3478-cong-ty-o-to-bao-lai-tang-1567-188261029001737503.chn",
+     "tag": "Mùa báo cáo quý 3",
+     "detail": [
+      "Mùa công bố báo cáo tài chính quý 3 đang vào cao điểm. Tập đoàn thép Hòa Phát báo doanh thu 62.669 tỷ đồng (tăng 70%), lợi nhuận sau thuế 8.265 tỷ (tăng 106%); lũy kế 9 tháng lãi 23.746 tỷ, gấp đôi cùng kỳ – cho thấy ngành xây dựng, đầu tư công đang kéo nhu cầu thép.",
+      "Ngành bán lẻ cũng khởi sắc: Thế giới Di động lãi trước thuế quý 3 đạt 4.239 tỷ đồng (tăng 95%), riêng công ty con Điện máy Xanh lãi 3.531 tỷ (tăng 103%); 9 tháng tập đoàn lãi 11.600 tỷ. Vincom Retail (cho thuê trung tâm thương mại) lãi 1.522 tỷ, tăng 10,6%; nếu loại khoản thu bất thường năm trước thì tăng 25,6%.",
+      "Một số doanh nghiệp nhỏ tăng đột biến về tỷ lệ do nền so sánh thấp, như BGI Group (VC7) lãi 171 tỷ, tăng gần 3.478%. Ngược lại, Sonadezi (khu công nghiệp) lãi quý 3 đi ngang, 9 tháng giảm 35%.",
+      "Kết quả kinh doanh tốt của các doanh nghiệp đầu ngành là tín hiệu sức mua và đầu tư đang hồi phục; với người lao động ở các tập đoàn này, lợi nhuận tăng thường đi kèm khả năng thưởng cuối năm tốt hơn. Nhà đầu tư nên lưu ý mức tăng phần trăm rất lớn ở doanh nghiệp nhỏ thường do năm trước lãi quá thấp."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "HĐND TP.HCM xem xét quy hoạch tổng thể: 18 triệu dân vào năm 2030",
+     "summary": "Kỳ họp HĐND TP.HCM khai mạc 29/10 xem xét quy hoạch tổng thể thành phố sau hợp nhất với Bình Dương, Bà Rịa – Vũng Tàu. Dân số dự báo khoảng 18 triệu người năm 2030 và hơn 27 triệu năm 2050.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/hdnd-xem-xet-quy-hoach-tong-the-tphcm-voi-18-trieu-dan-du-kien-vao-2030-100261029080704988.htm",
+     "figure": {
+      "value": "18 triệu",
+      "label": "Dân số TP.HCM dự báo năm 2030",
+      "delta": "27 triệu năm 2050",
+      "dir": "up",
+      "spark": [
+       18,
+       25,
+       27
+      ]
+     },
+     "detail": [
+      "HĐND TP.HCM họp chuyên đề trong 1,5 ngày (29–30/10). Nội dung chính là quy hoạch tổng thể thời kỳ 2025–2050, tầm nhìn 100 năm, áp dụng cho toàn bộ thành phố mới rộng khoảng 6.772 km² với 168 đơn vị hành chính cấp xã, phường sau khi hợp nhất với Bình Dương và Bà Rịa – Vũng Tàu.",
+      "Dân số được dự báo khoảng 18 triệu người năm 2030, 25 triệu năm 2045 và hơn 27 triệu năm 2050. Thành phố định hướng thành siêu đô thị nhiều trung tâm, gắn với sông và biển, phát triển hạ tầng đi trước theo mô hình TOD (xây khu đô thị quanh nhà ga metro, bến xe công cộng), có khu thương mại tự do và trung tâm tài chính quốc tế.",
+      "Kỳ họp còn xem xét điều chỉnh đầu tư công trung hạn 2026–2030, mở rộng các trục đường Phan Anh – An Dương Vương, Tân Kỳ – Tân Quý, cải tạo kênh rạch, cơ chế cho khu công nghệ cao, phát hành trái phiếu đô thị qua trung tâm tài chính quốc tế và chính sách thu hút nhân lực y tế.",
+      "Quy hoạch này là căn cứ pháp lý cho mọi dự án hạ tầng, nhà ở của vùng kinh tế lớn nhất cả nước trong nhiều thập niên. Với người lao động, nhất là ở Bình Dương, Bà Rịa – Vũng Tàu cũ, định hướng metro và khu công nghiệp mới sẽ ảnh hưởng đến nơi ở, việc làm và giá đất trong tương lai."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng siết quản lý giá cuối năm, chuẩn bị hàng bình ổn Tết Đinh Mùi",
+     "summary": "UBND Đà Nẵng yêu cầu các ngành theo dõi sát giá xăng dầu, vàng, vật liệu xây dựng và xây dựng kế hoạch bình ổn cho Tết 2027. Tổng mức bán lẻ và dịch vụ 9 tháng ước 235.910 tỷ đồng, tăng 25%.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/tang-cuong-quan-ly-gia-nhung-thang-cuoi-nam-3356766.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2025/07/28/1-t6-2025.jpg",
+     "detail": [
+      "Theo công văn 10978 của UBND thành phố, các sở ngành và địa phương phải triển khai đồng bộ giải pháp bình ổn thị trường, kiểm soát lạm phát và bảo vệ người tiêu dùng trong những tháng cuối năm – thời điểm nhu cầu mua sắm tăng và giá xăng dầu vừa điều chỉnh tăng.",
+      "Ngành công thương đánh giá thị trường tháng 10 ổn định, nguồn hàng dồi dào; tại chợ Hàn, chợ Cồn, chợ Đống Đa chưa có tình trạng găm hàng hay sốt giá. Lực lượng quản lý thị trường tập trung kiểm tra xăng dầu, vàng và vật liệu xây dựng, niêm yết giá, hàng giả, gian lận thương mại.",
+      "Sở Công Thương sẽ xây dựng kế hoạch bình ổn hàng thiết yếu cho Tết Nguyên đán Đinh Mùi 2027. Các siêu thị như Co.opmart cho biết đặt hàng sớm với nhà cung cấp; đại diện siêu thị nói không đẩy toàn bộ chi phí đầu vào tăng sang người mua. Chiến dịch 'Made in Da Nang' và đợt khuyến mại lớn sẽ diễn ra tháng 11–12 tại Aeon Mall Thanh Khê, MM Mega Market, Co.opmart, Lotte Mart.",
+      "Chi cục Quản lý thị trường yêu cầu hộ kinh doanh niêm yết và bán đúng giá. Người dân phát hiện tăng giá bất hợp lý có thể phản ánh với cơ quan quản lý thị trường; các gia đình có thể tận dụng đợt khuyến mại cuối năm để mua sắm trước Tết."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng làm 'xã điểm' phòng bệnh dại khi tiêm phòng cho chó mèo mới 65,9%",
+     "summary": "Xã Sơn Cẩm Hà ghi nhận 5 ca bị chó dại cắn trong 10 tháng năm 2026, trong khi tỷ lệ tiêm phòng dại cho chó mèo mới đạt 65,9%. Thành phố đặt mục tiêu đến hết 2027 tiêm phòng từ 90% tổng đàn trở lên.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-xay-dung-mang-luoi-phong-benh-dai-o-co-so-3356803.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/28/2aobor8u2vxcbzyiredhtkl89e9fmhbnvpy8v98q.jpg",
+     "detail": [
+      "Ở xã Sơn Cẩm Hà, chó mèo thả rông còn phổ biến, nhiều người bị cắn vẫn tự chữa bằng thuốc nam, cào, lể thay vì đi tiêm phòng. Năm 2025 từng có vụ chó dại cắn người; 10 tháng năm 2026 đã có 5 trường hợp bị chó dại cắn. Địa phương thiếu cán bộ thú y nên khó thống kê và tiêm đến từng hộ.",
+      "Mô hình 'Xã điểm phòng, chống bệnh dại' giai đoạn 2026–2027 giao trưởng thôn cùng thú y, y tế thôn thống kê vật nuôi từng hộ; tổ tiêm lưu động đến từng thôn kèm 1–2 điểm tiêm cố định. Hộ nuôi phải ký cam kết không thả rông, xích chó và đeo rọ mõm nơi công cộng. Thành phố nghiên cứu dùng mã QR, vòng cổ nhận diện để quản lý lịch tiêm.",
+      "Một nhóm Zalo phản ứng nhanh kết nối CDC Đà Nẵng, Chi cục Chăn nuôi – Thú y, trạm y tế và UBND xã; khi có động vật nghi dại hoặc người bị cắn phải chia sẻ thông tin trong 24 giờ. Mục tiêu đến hết 2027: ít nhất 90% hộ nuôi chó mèo kê khai và tỷ lệ tiêm đạt từ 90% tổng đàn.",
+      "Khuyến cáo cho mọi gia đình: tiêm phòng dại định kỳ cho chó mèo; khi bị chó mèo cắn hoặc cào phải đến ngay cơ sở y tế để được xử lý vết thương và tiêm vắc xin, huyết thanh khi có chỉ định – bệnh dại khi đã lên cơn gần như không chữa được."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng tuyển 4.857 công dân nhập ngũ năm 2027, khám sức khỏe trước 31/12",
+     "summary": "Năm 2027 Đà Nẵng tuyển 4.050 công dân thực hiện nghĩa vụ quân sự (tăng 100) và 807 công dân nghĩa vụ công an (tăng 141). Các địa phương phải hoàn thành khám sức khỏe trước 31/12/2026; giao quân dự kiến 21–25/2/2027.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-cac-dia-phuong-day-manh-so-tuyen-goi-cong-dan-nhap-ngu-nam-2027-3356818.html",
+     "tag": "Giao quân 21–25/2/2027",
+     "detail": [
+      "Các xã, phường của Đà Nẵng đang rà soát nguồn thanh niên, sơ tuyển sức khỏe và vận động tình nguyện nhập ngũ cho đợt tuyển quân 2027. Tổng chỉ tiêu toàn thành phố là 4.857 công dân: 4.050 nghĩa vụ quân sự và 807 nghĩa vụ công an nhân dân, đều tăng so với năm trước.",
+      "Đến 28/10, phường Liên Chiểu đã sơ tuyển 877 công dân, 642 người đủ điều kiện khám sức khỏe, 48 thanh niên viết đơn tình nguyện. Xã Phú Thuận sơ tuyển 284 người, xã Hòa Vang 376 người; xã Hòa Tiến dự kiến khám sức khỏe cuối tháng 11.",
+      "Việc khám sức khỏe phải xong trước 31/12/2026. Lễ giao nhận quân dự kiến 21–25/2/2027 tại 14 xã, phường gồm Hòa Cường, An Hải, Hòa Khánh, Cẩm Lệ, Thạnh Mỹ, Tiên Phước, Trà My, Bàn Thạch, Núi Thành, Thăng Bình, Điện Bàn, Nam Phước, Đại Lộc và Nông Sơn.",
+      "Gia đình có con trong độ tuổi gọi nhập ngũ nên theo dõi giấy gọi khám từ xã, phường; doanh nghiệp, phòng nhân sự cũng nên dự trù nhân sự nếu có người lao động trẻ thuộc diện gọi nhập ngũ đầu năm 2027."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-10-29-1900",
    "date": "2026-10-29",
