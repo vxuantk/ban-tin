@@ -143,8 +143,13 @@ li.rk .n{font-family:var(--f-display);font-weight:700;font-size:1.55rem;line-hei
 .end .mark{font-family:var(--f-display);font-weight:700;letter-spacing:.3em;color:var(--ink)}
 .empty{border:1px dashed var(--rule);padding:28px;text-align:center;color:var(--muted);margin-top:26px}
 /* Canh đều hai lề cho tiêu đề và đoạn văn */
-h2,h3,p.sum,.more p{text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto}
-h2,h3{text-wrap:pretty}
+/* Tiêu đề canh trái như báo in (canh đều tiêu đề ngắn làm giãn chữ rất xấu). */
+h2,h3{text-align:left;text-wrap:balance}
+/* Đoạn văn canh đều hai lề. Script fit() chia đoạn thành từng dòng (.jl): dòng nào giãn quá
+   thì rải bớt khoảng thừa vào giữa các chữ cái thay vì dồn hết vào dấu cách. */
+p.sum,.mbody p{text-align:justify;text-justify:inter-word;hyphens:manual}
+.jl{display:block;white-space:nowrap;text-align:justify;text-align-last:justify}
+.jl.jlz{text-align-last:auto}
 /* Phần "Đọc chi tiết": nút mở ở đầu, nút "Thu gọn" ở cuối phần mở rộng */
 .more{margin-top:10px;border-top:1px dotted var(--rule);padding-top:8px}
 .mbtn{font:inherit;font-size:.82rem;font-weight:600;color:var(--red);background:none;border:0;padding:4px 0;cursor:pointer;
@@ -213,9 +218,38 @@ function mini(it){const f=it.figure;if(!f||!f.value)return"";const d=dirOf(f);
 const catL=it=>`<span class="cat">${esc(CATS[it.cat]||CATS.know)}</span>`;
 const more=it=>{const d=Array.isArray(it.detail)?it.detail.filter(x=>typeof x==="string"&&x.trim()):(typeof it.detail==="string"&&it.detail.trim()?it.detail.split(/\n\s*\n/):[]);
   return d.length?`<div class="more"><button type="button" class="mbtn open" aria-expanded="false"><i>+</i><span>Đọc chi tiết</span></button><div class="mbody" hidden>${d.map(x=>`<p>${esc(x)}</p>`).join("")}<button type="button" class="mbtn close"><i>−</i><span>Thu gọn</span></button></div></div>`:""};
+/* Canh đều từng dòng, giới hạn độ giãn. */
+const FIT="p.sum,.mbody p";
+function fitP(p){
+  if(p.dataset.t===undefined)p.dataset.t=p.textContent;
+  const t=p.dataset.t;p.textContent=t;p.style.textAlign="left";
+  const W=p.clientWidth;if(!W||!p.getClientRects().length){p.style.textAlign="";p.dataset.w="";return}
+  const tn=p.firstChild;if(!tn)return;
+  const r=document.createRange(),cs=getComputedStyle(p),fs=parseFloat(cs.fontSize);
+  const at=i=>{r.setStart(tn,i);r.setEnd(tn,i+1);const q=r.getClientRects();return q.length?q[q.length-1].top:null};
+  /* tìm chỗ xuống dòng (trình duyệt có thể ngắt cả sau "/", "–" chứ không chỉ ở dấu cách) */
+  const starts=[0];let top=at(0);
+  for(let i=1;i<t.length;i++){if(t[i]===" ")continue;const y=at(i);if(y!==null&&top!==null&&y-top>fs*.5){starts.push(i);top=y}}
+  r.setStart(tn,0);r.setEnd(tn,1);
+  const c=document.createElement("canvas").getContext("2d");c.font=`${cs.fontWeight} ${cs.fontSize} ${cs.fontFamily}`;const sp=c.measureText(" ").width||fs*.25;
+  const frag=document.createDocumentFragment();
+  starts.forEach((a,k)=>{const b=k+1<starts.length?starts[k+1]:t.length;const raw=t.slice(a,b),ln=raw.replace(/ +$/,"");
+    const s=document.createElement("span");s.className="jl";s.textContent=raw;
+    if(k===starts.length-1){s.classList.add("jlz")}
+    else{r.setStart(tn,a);r.setEnd(tn,a+ln.length);const nat=r.getBoundingClientRect().width,slack=W-nat,gaps=(ln.match(/ /g)||[]).length;
+      if(!gaps||slack<=0)s.classList.add("jlz");
+      else if(slack/gaps>sp*.9){/* dấu cách sẽ giãn quá 1,9 lần: rải phần thừa vào giữa các chữ, tối đa 0,06em mỗi chữ */
+        const ls=Math.min((slack-gaps*sp*.9)/Math.max(ln.length-1,1),fs*.06),rest=(slack-ls*(ln.length-1))/gaps;
+        if(rest>sp*1.4)s.classList.add("jlz");/* dòng quá ít chữ: để canh trái còn hơn hở to */
+        else{s.style.letterSpacing=ls.toFixed(2)+"px";s.style.marginRight=(-ls).toFixed(2)+"px"}}}
+    frag.appendChild(s)});
+  p.textContent="";p.appendChild(frag);p.style.textAlign="";p.dataset.w=W;
+  if(p.scrollWidth>W+1){p.textContent=t;p.dataset.w=W}/* chốt an toàn: lỡ đo sai thì trả về đoạn văn thường */}
+function fit(root){(root||document).querySelectorAll(FIT).forEach(p=>{if(String(p.clientWidth)!==p.dataset.w)fitP(p)})}
+let fitT;addEventListener("resize",()=>{clearTimeout(fitT);fitT=setTimeout(()=>fit(),150)});
 /* Mở / thu gọn. Thu gọn xong, nếu đầu tin đã trôi khỏi màn hình thì cuộn về lại tin đó. */
 document.addEventListener("click",e=>{const b=e.target.closest(".mbtn");if(!b)return;const m=b.closest(".more"),body=m.querySelector(".mbody"),op=m.querySelector(".open");
-  if(b.classList.contains("open")){body.hidden=false;op.hidden=true;op.setAttribute("aria-expanded","true");return}
+  if(b.classList.contains("open")){body.hidden=false;op.hidden=true;op.setAttribute("aria-expanded","true");fit(body);return}
   body.hidden=true;op.hidden=false;op.setAttribute("aria-expanded","false");
   const art=m.closest("article,li")||m;if(art.getBoundingClientRect().top<0)art.scrollIntoView({behavior:"smooth",block:"start"});op.focus({preventScroll:true})});
 const by=it=>`<div class="by"><a class="src" href="${esc(safe(it.url))}" target="_blank" rel="noopener">Đọc bài gốc · <b>${esc(it.source||"Nguồn")}</b></a>${it.tag?`<span class="tag">${esc(it.tag)}</span>`:""}</div>`;
@@ -255,6 +289,7 @@ function render(){
   $("moreTitle").textContent=cat==="all"?"Thêm tin":"Cùng mảng "+(CATS[cat]||"");
   document.querySelectorAll(".pic img").forEach(img=>img.addEventListener("error",()=>{const box=img.parentElement;box.outerHTML=fig(shown[+box.dataset.k],box.dataset.s)}));
   $("end").hidden=false;
+  requestAnimationFrame(()=>fit());(document.fonts?document.fonts.ready:Promise.resolve()).then(()=>{document.querySelectorAll(FIT).forEach(p=>p.dataset.w="");fit()});
 }
 fetch("data/editions.json?t="+Date.now()).then(r=>r.json()).then(j=>{const all=(j.editions||[]).filter(x=>Array.isArray(x.items));const e=all[0];/* hiện mọi tin trong ngày của bản mới nhất: bản mới xếp trước, bỏ tin trùng link */const day=e?all.filter(x=>x.date===e.date).sort((a,b)=>String(b.slot).localeCompare(String(a.slot))):[];const seen=new Set();items=[];day.forEach(x=>x.items.forEach(it=>{const k=it.url||it.title;if(seen.has(k))return;seen.add(k);items.push(it)}));if(e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||"")){const[y,m,d]=e.date.split("-");$("mastTitle").textContent=`Bản Tin ${d}.${m}.${y}`}loaded=true;route()})
   .catch(()=>{$("empty").hidden=false;$("empty").textContent="Không tải được bản tin. Thử mở lại trang."});
