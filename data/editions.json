@@ -1,6 +1,190 @@
 {
- "updated": "2026-10-31T11:11:36+07:00",
+ "updated": "2026-10-31T15:06:58+07:00",
  "editions": [
+  {
+   "id": "2026-10-31-1500",
+   "date": "2026-10-31",
+   "slot": "15:00",
+   "createdAt": "2026-10-31T15:06:58+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Thống đốc: tiền gửi dân cư vượt 11,43 triệu tỷ, chênh lệch lãi suất đang thu hẹp",
+     "summary": "Giải trình trước Quốc hội trưa 31/10, Thống đốc Ngân hàng Nhà nước cho biết tiền gửi của người dân đến cuối tháng 8 đạt hơn 11,43 triệu tỷ đồng, tăng 10,6% từ đầu năm. Tín dụng 9 tháng tăng 12,27%; lãi suất huy động tăng 1,42 điểm % nhưng lãi suất cho vay chỉ tăng 0,99 điểm %.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/thong-doc-nguoi-dan-gui-tien-nhieu-vi-tin-tuong-he-thong-ngan-hang-5139105.html",
+     "detail": [
+      "Trong hai phiên thảo luận kinh tế – xã hội của Kỳ họp thứ 2, Quốc hội khóa XVI, có 11 đại biểu nêu ý kiến về ngân hàng. Mối lo chung là nền kinh tế đang dựa quá nhiều vào vốn vay ngân hàng, lãi suất thực tế còn cao và doanh nghiệp nhỏ và vừa vẫn khó tiếp cận vốn. Trưa 31/10, Thống đốc Phạm Đức Ấn đã đứng lên giải trình những vấn đề này.",
+      "Theo Thống đốc, khoảng 80% tiền gửi trong hệ thống là kỳ hạn ngắn, nhưng người dân thường gửi xong lại tái tục liên tục, nên trên thực tế dòng tiền này khá ổn định và có tính dài hạn. Tiền gửi dân cư đến cuối tháng 8 đạt hơn 11,43 triệu tỷ đồng, tăng gần 1,1 triệu tỷ so với đầu năm. Riêng 5 tháng gần nhất, bình quân mỗi tháng tăng ròng khoảng 175.000 tỷ đồng, gấp gần 2,4 lần 5 tháng trước đó. Ông cho rằng người dân gửi nhiều vì tin vào hệ thống, và khi thị trường vốn hấp dẫn, an toàn hơn thì cơ cấu này sẽ tự cân bằng lại.",
+      "Về lãi suất, từ đầu năm lãi suất huy động tăng khoảng 1,42 điểm phần trăm, trong khi lãi suất cho vay chỉ tăng 0,99 điểm, tức khoảng cách giữa hai mức này đang hẹp lại – ngân hàng chịu lãi mỏng hơn để giữ chi phí vốn cho doanh nghiệp. Tín dụng 9 tháng tăng 12,27%, tổng dư nợ hơn 20,8 triệu tỷ đồng, trong đó 77,4% dành cho sản xuất kinh doanh. Tín dụng bất động sản tăng 9,84%, thấp hơn mức chung.",
+      "Với doanh nghiệp nhỏ và vừa (chiếm 98% số doanh nghiệp, dư nợ hơn 4 triệu tỷ đồng), Thống đốc khuyên minh bạch sổ sách, không giữ “hai bộ sổ” – một để nộp thuế, một để đi vay. Theo ông, khi số liệu minh bạch, ngân hàng mới đánh giá đúng sức khỏe doanh nghiệp để cho vay. Với người gửi tiết kiệm, thông tin cho thấy lãi suất huy động đã nhích lên đáng kể trong năm nay, còn với người đi vay, lãi suất cho vay tăng chậm hơn."
+     ],
+     "tag": "Ngân hàng"
+    },
+    {
+     "cat": "fin",
+     "title": "Bộ trưởng Tài chính: lạm phát 9 tháng 4,52%, áp lực lớn nhất đến từ giá dầu",
+     "summary": "Tại Quốc hội ngày 31/10, Bộ trưởng Tài chính cho biết lạm phát 9 tháng ở mức 4,52%, sát mục tiêu 4,5%, trong khi giá dầu Brent đã lên 118–120 USD/thùng, cao hơn dự báo trên 50%. Giải ngân đầu tư công 9 tháng đạt 62,9%; năm nay Nhà nước miễn, giảm, gia hạn thuế khoảng 360.000 tỷ đồng.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/bo-truong-tai-chinh-ly-giai-ve-kiem-soat-lam-phat-va-tien-do-giai-ngan-188261031142948054.chn",
+     "detail": [
+      "Phiên thảo luận tại hội trường ngày 31/10 tập trung vào kinh tế – xã hội và ngân sách. Bộ trưởng Tài chính Ngô Văn Tuấn giải trình các câu hỏi về kiểm soát lạm phát, huy động vốn, lập dự toán và giải ngân vốn đầu tư công. Năm 2026, Việt Nam đặt mục tiêu tăng trưởng trên 10% và giữ lạm phát quanh 4,5%; 9 tháng đầu năm GDP đã tăng 9,01%, lạm phát 4,52%.",
+      "Theo Bộ trưởng, áp lực lên mặt bằng giá “chủ yếu đến từ giá dầu tăng do xung đột địa chính trị”. Khi lập kế hoạch, giá dầu Brent bình quân năm được dự báo khoảng 79 USD/thùng, nhưng hiện đã lên 118–120 USD/thùng. Để đỡ cho doanh nghiệp và người dân, năm nay Nhà nước miễn, giảm thuế khoảng 240.000 tỷ đồng và gia hạn thêm khoảng 120.000 tỷ đồng, tổng khoảng 360.000 tỷ.",
+      "Về giải ngân đầu tư công, 9 tháng đạt 62,9% kế hoạch, cao hơn cùng kỳ khoảng 203.000 tỷ đồng. Tuy vậy, vốn tạm ứng vẫn chiếm khoảng 37%, tức nhiều tiền đã chuyển cho dự án nhưng chưa thành khối lượng hoàn thành. Bộ trưởng cũng thừa nhận khâu lập dự toán chưa sát: năm 2025 thu ngân sách vượt 36% dự toán, chuyển nguồn sang năm sau tới khoảng 1,8 triệu tỷ đồng; một dự án nhóm B hiện cần 18 tháng đến 2 năm chỉ để chuẩn bị.",
+      "Bộ trưởng cho biết thị trường vốn đang gánh bớt cho ngân hàng: 9 tháng có 10 doanh nghiệp IPO huy động trên 60.000 tỷ đồng, gấp 9 lần cả giai đoạn 2021–2025. Với người dân, điều đáng chú ý là Chính phủ coi giá dầu là rủi ro lạm phát chính, và các biện pháp như giảm giá điện, giảm thuế xăng sẽ là công cụ ngắn hạn để giữ giá cả trong những tháng cuối năm."
+     ],
+     "figure": {
+      "value": "4,52%",
+      "label": "Lạm phát 9 tháng 2026",
+      "delta": "Mục tiêu ~4,5%",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng đặt mục tiêu kinh tế số chiếm 35–40% GRDP vào năm 2030",
+     "summary": "Kinh tế số chiếm 12,1% GRDP Đà Nẵng năm 2025, thuộc nhóm 8 địa phương cao nhất nước; kế hoạch mới đặt mục tiêu 35–40% vào 2030. Thành phố đã cấp phép thử nghiệm 6 giải pháp tài chính số và sẽ vận hành Trung tâm Đổi mới sáng tạo từ đầu tháng 11.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/kinh-te-so-mo-khong-gian-tang-truong-moi-3356924.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/30/kinh-te-so.png",
+     "detail": [
+      "Đà Nẵng coi kinh tế số là một động lực chính để đạt tăng trưởng hai con số. Căn cứ là Kế hoạch 507 ban hành ngày 1/10/2026 về phát triển kinh tế số và xã hội số giai đoạn 2026–2030, gồm 14 nhóm nhiệm vụ từ hoàn thiện thể chế, hạ tầng dữ liệu, ứng dụng AI đến an toàn thông tin và nhân lực. Năm 2025, kinh tế số chiếm 12,1% GRDP thành phố, riêng phần “lõi” (sản xuất phần mềm, phần cứng, viễn thông) là 6,4%.",
+      "Mục tiêu đến 2030 rất tham vọng: kinh tế số đạt 35–40% GRDP, tức gần gấp ba hiện nay; ít nhất 70% doanh nghiệp nhỏ và vừa được hỗ trợ chuyển đổi số; tối thiểu 100 doanh nghiệp về AI, chuỗi khối, vi mạch bán dẫn; giá trị thanh toán không dùng tiền mặt gấp 30 lần GRDP. Doanh thu ngành thông tin – truyền thông 9 tháng năm nay đạt 18.869 tỷ đồng, tăng 8,1%.",
+      "Một điểm mới là cơ chế thử nghiệm có kiểm soát (sandbox – cho phép thử sản phẩm mới trong phạm vi giới hạn trước khi có luật đầy đủ). Đà Nẵng đã cấp phép 6 giải pháp tài chính số; đơn vị đầu tiên bắt đầu từ tháng 8/2025 và đã mở rộng từ 3 lên 10 khu du lịch. Lãnh đạo Sở Khoa học và Công nghệ nhấn mạnh giá trị chính của sandbox là dữ liệu thu được sau thử nghiệm để kiến nghị chính sách lên Trung ương.",
+      "Từ đầu tháng 11/2026, Trung tâm Đổi mới sáng tạo – hợp nhất từ 3 trung tâm cũ – sẽ đi vào hoạt động, tập trung vào công nghệ sinh học, AI và vi mạch. Với người lao động và doanh nghiệp tại Đà Nẵng, đây là tín hiệu nhu cầu nhân lực công nghệ, dữ liệu và thanh toán số sẽ tăng; tuy nhiên phần lớn con số trong bài vẫn là mục tiêu, chưa phải kết quả."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Reddit mất hơn 1 triệu lượt truy cập/tuần từ Google vì tìm kiếm AI",
+     "summary": "CEO Reddit cho biết trong tháng 10, Google gửi về ít hơn hơn một triệu lượt truy cập mỗi tuần, nguyên nhân chính là chế độ tìm kiếm AI Mode trả lời thẳng mà không dẫn người đọc sang trang gốc. Cổ phiếu Reddit giảm hơn 25% dù kết quả kinh doanh tốt; công ty thử yêu cầu đăng nhập ngoài nước Mỹ.",
+     "source": "The Decoder",
+     "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+     "image": "https://the-decoder.com/wp-content/uploads/2026/10/reddit_logo_wall.png",
+     "detail": [
+      "Reddit là diễn đàn trực tuyến lớn của Mỹ, lâu nay sống nhờ một lượng lớn người dùng tìm thấy bài viết qua Google. Khi công bố kết quả kinh doanh, CEO Steve Huffman cho biết trong tháng 10, lượt người dùng được Google tìm kiếm chuyển về đã giảm hơn một triệu mỗi tuần.",
+      "Huffman cho rằng thủ phạm chính là các tính năng AI của Google: phần tóm tắt AI Overviews và chế độ AI Mode, vốn trả lời trực tiếp câu hỏi ngay trên trang Google nên người dùng không cần bấm sang trang khác. Ông nói thẳng: AI Mode “không mang lại lưu lượng truy cập, không cho chúng tôi và cũng không cho ai cả”. Theo Reddit, nhu cầu với nội dung của họ không đổi, chỉ là Google không còn dẫn người dùng tới nữa.",
+      "Thị trường phản ứng mạnh: cổ phiếu Reddit giảm hơn 25% dù số liệu kinh doanh khả quan. Để thích nghi, Reddit đang thử nghiệm bắt người dùng ngoài nước Mỹ đăng nhập mới được đọc, vừa hạn chế bị thu thập dữ liệu tự động, vừa biến Reddit thành điểm đến trực tiếp thay vì phụ thuộc công cụ tìm kiếm. Huffman thừa nhận đây là đánh đổi: ít người tiếp cận hơn nhưng gắn bó sâu hơn.",
+      "Reddit đã có hợp đồng bán quyền dùng dữ liệu cho Google để huấn luyện AI và vẫn đang đàm phán với các hãng AI khác, nhưng chưa rõ có thêm hợp đồng hay không. Chuyện này không chỉ của Reddit: mọi trang báo, blog hay cửa hàng trực tuyến sống nhờ lượt tìm kiếm Google đều đối mặt rủi ro tương tự khi tìm kiếm chuyển sang dạng “AI trả lời luôn”.",
+      "Với người dùng thông thường, điều này có nghĩa là các câu trả lời AI ngày càng tiện, nhưng nguồn gốc thông tin ít được nhìn thấy hơn – nên khi gặp thông tin quan trọng (luật, sức khỏe, tài chính), vẫn nên mở nguồn gốc để kiểm tra."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Du lịch Đà Nẵng: 14,4 triệu khách lưu trú 9 tháng, nhưng khách ở chưa lâu",
+     "summary": "9 tháng 2026, Đà Nẵng đón khoảng 14,4 triệu lượt khách ngủ qua đêm (tăng 29,6%), doanh thu lưu trú – ăn uống gần 52.945 tỷ đồng. Tuy vậy, khách chỉ ở bình quân 1,84 ngày, mua sắm chiếm 12–15% chi tiêu, nên ngành du lịch muốn chuyển từ “đếm khách” sang tăng chi tiêu.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/ket-noi-san-pham-de-thu-hut-du-khach-3356947.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/29/29-10-xuc-tien-tai-sing-1.jpg",
+     "detail": [
+      "Theo Thống kê Đà Nẵng, 9 tháng đầu năm 2026 thành phố có khoảng 14,4 triệu lượt khách ngủ qua đêm, tăng 29,6%; trong đó khách quốc tế khoảng 7,69 triệu (tăng 28,9%) và khách trong nước 6,74 triệu (tăng 30,4%). Doanh thu lưu trú, ăn uống đạt khoảng 52.945 tỷ đồng, tăng 26,2%; doanh thu lữ hành khoảng 4.028 tỷ, tăng 16,5%.",
+      "Vấn đề là khách ở chưa lâu: bình quân 1,84 ngày/lượt, khách quốc tế 2 ngày, khách trong nước chỉ 1,65 ngày. Theo một chuyên gia, mua sắm chỉ chiếm khoảng 12–15% chi tiêu chuyến đi của khách quốc tế tại Việt Nam, thấp hơn mức 20–25% ở nhiều nước trong khu vực. Làng nghề, du lịch cộng đồng còn nhỏ lẻ; quà tặng, đặc sản chưa phân khúc rõ; tình trạng chèo kéo, hàng giả vẫn còn.",
+      "Một số doanh nghiệp đã thử liên kết tour với làng đá Non Nước, làng gốm Thanh Hà, cơ sở OCOP và du lịch cộng đồng Hòa Vang; theo doanh nghiệp tự báo cáo, chi tiêu ngoài tour tăng 20–30%. Các ý kiến đề xuất phát triển kinh tế đêm, tổ chức concert lớn để hút khách trẻ, chuẩn hóa dịch vụ cho đoàn khách hội nghị (MICE), nghiên cứu thị thực cho khách lưu trú dài ngày và mở thêm đường bay thẳng tới châu Âu, Ấn Độ, Indonesia, Trung Đông.",
+      "Thành phố vừa xúc tiến du lịch tại Singapore và mở rộng hợp tác với Australia. Với người dân và hộ kinh doanh Đà Nẵng, hướng đi này nghĩa là cơ hội nằm ở các dịch vụ khiến khách ở lâu và chi nhiều hơn – ăn uống đêm, trải nghiệm làng nghề, quà đặc sản có thương hiệu – chứ không chỉ ở lượng khách. Lưu ý các đề xuất trong bài mới là kiến nghị, chưa phải quyết định."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Thu nhập tăng 9% nhưng trừ lạm phát chỉ còn 4,3%: đại biểu lo người dân khó tích lũy",
+     "summary": "Tại Quốc hội sáng 31/10, đại biểu nêu thu nhập bình quân người lao động 9 tháng tăng khoảng 9%, nhưng CPI tăng 4,52% nên thu nhập thực chỉ tăng khoảng 4,3%. Các đề xuất gồm giảm lãi suất cho vay thực tế, giảm thuế tiêu thụ đặc biệt với xăng về 0% và giảm giá điện từ 1/11.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nguoi-dan-con-tich-luy-duoc-bao-nhieu-sau-khi-trang-trai-cuoc-song-188261031101535911.chn",
+     "detail": [
+      "Trong phiên thảo luận kinh tế – xã hội sáng 31/10, nhiều đại biểu đặt câu hỏi: tăng trưởng cao nhưng người dân còn để dành được bao nhiêu? Số liệu được nêu: thu nhập bình quân người lao động 9 tháng tăng khoảng 9%, nhưng giá tiêu dùng (CPI) tăng 4,52%, nên sau khi trừ trượt giá, thu nhập thực chỉ tăng khoảng 4,3%.",
+      "Đại biểu Trịnh Xuân An (Đồng Nai) cho rằng con số bình quân che khuất khó khăn của công nhân thuê trọ, lao động phi chính thức và nhóm thu nhập thấp. Ông đề nghị lấy thu nhập thực, việc làm bền vững và khả năng tích lũy làm thước đo chất lượng tăng trưởng; coi giảm lãi suất cho vay thực tế là trọng tâm; minh bạch lãi suất sau ưu đãi và các loại phí; kiểm soát giá hàng thiết yếu, nhà ở, học phí, viện phí.",
+      "Đại biểu Nguyễn Cao Sơn (Phú Thọ) đề nghị Ngân hàng Nhà nước kéo dài việc cơ cấu lại thời hạn trả nợ, giữ nguyên nhóm nợ đến hết 2027 cho doanh nghiệp khó khăn; xem xét giảm thuế tiêu thụ đặc biệt với xăng về 0%, kéo dài hỗ trợ thuế với dầu diesel. Trước đó, Chính phủ đã yêu cầu EVN giảm giá điện bán lẻ bình quân áp dụng từ 1/11/2026 đến 31/3/2027.",
+      "Với người làm công ăn lương, ý nghĩa thực tế là: mức tăng lương danh nghĩa cần được so với lạm phát để biết đời sống có thực sự khá lên. Các khoản có thể giảm trong vài tháng tới (điện, xăng) giúp đỡ chi tiêu, nhưng vẫn đang chờ quyết định chính thức."
+     ],
+     "figure": {
+      "value": "+4,3%",
+      "label": "Thu nhập thực 9 tháng (sau trừ lạm phát)",
+      "delta": "Danh nghĩa +9%",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "biz",
+     "title": "Vingroup lần đầu lãi trước thuế hơn 1 tỷ USD trong một quý",
+     "summary": "Quý III/2026, Vingroup đạt doanh thu gần 150.580 tỷ đồng và lãi trước thuế gần 29.940 tỷ (hơn 1,1 tỷ USD), gấp 7,4 lần cùng kỳ, chủ yếu nhờ Vinhomes bàn giao dự án. Mảng sản xuất vẫn lỗ gộp hơn 14.430 tỷ; nợ phải trả lên khoảng 1,38 triệu tỷ đồng.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vingroup-lan-dau-lai-truoc-thue-hon-ty-usd-trong-mot-quy-5138844.html",
+     "detail": [
+      "Báo cáo tài chính hợp nhất quý III/2026 của Vingroup cho thấy doanh thu gần 150.580 tỷ đồng, khoảng gấp 4 lần cùng kỳ; lợi nhuận trước thuế gần 29.940 tỷ đồng, tương đương hơn 1,1 tỷ USD, lần đầu tập đoàn vượt mốc này trong một quý. Lãi sau thuế 22.759 tỷ đồng.",
+      "Bất động sản là động lực chính với gần 98.500 tỷ doanh thu, hơn 65% tổng; Vinhomes ghi nhận khoảng 85.400 tỷ nhờ bàn giao các dự án lớn như Vinhomes Sài Gòn Park và Global Gate Hạ Long. Mảng sản xuất (gồm xe điện) có doanh thu 36.705 tỷ, tăng 107%, nhưng vẫn lỗ gộp hơn 14.430 tỷ – tức bán ra còn thấp hơn giá vốn. Doanh thu tài chính giảm 82% do năm ngoái có khoản thoái vốn hơn 30.000 tỷ không lặp lại.",
+      "Lũy kế 9 tháng, doanh thu 372.500 tỷ, lãi sau thuế 43.700 tỷ, vượt 25% kế hoạch năm. Tổng tài sản hơn 1,6 triệu tỷ đồng, tăng 45% từ đầu năm; nợ phải trả khoảng 1,38 triệu tỷ (tăng hơn 400.000 tỷ trong 9 tháng), trong đó nợ vay tài chính gần 390.000 tỷ, cao hơn vốn chủ sở hữu 236.319 tỷ. Tập đoàn giữ khoảng 107.000 tỷ tiền mặt và tiền gửi.",
+      "Lợi nhuận kỷ lục phụ thuộc nhiều vào thời điểm bàn giao nhà nên có thể biến động mạnh giữa các quý, còn đòn bẩy nợ cao là điểm nhà đầu tư cần theo dõi. Vingroup cũng đang tham gia tổng thầu 5 tuyến đường sắt đô thị Hà Nội trị giá khoảng 49 tỷ USD, cho thấy hướng mở rộng sang hạ tầng và năng lượng."
+     ],
+     "figure": {
+      "value": "29.940 tỷ",
+      "label": "Lãi trước thuế quý III/2026",
+      "delta": "Gấp 7,4 lần cùng kỳ",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "fin",
+     "title": "Xuất nhập khẩu Hưng Yên và Ninh Bình sắp chạm 100 tỷ USD",
+     "summary": "10 tháng 2026, kim ngạch xuất nhập khẩu qua Hải quan khu vực IV (Hưng Yên, Ninh Bình) đạt 93,94 tỷ USD, tăng 49,4%; riêng Ninh Bình 71,75 tỷ USD. Dự kiến cán mốc 100 tỷ USD vào giữa tháng 11, trong bối cảnh cả nước vừa vượt 1.000 tỷ USD xuất nhập khẩu.",
+     "source": "VOV",
+     "url": "https://vov.vn/kinh-te/xuat-nhap-khau-hung-yen-va-ninh-binh-sap-can-moc-100-ty-usd-post1346163.vov",
+     "detail": [
+      "Chiều 30/10, Chi cục Hải quan khu vực IV – phụ trách hai tỉnh Hưng Yên và Ninh Bình – công bố kim ngạch xuất nhập khẩu 10 tháng 2026 đạt 93,94 tỷ USD, tăng 49,4% so với cùng kỳ, xếp thứ 5 trong 20 chi cục hải quan khu vực. Cả năm 2025, con số này là 77,93 tỷ USD.",
+      "Ninh Bình là động lực chính với 71,75 tỷ USD (tăng 56,4%), chiếm khoảng 76% tổng; Hưng Yên đạt 22,19 tỷ USD (tăng 30,5%). Số doanh nghiệp làm thủ tục là 5.575 (tăng 8,7%), số tờ khai gần 1,49 triệu (tăng 22,8%). Chi cục dự kiến đến 15/11 tổng kim ngạch sẽ đạt 100 tỷ USD.",
+      "Thứ trưởng Bộ Tài chính đánh giá cao kết quả và đề nghị tiếp tục cải cách thủ tục, chuyển đổi số, chống buôn lậu, gian lận thương mại và hàng giả. Đáng chú ý, tính đến 29/10, tổng xuất nhập khẩu hàng hóa của cả nước lần đầu chạm mốc 1.000 tỷ USD trong một năm.",
+      "Kim ngạch tăng nhanh ở các tỉnh công nghiệp phía Bắc phản ánh làn sóng nhà máy điện tử, linh kiện đầu tư nước ngoài; điều này kéo theo nhu cầu tuyển dụng lao động sản xuất lớn ở khu vực đồng bằng sông Hồng."
+     ],
+     "figure": {
+      "value": "93,94 tỷ USD",
+      "label": "XNK 10 tháng qua Hưng Yên – Ninh Bình",
+      "delta": "+49,4%",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "ai",
+     "title": "Mistral công bố mã mô hình AI nghìn tỷ tham số, nhắm mảng an ninh mạng",
+     "summary": "Hãng AI Pháp Mistral phát hành công khai trọng số mô hình Large 4 cỡ một nghìn tỷ tham số, cho doanh nghiệp và chính phủ tải về tự chạy trên máy chủ riêng. Hãng nói mô hình dùng ít hơn 47% lượng xử lý so với đối thủ Trung Quốc tương đương và đứng đầu nhóm mô hình mở về lập trình tự động.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+     "detail": [
+      "Mistral – công ty AI lớn nhất châu Âu – đã phát hành “trọng số” (phần lõi đã huấn luyện của mô hình, có thể tải về và tự vận hành) của Mistral Large 4, biệt danh “Le Chonk”, ra mắt bản xem trước đầu tháng 10. Mô hình có quy mô khoảng một nghìn tỷ tham số (tham số là các con số mô hình học được; càng nhiều thường càng mạnh nhưng càng tốn tài nguyên), được đưa lên Hugging Face và qua API của Mistral.",
+      "Mistral quảng bá mô hình chủ yếu cho phòng thủ an ninh mạng, gọi đây là năng lực “phòng thủ mạng có chủ quyền” cho doanh nghiệp và chính phủ. Hãng cho biết Large 4 dùng ít hơn 47% token (đơn vị xử lý văn bản) cho mỗi tác vụ so với GLM-5.3 của Trung Quốc – mô hình mở có hiệu năng tương đương – và đứng đầu các mô hình mở trên bảng xếp hạng lập trình tự động của Artificial Analysis.",
+      "Lập luận chính của Mistral là các tổ chức không nên phụ thuộc vào công ty AI bên ngoài. Phó chủ tịch khoa học Pierre Stock nói mô hình mở mang lại quyền truy cập “không thể bị cắt” vì ai cũng có bản sao. CEO Arthur Mensch nói AI nên là công cụ trao quyền chứ không phải để thống trị.",
+      "Đây là cuộc cạnh tranh giữa phe mô hình mở (Mistral, nhiều hãng Trung Quốc) và phe mô hình đóng (OpenAI, Anthropic). Mặt trái là kẻ tấn công cũng có thể dùng công cụ tương tự; Mistral cho rằng trao năng lực ngang nhau cho bên phòng thủ sẽ làm hệ sinh thái mạnh hơn và vấn đề AI bị lạm dụng là “có thể giải quyết”.",
+      "Bài báo không nêu giấy phép sử dụng và cấu hình phần cứng cần thiết; một mô hình cỡ này vẫn cần hạ tầng máy chủ lớn, nên chủ yếu phù hợp với tổ chức lớn, cơ quan nhà nước hoặc ngân hàng muốn giữ dữ liệu nhạy cảm trong nhà."
+     ],
+     "tag": "AI mã nguồn mở"
+    },
+    {
+     "cat": "ai",
+     "title": "CEO Amazon: trợ lý AI mua sắm của bên thứ ba 'vẫn chưa tốt'",
+     "summary": "Sau khi chặn trợ lý Muse của Meta khỏi cửa hàng, CEO Amazon Andy Jassy nói các “agent” mua sắm bên ngoài chưa tiện hơn vào thẳng trang bán lẻ và rất ít khách dùng. Amazon đẩy mạnh Alexa: hơn 400 triệu khách dùng để mua sắm năm qua, đơn hàng trung bình cao hơn 50%.",
+     "source": "TechRadar",
+     "url": "https://www.techradar.com/pro/amazon-ceo-andy-jassy-says-he-isnt-worried-about-still-not-great-shopping-agents-and-bots-rendering-the-site-useless",
+     "detail": [
+      "“Agent” mua sắm là trợ lý AI có thể tự tìm, so sánh và đặt hàng thay người dùng trên nhiều trang web. Meta ra mắt trợ lý Muse vào tháng 9/2026 và tuyên bố hơn 10 triệu người ở Mỹ và Canada đã thiết lập, từng vượt ChatGPT lên đầu bảng ứng dụng miễn phí trên App Store. Cùng tháng, Amazon chặn Muse khỏi cửa hàng với lý do vi phạm điều khoản sử dụng.",
+      "Trao đổi với giới phân tích sau khi Amazon công bố kết quả kinh doanh kỷ lục, CEO Andy Jassy nói trải nghiệm mua qua agent bên ngoài “vẫn chưa tốt, cũng không tiện hơn vào thẳng nhà bán lẻ”, và gần như rất ít khách hàng dùng. Ông cho biết Amazon không lo bị các bot này làm mất vai trò.",
+      "Amazon đang dồn lực cho trợ lý riêng Alexa: hơn 400 triệu khách dùng Alexa để mua sắm trong năm qua, lượt tương tác tăng 570%, và khách dùng Alexa ở Mỹ chi trung bình nhiều hơn 50% mỗi đơn. Trong khi đó Muse đã ký hợp tác với Walmart, Best Buy và Shopify nhưng gặp chỉ trích về bảo mật, kể cả một lỗ hổng chưa được vá bị nhà nghiên cứu phát hiện.",
+      "Lý do sâu xa: Amazon kiếm lời lớn từ quảng cáo và gợi ý sản phẩm khi người thật lướt trang; nếu AI bên ngoài mua hộ, những khoản này biến mất. Cuộc tranh chấp đặt ra câu hỏi lớn của thương mại điện tử thời AI: trợ lý AI được phép vào trang của người khác đến đâu và theo điều kiện gì – điều mà các sàn ở Việt Nam rồi cũng sẽ phải đối mặt."
+     ],
+     "tag": "Mua sắm bằng AI"
+    },
+    {
+     "cat": "dn",
+     "title": "Doanh nhân trẻ kết nối 4 phường phía nam Đà Nẵng để tháo gỡ khó khăn",
+     "summary": "Sáng 31/10, Hội Doanh nhân trẻ Đà Nẵng tổ chức “Cà phê kết nối doanh nhân” tại phường Bàn Thạch với lãnh đạo 4 phường Tam Kỳ, Bàn Thạch, Hương Trà, Quảng Phú. Phần lớn thời gian dành để nghe doanh nghiệp nêu khó khăn và nhu cầu hỗ trợ.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/ca-phe-ket-noi-doanh-nhan-khu-vuc-phia-nam-da-nang-3356968.html",
+     "detail": [
+      "Sáng 31/10, tại phường Bàn Thạch, Hội Doanh nhân trẻ Đà Nẵng tổ chức chương trình “Cà phê kết nối doanh nhân” khu vực phía nam thành phố (vùng Tam Kỳ cũ sau sáp nhập), với sự tham gia của lãnh đạo 4 phường Tam Kỳ, Bàn Thạch, Hương Trà và Quảng Phú.",
+      "Tại buổi gặp, chính quyền các phường chia sẻ định hướng phát triển và các hoạt động hỗ trợ doanh nghiệp, khởi nghiệp sáng tạo. Phần lớn thời gian được dành để doanh nghiệp nêu khó khăn trong sản xuất, kinh doanh và nhu cầu hỗ trợ; hai bên trao đổi các hướng hợp tác để phát triển bền vững.",
+      "Hội cho biết sẽ tiếp tục đồng hành với 4 phường để tổ chức thêm hoạt động thiết thực. Với doanh nghiệp nhỏ ở khu vực phía nam thành phố, đây là kênh đối thoại trực tiếp với chính quyền cơ sở – nơi giải quyết nhiều thủ tục sau khi bỏ cấp huyện – để phản ánh vướng mắc về mặt bằng, thủ tục và thị trường."
+     ],
+     "tag": "Doanh nghiệp"
+    }
+   ]
+  },
   {
    "id": "2026-10-31-1100",
    "date": "2026-10-31",
