@@ -1,6 +1,228 @@
 {
- "updated": "2026-10-31T07:02:51+07:00",
+ "updated": "2026-10-31T11:11:36+07:00",
  "editions": [
+  {
+   "id": "2026-10-31-1100",
+   "date": "2026-10-31",
+   "slot": "11:00",
+   "createdAt": "2026-10-31T11:11:36+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Vàng miếng SJC rơi về 139 triệu đồng/lượng, mất thêm 2,4 triệu trong một đêm",
+     "summary": "Sáng 31/10, vàng miếng SJC còn 136–139 triệu đồng/lượng, giảm 2,4 triệu so với hôm qua và thấp nhất kể từ cuối tháng 7. Giá thế giới tụt về khoảng 3.874 USD/ounce, đáy một năm, kéo cả vàng nhẫn và bạc trong nước đi xuống.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-31-10-5139058.html",
+     "detail": [
+      "Sáng thứ Bảy 31/10, vàng miếng SJC được niêm yết quanh 136–139 triệu đồng/lượng, thấp hơn 2,4 triệu đồng so với chốt phiên hôm trước. Chỉ riêng tháng 10, giá vàng miếng đã mất khoảng 5,3 triệu đồng và hiện thấp hơn hơn 27% so với đỉnh gần 191 triệu đồng hồi đầu năm. Đây là lần đầu giá vàng miếng xuống dưới 140 triệu kể từ ngày 24/7.",
+      "Vàng nhẫn trơn cũng giảm mạnh: SJC còn 131,8–135,8 triệu đồng/lượng (giảm 2,5 triệu), trong khi các thương hiệu Bảo Tín Minh Châu, Bảo Tín Mạnh Hải và DOJI giao dịch quanh 133,8–137,8 triệu. Bạc miếng trong nước giảm khoảng 2,5%, phổ biến 1,60–1,65 triệu đồng/lượng ở Phú Quý và Ancarat.",
+      "Trên thế giới, giá vàng giao ngay chốt phiên 30/10 ở khoảng 3.874 USD/ounce, mất 146 USD trong một phiên – mức thấp nhất kể từ tháng 10/2025. Quy đổi theo tỷ giá bán của Vietcombank, giá này tương đương khoảng 121 triệu đồng/lượng chưa gồm thuế phí, nghĩa là vàng miếng trong nước vẫn đắt hơn thế giới khoảng 18 triệu đồng/lượng.",
+      "Nguyên nhân chính là làn sóng bán tháo cổ phiếu công nghệ Mỹ khi nhà đầu tư lo chi tiêu cho AI không mang lại lợi nhuận tương xứng. Theo các chuyên gia Commerzbank, nhiều nhà đầu tư phải bán cả vàng và kim loại quý để bù lỗ, đáp ứng yêu cầu ký quỹ (margin call – khi tài khoản vay lỗ quá mức buộc phải nộp thêm tiền). Họ vẫn kỳ vọng kim loại quý sẽ hồi phục trong thời gian tới.",
+      "Với người dân, chênh lệch mua – bán khoảng 3 triệu đồng/lượng và khoảng cách lớn với giá thế giới khiến mua vàng lúc này vẫn nhiều rủi ro nếu giá còn giảm tiếp; người đang giữ vàng không nên bán vội theo tâm lý hoảng loạn."
+     ],
+     "figure": {
+      "value": "139 triệu",
+      "label": "Vàng miếng SJC (bán ra, đồng/lượng)",
+      "delta": "-2,4 triệu",
+      "dir": "down",
+      "spark": [
+       191,
+       141.4,
+       139
+      ]
+     }
+    },
+    {
+     "cat": "biz",
+     "title": "Chương trình 'Hàng Việt vì người Việt' 2026–2030: hàng Việt chiếm trên 80% siêu thị",
+     "summary": "Thủ tướng phê duyệt chương trình đưa tỷ lệ hàng Việt tại siêu thị, trung tâm thương mại lên trên 80% và trên 60% ở chợ truyền thống. Doanh thu thương mại điện tử đặt mục tiêu 93–97 tỷ USD vào năm 2030.",
+     "source": "Báo Chính phủ",
+     "url": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-30-10-2026-102261030210009755.htm",
+     "image": "https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/10/30/sieu-thi-1793364076159233190171-54-0-729-1080-crop-17933687461251450994577.jpg",
+     "detail": [
+      "Ngày 30/10, Thủ tướng ký Quyết định 2069/QĐ-TTg phê duyệt chương trình “Hàng Việt vì người Việt” giai đoạn 2026–2030. Mục tiêu chung là tăng sức mua hàng nội địa, giúp doanh nghiệp và hợp tác xã trong nước giữ thị phần ngay trên sân nhà.",
+      "Theo chương trình, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng tăng 14–15% mỗi năm; doanh số hàng tiêu dùng Việt bán trong nước tăng 12–15%/năm. Tỷ lệ hàng Việt phải đạt trên 80% tại siêu thị, trung tâm thương mại và trên 60% ở các kênh truyền thống như chợ, tạp hóa.",
+      "Thương mại điện tử là trọng tâm: trên 70% doanh nghiệp vừa và nhỏ sản xuất hàng tiêu dùng sẽ bán hàng online, 45% doanh nghiệp thương mại vừa và nhỏ tham gia các sàn lớn, và có ít nhất 5 gian hàng chuyên hàng Việt trên các sàn lớn. Doanh thu thương mại điện tử dự kiến tăng 23–25%/năm, đạt 93–97 tỷ USD vào năm 2030, tương đương 18–19% tổng mức bán lẻ.",
+      "Các nhóm giải pháp gồm truyền thông, phát triển kênh phân phối hiện đại, xây dựng thương hiệu có truy xuất nguồn gốc, kích cầu tiêu dùng, hỗ trợ doanh nghiệp nâng sức cạnh tranh và tăng kiểm tra thị trường. Với hộ kinh doanh và doanh nghiệp nhỏ, đây là cơ hội tiếp cận hỗ trợ đưa sản phẩm lên siêu thị và sàn thương mại điện tử."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Dùng 61 tài khoản thao túng cổ phiếu Kido, 20 người bị phạt và cấm giao dịch",
+     "summary": "Ủy ban Chứng khoán phạt 3 cá nhân tổng 4,5 tỷ đồng vì thao túng giá cổ phiếu KDC trong khoảng 8 tháng, đồng thời xử lý 17 người cho mượn tài khoản. Tất cả bị cấm giao dịch chứng khoán 2 năm từ 2/11/2026.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/3-ca-nhan-dung-61-tai-khoan-thao-tung-co-phieu-kido-suot-8-thang-loat-nguoi-lien-quan-nhan-cai-ket-dang-188261030203440487.chn",
+     "detail": [
+      "Ủy ban Chứng khoán Nhà nước (UBCKNN) vừa công bố quyết định xử phạt 20 cá nhân liên quan đến việc thao túng giá cổ phiếu KDC của Tập đoàn Kido. Ba người bị xác định là chủ mưu là Thang Phú Minh, Lâm Thúy Hằng và Dương Thái Phương Thảo.",
+      "Từ 2/5/2024 đến 6/1/2025, nhóm này dùng tổng cộng 61 tài khoản chứng khoán để liên tục mua bán qua lại cổ phiếu KDC, tạo ra cung cầu giả nhằm tác động lên giá. Cơ quan quản lý chưa xác định được khoản thu lợi bất chính từ hành vi này.",
+      "Mỗi người trong nhóm chủ mưu bị phạt 1,5 tỷ đồng, tổng 4,5 tỷ đồng, bị cấm giao dịch chứng khoán 2 năm kể từ 2/11/2026 và không được giữ vị trí quản lý tại công ty chứng khoán, công ty quản lý quỹ trong cùng thời gian. 17 người cho mượn tài khoản (riêng bà Hằng mượn tới 48 tài khoản của 9 người) bị đình chỉ giao dịch 9 tháng và cũng chịu lệnh cấm 2 năm.",
+      "Vụ việc là lời cảnh báo cho nhà đầu tư cá nhân: cho người khác mượn tài khoản chứng khoán, dù chỉ “giúp đỡ”, cũng có thể bị xử phạt nặng. Đây cũng là một phần trong nỗ lực làm sạch thị trường sau khi Việt Nam được nâng hạng."
+     ],
+     "tag": "Thao túng chứng khoán"
+    },
+    {
+     "cat": "biz",
+     "title": "Lọc dầu BSR lãi quý III gấp gần 10 lần, Vietnam Airlines giảm 46%",
+     "summary": "Loạt báo cáo tài chính quý III công bố ngày 31/10 cho thấy phân hóa mạnh: BSR lãi trước thuế hơn 10.000 tỷ, SHB tăng 57%, Vinamilk tăng 18%. Ngược lại, Vietnam Airlines và Eximbank sụt giảm sâu.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn",
+     "detail": [
+      "Hạn chót công bố báo cáo tài chính quý III đến gần, nhiều doanh nghiệp lớn đồng loạt công bố kết quả. Nổi bật nhất là Lọc hóa dầu Bình Sơn (BSR, chủ nhà máy Dung Quất) với lợi nhuận trước thuế quý III đạt 10.072 tỷ đồng, tăng 858% so với cùng kỳ; lũy kế 9 tháng gần 28.000 tỷ, gấp hơn 11 lần.",
+      "Nhóm năng lượng và hàng hóa cơ bản hưởng lợi từ giá dầu cao: PV GAS lãi 5.773 tỷ (tăng 80%), Cao su Việt Nam (GVR) lãi 4.423 tỷ (tăng 69%), EVN Genco3 lãi 1.480 tỷ, gấp gần 9 lần. Ngân hàng SHB lãi 5.166 tỷ, tăng 57%; Vinamilk lãi 3.694 tỷ, tăng 18%.",
+      "Ở chiều ngược lại, Vietnam Airlines chỉ lãi trước thuế 470 tỷ đồng trong quý III, giảm 46%, lũy kế 9 tháng giảm 39% – phản ánh áp lực chi phí nhiên liệu khi giá dầu neo cao. Eximbank lãi 186 tỷ, giảm 67% so với cùng kỳ.",
+      "Bức tranh cho thấy giá dầu tăng giúp doanh nghiệp lọc dầu, khí đốt lãi lớn nhưng làm khó ngành hàng không, vận tải. Đây cũng là dữ liệu nhà đầu tư dùng để chọn cổ phiếu trong bối cảnh VN-Index đang điều chỉnh."
+     ],
+     "tag": "BCTC quý III"
+    },
+    {
+     "cat": "know",
+     "title": "Cảnh báo trang web giả VNeID 'bcavneid.com' đánh cắp thông tin, mã OTP",
+     "summary": "Công an Hải Phòng phát hiện trang bcavneid.com giả giao diện ứng dụng định danh VNeID của Bộ Công an để thu thập thông tin cá nhân, tài khoản ngân hàng và mã OTP. Người dân chỉ nên làm thủ tục trên cổng dịch vụ công chính thức.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nguoi-dan-co-vneid-chu-y-thong-bao-moi-nhat-tu-cong-an-188261030222422132.chn",
+     "detail": [
+      "Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Công an TP Hải Phòng vừa cảnh báo về trang web bcavneid.com. Trang này được thiết kế rất giống hệ thống định danh điện tử VNeID chính thức của Bộ Công an, khiến người dùng dễ nhầm lẫn.",
+      "Nếu truy cập, đăng nhập hoặc nhập thông tin vào trang giả, người dùng có thể bị chiếm tài khoản, lộ thông tin cá nhân, gia đình và ngân hàng, kể cả mã OTP. Kẻ gian còn có thể chiếm quyền điều khiển thiết bị để thực hiện hành vi phạm pháp khác.",
+      "Theo công an, đây là kiểu lừa đảo cũ nhưng ngày càng tinh vi, đánh vào sự chủ quan của người dùng khi nhận được đường link lạ qua tin nhắn, mạng xã hội. Người dân được khuyến cáo chỉ làm thủ tục trực tuyến qua cổng dịch vụ công và ứng dụng VNeID chính thức, kiểm tra kỹ địa chỉ trang web trước khi đăng nhập, tuyệt đối không cung cấp OTP.",
+      "Với bộ phận nhân sự, đây là thông tin nên phổ biến tới người lao động, nhất là khi nhiều thủ tục BHXH, thuế và hợp đồng lao động điện tử đang chuyển dần lên môi trường số. Khi cần hỗ trợ, có thể đến trụ sở công an gần nhất hoặc gọi đường dây nóng 0766.05.05.05 của Công an Hải Phòng."
+     ],
+     "tag": "An toàn số"
+    },
+    {
+     "cat": "know",
+     "title": "5 chính sách mới có hiệu lực tháng 11: phạt in vé số giả tới 100 triệu",
+     "summary": "Từ tháng 11/2026, khách sạn, nhà nghỉ phải kiểm tra giấy tờ tùy thân trước khi giao phòng, trường học bỏ quy định họp phụ huynh 3 lần/năm. Mức phạt làm giả vé số tăng lên 80–100 triệu đồng.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-112026-post1397688.html",
+     "detail": [
+      "Từ 15/11/2026, theo Nghị định 392/2026/NĐ-CP, nhà nghỉ, khách sạn và các cơ sở lưu trú phải kiểm tra một giấy tờ tùy thân còn hiệu lực của khách trước khi giao phòng, như thẻ căn cước, hộ chiếu, thẻ cư trú của người nước ngoài. Chứng minh nhân dân cũ không còn trong danh sách. Nếu khách không có giấy tờ, cơ sở phải báo ngay cho công an cấp xã.",
+      "Cũng từ 15/11, Thông tư 81/2026/TT-BGDĐT về Điều lệ Ban đại diện cha mẹ học sinh bỏ quy định cứng phải họp phụ huynh 3 lần mỗi năm. Chỉ bắt buộc họp đầu năm học, các cuộc họp khác tổ chức khi cần và có thể họp trực tuyến hoặc kết hợp.",
+      "Từ 1/11, Nghị định 353/2026/NĐ-CP quy định chuẩn phổ cập giáo dục, xóa mù chữ; ví dụ xã đạt chuẩn phổ cập tiểu học khi ít nhất 98% trẻ 6 tuổi vào lớp 1. Từ 10/11, thủ tục hưởng trợ cấp mai táng cho cựu chiến binh được đơn giản hóa: không cần giấy chứng tử nếu dữ liệu đã có trên hệ thống, có thể nộp online qua Cổng dịch vụ công quốc gia; Sở Nội vụ ra quyết định trong 7 ngày làm việc.",
+      "Từ 30/11, Nghị định 389/2026/NĐ-CP nâng mức phạt hành vi làm giả vé số để dự thưởng, lĩnh thưởng lên 80–100 triệu đồng (trước đây 50–70 triệu), kèm tịch thu vé và nộp lại khoản thu lợi bất chính."
+     ],
+     "tag": "Luật mới tháng 11"
+    },
+    {
+     "cat": "vn",
+     "title": "Đại biểu đề nghị đánh giá lại kỳ thi tốt nghiệp THPT, sách giáo khoa miễn phí từ 2028",
+     "summary": "Tại phiên thảo luận sáng 31/10, đại biểu Quốc hội đề nghị xem xét lại mục đích và hiệu quả kỳ thi tốt nghiệp THPT để giảm áp lực, chi phí cho gia đình. Bộ trưởng GD-ĐT cho biết sách giáo khoa sẽ được miễn phí từ năm học 2028–2029.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/dai-bieu-de-nghi-danh-gia-lai-ky-thi-tot-nghiep-thpt-bo-truong-gd-dt-noi-gi-185261031103507107.htm",
+     "detail": [
+      "Sáng 31/10, Quốc hội tiếp tục thảo luận về tình hình kinh tế – xã hội, trong đó giáo dục là chủ đề được nhiều đại biểu quan tâm: thi cử, tuyển sinh, dạy thêm, sách giáo khoa và bố trí trường lớp.",
+      "Đại biểu Trịnh Xuân An (Đồng Nai) đề nghị Chính phủ nghiên cứu, đánh giá lại cách tổ chức kỳ thi tốt nghiệp THPT – mục đích, sự cần thiết, hiệu quả và mối liên hệ với tuyển sinh đại học. Ông nhấn mạnh mọi thay đổi cần được đánh giá kỹ tác động, công bố sớm và có lộ trình, để phụ huynh không phải “thấp thỏm” chờ quy định mới mỗi mùa thi.",
+      "Giải trình, Bộ trưởng GD-ĐT Hoàng Minh Sơn cho biết Bộ đã rà soát các bất cập và vừa đề xuất Thủ tướng ban hành chỉ thị tăng cường chống gian lận thi cử. Khoảng 30.000 cán bộ quản lý giáo dục đã được chuyển sang đứng lớp để giảm thiếu giáo viên; 108 trường nội trú liên cấp đã khởi công giai đoạn 1.",
+      "Về chương trình, Bộ sẽ điều chỉnh chương trình trong năm 2026, hoàn thiện bộ sách giáo khoa năm 2027 để dùng thống nhất từ năm học 2028–2029. Theo chỉ đạo của Thủ tướng, sách giáo khoa sẽ được cấp miễn phí từ năm học này, sớm hơn một năm so với lộ trình trước đó – tin vui cho các gia đình có con đi học."
+     ],
+     "tag": "Quốc hội"
+    },
+    {
+     "cat": "ai",
+     "title": "Bản giả mạo tiện ích Claude Code cài 'cửa hậu' SSH vào máy lập trình viên",
+     "summary": "Một phiên bản bị cài mã độc của tiện ích Claude Code (2.1.313) xuất hiện khoảng 11 giờ trên chợ tiện ích Open VSX dùng cho Cursor, có thể ảnh hưởng tới 5.000 người. Mã độc lén thêm khóa SSH để kẻ tấn công đăng nhập từ xa.",
+     "source": "Help Net Security",
+     "url": "https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/",
+     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/30133249/door-lock-encryption.webp",
+     "detail": [
+      "Công ty bảo mật Phorion phát hiện một bản dựng bị can thiệp của tiện ích Claude Code – công cụ lập trình bằng AI của Anthropic – được đăng lên Open VSX, chợ tiện ích mã nguồn mở mà các trình soạn thảo như Cursor, Windsurf sử dụng. Phiên bản độc hại mang số 2.1.313; chợ chính thức của Microsoft không bị ảnh hưởng.",
+      "Mã độc chạy ngay khi trình soạn thảo nạp tiện ích, không cần người dùng thao tác. Nó thêm khóa SSH của kẻ tấn công vào máy (SSH là giao thức điều khiển máy tính từ xa), mở một “đường hầm” kết nối về máy chủ của hacker và tự khởi động lại mỗi khi bật máy trên cả macOS, Linux và Windows.",
+      "Ngoài ra, mã độc còn gửi về tên máy, tên người dùng, email Git, địa chỉ IP và danh sách tên của tối đa 40 biến môi trường chứa khóa dịch vụ đám mây – giúp kẻ tấn công biết máy nào có giữ thông tin truy cập AWS, Google Cloud để nhắm tới sau.",
+      "Cursor cho biết bản độc hại tồn tại khoảng 11 giờ ngày 29/10 và tối đa 5.000 người dùng bị ảnh hưởng. Hãng đã gỡ bản này, tạm đóng chợ tiện ích để kiểm tra, đổi khóa bảo mật và khẳng định Anthropic không phát triển phiên bản độc hại; các bản chính thức không bị ảnh hưởng.",
+      "Người dùng được khuyên kiểm tra file khóa SSH xem có dòng tên “svc-telemetry”, cách ly máy nghi nhiễm, đổi toàn bộ mật khẩu và khóa truy cập từ một máy sạch. Gỡ tiện ích thôi là chưa đủ vì các đoạn mã chạy ngầm vẫn có thể tồn tại.",
+      "Vụ việc cho thấy rủi ro chuỗi cung ứng phần mềm khi công cụ AI ngày càng phổ biến: doanh nghiệp nên quy định rõ nguồn cài đặt tiện ích cho nhân viên kỹ thuật."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "OpenAI hạn chế ChatGPT cung cấp thông tin vũ khí cho người dưới 18 tuổi",
+     "summary": "OpenAI công bố loạt biện pháp an toàn mới: chặn thông tin thực tế về vũ khí với tài khoản thiếu niên, tự động kết thúc cuộc trò chuyện xoáy vào bạo lực và có thể báo phụ huynh. Các thay đổi sẽ triển khai trong vài tuần tới.",
+     "source": "Reuters (qua Investing.com)",
+     "url": "https://www.investing.com/news/stock-market-news/openai-to-limit-weapons-information-for-teens-on-chatgpt-in-violenceprevention-push-4988471",
+     "detail": [
+      "Ngày 30/10, OpenAI thông báo sẽ hạn chế ChatGPT đưa ra thông tin thực tế về vũ khí và cách vượt qua hệ thống an ninh có thể bị lạm dụng. Với người dùng dưới 18 tuổi, giới hạn này áp dụng cả khi câu hỏi có vẻ vô hại và không có dấu hiệu ý định bạo lực.",
+      "Với mọi người dùng, ChatGPT sẽ có thể tự kết thúc cuộc trò chuyện khi phát hiện người dùng có biểu hiện bị ám ảnh bởi bạo lực; nếu lặp lại nhiều lần, tài khoản có thể bị tạm khóa. Chatbot cũng sẽ hạn chế mô tả chi tiết về các vụ tấn công hàng loạt trong quá khứ, như loại vũ khí và cách có được.",
+      "Nếu tài khoản thiếu niên bị tạm khóa vì nhiều lần bàn về bạo lực, OpenAI dự kiến sẽ thông báo cho phụ huynh. Công ty cho biết đã nâng cấp hệ thống dự đoán độ tuổi để tự chuyển những người được ước tính dưới 18 tuổi sang chế độ dành cho thiếu niên.",
+      "Động thái diễn ra khi các công ty AI ngày càng bị soi xét về rủi ro chatbot gây ra cho người trẻ. Đầu tháng 10, tổ chức Common Sense Media công bố báo cáo cho thấy phiên bản ChatGPT dành cho thiếu niên thường cảnh báo phụ huynh muộn hoặc không cảnh báo khi trẻ nói về các chủ đề nguy hiểm.",
+      "Theo báo cáo đầu tiên của OpenAI về người dùng thiếu niên, trung bình các em dùng ChatGPT dưới 15 phút mỗi ngày. Các biện pháp mới sẽ được triển khai dần trong vài tuần tới và tiếp tục được điều chỉnh."
+     ],
+     "tag": "An toàn AI"
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng lọt top 10 điểm đến xu hướng thế giới năm 2027 của Skyscanner",
+     "summary": "Đà Nẵng xếp thứ 7 trong danh sách 10 điểm đến xu hướng 2027 của nền tảng du lịch Skyscanner, là đại diện duy nhất của Việt Nam và Đông Nam Á. Lượt tìm vé khứ hồi tới Đà Nẵng từ thị trường Anh tăng 68%.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-vao-top-10-diem-den-xu-huong-the-gioi-nam-2027-3356935.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/09/25/cau-vang1-1024x576.jpg",
+     "detail": [
+      "Theo Trung tâm Xúc tiến du lịch Đà Nẵng, trong báo cáo Xu hướng du lịch 2027, nền tảng tìm kiếm du lịch quốc tế Skyscanner đã xếp Đà Nẵng thứ 7 trong danh sách 10 điểm đến xu hướng năm 2027. Đà Nẵng là điểm đến duy nhất của Việt Nam và Đông Nam Á góp mặt.",
+      "Danh sách còn có Bishkek (Kyrgyzstan), Hurghada (Ai Cập), Malmö (Thụy Điển), Trapani (Ý), Samos (Hy Lạp) và Trùng Khánh (Trung Quốc). Skyscanner dựa trên dữ liệu tìm kiếm: từ 1/1 đến 17/6/2026, lượt tìm vé máy bay khứ hồi tới Đà Nẵng từ thị trường Anh tăng 68% so với cùng kỳ 2025.",
+      "Skyscanner đánh giá cao sự đa dạng trải nghiệm: tắm biển Mỹ Khê, tham quan Cầu Vàng ở Bà Nà, khám phá ẩm thực và đời sống địa phương. Sau sáp nhập, thành phố còn có thêm lợi thế kết nối Sơn Trà, Ngũ Hành Sơn với di sản Hội An, Mỹ Sơn để tạo hành trình kết hợp nghỉ dưỡng – văn hóa – thiên nhiên.",
+      "Trước đó Đà Nẵng cũng có tên trong danh sách Best in Travel 2027 của Lonely Planet. Việc liên tiếp được các nền tảng quốc tế vinh danh giúp thành phố thu hút khách châu Âu chi tiêu cao, mở thêm cơ hội việc làm cho lao động ngành du lịch, khách sạn, dịch vụ."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Hơn 1.000 việc làm, thực tập tại Ngày hội việc làm Bách khoa Đà Nẵng đợt 2",
+     "summary": "Sáng 31/10, Trường ĐH Bách khoa – ĐH Đà Nẵng tổ chức ngày hội việc làm với 20 doanh nghiệp, hơn 1.000 cơ hội việc làm, thực tập cùng hàng trăm suất học bổng sau đại học. Ngành tuyển nhiều gồm CNTT, AI, vi mạch bán dẫn, tự động hóa.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/hon-1-000-co-hoi-viec-lam-thuc-tap-tai-ngay-hoi-viec-lam-bach-khoa-dot-2-2026-3356963.html",
+     "detail": [
+      "Sáng 31/10, Trường Đại học Bách khoa (Đại học Đà Nẵng) tổ chức Ngày hội việc làm DUT Job Fair 2026 đợt 2 với chủ đề “Khát vọng Bách khoa – Khơi nguồn sáng tạo”. Sự kiện quy tụ 20 doanh nghiệp trong và ngoài nước.",
+      "Sinh viên có hơn 1.000 cơ hội việc làm và thực tập, cùng hàng trăm suất học bổng sau đại học. Các lĩnh vực tuyển dụng gồm công nghệ thông tin, trí tuệ nhân tạo, vi mạch – bán dẫn; điện, điện tử, cơ khí, tự động hóa, công nghệ ô tô; xây dựng, hạ tầng giao thông, năng lượng bền vững và công nghệ môi trường.",
+      "Ngoài tuyển dụng trực tiếp, ngày hội có hội thảo, workshop, tư vấn nghề nghiệp và kết nối giữa sinh viên với nhà tuyển dụng. Trường cũng ký thỏa thuận hợp tác với 9 doanh nghiệp. Trước đó, đợt 1 hồi tháng 4 có hơn 50 doanh nghiệp với hơn 8.000 vị trí việc làm, thực tập.",
+      "Với người làm nhân sự ở Đà Nẵng, các ngày hội tại trường đại học là kênh tuyển kỹ sư trẻ hiệu quả, nhất là nhóm ngành vi mạch, AI đang được thành phố ưu tiên phát triển và cạnh tranh nhân lực ngày càng gay gắt."
+     ],
+     "tag": "Tuyển dụng"
+    },
+    {
+     "cat": "ai",
+     "title": "OpenAI, Google, Microsoft, Anthropic ủng hộ 'nút từ chối' chung cho việc lấy dữ liệu huấn luyện AI",
+     "summary": "Bốn công ty AI lớn cam kết tôn trọng một tín hiệu chung trong file robots.txt, cho phép trang web từ chối việc dùng nội dung để huấn luyện AI chỉ bằng một dòng khai báo. Đề xuất đã được gửi lên tổ chức tiêu chuẩn Internet IETF.",
+     "source": "TechBuzz",
+     "url": "https://www.techbuzz.ai/articles/ai-giants-unite-behind-universal-scraping-opt-out-standard",
+     "image": "https://www.techbuzz.ai/cdn-cgi/image/width=1200,height=1200,quality=80,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/ai_giants_unite_behind_universal_scraping_opt_out_standard_f81ab89f2a.jpg",
+     "detail": [
+      "OpenAI, Google, Microsoft và Anthropic cùng cam kết tôn trọng một “mã chính sách” (policy token) mới đặt trong file robots.txt – file văn bản mà mọi trang web dùng để chỉ dẫn các chương trình tự động thu thập dữ liệu được hay không được truy cập phần nào.",
+      "Hiện nay, muốn chặn AI lấy nội dung, các trang báo, blog phải chặn riêng từng bot như GPTBot của OpenAI hay Google-Extended. Với tín hiệu mới, chủ trang chỉ cần khai báo một lần mong muốn của mình về việc cho hay không cho dùng nội dung để huấn luyện AI, và cả bốn công ty đều sẽ tuân theo.",
+      "Đề xuất do ông Kevin Kelley, phụ trách kỹ thuật về tiêu chuẩn tại Anthropic, soạn và đã nộp lên Lực lượng Đặc nhiệm Kỹ thuật Internet (IETF) dưới dạng bản thảo. Quá trình hoàn tất một tiêu chuẩn ở IETF thường mất nhiều tháng và việc triển khai trên các bot có thể kéo sang năm sau.",
+      "Điểm yếu là chưa có cơ chế kiểm chứng hay cưỡng chế độc lập: việc tuân thủ vẫn dựa vào sự tự giác của các công ty. Các nhà xuất bản cũng phải cân nhắc vì từ chối AI có thể khiến họ mất lượng người đọc đến từ các công cụ tìm kiếm, trợ lý AI.",
+      "Động thái diễn ra trong bối cảnh nhiều vụ kiện bản quyền, như vụ New York Times kiện OpenAI, đang gây áp lực buộc ngành AI phải minh bạch hơn trong việc sử dụng dữ liệu."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Waymo chọn Toyota cung cấp xe tự lái, thử nghiệm tại Nhật từ 2027",
+     "summary": "Waymo (công ty xe tự lái của Alphabet) sẽ thử nghiệm phiên bản tự lái của mẫu xe điện Toyota bZ4X tại Nhật Bản từ năm 2027, rồi mở rộng sang các nước lái bên phải như Anh. Toyota sẽ lắp hệ thống của Waymo ngay tại nhà máy.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+     "detail": [
+      "Ngày 30/10, Waymo và Toyota công bố thỏa thuận theo đó Waymo sẽ bắt đầu thử nghiệm phiên bản tự lái của mẫu xe điện Toyota bZ4X tại Nhật Bản vào năm 2027. Toyota sẽ sản xuất xe bZ4X đời 2027 và tích hợp hệ thống tự lái của Waymo ngay tại nhà máy Takaoka ở Nhật.",
+      "Nhật Bản là nơi Waymo muốn cuối cùng vận hành dịch vụ taxi không người lái (robotaxi). Hai bên cũng dự định đưa xe này tới các thị trường lái xe bên trái đường (vô lăng bên phải), trong đó có Anh – nơi Waymo đã thử nghiệm xe Jaguar I-Pace tự lái ở London nhiều tháng và chờ giấy phép để khai trương dịch vụ.",
+      "Thỏa thuận này cụ thể hóa bản ghi nhớ sơ bộ ký tháng 4/2025. Theo TechCrunch, đây giống quan hệ nhà cung cấp xe truyền thống hơn: Toyota cung cấp mẫu xe phù hợp cho từng khu vực, bổ sung vào đội xe robotaxi của Waymo.",
+      "Hai bên cũng tiếp tục nghiên cứu khả năng đưa công nghệ tự lái của Waymo lên xe Toyota bán cho cá nhân, và dùng dữ liệu vận hành thực tế của Waymo để tăng an toàn giao thông. Phó chủ tịch điều hành Toyota Hiroki Nakajima cho biết hãng sẽ nghiên cứu cả việc kết nối xe với hạ tầng giao thông.",
+      "Với Việt Nam, đây là tín hiệu xe tự lái đang tiến dần tới châu Á qua các hãng xe quen thuộc; việc một hãng lớn như Toyota tham gia giúp công nghệ này dễ thương mại hóa hơn."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Tuần kinh tế thế giới: Canada tăng lãi suất, Chủ tịch ECB từ chức, kinh tế Mỹ tăng tốc",
+     "summary": "Tuần 26–31/10, bốn ngân hàng trung ương lớn quyết định lãi suất: Fed, ECB, Nhật giữ nguyên, riêng Canada tăng lần đầu sau hơn 3 năm. Chủ tịch ECB Christine Lagarde từ chức, GDP Mỹ tăng nhanh nhất một năm nhờ đầu tư AI.",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-26-31102026-4-ngan-hang-trung-uong-lon-quyet-dinh-lai-suat-chu-tich-ecb-tu-chuc-kinh-te-my-tang-toc.htm",
+     "detail": [
+      "Tuần cuối tháng 10 là tuần dày đặc quyết định lãi suất. Cục Dự trữ Liên bang Mỹ (Fed) giữ nguyên lãi suất và thừa nhận lạm phát đang ở mức cao. Ngân hàng Trung ương châu Âu (ECB) cũng giữ nguyên dù lạm phát gần gấp đôi mục tiêu. Ngân hàng Trung ương Nhật Bản giữ lãi suất ngày 30/10 và lần đầu tuyên bố đã đạt mục tiêu lạm phát sau khoảng 14 năm.",
+      "Ngược lại, Ngân hàng Trung ương Canada tăng lãi suất lần đầu tiên sau hơn 3 năm và để ngỏ khả năng tiếp tục thắt chặt. Đáng chú ý, bà Christine Lagarde đã từ chức Chủ tịch ECB trong tuần.",
+      "Kinh tế Mỹ tăng trưởng nhanh nhất trong một năm nhờ đầu tư vào AI và chi tiêu tiêu dùng. Trong khi đó, giá vàng rơi xuống dưới 3.900 USD/ounce ngày 30/10, thấp nhất một năm, khi nhà đầu tư bán vàng để bù lỗ cổ phiếu công nghệ. Mỹ sẽ bầu cử giữa kỳ Quốc hội vào ngày 3/11.",
+      "Ở châu Âu, giá khí đốt gần gấp 4 lần đầu năm; EU chi trung bình 27,6 tỷ euro mỗi tháng nhập khẩu dầu trong quý II/2026, tăng khoảng 56% so với 2025. Theo IMF, GDP bình quân đầu người của Việt Nam năm nay sẽ vượt Indonesia.",
+      "Mặt bằng lãi suất thế giới cao kéo dài và giá năng lượng đắt đỏ là yếu tố gây áp lực lên tỷ giá, lạm phát và chi phí vay vốn của doanh nghiệp Việt Nam trong những tháng cuối năm."
+     ],
+     "tag": "Lãi suất thế giới"
+    }
+   ]
+  },
   {
    "id": "2026-10-31-0700",
    "date": "2026-10-31",
