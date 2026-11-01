@@ -1,6 +1,187 @@
 {
- "updated": "2026-11-01T07:03:49+07:00",
+ "updated": "2026-11-01T11:17:05+07:00",
  "editions": [
+  {
+   "id": "2026-11-01-1100",
+   "date": "2026-11-01",
+   "slot": "11:00",
+   "createdAt": "2026-11-01T11:17:05+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Khối ngoại rút gần 1 tỷ USD khỏi chứng khoán Việt Nam trong tháng 10",
+     "summary": "Tháng 10/2026, nhà đầu tư nước ngoài bán ròng hơn 24.000 tỷ đồng (khoảng 930 triệu USD) trên sàn TP.HCM, mức cao nhất từ đầu năm, với chuỗi 20 phiên bán ròng liên tiếp. Chuyên gia cho rằng đợt rút mạnh nhất có thể đã qua nhưng khó đảo chiều trước giữa năm 2027.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/khoi-ngoai-vua-rut-gan-mot-ty-usd-khoi-chung-khoan-viet-nam-5139224.html",
+     "detail": [
+      "Theo số liệu của Sở Giao dịch Chứng khoán TP.HCM, trong tháng 10 khối ngoại chỉ mua vào khoảng 38.000 tỷ đồng, thấp nhất từ đầu năm, nhưng bán ra tới khoảng 62.000 tỷ đồng. Kết quả là rút ròng hơn 24.000 tỷ đồng, tương đương khoảng 930 triệu USD. Chuỗi 20 phiên bán ròng liên tiếp cũng là dài nhất trong hai năm trở lại đây.",
+      "Áp lực bán tập trung vào một số mã lớn. Cổ phiếu Masan Consumer (MCH) có một phiên bị rút ròng gần 10.000 tỷ đồng; HDBank, PNJ, FPT và ACB mỗi mã bị bán ròng trên 1.000 tỷ đồng. Cộng dồn từ đầu năm, khối ngoại đã bán ròng hơn 122.000 tỷ đồng (khoảng 4,7 tỷ USD), sát mức kỷ lục 125.000 tỷ đồng của năm trước.",
+      "Giới phân tích chỉ ra ba nguyên nhân: dòng vốn toàn cầu rời thị trường mới nổi để chạy theo cổ phiếu công nghệ ở Mỹ, Nhật, Trung Quốc; lãi suất thế giới cao khiến cổ phiếu Việt kém hấp dẫn; và các quỹ chủ động chốt lời sau khi đã mua đón đầu sự kiện nâng hạng thị trường. Riêng quỹ thụ động (quỹ mua theo rổ chỉ số) đã giải ngân khoảng 220 triệu USD trước khi nâng hạng có hiệu lực.",
+      "Công ty Chứng khoán Tiên Phong (TPS) nhận định đợt rút vốn mạnh nhất có thể đã qua, nhưng áp lực bán khó dứt sớm vì lợi suất trái phiếu Mỹ cao, Fed (Cục Dự trữ Liên bang Mỹ) còn thắt chặt và đồng USD mạnh. Ông Lương Duy Phước (Chứng khoán Kafi) cho rằng khối ngoại khó quay lại mua ròng ngay trong quý IV.",
+      "Phần đông chuyên gia kỳ vọng xu hướng đảo chiều từ giữa năm 2027: khối ngoại hiện chỉ còn nắm khoảng 12,5% cổ phiếu niêm yết trên sàn TP.HCM nên dư địa bán không còn nhiều, trong khi dòng vốn gắn với nâng hạng ước khoảng 2,5 tỷ USD, phần lớn (90%) dự kiến vào năm sau. Với nhà đầu tư cá nhân, điều này có nghĩa thị trường có thể còn dao động trong vài tháng tới."
+     ],
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/31/wm1-wm1-233a7641-1793455983-9925-1793455996.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=Lmf3HSSvJNQKhnuj2FG8EA"
+    },
+    {
+     "cat": "ai",
+     "title": "Nvidia tính đứng ra bảo lãnh nợ cho trung tâm dữ liệu AI phục vụ Anthropic",
+     "summary": "Nvidia đang đàm phán bảo lãnh hàng tỷ USD nợ vay xây dựng cho trung tâm dữ liệu của Nscale ở bang West Virginia (Mỹ), nơi Anthropic là khách thuê chính với hợp đồng 44,6 tỷ USD. Đây là dấu hiệu các hãng chip đang phải nhảy vào cả khâu tài chính để giữ cơn sốt xây hạ tầng AI.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+     "detail": [
+      "Theo The Information và sau đó được Bloomberg xác nhận, Nvidia đang thảo luận việc bảo lãnh khoản vay hàng tỷ USD cho Nscale, một công ty cho thuê hạ tầng điện toán AI (thường gọi là 'neocloud' – nhà cung cấp đám mây mới chuyên về AI). Khoản vay này dùng để trả chi phí xây dựng và điện năng cho khu trung tâm dữ liệu ở West Virginia.",
+      "Cơ chế dự kiến là 'bảo lãnh giá trị còn lại': nếu Nscale không trả được tiền xây dựng, Nvidia sẽ tạm tiếp quản cơ sở và giúp tìm người mua hoặc khách thuê mới. Trước đây Nvidia chủ yếu hỗ trợ khách hàng ở khâu thuê và mua chip, nên đây là loại rủi ro mới mà hãng chấp nhận gánh.",
+      "Quy mô dự án rất lớn: theo hồ sơ niêm yết của Nscale, Anthropic đã ký hợp đồng 44,6 tỷ USD cho tòa nhà đầu tiên công suất 460 megawatt, dùng thế hệ chip Vera Rubin sắp tới của Nvidia; một hợp đồng khoảng 45 tỷ USD cho tòa thứ hai đang được bàn. Nscale đặt mục tiêu IPO với định giá tới 35 tỷ USD, nhưng tháng 8 mới vận hành khoảng 25.000 chip so với kế hoạch gần 500.000 chiếc.",
+      "Nscale cũng gặp nhiều trục trặc: nước thải từ công trường từng gây ngập nhà dân xung quanh, dự án phải đàm phán nhiều tháng mới được bang cấp phép, còn Microsoft vừa rút khỏi một địa điểm của Nscale ở Anh vì điện lưới phải đến thập niên 2030 mới có. Cổ phiếu các công ty cùng ngành như CoreWeave, Nebius, IREN đều giảm hơn 30% trong tháng 10.",
+      "Tổng cộng Nvidia đã cam kết khoảng 170 tỷ USD đầu tư và hỗ trợ tín dụng cho các neocloud và khách hàng lớn. Giới quan sát cho rằng sự hiện diện của Anthropic – đang chuẩn bị lên sàn và có thể bị xếp hạng tín nhiệm thấp – là lý do Nvidia muốn giữ dự án đi đúng tiến độ. Câu chuyện cho thấy dòng tiền nuôi cơn sốt AI đang căng hơn, và rủi ro ngày càng dồn về một vài 'ông lớn'."
+     ],
+     "tag": "Hạ tầng AI"
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng đặt mục tiêu lập mới ít nhất 37 hợp tác xã nông nghiệp đến 2030",
+     "summary": "Hội Nông dân và Liên minh Hợp tác xã TP Đà Nẵng ký chương trình phối hợp giai đoạn 2026–2030, hỗ trợ thành lập ít nhất 37 HTX và 429 tổ hợp tác nông nghiệp. Mục tiêu là đưa nông dân từ sản xuất nhỏ lẻ sang liên kết theo chuỗi để tăng thu nhập.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-thuc-day-phat-trien-kinh-te-tap-the-trong-nong-nghiep-3357078.html",
+     "detail": [
+      "Sáng 1/11 tại phường Điện Bàn, Hội Nông dân thành phố và Liên minh Hợp tác xã TP Đà Nẵng ký chương trình phối hợp hỗ trợ kinh tế tập thể trong nông nghiệp giai đoạn 2026–2030. Kinh tế tập thể ở đây là hình thức nông dân góp sức cùng làm ăn qua tổ hợp tác (THT) hoặc hợp tác xã (HTX), thay vì mỗi hộ tự sản xuất, tự bán.",
+      "Các chỉ tiêu cụ thể đến năm 2030 gồm: thành lập mới ít nhất 37 HTX và 429 THT nông nghiệp; củng cố 50 HTX đang có; thu hút thêm 20% hộ hội viên tham gia; 45% HTX do Hội hỗ trợ có liên kết với doanh nghiệp và 30% được hỗ trợ tiếp cận vốn tín dụng. Ít nhất 90% cán bộ HTX được đào tạo về quản lý, nghiệp vụ.",
+      "Giải pháp trọng tâm là liên kết với doanh nghiệp để ổn định đầu ra, gắn với Chương trình Mỗi xã một sản phẩm (OCOP), ứng dụng công nghệ cao, chuyển đổi số và hướng tới sản xuất xanh, hữu cơ. HTX sẽ được hỗ trợ vay vốn ưu đãi từ quỹ phát triển HTX trung ương, thành phố và Quỹ Hỗ trợ nông dân.",
+      "Ông Nguyễn Út, Phó Chủ tịch Hội Nông dân thành phố, xác định tuyên truyền, tư vấn và hỗ trợ cơ sở là 'nhiệm vụ xuyên suốt'. Với nông dân các xã, phường của Đà Nẵng mới, đây là kênh để được hỗ trợ vốn, kỹ thuật và tìm đầu ra ổn định hơn cho nông sản."
+     ],
+     "tag": "Nông nghiệp"
+    },
+    {
+     "cat": "vn",
+     "title": "Chuyên gia phản đối san phẳng núi Một ở Quy Nhơn để làm khu dân cư",
+     "summary": "Phường Quy Nhơn (Gia Lai) đề xuất di dời 228 hộ và san phẳng núi Một rộng gần 7 ha với kinh phí khoảng 500 tỷ đồng để xây khu dân cư. Viện Địa công nghệ và Môi trường khuyến cáo nên giữ núi, làm công viên rừng đô thị vì san núi sẽ gây sạt lở, bụi, rung chấn trong 3–5 năm.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chuyen-gia-san-phang-nui-o-quy-nhon-se-mat-mang-xanh-canh-quan-5139277.html",
+     "detail": [
+      "Núi Một cao hơn 40 m, dài khoảng 500 m, nằm cạnh sông Hà Thanh ở phường Quy Nhơn, tỉnh Gia Lai. Núi thường sạt lở vào mùa mưa, đe dọa 183 hộ sống trên sườn và 45 hộ ở chân núi. Tháng 10, phường đề xuất di dời toàn bộ 228 hộ (khoảng 1.000 người), rồi hạ núi để làm khu dân cư mới; tổng vốn khoảng 500 tỷ đồng, dự kiến thu về 850 tỷ từ đấu giá đất.",
+      "GS.TS Đỗ Minh Đức, Phó chủ tịch Hội đồng Khoa học của Viện Địa công nghệ và Môi trường, cho rằng núi không quá dốc; nguyên nhân chính gây sạt lở là mưa làm đất đá yếu đi, tập trung ở chân núi, các sườn bị cắt để xây nhà và khe tụ nước. Tuy vậy, đánh giá năm 2023 của viện cần được cập nhật bằng khảo sát và khoan địa chất mới.",
+      "Theo tính toán, phải đào 0,75–1,2 triệu m³ đất đá, tương đương 50.000–90.000 lượt xe tải; nếu làm trong 2 năm thì mỗi ngày có 80–150 lượt xe chạy qua khu dân cư. Viện cảnh báo việc này gây bụi, tiếng ồn, rung chấn kéo dài và thành phố sẽ mất vĩnh viễn một mảng xanh đặc trưng.",
+      "Phương án viện đề xuất là giữ núi, chỉ di dời các hộ ở vùng nguy hiểm, làm rãnh thoát nước, tường chắn thấp và cải tạo thành công viên rừng đô thị có đường mòn, chòi ngắm cảnh. Trước mắt cần kiểm tra vết nứt, lập danh sách hộ nguy cơ cao, cấm đào đất, cắt sườn và chuẩn bị sơ tán khi mưa lớn.",
+      "Vụ việc là ví dụ điển hình cho bài toán cân bằng giữa phòng chống thiên tai, thu ngân sách từ đất và giữ cảnh quan đô thị ven biển miền Trung – điều mà Đà Nẵng cũng thường xuyên phải đối mặt với các khu vực đồi núi ven đô."
+     ],
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/01/wm1-wm1-dji-fly-1793504292-8169-1793504320.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=dyWDOO2X9u5xmvimwOb2zQ"
+    },
+    {
+     "cat": "ai",
+     "title": "Lỗ hổng link chia sẻ ChatGPT từng cho phép đọc trộm hội thoại riêng tư",
+     "summary": "Hãng bảo mật Parameter phát hiện chỉ cần mở một link chia sẻ ChatGPT độc hại và bấm Xem trước, kẻ tấn công có thể chạy mã trong tài khoản nạn nhân và đọc các cuộc trò chuyện riêng. OpenAI đã vá ngày 26/10, người dùng không cần làm gì thêm.",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+     "detail": [
+      "ChatGPT có tính năng chia sẻ một cuộc hội thoại qua đường link. Hãng bảo mật Parameter phát hiện kẻ xấu có thể tạo một link như vậy chứa 'bẫy' và gửi qua email, tin nhắn hay mạng xã hội. Nạn nhân không cần cài gì, chỉ cần mở link và bấm nút Preview (Xem trước) một lần; ở phiên bản sau, trang thậm chí tự mở Preview.",
+      "Về kỹ thuật, phần Xem trước vốn chạy trong một 'hộp cát' (sandbox – vùng cách ly để mã lạ không đụng tới trang chính). Nhưng một thư viện hiển thị công thức toán tên MathLive, được nạp vào trang ChatGPT, lại nhận lệnh từ bất kỳ nguồn nào mà không kiểm tra. Lợi dụng điểm này, kẻ tấn công đưa được mã ra ngoài hộp cát và chạy như thể là chính trang chatgpt.com.",
+      "Khi đã chạy được, đoạn mã có thể liệt kê các cuộc trò chuyện gần đây, mở cả những hội thoại chưa từng chia sẻ và gửi nội dung về máy chủ của kẻ tấn công. Parameter cho biết về lý thuyết có thể thực hiện 'mọi hành động' thay mặt chủ tài khoản. OpenAI ban đầu xếp mức nghiêm trọng P2, sau khi tái hiện được thì nâng lên P1 – mức cao nhất.",
+      "Diễn biến: Parameter báo lỗi ngày 18/10 qua chương trình săn lỗi trên nền tảng Bugcrowd, OpenAI tung bản vá ngày 26/10 (sau 8 ngày) và trả thưởng tổng cộng 5.000 USD; nhóm nghiên cứu công bố chi tiết ngày 28/10. Chưa có dấu hiệu lỗi bị khai thác ngoài thực tế, các thử nghiệm chỉ làm giữa tài khoản của chính nhóm.",
+      "Bản vá được áp dụng phía máy chủ nên người dùng không cần cài đặt hay đổi mật khẩu. Bài học chung cho người dùng văn phòng: cẩn trọng với các đường link lạ, kể cả khi trông giống link của dịch vụ quen thuộc, và hạn chế lưu thông tin nhạy cảm của công ty, nhân sự trong lịch sử trò chuyện với AI."
+     ],
+     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg"
+    },
+    {
+     "cat": "vn",
+     "title": "Duyệt chủ trương cầu Cần Thơ 2 hai tầng, kết hợp cao tốc và đường sắt",
+     "summary": "Bộ Xây dựng phê duyệt chủ trương đầu tư cầu Cần Thơ 2 dài khoảng 17,6 km, vốn sơ bộ 27.050 tỷ đồng, dự kiến khởi công năm 2027 và hoàn thành sau 5 năm. Cầu dây văng hai tầng: tầng trên 6 làn cao tốc, tầng dưới đường sắt đôi cho tuyến TP.HCM – Cần Thơ.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/cau-can-tho-2-duoc-thiet-ke-cho-ca-duong-bo-va-duong-sat-5139218.html",
+     "detail": [
+      "Bộ Xây dựng vừa phê duyệt chủ trương đầu tư dự án cầu Cần Thơ 2 và đường dẫn hai đầu, dài khoảng 17,6 km, nối tỉnh Vĩnh Long với TP Cần Thơ. Cầu vượt sông Hậu, cách cầu Cần Thơ hiện hữu khoảng 4,5 km về phía hạ lưu.",
+      "Điểm đặc biệt là cầu chính dạng dây văng hai tầng bằng giàn thép. Tầng trên có 6 làn xe cao tốc, tốc độ thiết kế 100 km/h; tầng dưới là đường sắt đôi khổ tiêu chuẩn 1.435 mm, cho tàu khách chạy 160 km/h và tàu hàng 120 km/h. Cách làm này giúp dùng chung một công trình vượt sông cho cả đường bộ lẫn tuyến đường sắt TP.HCM – Cần Thơ sau này.",
+      "Tổng mức đầu tư sơ bộ 27.050 tỷ đồng từ ngân sách trung ương, trong đó phần xây cầu và đường dẫn khoảng 23.959 tỷ (gần 89%), bồi thường – tái định cư khoảng 2.266 tỷ ở Vĩnh Long và 824 tỷ ở Cần Thơ. Dự kiến khởi công năm 2027, thi công 5 năm; Ban Quản lý dự án Mỹ Thuận sẽ tổ chức thi tuyển phương án kiến trúc rộng rãi.",
+      "Tuyến bắt đầu từ nút giao Chà Và trên cao tốc Mỹ Thuận – Cần Thơ, kết thúc ở nút giao IC2 nối cao tốc Cần Thơ – Hậu Giang và Cần Thơ – Cà Mau. Khi xong, dự án sẽ góp phần hoàn thiện cao tốc Bắc – Nam phía Đông và giảm tải cho cầu Cần Thơ hiện nay, giúp hàng hóa và người dân miền Tây đi lại thuận tiện hơn."
+     ],
+     "image": "https://i2-vnexpress.vnecdn.net/2026/10/31/phoi-canh-cau-ct-doi-jpg-17934-8389-7382-1793454613.webp?w=1200&h=675&q=100&dpr=1&fit=crop&s=iOGHjfwXmcKzIT_pGy39Yg"
+    },
+    {
+     "cat": "know",
+     "title": "Lao động xây dựng khan hiếm: 77% vị trí ở Hà Nội trả từ 15 triệu/tháng",
+     "summary": "Phiên việc làm chuyên đề xây dựng – cơ khí – giao thông ở Hà Nội ngày 31/10 có 33 doanh nghiệp với gần 8.000 chỉ tiêu; 6.145 vị trí (77,1%) có thu nhập từ 15 triệu đồng/tháng trở lên. Doanh nghiệp vẫn khó tuyển thợ lành nghề dù sẵn sàng đào tạo người chưa có kinh nghiệm.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/ha-noi-nhu-cau-tuyen-dung-lon-lao-dong-linh-vuc-xay-dung-co-khi-post1398899.html",
+     "detail": [
+      "Ngày 31/10, Sở Nội vụ Hà Nội tổ chức Phiên giao dịch việc làm chuyên đề ngành Xây dựng – Cơ khí – Giao thông lần 2, với 33 doanh nghiệp (gần 20 nhà thầu lớn) tuyển trực tiếp và 15 trường kỹ thuật tham gia tư vấn nghề. Nhu cầu nhân lực tăng mạnh do hàng loạt công trình lớn như Vành đai 4, Vành đai 2,5, các cầu vượt sông Hồng (Tứ Liên, Trần Hưng Đạo, Ngọc Hồi, Thượng Cát) và Khu đô thị thể thao Olympic.",
+      "Thống kê của Sở cho thấy 32 doanh nghiệp cần tổng cộng 7.965 lao động. Trong đó 6.145 vị trí (77,1%) có thu nhập từ 15 triệu đồng/tháng trở lên – chủ yếu là kỹ sư, kỹ thuật viên, chỉ huy, giám sát công trình; 1.274 chỉ tiêu (16%) ở mức 10–15 triệu và 487 vị trí dưới 10 triệu đồng.",
+      "Một số ví dụ cụ thể: Vincons cần khoảng 3.000 người, thu nhập 14–48 triệu đồng/tháng (mức cao nhất cho người tay nghề cao, quản lý nhóm từ 20 công nhân); Công ty Trung Chính cần 500 lao động, lương 15 đến hơn 30 triệu. Có doanh nghiệp nhận cả người chưa có kinh nghiệm rồi tự đào tạo. Dù vậy, nhiều nhà thầu cho biết vẫn rất khó tìm thợ lành nghề, nhất là dịp cuối năm cần đẩy nhanh tiến độ.",
+      "Hà Nội đã giải quyết việc làm cho 183.249 lao động trong 10 tháng, vượt kế hoạch năm hơn 7%. Với người làm nhân sự, đây là tín hiệu thị trường lao động kỹ thuật đang 'khát' người: mặt bằng lương kỹ thuật tăng, doanh nghiệp phải cạnh tranh bằng thu nhập, đào tạo tại chỗ và liên kết sớm với trường nghề – xu hướng có thể lan sang các đô thị có nhiều dự án hạ tầng như Đà Nẵng."
+     ],
+     "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V78qm4j2B7LJdzAczgL7aoqkCvjcqPIkWmd5iKZ9EFYFSfPEWuoZ6QwUhNAJNdNNp8Bch6rN73zR1FhY1-Urrk1k/baotintuc_tr_vieclam311026.jpg.webp"
+    },
+    {
+     "cat": "ai",
+     "title": "Apple vượt Nvidia thành công ty giá trị nhất thế giới khi cổ phiếu chip lao dốc",
+     "summary": "Ngày 30/10, vốn hóa Apple đạt 5.030 tỷ USD, vượt Nvidia (4.930 tỷ USD) sau một tuần cổ phiếu công nghệ và chip bị bán mạnh vì lo ngại chi tiêu cho AI. Giới đầu tư đang chuyển sang các công ty ít phụ thuộc vào việc đổ tiền xây hạ tầng AI.",
+     "source": "TUAW",
+     "url": "https://www.tuaw.com/2026/10/31/apple-overtakes-nvidia-as-worlds-most-valuable-company",
+     "detail": [
+      "Kết thúc phiên 30/10, Apple có giá trị thị trường khoảng 5.030 tỷ USD, giành lại ngôi công ty giá trị nhất thế giới từ Nvidia, hãng chip AI có vốn hóa khoảng 4.930 tỷ USD. Cổ phiếu Apple đóng cửa ở 344,63 USD, còn Nvidia ở 204,64 USD sau thêm một phiên giảm.",
+      "Bối cảnh là một tuần khó khăn của cổ phiếu công nghệ: nhà đầu tư lo ngại các hãng đổ hàng trăm tỷ USD vào trung tâm dữ liệu, chip AI mà lợi nhuận chưa tương xứng. Cùng tuần, cổ phiếu Intel có phiên giảm gần 30% và Alphabet mất gần 500 tỷ USD vốn hóa trong một ngày.",
+      "Apple được hưởng lợi vì ít phải chi mạnh cho việc phát triển mô hình AI, trong khi vẫn kiếm tiền từ phần cứng và mảng dịch vụ. Điện thoại gập đầu tiên iPhone Duo và thiết bị nhà thông minh HomeView đều cháy hàng trong đợt đặt trước. Apple vừa chuyển giao vị trí CEO từ Tim Cook sang John Ternus.",
+      "Tuy nhiên, giới phân tích Loop Capital lưu ý việc Apple lùi mẫu iPhone tiêu chuẩn sang đầu năm 2027 có thể gây khó hiểu cho người mua. Apple và Nvidia đã nhiều lần đổi ngôi, nên thứ hạng có thể tiếp tục thay đổi khi thị trường đánh giá lại triển vọng tăng trưởng.",
+      "Sự kiện phản ánh tâm lý chung trên Phố Wall hiện nay: thay vì chạy theo mọi cổ phiếu 'dính' tới AI, nhà đầu tư bắt đầu đòi hỏi bằng chứng kiếm tiền thực tế. Diễn biến này cũng góp phần giải thích vì sao dòng vốn ngoại đang rời các thị trường mới nổi như Việt Nam để tìm cơ hội ở cổ phiếu công nghệ lớn."
+     ],
+     "image": "https://www.tuaw.com/wp-content/uploads/2026/10/apple-logo-1-scaled.jpg"
+    },
+    {
+     "cat": "dn",
+     "title": "Thanh niên Đà Nẵng gùi pin mặt trời, mang ánh điện lên các làng chưa có điện lưới",
+     "summary": "Các CLB thiện nguyện trẻ của Đà Nẵng đã lắp đèn năng lượng mặt trời cho 9 hộ ở Pêtapot (xã Đắc Pring) và 38 hộ ở nóc Ông Thái (xã Trà Leng) – những nơi chưa có điện lưới, không có sóng điện thoại. Riêng dự án ở Trà Leng có kinh phí gần 150 triệu đồng.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/anh-dien-ve-noi-tham-son-3357067.html",
+     "detail": [
+      "Cụm dân cư Pêtapot (thôn 48, xã biên giới Đắc Pring) chỉ cách trung tâm xã 16 km nhưng phải mất hàng giờ băng rừng, vượt dốc và suối đá. Nơi đây có 9 hộ với 39 nhân khẩu, chủ yếu là đồng bào Ve và Tà Riềng, chưa có điện lưới và sóng điện thoại. Trước đây dân làng dùng điện từ thủy luân (bánh xe nước) dưới suối, nhưng mỗi khi lũ về cuốn trôi, cả làng lại chìm trong bóng tối.",
+      "Đoàn 20 thành viên CLB Tâm Giao và Thiện nguyện sông Hàn xuất phát từ 3 giờ sáng, đi xe máy, đi bộ xuyên rừng rồi vượt suối bằng bè gỗ giữa mưa lớn, mang lên hệ thống đèn năng lượng mặt trời và một máy xát gạo chạy dầu cho cả 9 hộ dùng chung. CLB này cũng đã đưa ánh sáng đến 14 hộ đồng bào Hrê ở thôn Ca Tu, xã Trà Giang (Quảng Ngãi).",
+      "Ở nóc Ông Thái (thôn 7, xã Trà Leng) có 38 hộ đồng bào Mơ Nông sống trong vùng lõm sóng và chưa có điện lưới. CLB Sức trẻ Đà Nẵng và nhóm Familia vượt gần 10 km đường núi lầy lội; nhiều đoạn xe máy không đi được, người dân và tình nguyện viên phải thay nhau gùi các tấm pin nặng hàng chục ký. Theo Phó Chủ tịch UBND xã Trà Leng Hồ Văn Vân, dự án 'Năng lượng yêu thương' tại đây có kinh phí gần 150 triệu đồng.",
+      "Câu chuyện cho thấy dù là đô thị lớn, Đà Nẵng mới (sau sáp nhập với Quảng Nam) vẫn còn nhiều thôn bản vùng cao chưa có điện lưới. Các mô hình điện mặt trời nhỏ do cộng đồng góp sức là giải pháp tạm thời thiết thực trong lúc chờ hạ tầng điện quốc gia vươn tới."
+     ],
+     "tag": "Vùng cao"
+    },
+    {
+     "cat": "biz",
+     "title": "Xuất khẩu ghẹ sang Mỹ tăng gần 70%, chiếm 86% kim ngạch của Việt Nam",
+     "summary": "9 tháng đầu năm 2026, xuất khẩu ghẹ đạt 87,1 triệu USD, tăng gần 58% và đã vượt cả năm 2025; riêng thị trường Mỹ đạt khoảng 75 triệu USD. Lợi thế đến từ việc Mỹ công nhận nghề khai thác ghẹ Việt Nam đạt chuẩn bảo vệ động vật biển, trong khi một phần ghẹ Philippines bị hạn chế.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/my-vua-bao-tin-cuc-vui-den-viet-nam-188261031211205213.chn",
+     "detail": [
+      "Theo số liệu hải quan, 9 tháng đầu năm 2026 Việt Nam xuất khẩu 87,1 triệu USD ghẹ, tăng gần 58% so với cùng kỳ và đã vượt tổng kim ngạch cả năm 2025. Tốc độ tăng chậm dần (tháng 7 tăng 120%, tháng 8 tăng 43%, tháng 9 tăng 36%) nhưng mỗi tháng vẫn đạt trên 14 triệu USD.",
+      "Động lực chính là Mỹ, với khoảng 75 triệu USD, tăng gần 70% và chiếm 86% tổng kim ngạch. Ngày 11/5/2026, Cơ quan Quản lý Khí quyển và Đại dương Mỹ (NOAA) công nhận các nghề khai thác ghẹ bơi của Việt Nam 'tương đương' theo Đạo luật Bảo vệ động vật có vú biển (MMPA) – tức đạt chuẩn để tiếp tục bán vào Mỹ. Trong khi đó, một số nghề khai thác ghẹ của Philippines không được công nhận và bị hạn chế nhập khẩu từ tháng 6.",
+      "Về sản lượng năm 2025 vào Mỹ, Việt Nam (4.143 tấn) đứng sau Indonesia (khoảng 14.290 tấn) nhưng vượt Philippines (2.417 tấn). Các thị trường châu Á cũng tăng: Hàn Quốc gần 3 triệu USD (+89%), Trung Quốc và Hồng Kông gần 4 triệu USD (+114%); ngược lại EU giảm 57%, Canada giảm 59%, Nhật giảm 16%.",
+      "Rủi ro lớn là phụ thuộc quá nhiều vào một thị trường: nếu chính sách nhập khẩu, nhu cầu hay giá ở Mỹ thay đổi, doanh nghiệp sẽ chịu ảnh hưởng ngay. Ngành được khuyến nghị đa dạng hóa thị trường và duy trì chuẩn khai thác bền vững. Với các địa phương ven biển miền Trung như Đà Nẵng, Quảng Ngãi, đây là cơ hội cho ngư dân và doanh nghiệp chế biến thủy sản."
+     ],
+     "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/10/31/photo-1793455755408-1793455755731769887084-7-0-632-1000-crop-17934557684571924818023.png"
+    },
+    {
+     "cat": "vn",
+     "title": "Giám đốc Bệnh viện Bạch Mai Đào Xuân Cơ được bổ nhiệm Thứ trưởng Bộ Y tế",
+     "summary": "Thủ tướng ký quyết định ngày 30/10 bổ nhiệm PGS.TS Đào Xuân Cơ, Giám đốc Bệnh viện Bạch Mai, làm Thứ trưởng Bộ Y tế; ông tiếp tục giữ chức giám đốc bệnh viện. Bộ Y tế hiện có Bộ trưởng và 5 thứ trưởng.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/giam-doc-benh-vien-bach-mai-dao-xuan-co-giu-chuc-thu-truong-y-te-5139217.html",
+     "detail": [
+      "Quyết định bổ nhiệm ông Đào Xuân Cơ làm Thứ trưởng Bộ Y tế được Thủ tướng ký ngày 30/10/2026 và có hiệu lực ngay. Ông vẫn kiêm Giám đốc Bệnh viện Bạch Mai, vị trí ông nắm giữ từ tháng 3/2022. Ban lãnh đạo Bộ hiện gồm Bộ trưởng Đào Hồng Lan cùng 5 thứ trưởng: Vũ Mạnh Hà (thường trực), Đỗ Xuân Tuyên, Lê Đức Luận, Nguyễn Thị Liên Hương và Đào Xuân Cơ.",
+      "Ông Cơ sinh năm 1972, quê Hưng Yên, là tiến sĩ hồi sức cấp cứu, phó giáo sư từ năm 2018. Ông bắt đầu ở Bệnh viện Đa khoa tỉnh Hải Dương (cũ), sau đó gắn bó với Bạch Mai qua các vị trí trưởng khoa Hồi sức tích cực, phó giám đốc. Ông tham gia phát triển các kỹ thuật như lọc máu liên tục, thay huyết tương, ECMO (tim phổi nhân tạo) và có 35 bài báo quốc tế.",
+      "Dưới thời ông, tháng 11/2024 Bạch Mai trở thành bệnh viện hạng đặc biệt đầu tiên áp dụng bệnh án điện tử. Bệnh viện có 1.900 giường, mỗi ngày tiếp nhận khoảng 5.000 bệnh nhân; cơ sở Ninh Bình hoạt động từ tháng 6/2026 với 1.300 y bác sĩ, công suất 10.000 lượt khám/ngày. Việc một giám đốc bệnh viện tuyến cuối lên lãnh đạo Bộ được kỳ vọng giúp chính sách y tế sát thực tiễn khám chữa bệnh hơn."
+     ],
+     "tag": "Nhân sự"
+    },
+    {
+     "cat": "biz",
+     "title": "Sun PhuQuoc Airways tròn một năm bay: hơn 4 triệu khách, 29 đường bay",
+     "summary": "Sau năm đầu khai thác (từ 1/11/2025), hãng bay của Sun Group thực hiện gần 23.600 chuyến, chở hơn 4 triệu lượt khách trên 13 đường bay nội địa và 16 quốc tế, trong đó có chặng Phú Quốc – Đà Nẵng. Hãng đặt mục tiêu 60 tàu bay vào cuối năm 2027.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/nhung-dau-moc-trong-nam-dau-hoat-dong-cua-sun-phuquoc-airways-5139253.html",
+     "detail": [
+      "Sun PhuQuoc Airways (SPA) được cấp phép ngày 13/6/2025 và cất cánh chuyến thương mại đầu tiên ngày 1/11/2025, tức chỉ sau 142 ngày. Trong hơn 4 tháng, hãng hoàn tất ba chứng nhận về khai thác, đào tạo và bảo dưỡng; chưa đầy 6 tháng đã được phép khai thác máy bay thân rộng Airbus A330.",
+      "Năm đầu, hãng thực hiện gần 23.600 chuyến bay với hơn 4 triệu lượt khách. Mạng bay gồm 13 đường nội địa nối Phú Quốc với Hà Nội, TP.HCM, Hải Phòng, Đà Nẵng, Nha Trang, và 16 đường quốc tế tới Đông Bắc Á, Đông Nam Á, Trung Á, Ấn Độ, Nga. Tỷ lệ bay đúng giờ tháng 9 đạt 86,8%, cao hơn trung bình ngành 8,4 điểm phần trăm.",
+      "Hãng theo đuổi mô hình 'hàng không nghỉ dưỡng', gắn với hệ sinh thái du lịch của tập đoàn mẹ. Kế hoạch đội tàu rất tham vọng: 33 chiếc cuối 2026, 60 chiếc cuối 2027, 100 chiếc năm 2030 và 200 chiếc năm 2035, kèm đơn đặt 40 máy bay Boeing 787-9 trị giá 22,5 tỷ USD – đơn tàu thân rộng Boeing lớn nhất của Việt Nam.",
+      "Các đường bay dài tới Nga, Kazakhstan, Nhật Bản, Australia và châu Âu còn phụ thuộc tiến độ giao máy bay và nhu cầu thị trường. Sự xuất hiện của một hãng bay mới quy mô lớn làm tăng cạnh tranh trên thị trường hàng không nội địa, có lợi cho hành khách về lựa chọn và giá vé, và mở thêm kết nối du lịch giữa Phú Quốc với Đà Nẵng."
+     ],
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/31/sun-phuquoc-airways-4-17934638-4013-7952-1793464013.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=cNJtnbx1WvhkbWBToeps7Q"
+    }
+   ]
+  },
   {
    "id": "2026-11-01-0700",
    "date": "2026-11-01",
