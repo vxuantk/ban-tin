@@ -1,6 +1,229 @@
 {
- "updated": "2026-11-01T11:17:05+07:00",
+ "updated": "2026-11-01T15:06:42+07:00",
  "editions": [
+  {
+   "id": "2026-11-01-1500",
+   "date": "2026-11-01",
+   "slot": "15:00",
+   "createdAt": "2026-11-01T15:00:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "know",
+     "title": "Ngày 24/11 năm nay lần đầu là ngày nghỉ hưởng nguyên lương của người lao động",
+     "summary": "Tháng 11/2026 có thêm một ngày nghỉ lễ mới: 24/11 – Ngày Văn hóa Việt Nam, người lao động được nghỉ và hưởng nguyên lương. Năm nay 24/11 rơi vào thứ Ba, doanh nghiệp cần sắp xếp lịch làm việc, ca kíp từ sớm.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/thang-11-bat-dau-thang-nay-lan-dau-co-ngay-nghi-le-dac-biet-huong-nguyen-luong-185261031070648236.htm",
+     "detail": [
+      "Ngày 24/11 được chọn làm Ngày Văn hóa Việt Nam theo Nghị quyết 80-NQ/TW của Bộ Chính trị (7/1/2026). Sau đó, Nghị quyết của Quốc hội về phát triển văn hóa Việt Nam, thông qua ngày 24/4/2026 với 477/489 đại biểu tán thành, chính thức quy định người lao động được nghỉ làm việc và hưởng nguyên lương vào ngày này.",
+      "Mốc 24/11 gắn với ngày khai mạc Hội nghị Văn hóa toàn quốc lần thứ nhất năm 1946 tại Nhà hát Thành phố Hà Nội, có Chủ tịch Hồ Chí Minh và hơn 200 đại biểu dự. Năm 2026 là năm đầu tiên ngày này trở thành ngày nghỉ chính thức.",
+      "Theo lịch, 24/11/2026 là thứ Ba nên không phát sinh chuyện nghỉ bù cuối tuần. Với bộ phận nhân sự, đây là ngày nghỉ hưởng lương như các ngày lễ khác: nếu bố trí người lao động làm việc vào ngày này thì cần tính lương làm thêm theo mức ngày lễ theo Bộ luật Lao động.",
+      "Vào ngày này, các cơ sở văn hóa, thể thao công lập có thể miễn hoặc giảm phí tham quan. Bộ Văn hóa, Thể thao và Du lịch xây dựng kế hoạch tổng thể và bộ nhận diện; các tỉnh, thành, trong đó có Đà Nẵng, phải có kế hoạch riêng và chọn ít nhất một hoạt động văn hóa tiêu biểu để giới thiệu.",
+      "Ngoài 24/11, tháng 11 còn nhiều ngày kỷ niệm như Ngày Pháp luật (9/11), Ngày Nhà giáo Việt Nam (20/11), nhưng các ngày này không phải ngày nghỉ hưởng lương."
+     ],
+     "image": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/10/31/thang-11-ruc-ro-cung-muoi-hai-con-giap-17934047970831512641171-37-0-912-1672-crop-1793404841274885727003.png",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Alibaba đưa mô hình Qwen vào Apple Intelligence cho iPhone tại Trung Quốc",
+     "summary": "Alibaba công bố hợp tác với Apple để mô hình AI Qwen cung cấp sức mạnh cho Siri, Công cụ viết và Trí tuệ thị giác trên iPhone bán tại Trung Quốc. Bản thử cho lập trình viên có từ 4/11, người dùng nhận chính thức trong bản iOS 27.3 vào tháng 12.",
+     "source": "Tân Hoa xã (Xinhua)",
+     "url": "https://english.news.cn/20261101/773fa2ac33a34a5ca3484d7e5920d094/c.html",
+     "detail": [
+      "Apple Intelligence là bộ tính năng AI của Apple ra mắt từ năm 2024, nhưng lâu nay chưa có ở Trung Quốc vì quy định ở đây yêu cầu AI tạo sinh phải dùng mô hình được cấp phép trong nước. Ngày 31/10, Alibaba thông báo đã hợp tác với Apple để mô hình Qwen của mình trở thành 'bộ não' AI cho thị trường này.",
+      "Theo CEO Alibaba Eddie Wu, Qwen sẽ được tích hợp vào ba tính năng chính: trợ lý Siri, Công cụ viết (Writing Tools) và Trí tuệ thị giác (Visual Intelligence) – dùng để hiểu văn bản, hình ảnh và tạo nội dung. Lập trình viên được thử từ ngày 4/11 trên bản iOS beta mới nhất; người dùng phổ thông nhận tính năng với bản iOS 27.3 phát hành tháng 12.",
+      "Tính năng chỉ áp dụng cho iPhone mua tại Trung Quốc, hoặc máy có vị trí và tài khoản Apple đều đặt ở Trung Quốc. Người dùng tự chọn có bật Qwen hay không và chia sẻ thông tin gì; Alibaba cam kết không dùng câu hỏi hay câu trả lời của người dùng để huấn luyện mô hình.",
+      "Một chuyên gia AI của Đại học Bưu chính Viễn thông Bắc Kinh nhận định đây là lần đầu một hãng phần cứng tiêu dùng hàng đầu thế giới dùng mô hình AI Trung Quốc làm nền tảng AI cấp hệ thống tại thị trường này. Hồi tháng 7, cơ quan quản lý không gian mạng Trung Quốc đã hoàn tất thủ tục đăng ký cho 7 dịch vụ AI tạo sinh trên điện thoại, trong đó có Apple Intelligence.",
+      "Với Apple, thỏa thuận giúp lấy lại sức cạnh tranh ở Trung Quốc – thị trường lớn nơi các hãng nội địa như Huawei đã có AI riêng. Với người dùng Việt Nam, tính năng này không áp dụng; iPhone bán ở Việt Nam dùng phiên bản Apple Intelligence quốc tế."
+     ],
+     "image": "https://english.news.cn/20261101/773fa2ac33a34a5ca3484d7e5920d094/20261101773fa2ac33a34a5ca3484d7e5920d094_XxjwshE000001_20261101_CBMFN0A001.JPG",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng gỡ xong 1.986/2.035 dự án, nhà đất tồn đọng nhờ cơ chế đặc thù",
+     "summary": "Đà Nẵng đã tháo gỡ 97,6% trong số 2.035 dự án, cơ sở nhà đất vướng mắc nhiều năm, thu về ngân sách hơn 2.000 tỉ đồng. Với 356 dự án theo Nghị quyết 29, thành phố đã gỡ 206 dự án và đặt mục tiêu hoàn tất vào quý 3/2027.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/pha-bang-gan-2000-du-an-ton-dong-da-nang-da-lam-nhu-the-nao-100261101120403727.htm",
+     "detail": [
+      "Hàng nghìn dự án và khu đất ở Đà Nẵng 'đóng băng' suốt nhiều năm do hồ sơ phân tán, quy hoạch điều chỉnh nhiều lần, liên quan đến quốc phòng, đất rừng, môi trường, trong khi luật thay đổi qua từng thời kỳ. Cơ chế đặc thù từ Kết luận 77 của Bộ Chính trị, Nghị quyết 170 và Nghị quyết 29 của Quốc hội cho thành phố cơ sở pháp lý để xử lý.",
+      "Kết quả: 1.986/2.035 dự án, cơ sở nhà đất đã được tháo gỡ. Thành phố thu 1.472 tỉ đồng từ xử lý kết luận thanh tra và thêm 583 tỉ qua rà soát các trường hợp tương tự; xử lý xong 1.313 trường hợp vi phạm thời hạn sử dụng đất. Riêng danh mục 356 dự án theo Nghị quyết 29, đến tháng 9 đã gỡ 206 dự án, 9 dự án được tiếp tục giao hoặc thuê đất.",
+      "Một số dự án lớn đã chạy lại: khu Golden Hills (khoảng 335 ha, vốn gần 15.500 tỉ đồng) đã tái khởi công; Khu đô thị quốc tế Đa Phước (hơn 54.787 tỉ đồng) đang lấy ý kiến quy hoạch chi tiết 1/500.",
+      "Cách làm của thành phố là phân nhóm vướng mắc, áp dụng nguyên tắc '6 rõ' (rõ trách nhiệm, đầu mối, thời hạn, kết quả, giải trình, thẩm quyền), dự án nào xong thủ tục thì xử lý trước, vượt thẩm quyền thì kiến nghị Trung ương. Giám đốc Sở Tài chính nhấn mạnh quan điểm 'không hợp pháp hóa sai phạm' và nhà đầu tư chậm triển khai không lý do sẽ bị xử lý.",
+      "Việc khơi thông giúp đất đai, vốn quay lại sản xuất kinh doanh, tạo thêm việc làm xây dựng, dịch vụ và nguồn thu ngân sách – điều kiện quan trọng để Đà Nẵng duy trì tăng trưởng và thu hút nhà đầu tư."
+     ],
+     "tag": "Gỡ vướng dự án",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Từ 1/11, tiểu học và THCS thành nghĩa vụ bắt buộc, cha mẹ phải bảo đảm con đi học",
+     "summary": "Nghị định 353 có hiệu lực từ 1/11 biến việc học tiểu học, THCS từ 'khuyến khích' thành nghĩa vụ pháp lý; cha mẹ, người giám hộ phải tạo điều kiện cho con hoàn thành chương trình. Nghị định cũng mở rộng phổ cập mầm non 5–6 tuổi và xóa mù chữ cho người 15–60 tuổi.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/tu-hom-nay-1-11-di-hoc-khong-con-la-quyen-loi-ma-la-nghia-vu-bat-buoc-100261101100943559.htm",
+     "detail": [
+      "Nghị định 353 thay thế quy định cũ đã áp dụng hơn 10 năm, quy định về giáo dục bắt buộc gồm bậc tiểu học và THCS. Đối tượng là trẻ 6–14 tuổi chưa học xong tiểu học và thanh thiếu niên 11–18 tuổi chưa học xong THCS. Điểm thay đổi lớn nhất là việc đi học không còn chỉ là vận động mà là nghĩa vụ.",
+      "Cha mẹ hoặc người giám hộ có trách nhiệm tạo điều kiện để con em hoàn thành chương trình học theo luật. Với người lao động có con nhỏ, đặc biệt là lao động di cư, đây là điểm cần lưu ý khi chuyển chỗ ở hay nơi làm việc.",
+      "Người lớn đã quá tuổi nhưng chưa tốt nghiệp tiểu học, THCS và người 15–60 tuổi chưa biết chữ được học theo mô hình giáo dục thường xuyên, thời gian và địa điểm linh hoạt. Ngân sách sẽ mua trực tiếp sách vở, đồ dùng cho học viên xóa mù chữ.",
+      "Toàn bộ dữ liệu quản lý giáo dục bắt buộc được số hóa và kết nối với cơ sở dữ liệu quốc gia về dân cư, bỏ thủ tục khai báo giấy. Bài báo chưa nêu cụ thể chế tài nếu gia đình không thực hiện nghĩa vụ."
+     ],
+     "tag": "Nghị định 353",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Binance bù 90% thiệt hại vụ hack 6,3 tỷ USD, FBI quy cho tin tặc Triều Tiên",
+     "summary": "Sàn tiền số Binance cho biết đã bổ sung 90% số tài sản bị đánh cắp trong vụ hack ngày 29/10, ước 6,3 tỷ USD – được xem là lớn nhất lịch sử các sàn. FBI xác định thủ phạm là nhóm TraderTraitor của Triều Tiên; Binance dự kiến mở lại rút tiền từ 1/11.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/binance-da-bu-duoc-90-thiet-hai-tu-vu-hack-6-3-ty-usd-5139320.html",
+     "detail": [
+      "Tối 29/10 (giờ Mỹ), tin tặc rút trái phép Ethereum, Bitcoin, Tron, Solana khỏi ví của Binance, phần lớn chỉ trong khoảng 20 phút. Theo hãng phân tích TRM Labs, kẻ tấn công đã xâm nhập 'hạ tầng ký kết' – hệ thống phê duyệt giao dịch – nên có thể tự phát lệnh rút tiền. Ban đầu Binance cho rằng nguồn gốc là laptop bị xâm nhập của một kỹ sư, sau đó xác nhận còn các điểm xâm nhập khác.",
+      "Ngày 31/10, đồng CEO Richard Teng thông báo đã bù 90% tài sản bị mất; phần 10% còn lại là các token ít thanh khoản nên cần thêm thời gian để mua lại. Tiền bù lấy từ quỹ bảo vệ người dùng SAFU (khoảng 1 tỷ USD Bitcoin), quỹ bảo hiểm hợp đồng tương lai và ngân quỹ riêng của công ty. Binance khẳng định số dư của người dùng không thay đổi.",
+      "FBI cùng TRM Labs, Chainalysis quy trách nhiệm cho nhóm TraderTraitor thuộc Triều Tiên, cho biết tài sản đã được chuyển sang Ethereum và có thể bị rửa qua các dịch vụ tài chính phi tập trung. FBI kêu gọi các doanh nghiệp chặn giao dịch với địa chỉ liên quan.",
+      "Theo Nansen, ví của Binance đang giữ khoảng 167 tỷ USD tài sản mã hóa nên thiệt hại không đe dọa khả năng thanh toán của sàn. Tuy vậy, vụ việc nhắc nhở người dùng tiền số – kể cả ở Việt Nam – rằng tài sản để trên sàn luôn có rủi ro bảo mật, nên không dồn toàn bộ tài sản vào một nơi."
+     ],
+     "tag": "Tiền số",
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "VNG lãi quý 3 tăng hơn 2.400%, HDBank lãi gần 5.200 tỷ đồng",
+     "summary": "Báo cáo quý 3/2026 công bố ngày 1/11: VNG (chủ Zalo) lãi trước thuế 436 tỷ đồng, gấp hơn 25 lần cùng kỳ; HDBank lãi 5.176 tỷ, tăng 9%. Ngược lại ACV giảm 36% và Viconship giảm 55%.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-1-11-hdbank-lai-gan-5200-ty-dong-acv-bao-lai-giam-36-vng-lai-tang-hon-2400-188261101005247522.chn",
+     "detail": [
+      "Mùa báo cáo tài chính quý 3 đang ở giai đoạn cuối, nhiều doanh nghiệp lớn công bố số liệu ngay cuối tuần. Đáng chú ý nhất là VNG – công ty sở hữu Zalo – với lãi trước thuế quý 3 đạt 436 tỷ đồng, tăng hơn 2.431% so với cùng kỳ; lũy kế 9 tháng 1.136 tỷ, tăng khoảng 790%.",
+      "Trong ngân hàng, HDBank lãi trước thuế quý 3 đạt 5.176 tỷ đồng, tăng 9%; 9 tháng đạt 18.379 tỷ, tăng 24%. Các doanh nghiệp tăng trưởng mạnh khác gồm Fecon (131 tỷ, tăng 442%), Giấy Thuận An (330 tỷ, gấp đôi) và VEAM (1.985 tỷ, tăng 6%).",
+      "Chiều ngược lại, Tổng công ty Cảng hàng không ACV lãi 2.537 tỷ đồng, giảm 36%; Viconship (cảng biển) chỉ lãi 65 tỷ, giảm 55%. Bài báo chỉ liệt kê số liệu, chưa giải thích nguyên nhân từng doanh nghiệp.",
+      "Kết quả kinh doanh phân hóa mạnh cho thấy dòng tiền đang chảy vào nhóm công nghệ, ngân hàng và xây dựng hạ tầng, trong khi nhóm cảng biển, hàng không chịu áp lực. Với nhà đầu tư cá nhân, đây là căn cứ để chọn cổ phiếu dựa trên lợi nhuận thực thay vì tin đồn."
+     ],
+     "tag": "Lãi quý 3",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Tòa Mỹ cho phép NAACP kiện nhà máy điện khí phục vụ trung tâm dữ liệu AI của xAI",
+     "summary": "Thẩm phán liên bang bác đề nghị của Bộ Tư pháp Mỹ muốn chấm dứt vụ kiện ô nhiễm nhằm vào xAI của Elon Musk. Vụ kiện cáo buộc hàng chục tua-bin khí cấp điện cho siêu máy tính Colossus 2 chạy không có giấy phép, có thể thải hơn 5.000 tấn khí NOx mỗi năm.",
+     "source": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/judge-allows-naacp-lawsuit-against-xai-turbines-1826961",
+     "detail": [
+      "xAI – công ty AI của Elon Musk, nay thuộc SpaceX – xây trung tâm dữ liệu Colossus 2 ở Memphis để huấn luyện chatbot Grok, với khoản đầu tư công bố 20 tỷ USD. Để có đủ điện, công ty dựng nhà máy tua-bin khí metan ở Southaven, bang Mississippi, cách đó khoảng 1,6 km.",
+      "Ngày 14/4, Hiệp hội Quốc gia vì sự tiến bộ của người da màu (NAACP) khởi kiện theo Đạo luật Không khí sạch – luật cho phép tổ chức tư nhân kiện vi phạm môi trường. Họ cáo buộc hàng chục tua-bin hoạt động không có giấy phép liên bang, có thể thải hơn 5.000 tấn oxit nitơ, hơn 400 tấn bụi mịn và 47 tấn formaldehyde mỗi năm – những chất liên quan đến hen suyễn, bệnh tim và ung thư.",
+      "Bộ Tư pháp Mỹ tham gia vụ án từ tháng 6, đề nghị bác đơn với lập luận chỉ chính phủ mới có quyền chấm dứt vụ kiện kiểu này và coi hạ tầng AI là vấn đề an ninh quốc gia. Ngày 19/10, thẩm phán Debra Brown bác đề nghị này, cho rằng không có cách hiểu 'hợp lý' nào của luật trao quyền đó cho chính phủ.",
+      "Phán quyết chưa kết luận xAI có vi phạm hay không. Phía Mississippi cho rằng tua-bin di động không cần giấy phép; xAI đã được bang cấp phép cho 41 tua-bin cố định nhưng dự kiến đến 2027 mới chạy. Một đề nghị khác của NAACP yêu cầu tạm dừng tua-bin trong lúc chờ xử vẫn chưa được quyết.",
+      "Vụ việc phản ánh cái giá môi trường của cuộc đua AI: trung tâm dữ liệu ngốn điện khổng lồ, buộc các hãng dựng nhà máy điện riêng – vấn đề mà các nước đang thu hút trung tâm dữ liệu, trong đó có Việt Nam, cũng cần tính đến."
+     ],
+     "image": "https://d.ibtimes.co.uk/en/full/1838253/elon-musk-xai.png",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ GD-ĐT yêu cầu đại học hạn chế tăng học phí cao, đột ngột năm 2026–2027",
+     "summary": "Bộ Giáo dục và Đào tạo yêu cầu các trường đại học rà soát mức thu năm học 2026–2027, công khai lộ trình tăng cho cả khóa và báo cáo trước ngày 5/11. Trường không được tự ý điều chỉnh mức thu hay đặt khoản thu trái quy định.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-yeu-cau-han-che-tang-hoc-phi-dai-hoc-dot-ngot-100261101103237032.htm",
+     "detail": [
+      "Công văn mới của Bộ được ban hành trong bối cảnh nhiều ngành, nhiều trường tăng học phí mạnh, gây áp lực cho gia đình sinh viên. Bộ yêu cầu rà soát mức thu theo từng trình độ, ngành, chương trình; ngành nào học phí cao hoặc tăng mạnh phải xem lại căn cứ, chi phí đào tạo và tác động tới người học, theo Nghị định 238/2025.",
+      "Các trường phải công khai trước khi tuyển sinh mức thu, chi phí đào tạo, lộ trình tăng từng năm và dự kiến cho cả khóa học; đã cam kết thì phải làm đúng. Học phí thu tối đa 10 tháng/năm; nếu thu theo tín chỉ thì tổng học phí cả khóa không được vượt mức tính theo năm học.",
+      "Trường cũng phải thực hiện đầy đủ chính sách miễn giảm, tăng học bổng, giúp sinh viên tiếp cận tín dụng, hạn chế tối đa việc sinh viên bỏ học vì khó khăn tài chính. Trường dân lập, tư thục và trường công tự chủ vẫn phải tuân thủ giới hạn tăng tại các nghị định 238/2025 và 334/2026.",
+      "Hạn báo cáo mức thu và lộ trình tăng học phí là 5/11/2026. Với các gia đình có con học đại học, đây là căn cứ để yêu cầu nhà trường minh bạch và phản ánh nếu bị thu sai."
+     ],
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/1/tdtu-17935034601911560582337-337-40-1155-1602-crop-17935037041931693897584.jpg",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Dịch tả lợn châu Phi lan ra 3 thôn ở xã Thượng Đức, 38 con heo phải tiêu hủy",
+     "summary": "Từ 18/10 đến cuối tháng 10, dịch tả lợn châu Phi xuất hiện ở 3 thôn của xã Thượng Đức (Đà Nẵng), làm 38 con heo của 3 hộ chết hoặc bị tiêu hủy. Xã đã rải 5.000 kg vôi bột, phun khử trùng chợ, đường và yêu cầu dân không giấu dịch.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/xa-thuong-duc-trien-khai-cac-bien-phap-phong-chong-dich-ta-lon-chau-phi-3357076.html",
+     "detail": [
+      "Ổ dịch đầu tiên ghi nhận ngày 18/10 tại thôn Đại Mỹ, sau đó lan sang thôn Đại Lãnh (24/10) và Hà Tân (28/10). Tổng cộng 38 con heo, hơn 3,5 tấn, của 3 hộ đã chết hoặc phải tiêu hủy. Mưa lũ khiến nguy cơ lây lan càng cao.",
+      "Đáng lo ngại là cả 3 hộ có heo bệnh đều không có trong dữ liệu kê khai tổng đàn của địa phương, cho thấy việc quản lý đàn còn lỗ hổng. Toàn xã có 5.293 con heo và 21 điểm giết mổ nhỏ lẻ, trong đó 13 điểm không bảo đảm vệ sinh thú y.",
+      "Xã đã ra quân với lực lượng 10 thôn, công an, dân quân; cấp 200 lít hóa chất sát trùng và 5.000 kg vôi bột, rải vôi ở đường chính, bãi rác và các chợ Hà Tân, Trúc Hà, Thạnh Đại, Thái Chấn Sơn. 100% hộ dân được vận động ký cam kết '5 không': không giấu dịch, không mua bán vận chuyển heo bệnh, không giết mổ tiêu thụ heo bệnh, không vứt xác heo ra môi trường, không cho heo ăn thức ăn thừa chưa nấu chín.",
+      "Bệnh tả lợn châu Phi không lây sang người nhưng gây thiệt hại nặng cho người chăn nuôi. Người tiêu dùng nên mua thịt heo có nguồn gốc, đã qua kiểm dịch, tránh mua thịt rẻ bất thường từ các điểm giết mổ nhỏ lẻ."
+     ],
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/31/1(1).jpg",
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "Sun Group chính thức vận hành cảng An Thới ở Phú Quốc, phục vụ APEC 2027",
+     "summary": "Ngày 1/11, cảng An Thới ở đặc khu Phú Quốc khai trương vận hành với tên thương mại 'cảng Mặt Trời Phú Quốc', do một công ty thuộc Sun Group khai thác sau khi trúng đấu giá. Cảng tiếp nhận tàu tới 3.000 tấn, là đầu mối đưa khách ra các đảo phía nam.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/chinh-thuc-van-hanh-sieu-cang-an-thoi-o-phu-quoc-100261101115519124.htm",
+     "detail": [
+      "Cảng An Thới là đầu mối đường thủy quan trọng phía nam đảo Phú Quốc (nay thuộc An Giang), nơi xuất phát các tàu đưa khách ra Hòn Thơm, Hòn Mây Rút, Hòn Móng Tay. Nhiều năm qua cảng chưa phát huy hết công suất thiết kế.",
+      "Công ty TNHH Mặt trời Hạ Long, thành viên Sun Group, nhận quyền khai thác từ 7/8/2026 sau khi trúng đấu giá, thời hạn khai thác 2 năm. Cảng tiếp nhận được tàu trọng tải tới 3.000 DWT (tấn trọng tải), có kho bãi và công trình phụ trợ.",
+      "Lãnh đạo đặc khu kỳ vọng cảng trở thành điểm kết nối tàu biển lớn đến Phú Quốc, thúc đẩy khu vực Nam An Thới và hoàn thiện giao thông phục vụ Hội nghị cấp cao APEC 2027 tổ chức tại đảo. Đơn vị vận hành cam kết dùng công nghệ thông tin để quản lý phương tiện, phân luồng giao thông, bảo đảm an ninh và vệ sinh môi trường.",
+      "Việc giao cảng công cho doanh nghiệp tư nhân khai thác qua đấu giá là mô hình đang được nhiều địa phương quan tâm nhằm tăng hiệu quả tài sản công. Với ngành du lịch biển, trong đó có Đà Nẵng, đây là đối thủ cạnh tranh đáng chú ý trong mảng du lịch đảo cao cấp."
+     ],
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/1/cang2-1793508729675728078753-460-0-3413-5640-crop-1793508752467238356757.jpg",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "CEO mới của Apple: không tung ra AI chỉ vì trào lưu AI",
+     "summary": "Trả lời tạp chí Wired, CEO Apple John Ternus nói công ty sẽ đưa AI vào sản phẩm nhưng không làm AI chỉ để có AI; thành công là khi người dùng không cần biết tính năng chạy bằng AI hay phần mềm thường. Apple lâu nay bị cho là chậm chân trong cuộc đua AI.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+     "detail": [
+      "John Ternus, lãnh đạo kỳ cựu mảng phần cứng, lên làm CEO Apple từ đầu tháng 9/2026. Trong cuộc phỏng vấn với nhà báo Steven Levy của Wired, ông thừa nhận dư luận có nhiều ý kiến khác nhau về vị thế AI của Apple nhưng khẳng định hài lòng với hướng đi hiện tại.",
+      "Theo Ternus, Apple sẽ dùng AI trong các sản phẩm mới nhưng không thêm AI 'cho có'. Điều quan trọng là người dùng có yêu thích sản phẩm hay không, chứ không phải tính năng được tạo bằng AI hay phần mềm truyền thống.",
+      "Khi được hỏi liệu các 'tác tử AI' (AI agent – AI tự thực hiện nhiều bước thay người dùng) có làm ứng dụng trở nên thừa, ông cho rằng điều đó có thể khiến mọi thứ dễ dàng hơn, nhưng việc tạo ra sản phẩm vẫn là hoạt động mang tính con người mà Apple theo đuổi.",
+      "Apple bị đánh giá chậm chân về AI, một phần do phải hoãn phiên bản Siri mạnh hơn; bản Siri mới chỉ ra mắt vào mùa hè 2026. Phát biểu của Ternus cho thấy Apple tiếp tục chọn chiến lược thận trọng, tích hợp AI ngầm vào sản phẩm thay vì chạy đua tung chatbot riêng như Google, OpenAI."
+     ],
+     "tag": "Apple",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Quảng Trị chi 90 tỷ đồng rà phá bom mìn, làm sạch 2.400 ha đất",
+     "summary": "Quảng Trị phê duyệt dự án rà phá bom mìn, vật nổ sau chiến tranh với tổng vốn 90 tỷ đồng, làm sạch khoảng 2.400 ha đất tại 6 xã trong giai đoạn 2027–2030. Tỉnh hướng tới mô hình 'Tỉnh an toàn' vào năm 2035.",
+     "source": "VOV",
+     "url": "https://vov.vn/xa-hoi/quang-tri-dau-tu-90-ty-dong-ra-pha-bom-min-vat-no-giai-doan-2026-2030-post1346377.vov",
+     "detail": [
+      "Quảng Trị là một trong những địa phương ô nhiễm bom mìn nặng nhất cả nước do hậu quả chiến tranh. UBND tỉnh vừa phê duyệt chủ trương đầu tư dự án rà phá bom mìn, vật nổ giai đoạn 2026–2030 với tổng mức 90 tỷ đồng từ vốn đầu tư công trung hạn của tỉnh; Bộ Chỉ huy Quân sự tỉnh làm chủ đầu tư.",
+      "Dự án sẽ làm sạch khoảng 2.400 ha đất tại 6 xã: Hòa Trạch, Trung Thuần, Nam Trạch, Bến Quan, Vĩnh Thủy và Sen Ngư, thực hiện trong các năm 2027–2030. Các hạng mục gồm khảo sát kỹ thuật, rà phá, thu gom, vận chuyển, hủy nổ và bàn giao mặt bằng sạch.",
+      "Tỉnh ưu tiên rà phá 100% diện tích đã xác định ô nhiễm bom chùm, đồng thời huy động thêm hỗ trợ trong nước và quốc tế để đạt mục tiêu 'Tỉnh an toàn' vào năm 2035.",
+      "Đất được làm sạch sẽ giao lại cho người dân sản xuất, xây nhà, làm đường – giảm nguy cơ tai nạn bom mìn vẫn còn xảy ra và mở thêm quỹ đất cho phát triển kinh tế ở các xã nông thôn."
+     ],
+     "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/img_1957-2.jpg?v=1793519574",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "45 sinh viên Đà Nẵng nhận học bổng SEEDS 20–60 triệu đồng mỗi năm",
+     "summary": "Sáng 1/11, Hội Từ thiện và Bảo vệ quyền trẻ em Đà Nẵng cùng tổ chức Vòng tay Thái Bình trao học bổng SEEDS đại học năm 2026–2027 cho 146 sinh viên khó khăn miền Trung, trong đó 45 em ở Đà Nẵng. Mỗi suất 20–60 triệu đồng/năm, kéo dài suốt khóa học.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/trao-hoc-bong-seeds-cho-45-sinh-vien-da-nang-nam-hoc-2026-2027-3357080.html",
+     "detail": [
+      "SEEDS là chương trình học bổng của Tổ chức Vòng tay Thái Bình (Pacific Links Foundation) dành cho học sinh, sinh viên hoàn cảnh khó khăn. Năm học 2026–2027 có 146 sinh viên thuộc 7 tỉnh, thành miền Trung đang học ở Hà Nội, Huế, Đà Nẵng và TP.HCM được hỗ trợ, tổng ngân sách 3,5 tỷ đồng; Đà Nẵng có 45 em.",
+      "Mỗi suất từ 20 đến 60 triệu đồng/năm trong 4 năm đại học; ngành kỹ thuật có thể được 5 năm, ngành y 6 năm. Ngoài học phí và sinh hoạt phí, sinh viên còn được hỗ trợ laptop, khóa tiếng Anh trực tuyến, luyện IELTS, khóa học Coursera, chữa răng và tập huấn kỹ năng.",
+      "Để nhận học bổng, sinh viên phải từng tham gia SEEDS ở bậc phổ thông và vượt qua vòng phỏng vấn của nhà tài trợ. Năm học trước, 161 sinh viên được hỗ trợ với 4,5 tỷ đồng; khoảng 80% đạt loại giỏi, xuất sắc.",
+      "Chương trình đã hình thành mạng lưới cựu sinh viên đang làm việc tại nhiều doanh nghiệp trong và ngoài nước, nhiều người quay lại làm cố vấn – nguồn nhân lực trẻ chất lượng mà các doanh nghiệp Đà Nẵng có thể kết nối khi tuyển dụng."
+     ],
+     "tag": "Học bổng",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Indonesia cảnh báo rủi ro khi để AI tự ra quyết định trong ngân hàng, y tế",
+     "summary": "Thứ trưởng Truyền thông và Kỹ thuật số Indonesia cảnh báo các hệ thống 'AI tự hành' được trao quyền ra quyết định có thể gây tổn thất tài chính, thậm chí bất ổn hệ thống, nếu sai sót. Indonesia đang soạn Lộ trình AI quốc gia và hướng dẫn đạo đức AI.",
+     "source": "VOV",
+     "url": "https://vov.vn/the-gioi/indonesia-canh-bao-su-dung-ai-trong-y-te-va-tai-chinh-post1346380.vov",
+     "detail": [
+      "Ông Nezar Patria, Thứ trưởng Bộ Truyền thông và Kỹ thuật số Indonesia, cho rằng việc đưa AI vào vận hành không nên chỉ chạy theo đổi mới và hiệu suất, mà phải tính trước các lỗ hổng khi hệ thống tự động thay con người ra quyết định.",
+      "Trong tài chính – ngân hàng, ông lo ngại các hệ thống AI tự hành (agentic AI – AI được quyền tự thực hiện hành động như duyệt giao dịch, cho vay) nếu sai có thể gây tổn thất lớn, thậm chí lan thành bất ổn kinh tế. Trong y tế, chẩn đoán sai của AI có thể đe dọa trực tiếp tính mạng và làm lộ dữ liệu bệnh nhân.",
+      "Ông nhấn mạnh dữ liệu là 'nhiên liệu' của AI nên cần cơ chế quản trị chặt để chống rò rỉ thông tin cá nhân. Indonesia hiện dựa vào khung pháp lý sẵn có, đồng thời xây dựng Lộ trình AI quốc gia và bộ hướng dẫn đạo đức AI toàn diện.",
+      "Cảnh báo từ một nền kinh tế lớn của Đông Nam Á đáng tham khảo với Việt Nam, nơi ngân hàng và bệnh viện cũng đang đẩy nhanh ứng dụng AI. Với doanh nghiệp, bài học là luôn giữ con người duyệt lại các quyết định quan trọng do AI đề xuất."
+     ],
+     "tag": "Quản lý AI",
+     "note": ""
+    }
+   ]
+  },
   {
    "id": "2026-11-01-1100",
    "date": "2026-11-01",
