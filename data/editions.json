@@ -1,6 +1,217 @@
 {
- "updated": "2026-11-02T07:05:00+07:00",
+ "updated": "2026-11-02T11:05:45+07:00",
  "editions": [
+  {
+   "id": "2026-11-02-1100",
+   "date": "2026-11-02",
+   "slot": "11:00",
+   "createdAt": "2026-11-02T11:05:45+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng: 274 camera 'phạt nguội' đã phát hiện gần 37.000 vi phạm giao thông",
+     "summary": "Từ 1/7/2025 đến 30/9/2026, hệ thống 274 camera tại 101 vị trí giúp Công an Đà Nẵng gửi thông báo cho 36.932 trường hợp vi phạm, chiếm 27,3% số vụ xử lý toàn thành phố. Thành phố đang hướng tới làm toàn bộ quy trình, từ thông báo đến nộp phạt, trên môi trường điện tử.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/xu-phat-giao-thong-khong-tiep-xuc-minh-bach-thuan-tien-tu-chuyen-doi-so-3357141.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/30/img_9399.jpg",
+     "detail": [
+      "Xử phạt không tiếp xúc (thường gọi là 'phạt nguội') là cách lực lượng chức năng phát hiện vi phạm qua camera rồi xử lý sau, không cần dừng xe ngay trên đường. Ở Đà Nẵng, Phòng Cảnh sát giao thông đang theo dõi, khai thác 274 camera đặt tại 101 vị trí trên địa bàn.",
+      "Quy trình gồm các bước: cảnh sát kiểm tra, xác minh hình ảnh và dữ liệu; nếu dừng được xe thì lập biên bản tại chỗ, nếu không thì xác minh chủ phương tiện, gửi thông báo vi phạm và cập nhật lên hệ thống để người dân tự tra cứu, phối hợp xác minh. Sau đó cơ quan có thẩm quyền mới ra quyết định xử phạt.",
+      "Trong khoảng 15 tháng (1/7/2025–30/9/2026), lực lượng này đã gửi thông báo cho 36.932 trường hợp, tương đương 27,3% tổng số vi phạm được phát hiện, xử lý trên toàn thành phố. Người dân ở phường Ngũ Hành Sơn nhận xét từ khi có camera, ý thức chấp hành ở các nút giao đông xe tốt hơn rõ rệt.",
+      "Trưởng phòng CSGT Đà Nẵng cho rằng giá trị chính nằm ở tác dụng răn đe, phòng ngừa chứ không chỉ ở số vụ bị phạt. Theo định hướng, ứng dụng VNeTraffic sẽ dần cho phép làm trọn các bước thông báo, xác minh, ra quyết định và nộp phạt online, hạn chế phải lên trụ sở công an; Bộ Công an cũng đang nghiên cứu bỏ lập biên bản với một số vi phạm phát hiện qua thiết bị kỹ thuật.",
+      "Với người đi đường, điều nên làm là cài VNeTraffic, định kỳ tra cứu biển số xe của mình và để ý thông báo gửi về, tránh để quá hạn xử lý. Chủ xe cho người khác mượn cũng cần nắm rõ ai là người điều khiển để phối hợp xác minh khi có thông báo."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Sửa Luật Đầu tư: ưu đãi đặc biệt chỉ trao khi làm đúng cam kết",
+     "summary": "Sáng 2/11, Quốc hội thảo luận dự luật sửa Luật Đầu tư, theo đó ưu đãi đặc biệt gắn với kết quả thực hiện cam kết như chuyển giao công nghệ, R&D, đào tạo nhân lực. Nhiều đại biểu đề nghị làm rõ thế nào là 'đạt' và cách thu hồi ưu đãi khi doanh nghiệp làm không đủ.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/ky-hop-thu-hai-quoc-hoi-khoa-xvi-uu-dai-dau-tu-phai-di-doi-voi-hieu-qua-du-an-post1399192.html",
+     "tag": "Kỳ họp Quốc hội",
+     "detail": [
+      "Ngày 2/11, Quốc hội khóa XVI thảo luận tại hội trường dự án Luật sửa đổi, bổ sung một số điều của Luật Đầu tư. Điểm mới đáng chú ý là ưu đãi, hỗ trợ đầu tư đặc biệt sẽ dựa trên kết quả thực tế: nhà đầu tư phải chứng minh đã chuyển giao công nghệ, làm nghiên cứu – phát triển (R&D), đào tạo nhân lực, đưa doanh nghiệp Việt vào chuỗi cung ứng, chuyển đổi xanh và nâng giá trị gia tăng trong nước.",
+      "Đại biểu Nguyễn Văn Huy (Hưng Yên) cho rằng dự thảo chưa nói rõ hoàn thành bao nhiêu phần cam kết thì được coi là đạt, và nếu chỉ làm một phần thì xử lý thế nào. Ông đề nghị đánh giá theo từng cam kết, giao Chính phủ quy định mức điều chỉnh hoặc thu hồi ưu đãi, đồng thời có chỉ tiêu liên kết với nhà cung cấp nội địa đo đếm được, ưu tiên doanh nghiệp nhỏ và vừa.",
+      "Đại biểu Nguyễn Thị Việt Nga (Hải Phòng) đề nghị Điều 17 phải xác định rõ kết quả đầu ra, thời điểm kiểm chứng và cơ quan xác nhận, đồng thời tách điều kiện bắt buộc với chỉ tiêu theo giai đoạn để khi vi phạm chỉ thu hồi đúng phần hỗ trợ liên quan. Bà cũng muốn công khai thông tin tối thiểu về các khoản hỗ trợ đào tạo lấy từ ngân sách địa phương.",
+      "Đại biểu Hầu A Lềnh (Lào Cai) đề nghị làm rõ các trường hợp được chọn nhà đầu tư không qua đấu giá, đấu thầu (Điều 23) để tránh mỗi nơi hiểu một kiểu. Với Cổng một cửa đầu tư quốc gia (Điều 46), đại biểu muốn quy định rõ giá trị pháp lý của dữ liệu và trách nhiệm khi thông tin trên cổng lệch với giấy chứng nhận.",
+      "Nếu được thông qua theo hướng này, các dự án lớn, nhất là FDI, sẽ khó 'nhận ưu đãi trước, làm sau'. Với người lao động, cam kết đào tạo nhân lực và chuyển giao công nghệ trở thành điều kiện có kiểm tra, có thể mở thêm cơ hội việc làm chất lượng ở các địa phương thu hút đầu tư như Đà Nẵng."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Chip nhớ cho AI 'cháy hàng': SK Hynix gần như bán hết đến năm 2029",
+     "summary": "Samsung cho biết lượng chip nhớ băng thông cao (HBM) năm sau đã bán hết, còn SK Hynix nói DRAM và HBM gần như kín đơn đến 2029 nhờ các hợp đồng dài hạn. Hai hãng lãi hoạt động tổng cộng 190,77 nghìn tỷ won trong quý III; giá chip nhớ được dự báo còn tăng lâu.",
+     "source": "Korea Daily",
+     "url": "https://en.koreadaily.com/memory-semiconductor-lta-samsung-sk-hynix-sold-out-2029/",
+     "figure": {
+      "value": "190,77 nghìn tỷ won",
+      "label": "Lợi nhuận hoạt động quý III của Samsung và SK Hynix cộng lại"
+     },
+     "detail": [
+      "Cơn sốt trung tâm dữ liệu AI đang khiến chip nhớ trở thành mặt hàng khan hiếm. Theo tin công bố ngày 1/11, Samsung Electronics xác nhận toàn bộ lượng HBM – loại bộ nhớ băng thông cao gắn cạnh chip AI của Nvidia – dự kiến cung cấp năm sau đã được đặt hết. SK Hynix còn đi xa hơn: tính cả hợp đồng đã ký và đang đàm phán, sản lượng DRAM và HBM của hãng gần như kín đến năm 2029.",
+      "Công cụ chính là hợp đồng cung ứng dài hạn (LTA): hai bên chốt trước khối lượng, cơ chế tính giá và tiền đặt cọc trong nhiều năm. Người mua yên tâm có hàng, còn nhà sản xuất dự báo được doanh thu để mạnh tay xây nhà máy. Samsung đã ký với 10 khách hàng, đang đàm phán thêm 10, đặt mục tiêu dành 60–70% công suất cho hợp đồng dài hạn vào năm 2030.",
+      "SK Hynix có hợp đồng với 14 khách hàng, thường kéo dài 5 năm, trong đó có các nhà cung cấp điện toán đám mây lớn; hơn một nửa công suất hai năm tới đã được cam kết. Hãng cho biết nhu cầu HBM khách hàng gửi tới cao gấp hơn hai lần lượng có thể cung cấp. Giá trong hợp đồng vẫn được phép dao động theo thị trường trong biên độ đã thỏa thuận.",
+      "Khách mua cũng không còn chỉ là công ty AI mà mở rộng sang hãng điện thoại, ô tô và thiết bị mạng. Lợi nhuận hoạt động quý III của hai hãng Hàn Quốc cộng lại đạt 190,77 nghìn tỷ won. Dù vậy, cổ phiếu Samsung và SK Hynix ngày 30/10 vẫn thấp hơn đỉnh 52 tuần lần lượt 39,9% và 52,5% trong đợt bán tháo cổ phiếu công nghệ.",
+      "Hãng nghiên cứu TrendForce dự báo phải đến khoảng năm 2028, khi các nhà máy mới đi vào hoạt động, nguồn cung DRAM mới tăng mạnh. Một chuyên gia chứng khoán Hàn Quốc nhận định giá chip nhớ nhiều khả năng còn đi lên kéo dài. Với người tiêu dùng, điều này hàm ý máy tính, điện thoại khó rẻ đi trong vài năm tới vì bộ nhớ là linh kiện chiếm tỷ trọng chi phí lớn."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Bị cho nghỉ sau 10 ngày, đòi 320 triệu nhưng thua vì đang thử việc",
+     "summary": "Một nhân viên marketing ở TP.HCM kiện công ty đòi 320 triệu đồng sau khi bị cho nghỉ miệng, nói mình được tuyển chính thức. Tòa hai cấp bác yêu cầu vì quyết định tiếp nhận, bảng lương, sao kê đều ghi 'thử việc' – bài học về giấy tờ cho cả người lao động lẫn doanh nghiệp.",
+     "source": "VietNamNet",
+     "url": "https://vietnamnet.vn/bi-cho-nghi-viec-sau-10-ngay-nguoi-lao-dong-doi-boi-thuong-320-trieu-bat-thanh-2570337.html",
+     "tag": "Tranh chấp lao động",
+     "detail": [
+      "Đầu tháng 4/2024, anh T. bắt đầu làm ở một công ty tại TP.HCM, cho rằng giám đốc đã nhận anh với lương 20 triệu đồng/tháng, không qua thử việc. Khoảng 10 ngày sau, anh được thông báo miệng phải nghỉ ngay trong ngày. Công ty khẳng định hai bên thỏa thuận thử việc 2 tháng, hưởng 85% lương, và anh không đạt yêu cầu nên bị chấm dứt thử việc.",
+      "Hai bên không ký hợp đồng bằng văn bản. Anh T. khởi kiện đòi tổng cộng 320 triệu đồng, gồm 2 tháng lương, 12 tháng lương cho thời gian không được làm việc và 40 triệu bồi thường thêm nếu không được nhận lại, cùng yêu cầu đóng BHXH, BHYT cho giai đoạn này.",
+      "Tòa sơ thẩm và phúc thẩm (bản án ngày 19/8/2026) đều bác yêu cầu. Chứng cứ quyết định là: quyết định tiếp nhận và quyết định từ chối nhân sự đều ghi vị trí thử việc; bảng lương 10,5 ngày có chữ ký của anh; sao kê ngân hàng ghi 'lương thử việc'; khi bị cho nghỉ anh không phản đối, đã bàn giao thiết bị và nhận tiền. Căn cứ Điều 24, 26, 27 Bộ luật Lao động 2019, trong thời gian thử việc mỗi bên được chấm dứt mà không cần báo trước hay bồi thường.",
+      "Tòa cũng nhắc doanh nghiệp phải chỉnh lại quy trình, vì việc không ký hợp đồng thử việc bằng văn bản và tin tuyển dụng ghi thử việc 1 tháng (khác với 2 tháng công ty khai) là sơ hở dễ dẫn tới tranh chấp. Với người làm nhân sự, đây là ví dụ điển hình: tin tuyển dụng, quyết định tiếp nhận, hợp đồng và bảng lương phải thống nhất với nhau.",
+      "Lời khuyên rút ra: người lao động nên yêu cầu ký hợp đồng ngay từ đầu, đọc kỹ từng cột trên bảng lương trước khi ký nhận, lưu lại tin tuyển dụng, email, tin nhắn về lương và thời gian thử việc. Doanh nghiệp nên ký văn bản trước ngày làm việc đầu tiên và thông báo chấm dứt bằng văn bản, lưu đủ chứng từ."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Quý IV: 2,1 triệu khách bay đến Đà Nẵng, thêm 4 đường bay quốc tế",
+     "summary": "Khoảng 12.200 chuyến bay với 2,1 triệu hành khách dự kiến đến Đà Nẵng trong quý IV, tăng 11,3% về khách so với cùng kỳ. Từ 17/11 đến 20/12 sẽ mở đường bay từ Singapore, Bangkok, Osaka, Jakarta; các hãng tung nhiều vé khuyến mãi cuối năm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/tao-suc-bat-cho-du-lich-da-nang-dip-cuoi-nam-3357156.html",
+     "figure": {
+      "value": "2,1 triệu",
+      "label": "lượt khách bay đến Đà Nẵng dự kiến quý IV/2026",
+      "delta": "+11,3% so cùng kỳ",
+      "dir": "up"
+     },
+     "detail": [
+      "Theo ước tính, quý IV/2026 có khoảng 12.200 chuyến bay đến Đà Nẵng, phục vụ khoảng 2,1 triệu lượt khách; số chuyến tăng 3,94% và số khách tăng 11,3% so với cùng kỳ năm ngoái. Đây là dấu hiệu tốt dù đang là mùa thấp điểm mưa bão của miền Trung.",
+      "Các đường bay quốc tế mới tập trung vào thị trường trọng điểm: Vietnam Airlines bay Singapore – Đà Nẵng từ 17/11, Thai Airways bay Bangkok – Đà Nẵng từ 1/12, Vietjet mở đường bay Osaka (Nhật) và Jakarta (Indonesia) từ 20/12. Các chuyến thuê bao từ Malaysia, Philippines, Hồng Kông, Đài Loan tiếp tục duy trì.",
+      "Về vé, Vietjet bán vé hạng Eco từ 0 đồng (chưa thuế phí) khung 12h–14h hằng ngày cho chuyến bay đến 31/7/2027; Vietnam Airlines giảm đến 20% vé nội địa mua sớm đến hết tháng 12 và có ưu đãi 'Thứ Năm' giảm đến 15–25%; cả hai hãng đều có mã giảm giá Grab cho chuyến ra vào sân bay Đà Nẵng.",
+      "Lịch sự kiện cuối năm dày: DACC 2026 đến 8/11, Tuần văn hóa – Đại đoàn kết dân tộc 18–24/11 lần đầu tổ chức cấp thành phố, Lễ hội đèn lồng quốc tế Hội An đầu tháng 12 với hơn 10 quốc gia đăng ký, và đêm Countdown 31/12 tổ chức ở ba điểm: Công viên Biển Đông, Quảng trường Tam Thanh, Quảng trường Tây Giang. Nhiều khu du lịch như Bà Nà, VinWonders Nam Hội An, Núi Thần Tài cũng tung ưu đãi."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng SJC bật tăng 1 triệu, bán ra 140 triệu đồng/lượng sáng 2/11",
+     "summary": "Lúc 9h18 sáng 2/11, SJC và DOJI niêm yết vàng miếng 137–140 triệu đồng/lượng, tăng 1 triệu đồng cả hai chiều so với hôm qua. Bảo Tín Minh Châu tăng 700.000 đồng, PNJ tăng 400.000 đồng; chênh lệch mua – bán vẫn ở mức 3–4 triệu đồng.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/cap-nhat-0918-sang-02112026-gia-vang-dong-loat-tang-4000001000000-dong-sjc-ban-140-trieu-3357161.html",
+     "figure": {
+      "value": "140 triệu",
+      "label": "Giá bán vàng miếng SJC (đồng/lượng), 9h18 ngày 2/11",
+      "delta": "+1 triệu",
+      "dir": "up",
+      "spark": [
+       139,
+       140
+      ]
+     },
+     "detail": [
+      "Sau cú giảm sâu cuối tuần trước, giá vàng trong nước đầu tuần đồng loạt tăng trở lại. Lúc 9h18 sáng 2/11, vàng miếng SJC được mua vào 137 triệu, bán ra 140 triệu đồng/lượng, tăng 1 triệu đồng mỗi chiều; DOJI ở Hà Nội và TP.HCM niêm yết y hệt.",
+      "Ở các thương hiệu khác, Bảo Tín Mạnh Hải và vàng Rồng Thăng Long của Bảo Tín Minh Châu ở mức 134,5–138,5 triệu đồng (tăng 700.000 đồng); Phú Quý bán vàng SJC 140 triệu; PNJ tại Hà Nội và TP.HCM ở mức 134–138 triệu đồng, tăng 400.000 đồng.",
+      "Khoảng chênh giữa giá mua và giá bán vẫn rộng, 3–4 triệu đồng/lượng, nghĩa là người vừa mua vào nếu bán ngay sẽ lỗ khoản này. Giá chỉ mang tính tham khảo và có thể khác nhau theo cửa hàng, khu vực; người có ý định mua nên so sánh vài nơi và tránh mua đuổi khi giá biến động mạnh."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Hàn Quốc xuất khẩu tháng 10 tăng 93,7% nhờ cơn sốt chip AI",
+     "summary": "Xuất khẩu Hàn Quốc tháng 10 đạt 115,28 tỷ USD, tăng 93,7%, trong đó chip chiếm gần một nửa với 56,44 tỷ USD (tăng 259%). Nước này sắp thành quốc gia thứ tư cán mốc 1.000 tỷ USD xuất khẩu/năm, sau Mỹ, Trung Quốc và Đức.",
+     "source": "The Herald Business (Hàn Quốc)",
+     "url": "https://biz.heraldcorp.com/article/10921622",
+     "image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.2eb63edfee904a8a858fa74fd6765e8f_P1.jpg",
+     "detail": [
+      "Số liệu Bộ Thương mại – Công nghiệp – Năng lượng Hàn Quốc công bố ngày 1/11 cho thấy xuất khẩu tháng 10 đạt 115,28 tỷ USD, tăng 93,7% so với cùng kỳ, chỉ sau mức kỷ lục 121,1 tỷ USD của tháng 9. Tính bình quân mỗi ngày làm việc, xuất khẩu đạt 5,24 tỷ USD, tháng thứ hai liên tiếp vượt 5 tỷ.",
+      "Động lực chính là chất bán dẫn: 56,44 tỷ USD, tăng 259,4%, chiếm khoảng 49% tổng xuất khẩu. Máy tính, chủ yếu là máy chủ và ổ SSD cho trung tâm dữ liệu, tăng gần 497% lên 5,85 tỷ USD. Ô tô, mỹ phẩm, nông thủy sản và sinh học đều lập kỷ lục tháng 10; xăng dầu tăng 80% chủ yếu do giá cao vì chiến sự Trung Đông.",
+      "Theo thị trường, xuất khẩu sang Trung Quốc đạt 26,98 tỷ USD (tăng 133,6%), sang Mỹ 24,9 tỷ USD (tăng 185,8%, nhờ nhu cầu liên quan AI) và sang ASEAN 21,33 tỷ USD (tăng 128%). Nhập khẩu tăng 36% lên 72,78 tỷ USD, giúp Hàn Quốc thặng dư thương mại 42,5 tỷ USD trong tháng.",
+      "Mười tháng, xuất khẩu đã vượt 930 tỷ USD, cao hơn cả kỷ lục cả năm ngoái (709,3 tỷ USD). Bộ trưởng Kim Jung-kwan cho rằng việc cán mốc 1.000 tỷ USD trong tháng 11 là 'gần như chắc chắn', khi đó Hàn Quốc sẽ là nước thứ tư làm được sau Mỹ, Trung Quốc và Đức. Chính phủ nước này cũng muốn tập trung chính sách giúp doanh nghiệp vừa và nhỏ được chia phần lợi ích.",
+      "Với Việt Nam, đây là tín hiệu đáng chú ý vì Hàn Quốc là nhà đầu tư FDI lớn, có nhiều nhà máy điện tử, linh kiện tại Việt Nam. Xuất khẩu sang ASEAN tăng mạnh cho thấy chuỗi cung ứng điện tử khu vực đang hưởng lợi theo làn sóng AI, nhưng cũng phụ thuộc nhiều vào việc các tập đoàn công nghệ Mỹ có tiếp tục chi tiêu lớn cho hạ tầng AI hay không."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Doanh nghiệp cạn tiền mặt: LDG còn 390 triệu, Hòa Bình lỗ lũy kế 2.011 tỷ",
+     "summary": "Báo cáo quý III cho thấy Đầu tư LDG chỉ còn 390 triệu đồng tiền mặt, lỗ 9 tháng gần 116 tỷ; Xây dựng Hòa Bình lỗ lũy kế 2.011 tỷ dù doanh thu tăng. Bluemarq (Đất Xanh) có dòng tiền kinh doanh âm 578 tỷ và giảm 795 nhân viên từ đầu năm.",
+     "source": "CafeBiz (theo Tiền Phong)",
+     "url": "https://cafebiz.vn/nhieu-doanh-nghiep-can-tien-mat-176261102085006109.chn",
+     "figure": {
+      "value": "390 triệu đồng",
+      "label": "Tiền mặt còn lại của Đầu tư LDG tại 30/9/2026"
+     },
+     "detail": [
+      "Mùa báo cáo tài chính quý III cho thấy không ít doanh nghiệp, nhất là bất động sản và xây dựng, đang cạn tiền. Trường hợp điển hình là CTCP Đầu tư LDG: đến 30/9 chỉ còn 390 triệu đồng tiền mặt; doanh thu 9 tháng gần 5 tỷ đồng (giảm hơn 97%), lỗ gần 116 tỷ đồng, lỗ lũy kế hơn 1.368 tỷ – khoảng 53% vốn điều lệ. Nợ xấu được thuyết minh 1.667 tỷ đồng nhưng giá trị ước thu hồi chỉ khoảng 822 tỷ.",
+      "Xây dựng Hòa Bình (HBC) có doanh thu 9 tháng tăng gần 72% lên hơn 4.736 tỷ đồng nhưng lợi nhuận chỉ gần 63 tỷ, giảm gần 74%. Lỗ lũy kế vẫn ở mức 2.011 tỷ đồng, gần 58% vốn điều lệ; hàng tồn kho tăng gần 51% lên 3.438 tỷ và khoản dự phòng phải thu khó đòi tới 1.481 tỷ đồng.",
+      "Bluemarq Group (tên mới của Đất Xanh, mã DXG) có doanh thu quý III giảm 36% còn gần 683 tỷ, lợi nhuận giảm 84%. Dòng tiền từ hoạt động kinh doanh 9 tháng âm hơn 578 tỷ đồng do khoản phải thu tăng; số nhân viên còn 3.365 người, giảm 795 người so với đầu năm. Doanh nghiệp giải thích lãi suất vay mua nhà cao khiến khách thận trọng.",
+      "'Cạn tiền mặt' nghĩa là doanh nghiệp có thể vẫn báo lãi trên giấy nhưng không đủ tiền để trả lương, trả nợ, trả nhà cung cấp đúng hạn. Với người lao động và đối tác, đây là chỉ báo cần theo dõi: dòng tiền âm kéo dài thường đi kèm cắt giảm nhân sự, chậm thanh toán. Cùng tuần này có 17 doanh nghiệp niêm yết chốt quyền trả cổ tức, trong đó Mía đường Sơn La trả tiền mặt 100%."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Trường Cao đẳng Đà Nẵng bị đình chỉ tuyển sinh lái xe mô tô 2 tháng",
+     "summary": "Sở Xây dựng Đà Nẵng đình chỉ việc tuyển sinh đào tạo lái xe mô tô của Trường Cao đẳng Đà Nẵng từ 23/10 đến hết 23/12/2026 sau quyết định xử phạt vi phạm hành chính. Học viên đã nhập học trước đó vẫn được học bình thường.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/dinh-chi-tuyen-sinh-dao-tao-lai-xe-mo-to-tai-truong-cao-dang-da-nang-trong-2-thang-3357144.html",
+     "tag": "Đào tạo lái xe",
+     "detail": [
+      "Sở Xây dựng TP Đà Nẵng vừa ra thông báo đình chỉ tuyển sinh đào tạo lái xe mô tô đối với Trường Cao đẳng Đà Nẵng trong 2 tháng, từ ngày 23/10 đến hết ngày 23/12/2026. Căn cứ là quyết định xử phạt vi phạm hành chính do Giám đốc Sở ký ngày 23/10; bài báo không nêu cụ thể hành vi vi phạm hay mức phạt.",
+      "Trường có trụ sở chính ở số 99 Tô Hiến Thành (phường An Hải), còn điểm đào tạo lái xe mô tô đặt tại 224 Huỳnh Thúc Kháng (phường Tam Kỳ). Trong thời gian đình chỉ, trường không được mở khóa mô tô mới; các khóa đã tuyển trước đó vẫn được đào tạo tiếp để bảo đảm quyền lợi học viên.",
+      "Nhà trường phải công khai việc đình chỉ trên trang web và tại địa điểm đào tạo, báo cáo kết quả chấp hành trong 3 ngày sau khi hết hạn. Người đang định học bằng lái mô tô tại đây nên chọn cơ sở khác hoặc chờ sau 23/12; người đã đóng tiền cho khóa mới sau ngày 23/10 nên liên hệ trường để được giải quyết."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Tỷ giá trung tâm giảm 6 đồng, Vietcombank bán USD 25.990 đồng",
+     "summary": "Sáng 2/11, Ngân hàng Nhà nước niêm yết tỷ giá trung tâm 25.631 đồng/USD, giảm 6 đồng so với phiên trước. Vietcombank hạ 30 đồng mỗi chiều, mua 25.580 – bán 25.990 đồng; chỉ số đô la DXY gần như đi ngang quanh 101,9 điểm.",
+     "source": "Thị trường Tài chính Tiền tệ",
+     "url": "https://thitruongtaichinhtiente.vn/ngay-2-11-ty-gia-trung-tam-giam-6-dong-86735.html",
+     "figure": {
+      "value": "25.631",
+      "label": "Tỷ giá trung tâm VND/USD ngày 2/11/2026",
+      "delta": "-6 đồng",
+      "dir": "down",
+      "spark": [
+       25637,
+       25631
+      ]
+     },
+     "detail": [
+      "Ngày 2/11, Ngân hàng Nhà nước công bố tỷ giá trung tâm 25.631 đồng/USD, giảm 6 đồng so với phiên 30/10. Với biên độ ±5%, các ngân hàng được giao dịch USD trong khoảng 24.349 – 26.912 đồng.",
+      "Tại các ngân hàng thương mại, lúc 9h Vietcombank niêm yết 25.580 đồng (mua) – 25.990 đồng (bán), giảm 30 đồng mỗi chiều; BIDV giảm 25 đồng, ở mức 25.610 – 25.990 đồng. Giá bán ra cao nhất thuộc về Sacombank với 26.000 đồng, thấp nhất là Eximbank 25.970 đồng.",
+      "Trên thị trường quốc tế, chỉ số DXY (đo sức mạnh đồng USD so với rổ 6 đồng tiền lớn) ở mức 101,92 điểm, nhích 0,04 điểm. Tỷ giá ổn định, hơi giảm là tín hiệu dễ chịu cho doanh nghiệp nhập khẩu nguyên liệu và người có khoản vay, chi tiêu bằng ngoại tệ như du học, mua hàng nước ngoài."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Doanh nghiệp Việt trồng cao su ở Lào tuyển lao động, lương từ 15 triệu",
+     "summary": "PISICO Bình Định, qua công ty con BIDINA ở tỉnh Sekong (Lào), đang tuyển 16 vị trí, lao động phổ thông từ 15 triệu đồng/tháng, kỹ thuật từ 17 triệu, có bảo hiểm và lương tháng 13. Dự án đã tăng vốn từ 24 lên khoảng 45 triệu USD và mở rộng gần 500 ha cà phê.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/viet-nam-co-mot-dai-gia-sang-lao-trong-2500-ha-cao-su-tuyen-lao-dong-thu-nhap-toi-thieu-15-trieu-dong-thang-mo-rong-them-trong-ca-phe-176261102085352698.chn",
+     "figure": {
+      "value": "15 triệu đồng",
+      "label": "Thu nhập tối thiểu/tháng cho lao động phổ thông tại dự án cao su ở Lào"
+     },
+     "detail": [
+      "Tổng công ty PISICO Bình Định (trụ sở tại Gia Lai) đầu tư sang Lào từ năm 2006 qua công ty con BIDINA ở tỉnh Sekong. Dự án hiện có khoảng 2.500 ha cao su ở hai huyện Thả Tèng và Lamam, toàn bộ đã cho khai thác mủ; vốn đầu tư tăng từ 24 triệu USD ban đầu lên khoảng 45 triệu USD.",
+      "Theo cập nhật tháng 8/2026, dự án tạo việc làm thường xuyên cho hơn 1.800 lao động Lào và hơn 70 lao động Việt Nam. Từ năm 2025, doanh nghiệp bắt đầu trồng gần 500 ha cà phê, hiện đang giai đoạn sinh trưởng, chưa công bố sản lượng.",
+      "Đợt tuyển dụng công bố giữa tháng 9 gồm 16 vị trí: 10 lao động phổ thông, 2 kỹ thuật viên trồng trọt, 2 kỹ thuật viên vườn ươm cà phê và 2 kỹ thuật viên điện nước. Lao động phổ thông có thu nhập từ 15 triệu đồng/30 ngày, vị trí kỹ thuật tối thiểu 17 triệu; vị trí kỹ thuật cần ít nhất 2 năm kinh nghiệm, ưu tiên biết tiếng Lào. Chế độ gồm bảo hiểm, nghỉ phép, thưởng lễ Tết và lương tháng 13.",
+      "Mức thu nhập này cao hơn đáng kể so với lao động phổ thông ngành nông nghiệp trong nước, phù hợp người chấp nhận làm việc xa nhà. Người quan tâm nên tìm hiểu kỹ hợp đồng, nơi ăn ở và thủ tục làm việc ở nước ngoài, và chỉ liên hệ qua kênh chính thức của doanh nghiệp để tránh bị lừa qua trung gian."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Miền Bắc sắp đón đợt lạnh mạnh, Nghệ An – Huế có thể mưa lớn 8–11/11",
+     "summary": "Khoảng 6/11, không khí lạnh mạnh tràn về miền Bắc và tăng cường ngày 7–8/11, nhiệt độ thấp nhất có thể dưới 20°C, vùng núi dưới 18°C. Miền Trung từ Nghệ An đến Huế có nguy cơ mưa lớn, dông mạnh từ 8 đến 11/11.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/mien-bac-sap-don-khong-khi-lanh-manh-5139544.html",
+     "tag": "Thời tiết",
+     "detail": [
+      "Đầu tuần này, miền Bắc có mưa rào và dông rải rác, riêng Tây Bắc và Việt Bắc có mưa to trong ngày 2–3/11; nhiệt độ cao nhất ban ngày vẫn ở mức 28–32°C. Theo dự báo, khoảng ngày 6/11 không khí lạnh mạnh sẽ tràn về và tăng cường thêm vào 7–8/11, được xem là đợt mạnh nhất kể từ tháng 10.",
+      "Khi không khí lạnh về, nhiệt độ thấp nhất ở miền Bắc có thể xuống dưới 20°C, vùng núi phía Bắc dưới 18°C, một số nơi ban ngày không quá 25°C. Hà Nội được dự báo từ 24–34°C đầu tuần xuống còn 21–29°C vào cuối tuần.",
+      "Với miền Trung, từ Thanh Hóa đến Huế và Nam Trung Bộ có mưa dông đầu tuần; đáng chú ý là từ 8 đến 11/11, khu vực Nghệ An – Huế có khả năng mưa to, dông mạnh. Bài không nêu riêng Đà Nẵng, nhưng người dân miền Trung nên theo dõi các bản tin cập nhật vì không khí lạnh kết hợp nhiễu động thường gây mưa lớn kéo dài trong tháng 11.",
+      "Cơ quan khí tượng khuyến cáo đề phòng lốc, sét, mưa đá và gió giật mạnh trong cơn dông. Người có kế hoạch đi công tác, du lịch ra Bắc cuối tuần nên chuẩn bị áo ấm."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-02-0700",
    "date": "2026-11-02",
