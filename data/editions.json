@@ -1,6 +1,202 @@
 {
- "updated": "2026-11-02T15:07:24+07:00",
+ "updated": "2026-11-02T19:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-02-1900",
+   "date": "2026-11-02",
+   "slot": "19:00",
+   "createdAt": "2026-11-02T19:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "VN-Index mất hơn 30 điểm về 1.710, áp lực gọi ký quỹ lan rộng",
+     "summary": "Phiên 2/11, VN-Index có lúc giảm 48 điểm xuống dưới 1.700 rồi đóng cửa quanh 1.710 điểm, phiên giảm thứ ba liên tiếp. Nguyên nhân chính là các công ty chứng khoán yêu cầu nộp thêm tiền ký quỹ, buộc nhà đầu tư bán tháo; HSC nhận định đây là giai đoạn khó khăn nhất 5 năm.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vn-index-giam-hon-30-diem-5139827.html",
+     "figure": {
+      "value": "1.710",
+      "label": "VN-Index đóng cửa 2/11",
+      "delta": "-30 điểm",
+      "dir": "down",
+      "spark": [
+       1741.62,
+       1725.92,
+       1710
+      ]
+     },
+     "detail": [
+      "Thị trường chứng khoán mở đầu tuần bằng một phiên giảm mạnh. Sau giờ nghỉ trưa, VN-Index có lúc mất tới 48 điểm, thủng mốc 1.700, trước khi lực mua quay lại trong 15 phút cuối giúp chỉ số đóng cửa quanh 1.710 điểm, giảm hơn 30 điểm. Đây là phiên giảm thứ ba liên tiếp và là mức thấp nhất khoảng nửa tháng.",
+      "Nguyên nhân được nhắc nhiều nhất là áp lực \"call margin\" – tức công ty chứng khoán yêu cầu khách vay ký quỹ nộp thêm tiền khi giá cổ phiếu giảm sâu. Nếu không nộp đủ, nhà đầu tư phải bán bớt cổ phiếu khác, khiến lực bán dây chuyền lan rộng. Sàn TP.HCM có khoảng 270 mã giảm, gấp 6 lần số mã tăng; thanh khoản hơn 18.500 tỷ đồng, cao hơn phiên trước khoảng 4.000 tỷ.",
+      "Nhóm ngân hàng bị bán mạnh nhất: VPB giảm hơn 6%, VCB, BID, LPB, ACB giảm trên 3%. Dầu khí đảo chiều giảm (PVT -3,1%, PLX -2,9%), bất động sản như VRE, KDH, NLG giảm 4–5%; GVR chạm giá sàn. Điểm sáng hiếm hoi là VIC tăng nhẹ, đóng góp gần 2 điểm. Khối ngoại bán ròng phiên thứ 7 liên tiếp.",
+      "Công ty chứng khoán HSC đánh giá thị trường đang ở giai đoạn khó khăn nhất 5 năm: nếu loại trừ vài cổ phiếu vốn hóa lớn, chỉ số đã giảm khoảng 12%, thanh khoản cạn và niềm tin yếu. HSC cảnh báo nếu bán giải chấp (bán bắt buộc tài sản cầm cố) tăng lên, thị trường có thể điều chỉnh sâu và dài hơn. Với nhà đầu tư cá nhân, đây là lúc nên hạn chế dùng tiền vay để tránh bị bán tháo bắt buộc."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Dự kiến giảm gần một nửa số trường cao đẳng, trung cấp công lập",
+     "summary": "Cả nước còn 234 trường cao đẳng, trung cấp công lập, đã giảm 110 đầu mối (gần 32%) so với tháng 7/2025. Khi sắp xếp xong sẽ giảm thêm 54 trường, tổng mức giảm khoảng 47,7%, vượt yêu cầu tối thiểu 30% của Bộ Chính trị.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/du-kien-giam-gan-50-truong-cao-dang-trung-cap-5139625.html",
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/02/cd-1793591422-3170-1793591472.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=j-oCH3DjGNRWTjwWm4Nelw",
+     "detail": [
+      "Theo thông báo kết luận của Phó Thủ tướng Lê Tiến Châu sau cuộc họp về sắp xếp các cơ sở giáo dục đại học và giáo dục nghề nghiệp, cả nước hiện còn 234 trường cao đẳng, trung cấp công lập. So với tháng 7/2025 – thời điểm Bộ Chính trị yêu cầu tinh gọn hệ thống – số đầu mối đã giảm 110, tương đương gần 32%.",
+      "Khi hoàn tất toàn bộ phương án, sẽ có thêm 54 trường được sáp nhập hoặc tổ chức lại, nâng tổng mức giảm lên khoảng 47,7%, tức còn khoảng 180 trường. Yêu cầu ban đầu là giáo dục nghề nghiệp giảm tối thiểu 30% đầu mối, còn đại học giảm ít nhất 20%. Dự thảo đề án sắp xếp các trường đại học phải trình Chính phủ trước ngày 10/11.",
+      "Quá trình này còn nhiều vướng mắc: tổ chức bộ máy, nhân sự, chế độ chính sách, tài chính, tài sản, đất đai, công nợ, tư cách pháp nhân và quyền lợi của người học. Phó Thủ tướng yêu cầu không cắt giảm máy móc và không để khoảng trống quản lý làm gián đoạn việc đào tạo.",
+      "Với người lao động trong các trường (giảng viên, cán bộ), việc sáp nhập có thể kéo theo thay đổi vị trí việc làm, chế độ và nơi làm việc. Người học và phụ huynh nên theo dõi thông báo của trường về tên gọi mới, cơ sở đào tạo và văn bằng để không bị ảnh hưởng quyền lợi."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Bộ Nội vụ yêu cầu báo cáo tiền lương, thưởng Tết 2027 trước 25/11",
+     "summary": "Bộ Nội vụ yêu cầu Sở Nội vụ các tỉnh tổng hợp tình hình lương, nợ lương và kế hoạch thưởng Tết Dương lịch, Tết Nguyên đán 2027 của doanh nghiệp, gửi trước 25/11 – sớm hơn mọi năm. Tết 2026, thưởng bình quân khoảng 8,69 triệu đồng/người, tăng 13%.",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/noi-vu/yeu-cau-bao-cao-som-tinh-hinh-tien-luong-thuong-tet-20261102160513547.htm",
+     "image": "https://cdnphoto.dantri.com.vn/kSJR1xewvCynU9zXimRB1Vzbkdo=/zoom/1200_630/2024/10/06/tien-19manh-quan-crop-crop-crop-1728192422674.jpeg",
+     "detail": [
+      "Chiều 2/11, Bộ Nội vụ có công văn gửi giám đốc Sở Nội vụ các tỉnh, thành phố, yêu cầu báo cáo tình hình lao động, tiền lương, nợ lương, quan hệ lao động năm 2026 và kế hoạch thưởng Tết Dương lịch, Tết Nguyên đán 2027 tại doanh nghiệp. Hạn gửi về Bộ là trước 25/11, sớm hơn thường lệ, nhằm chủ động ổn định quan hệ lao động dịp giáp Tết.",
+      "Sở Nội vụ sẽ chủ trì, phối hợp với ban quản lý khu công nghiệp, khu kinh tế, Liên đoàn Lao động tỉnh và cấp xã. Các địa phương cũng được yêu cầu tăng kiểm tra việc thực thi chính sách lao động, xử lý nghiêm vi phạm và phòng ngừa tranh chấp, đình công trước, trong và sau Tết.",
+      "Doanh nghiệp được hướng dẫn rà soát hợp đồng lao động, thỏa ước lao động tập thể, quy chế trả lương và quy chế thưởng cùng công đoàn cơ sở; xây dựng phương án thưởng theo kết quả sản xuất kinh doanh năm 2026 theo Điều 104 Bộ luật Lao động và công khai cho người lao động. Điều 104 quy định thưởng do người sử dụng lao động quyết định dựa trên kết quả kinh doanh và mức độ hoàn thành công việc, sau khi tham khảo ý kiến tổ chức đại diện người lao động.",
+      "Số liệu Tết Nguyên đán 2026 từ khoảng 4,2 triệu lao động ở hơn 50.000 doanh nghiệp: thưởng bình quân khoảng 8,69 triệu đồng/người (tăng 13%); doanh nghiệp nhà nước khoảng 9,44 triệu, dân doanh 7,37 triệu, FDI 9,21 triệu đồng. Với người làm nhân sự, đây là lúc cần chuẩn bị số liệu thưởng và quy chế sớm để kịp báo cáo khi cơ quan quản lý yêu cầu."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng giải ngân 82% vốn đầu tư công, đặt mục tiêu tăng trưởng từ 11%",
+     "summary": "Đến 30/10, Đà Nẵng giải ngân hơn 14.121 tỷ đồng, đạt 82,14% kế hoạch vốn đầu tư công; thu ngân sách đã đạt 115% dự toán. UBND thành phố yêu cầu giải ngân 100%, rà soát 34 dự án trọng điểm để khởi công năm 2027.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-day-manh-giai-ngan-von-dau-tu-cong-tap-trung-thuc-hien-quyet-liet-nhieu-nhiem-vu-trong-tam-3357198.html",
+     "figure": {
+      "value": "82,14%",
+      "label": "Giải ngân vốn đầu tư công đến 30/10",
+      "delta": "14.121 tỷ đồng",
+      "dir": "up"
+     },
+     "detail": [
+      "Chiều 2/11, Chủ tịch UBND thành phố Nguyễn Mạnh Hùng chủ trì cuộc họp đánh giá tình hình tháng 10, 10 tháng và giao nhiệm vụ hai tháng cuối năm. Thành phố đã phân bổ chi tiết 100% kế hoạch vốn đầu tư công 2026; đến 30/10 giải ngân hơn 14.121 tỷ đồng, đạt 82,14% kế hoạch Thủ tướng giao, và đặt mục tiêu giải ngân hết trong năm.",
+      "Các chỉ tiêu kinh tế 10 tháng khả quan: thu ngân sách đến 27/10 đạt hơn 76.335 tỷ đồng, bằng 115% dự toán; vốn đầu tư trong nước hơn 194.000 tỷ đồng (tăng 52%); vốn FDI gần 804 triệu USD, gấp 2,47 lần cùng kỳ. Hạ tầng dùng chung cảng Liên Chiểu đã xong khối lượng thi công, tuyến đường ven biển nối cảng đã thông xe kỹ thuật.",
+      "Thành phố đặt mục tiêu tăng trưởng cả năm từ 11% trở lên, coi kịch bản quý IV là thước đo then chốt. Các sở, ngành được giao rà soát 34 dự án trọng điểm giai đoạn 2026–2030 để chọn dự án đủ điều kiện khởi công năm 2027, triển khai Quy hoạch chung thành phố, hoàn thiện phương án sắp xếp đơn vị hành chính cấp xã và chuẩn bị kỳ họp HĐND cuối năm (dự kiến 8–10/12).",
+      "Ngoài ra, trong 2.035 hồ sơ đất đai, tài sản cần rà soát, thành phố đã xử lý 1.986 hồ sơ (khoảng 97,6%). Việc đẩy nhanh giải ngân và tháo gỡ vướng mắc đất đai giúp các công trình hạ tầng sớm hoàn thành, tạo thêm việc làm và cải thiện giao thông cho người dân."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Hàn Quốc gần gấp đôi ngân sách AI và chip năm 2027, lên 21,3 nghìn tỷ won",
+     "summary": "Tổng thống Lee Jae Myung trình dự toán ngân sách 2027 kỷ lục 821 nghìn tỷ won (tăng 12,8%), trong đó AI và chip được 21,3 nghìn tỷ won (khoảng 16 tỷ USD), gần gấp đôi năm nay. Riêng 4,7 nghìn tỷ won dành phát triển mô hình AI quốc gia.",
+     "source": "AFP (qua Yahoo News)",
+     "url": "https://sg.news.yahoo.com/south-korea-double-spending-ai-033740398.html",
+     "figure": {
+      "value": "21,3 nghìn tỷ won",
+      "label": "Ngân sách AI, chip 2027 của Hàn Quốc",
+      "delta": "gần gấp đôi",
+      "dir": "up"
+     },
+     "detail": [
+      "Ngày 2/11, Tổng thống Hàn Quốc Lee Jae Myung trình Quốc hội dự toán ngân sách năm 2027 trị giá 821 nghìn tỷ won, tăng 12,8% so với năm trước và lớn nhất từ trước đến nay. Ông tuyên bố sẽ \"đầu tư mạnh tay vào AI và các động lực tăng trưởng tương lai\" để nâng tiềm năng tăng trưởng của nền kinh tế.",
+      "Khoản dành cho AI và chất bán dẫn là 21,3 nghìn tỷ won (khoảng 16 tỷ USD), gần gấp đôi năm nay, trải rộng từ trung tâm dữ liệu đến robot. Trong đó 4,7 nghìn tỷ won để phát triển mô hình AI tiên tiến của quốc gia, 2,1 nghìn tỷ won cho hạ tầng điện, nước và khu công nghiệp – vì nhà máy chip cần nguồn điện ổn định suốt ngày đêm.",
+      "Ngân sách quốc phòng cũng tăng khoảng 8%, lên 73,3 nghìn tỷ won, dành cho tàu ngầm hạt nhân và tiêm kích KF-21; ông Lee muốn biến quân đội thành lực lượng \"thông minh, tinh nhuệ\" dựa trên AI, robot và máy bay không người lái. Trước đó, Seoul đã công bố \"Quỹ Tương lai\" 162,3 nghìn tỷ won để dùng nguồn thu thuế kỷ lục từ cơn sốt chip.",
+      "Hàn Quốc là quê hương của Samsung và SK hynix – hai trong ba hãng chip nhớ lớn nhất thế giới, đang hưởng lợi lớn từ nhu cầu trung tâm dữ liệu AI. Hai tập đoàn này đã cam kết đầu tư hơn 4.755 nghìn tỷ won (khoảng 3.500 tỷ USD). Dự toán còn phải được Quốc hội thông qua, nhưng nhiều khả năng sẽ suôn sẻ vì đảng cầm quyền chiếm đa số.",
+      "Với Việt Nam, cuộc đua đầu tư AI của các nước láng giềng cho thấy mức độ cạnh tranh ngày càng gay gắt trong thu hút chuỗi cung ứng chip và nhân lực công nghệ – lĩnh vực Đà Nẵng cũng đang đặt mục tiêu phát triển."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Abu Dhabi ký 4 thỏa thuận với OpenAI, thử nghiệm 'chính phủ vận hành bằng AI'",
+     "summary": "Sau cuộc gặp giữa Thái tử Abu Dhabi và CEO OpenAI Sam Altman ngày 2/11, hai bên ký loạt thỏa thuận về dịch vụ công, đầu tư và giáo dục. Dự án thử nghiệm đầu tiên dùng AI kiểm tra hồ sơ nhập khẩu thực phẩm, quyết định cuối cùng vẫn do cán bộ đưa ra.",
+     "source": "The National",
+     "url": "https://www.thenationalnews.com/news/uae/2026/11/02/abu-dhabi-agrees-openai-deals-to-boost-government-services-and-education/",
+     "tag": "Chính phủ số",
+     "detail": [
+      "Ngày 2/11, chính quyền Abu Dhabi (Các Tiểu vương quốc Ả Rập Thống nhất – UAE) và OpenAI công bố loạt thỏa thuận hợp tác sau cuộc gặp giữa Thái tử Sheikh Khaled bin Mohamed và CEO Sam Altman. Mục tiêu được nêu là đưa Abu Dhabi thành chính phủ \"AI-native\" đầu tiên thế giới – tức bộ máy được thiết kế để vận hành cùng AI ngay từ đầu.",
+      "Trọng tâm là sáng kiến \"Chính phủ có thể đọc bằng máy\": các chính sách, quy định được chuyển thành dạng dữ liệu mà AI hiểu được, để AI hỗ trợ cán bộ kiểm tra tuân thủ thường ngày như cấp phép, cấp chứng nhận. Mỗi đánh giá đều truy được về quy định cụ thể đã áp dụng, còn cán bộ giữ quyền giám sát và ra quyết định cuối cùng. Thử nghiệm đầu tiên đã chạy thật tại cơ quan an toàn thực phẩm, với hồ sơ nhập khẩu thực phẩm.",
+      "Hai thỏa thuận khác: quỹ đầu tư nhà nước Mubadala cùng Inception42 và OpenAI dùng AI để phân tích, tìm cơ hội và đánh giá rủi ro đầu tư; Inception42 và OpenAI ký hợp tác 5 năm thúc đẩy ứng dụng AI tiên tiến trong chính phủ, doanh nghiệp lớn và giáo dục tại UAE. Dữ liệu được xử lý trên hạ tầng máy chủ đặt tại UAE. Giá trị hợp đồng không được công bố.",
+      "Ông Altman khen UAE đặt ra \"chuẩn mực toàn cầu táo bạo\" trong tích hợp AI vào khu vực công và tư. UAE đang là một trong những nước chi mạnh nhất cho AI, coi đây là động lực chuyển đổi khỏi phụ thuộc dầu mỏ.",
+      "Mô hình dùng AI kiểm tra hồ sơ hành chính nhưng giữ con người ra quyết định là hướng nhiều nước đang thử, kể cả Việt Nam với các trợ lý ảo trong ngành tòa án, thuế. Điểm đáng chú ý là yêu cầu mỗi kết luận của AI phải chỉ rõ căn cứ quy định – điều kiện quan trọng để người dân có thể khiếu nại khi bị từ chối."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Gần 40% câu trả lời của chatbot AI về bầu cử Mỹ có sai sót",
+     "summary": "Trước bầu cử giữa kỳ Mỹ ngày 3/11, startup Forum AI kiểm tra 8 mô hình AI và thấy gần 40% câu trả lời về bầu cử có ít nhất một lỗi sự thật. Có chatbot đưa sai hạn đăng ký bỏ phiếu qua thư, có thể khiến cử tri mất quyền bầu.",
+     "source": "AFP (qua The Star)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/11/02/spewing-us-election-falsehoods-ai-chatbots-face-scrutiny",
+     "tag": "An toàn thông tin",
+     "detail": [
+      "Bầu cử giữa kỳ Mỹ ngày 3/11 là cuộc bầu cử liên bang đầu tiên mà AI được tích hợp vào mọi nền tảng công nghệ lớn, và hàng triệu cử tri lần đầu hỏi chatbot về thông tin bầu cử. Một khảo sát cho thấy cứ 5 người Mỹ thì 2 người đã dùng AI để tra cứu thông tin bầu cử.",
+      "Startup Forum AI, chuyên đánh giá mô hình AI, đã thử 8 mô hình và phát hiện gần 40% câu trả lời có ít nhất một lỗi sự thật. Câu hỏi về thủ tục bỏ phiếu (khi nào, ở đâu, cách nào) bị trả lời sai nhiều hơn câu hỏi về ứng viên. Ví dụ, Gemini của Google nói hạn xin phiếu bầu qua thư ở bang Pennsylvania là 3/11, trong khi hạn thực tế sớm hơn một tuần; Claude của Anthropic nhầm lý lịch một nghị sĩ với người khác.",
+      "Các chatbot còn nhiều lần gán sai lời nói cho ứng viên, quan chức và thường trích nguồn kém chất lượng như diễn đàn Reddit. Tổ chức NewsGuard ghi nhận một số công cụ AI từng lặp lại một cáo buộc bịa đặt nhắm vào ứng viên, có dấu hiệu của chiến dịch thông tin sai lệch từ nước ngoài, trước khi được cập nhật.",
+      "Google cho biết có cơ chế kiểm soát chất lượng chặt với chủ đề bầu cử và đã cập nhật hệ thống nhanh chóng; Microsoft nói Copilot sau đó đã xác định đúng thông tin là bịa đặt. Ở chiều ngược lại, Trung tâm Brennan nhận thấy các chatbot lớn kiên quyết bác bỏ các thuyết âm mưu như \"máy bỏ phiếu bị gian lận\".",
+      "Bài học chung cho người dùng ở mọi nước: chatbot AI có thể sai ở những chi tiết then chốt như hạn chót, thủ tục, mức phạt. Với thông tin hành chính, pháp lý hay bảo hiểm, nên đối chiếu lại với trang chính thức của cơ quan nhà nước trước khi làm theo."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Cao tốc Đà Nẵng – Quảng Ngãi gây ngập nhà dân xã Tam Xuân, phải xử lý trong quý IV",
+     "summary": "Trả lời cử tri Đà Nẵng, Bộ Xây dựng cho biết mặt cao tốc đoạn qua xã Tam Xuân (Km68+619–Km74+290) cao hơn nền nhà nên mùa mưa nước tràn vào nhà, ruộng vườn. Bộ yêu cầu VEC khơi thông cống thoát nước, khắc phục trong quý IV/2026.",
+     "source": "Vietnam+",
+     "url": "https://vietnamplus.vn/mat-duong-cao-toc-cao-hon-nen-nha-mua-lon-anh-huong-sinh-hoat-nguoi-dan-post1145702.vnp",
+     "image": "https://media.vietnamplus.vn/images/wU9keeg-MVtM86KQbMalHvcANXwc7oG-mEqmqLvN6hF4AYneg5HXveydM3-yBRtKRWTw0HFQy0g-5TJWDSR9i9UWihiy2Tjp1Oc-I6FHXAM/tuyen-cao-toc-da-nang-quang-ngai.jpg.webp",
+     "detail": [
+      "Cử tri Đà Nẵng phản ánh mặt đường cao tốc Đà Nẵng – Quảng Ngãi đoạn qua xã Tam Xuân (trước là Tam Xuân 1 và Tam Xuân 2, huyện Núi Thành cũ) cao hơn nền nhà dân xung quanh. Vào mùa mưa, nước từ phía cao tốc tràn vào khu dân cư, ruộng vườn, ảnh hưởng sinh hoạt và tài sản của người dân.",
+      "Chiều 2/11, Bộ Xây dựng trả lời rằng nguyên nhân ban đầu là nước thoát chậm ở phía hạ lưu các cống trên đoạn Km68+619 đến Km74+290. Bộ yêu cầu Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam (VEC) phối hợp với chính quyền địa phương kiểm tra thực tế, xác định vị trí, nguyên nhân, khơi thông dòng chảy và khắc phục trong quý IV/2026.",
+      "Về các cống chui dân sinh tại Km70+420 (6,5x4,5 m) và Km74+757 (5x4,5 m), VEC cho biết đã khai thác từ năm 2018, cơ bản đáp ứng nhu cầu đi lại, chỉ một số xe chở hàng quá khổ không qua được. Bộ đề nghị địa phương tuyên truyền để các đơn vị vận tải xếp hàng đúng chiều cao cho phép (tĩnh không).",
+      "Cùng đợt trả lời, đoạn Quốc lộ 1A qua phường An Thắng (Km944+200–Km946+400) đã được mở rộng thành 4 làn xe cơ giới và 2 làn xe thô sơ; Cục Đường bộ sẽ tăng cường bảo đảm an toàn giao thông. Với người dân vùng ven cao tốc, việc khắc phục trước cao điểm mưa lũ cuối năm là điều cần theo dõi sát."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đại biểu Đà Nẵng đề nghị không buộc dịch vụ pháp lý chuyên ngành phải đóng cửa",
+     "summary": "Thảo luận dự án Luật Luật sư (sửa đổi) ngày 2/11, đại biểu Trần Mạnh Huy (Đoàn Đà Nẵng) lo ngại điều khoản chuyển tiếp buộc tổ chức không phải luật sư đang làm dịch vụ pháp lý phải ngừng hoạt động. Dự thảo rút từ 92 xuống 36 điều, thủ tục hành nghề từ 4 bước còn 2.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/du-an-luat-luat-su-sua-doi-can-rach-roi-ranh-gioi-hanh-nghe-phap-ly-tranh-gay-nghen-nguon-luc-kinh-doanh-3357188.html",
+     "tag": "Quốc hội",
+     "detail": [
+      "Ngày 2/11, Quốc hội thảo luận ở hội trường dự án Luật Luật sư (sửa đổi). Dự thảo được tinh gọn mạnh: từ 92 điều xuống 36 điều chia 6 chương, rút quy trình cấp phép hành nghề từ 4 bước còn 2 bước, đồng thời nâng tiêu chuẩn đạo đức, trách nhiệm của luật sư và tăng ứng dụng công nghệ, AI, cơ sở dữ liệu quốc gia.",
+      "Đại biểu Trần Mạnh Huy (Đoàn ĐBQH TP Đà Nẵng) đồng tình với quy định ngăn mạo danh, hành nghề luật sư khi không đủ điều kiện. Tuy nhiên, ông lo ngại khoản 7 Điều 36: tổ chức, cá nhân không phải luật sư đang kinh doanh dịch vụ thuộc phạm vi Điều 16 sẽ phải chấm dứt, hoặc phải đáp ứng điều kiện của Luật Luật sư nếu muốn tiếp tục.",
+      "Theo ông, Điều 16 chỉ liệt kê việc luật sư được làm, chứ chưa xác định đâu là việc chỉ luật sư mới được làm. Ông dẫn ví dụ dịch vụ làm thủ tục thuế hay đại diện sở hữu công nghiệp đều đã có luật chuyên ngành cho phép và quản lý riêng; buộc họ dừng có thể trái với quyền tự do kinh doanh trong Hiến pháp.",
+      "Đại biểu đề xuất hai phương án: bỏ hẳn khoản 7 Điều 36 vì dự thảo đã có quy định cấm mạo danh, hoặc nếu giữ thì phải liệt kê cụ thể các việc thuộc độc quyền luật sư và loại trừ dịch vụ chuyên ngành hợp pháp. Nếu áp dụng theo cách hiểu rộng, nhiều doanh nghiệp tư vấn thuế, kế toán, sở hữu trí tuệ có thể bị gián đoạn hợp đồng, phát sinh chi phí và người dân bị thu hẹp lựa chọn dịch vụ."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Sacombank thay tổng giám đốc lần thứ ba trong năm, giữa lúc tái cơ cấu",
+     "summary": "Từ 2/11, bà Nguyễn Thị Kiều Anh (43 tuổi, từng ở VPBank, LPBank) làm quyền tổng giám đốc Sacombank, thay ông Loic Faussier sau gần 4 tháng. Ngân hàng lãi trước thuế gần 5.900 tỷ đồng 9 tháng, nhân sự giảm 25% còn 12.550 người.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/sacombank-thay-tong-giam-doc-lan-thu-3-trong-nam-5139733.html",
+     "tag": "Nhân sự cấp cao",
+     "detail": [
+      "Ngày 2/11, Chủ tịch HĐQT Sacombank Dương Công Minh ký quyết định bổ nhiệm bà Nguyễn Thị Kiều Anh, 43 tuổi, làm quyền tổng giám đốc. Bà có hơn 20 năm trong ngành ngân hàng, đi lên từ chuyên viên tín dụng tại VPBank, sau đó làm phó tổng giám đốc LPBank trước khi chuyển sang Sacombank làm phó tổng giám đốc chưa đầy một tháng trước.",
+      "Người tiền nhiệm là ông Loic Faussier (quốc tịch Pháp), giữ chức chính thức từ giữa tháng 7 và nay chuyển sang làm cố vấn cấp cao HĐQT. Đây là lần thứ ba trong vòng một năm Sacombank bổ nhiệm quyền tổng giám đốc, sau ông Nguyễn Đức Thụy (từ 23/12/2025) và ông Faussier. Ngân hàng cho biết các thay đổi nhằm đẩy nhanh đề án tái cơ cấu; ban điều hành hiện có 9 người.",
+      "Về kinh doanh, 9 tháng đầu năm Sacombank lãi trước thuế gần 5.900 tỷ đồng, tổng tài sản vượt 1 triệu tỷ đồng (tăng 15%), dư nợ cho vay hơn 700.000 tỷ đồng (tăng khoảng 12%), tiền gửi tăng hơn 25%.",
+      "Đáng chú ý ở góc độ nhân sự: quy mô lao động của ngân hàng và công ty con giảm 25% chỉ trong 9 tháng, còn 12.550 người (ngân hàng mẹ khoảng 11.560). Việc thay lãnh đạo liên tục và cắt giảm mạnh cho thấy ngành ngân hàng đang tái cấu trúc sâu, ảnh hưởng trực tiếp đến cơ hội việc làm trong lĩnh vực này."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "SeABank tăng vốn lên 34.688 tỷ nhờ phát hành 40 triệu cổ phiếu ESOP cho nhân viên",
+     "summary": "SeABank hoàn tất tăng vốn điều lệ thêm 400 tỷ đồng, lên 34.688 tỷ đồng, bằng cách bán 40 triệu cổ phiếu ưu đãi giá 10.000 đồng cho 481 nhân sự. Đây là lần thứ 5 ngân hàng triển khai chương trình cổ phiếu cho người lao động (ESOP).",
+     "source": "Vietnam+",
+     "url": "https://vietnamplus.vn/ngan-hang-seabank-hoan-tat-tang-von-dieu-le-len-34688-ty-dong-post1145709.vnp",
+     "figure": {
+      "value": "34.688 tỷ",
+      "label": "Vốn điều lệ SeABank",
+      "delta": "+400 tỷ đồng",
+      "dir": "up",
+      "spark": [
+       28450,
+       34288,
+       34688
+      ]
+     },
+     "detail": [
+      "Tối 2/11, SeABank thông báo hoàn tất tăng vốn điều lệ từ 34.288 tỷ đồng lên 34.688 tỷ đồng sau khi được Ngân hàng Nhà nước chấp thuận theo Quyết định 2370/QĐ-NHNN. Phần vốn tăng thêm 400 tỷ đồng đến từ đợt phát hành 40 triệu cổ phiếu cho người lao động, giá 10.000 đồng/cổ phiếu, dành cho 481 nhân sự; đợt phát hành đạt 100% số lượng dự kiến.",
+      "ESOP (chương trình lựa chọn cổ phiếu cho người lao động) là hình thức doanh nghiệp bán cổ phiếu cho nhân viên với giá ưu đãi, thường thấp hơn giá thị trường, nhằm giữ chân và gắn quyền lợi nhân viên với kết quả kinh doanh. Đây là lần thứ 5 SeABank triển khai ESOP.",
+      "Đây là đợt tăng vốn thứ hai trong năm 2026; đợt trước SeABank tăng thêm 5.838 tỷ đồng bằng phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 20,5%. Nguồn vốn mới được dùng để củng cố tài chính, nâng các chỉ số an toàn vốn, đầu tư công nghệ, chuyển đổi số và mở rộng hoạt động.",
+      "Với người làm nhân sự, ESOP là công cụ đãi ngộ dài hạn ngày càng phổ biến ở ngân hàng và doanh nghiệp niêm yết, bên cạnh lương thưởng. Tuy nhiên người nhận cần lưu ý cổ phiếu ESOP thường bị hạn chế chuyển nhượng một thời gian và giá trị phụ thuộc diễn biến thị trường."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-02-1500",
    "date": "2026-11-02",
