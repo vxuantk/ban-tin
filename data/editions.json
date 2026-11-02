@@ -1,6 +1,609 @@
 {
- "updated": "2026-11-01T19:05:00+07:00",
+ "updated": "2026-11-02T07:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-02-0700",
+   "date": "2026-11-02",
+   "slot": "07:00",
+   "createdAt": "2026-11-02T07:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Kinh tế 10 tháng: FDI tăng 76%, quý IV phải tăng 12,5% mới đạt mục tiêu",
+     "summary": "Mười tháng năm 2026, vốn FDI đăng ký đạt 50,36 tỷ USD, tăng 76,4%, xuất khẩu khoảng 499 tỷ USD, tăng 27,4%. Tuy vậy, theo Phó Thủ tướng Nguyễn Văn Thắng, quý IV cần tăng trưởng khoảng 12,5% thì cả năm mới đạt mục tiêu GDP 10%.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/kinh-te-10-thang-nhieu-dau-an-quan-trong-huong-toi-muc-tieu-tang-truong-hai-con-so-post1399111.html",
+     "detail": [
+      "Theo Bộ Công Thương, tổng kim ngạch hàng hóa 10 tháng đạt khoảng 1.010 tỷ USD, tăng 32,3%, trong đó xuất khẩu khoảng 499 tỷ USD. Vốn FDI đăng ký đạt 50,36 tỷ USD (tăng 76,4%), vốn FDI giải ngân 21,07 tỷ USD (tăng 12,1%). CPI bình quân 9 tháng tăng 4,52%.",
+      "Mục tiêu GDP năm 2026 là 10%, nghĩa là quý cuối năm phải tăng khoảng 12,5%. Nếu giải ngân hết vốn đầu tư công theo kế hoạch, có thể cộng thêm khoảng 2,5 điểm phần trăm cho tăng trưởng quý IV. Từ 1/11, Chính phủ đồng loạt giảm giá điện bình quân 2%, đưa thuế tiêu thụ đặc biệt với xăng về 0% đến 31/3/2027 và giữ giảm 2% thuế VAT đến hết năm.",
+      "Các chuyên gia cho rằng FDI đang là trụ đỡ cho sản xuất và xuất khẩu, nhất là điện tử, chế biến chế tạo. Nhưng triển vọng hai tháng cuối năm còn phụ thuộc vào căng thẳng địa chính trị, giá năng lượng, tỷ giá, cước vận tải và quy định xuất xứ hàng hóa ngày càng chặt.",
+      "Với doanh nghiệp, giai đoạn cuối năm có thêm dư địa từ chi phí điện, xăng giảm, nhưng cũng nên chuẩn bị cho biến động tỷ giá và chi phí logistics. Với người lao động ở các ngành xuất khẩu, đơn hàng nhiều đồng nghĩa nhu cầu tăng ca và tuyển dụng thời vụ cuối năm có thể còn cao."
+     ],
+     "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V7-QBoQl6VchKzM-4Vcs4b-GzM0Hlbov11zx88_2Sp6zKqTqBqNBcm7GOjnvOQscPQbltCsL4xebILOMQPuQA1RumVjX-UG23U_jNpXTc8t04/hai-phong-170426.jpg.webp",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng SJC sáng 2/11 đứng ở 136–139 triệu, thế giới xuống đáy hơn một năm",
+     "summary": "Sáng 2/11, vàng miếng SJC giữ giá 136–139 triệu đồng/lượng, vàng nhẫn phổ biến 133,6–138 triệu. Trong khi đó vàng thế giới rơi về khoảng 3.874 USD/ounce, thấp nhất hơn một năm, khiến chênh lệch trong nước – thế giới vẫn rất lớn.",
+     "source": "VietNamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-2-11-the-gioi-giam-vang-sjc-dieu-chinh-manh-2570496.html",
+     "detail": [
+      "Đầu giờ sáng thứ Hai 2/11, bảng giá vàng trong nước gần như không đổi so với cuối tuần. Vàng miếng SJC tại TP.HCM được mua vào 136 triệu, bán ra 139 triệu đồng/lượng; DOJI niêm yết vàng nhẫn 134–138 triệu, Bảo Tín Mạnh Hải (Kim Gia Bảo) 133,8–137,8 triệu đồng/lượng. Khoảng cách mua – bán 3–4 triệu đồng nghĩa là người mua vào lúc này gần như lỗ ngay nếu bán lại.",
+      "Trên thị trường quốc tế, vàng giao ngay chốt tuần ở 3.874 USD/ounce, có lúc chạm 3.870 USD – mức thấp nhất hơn một năm. Đây là tuần giảm thứ hai liên tiếp, vàng đã mất mốc 4.000 USD và không giữ nổi ngưỡng 3.900 USD. Quy đổi theo tỷ giá Vietcombank, giá thế giới chỉ khoảng 121,5 triệu đồng/lượng (chưa thuế phí), thấp hơn vàng SJC chừng 17–18 triệu.",
+      "Nguyên nhân chính là Cục Dự trữ Liên bang Mỹ (Fed – ngân hàng trung ương Mỹ) tiếp tục giữ quan điểm thắt chặt, trong khi số liệu kinh tế Mỹ khá tốt khiến kỳ vọng hạ lãi suất lùi xa. Cuối tuần, cổ phiếu công nghệ bị bán tháo cũng kéo kim loại quý đi xuống. Chuyên gia Daniel Pavilonis của StoneX cho rằng vàng có thể điều chỉnh sâu, thậm chí về quanh 3.000 USD/ounce trong quý I năm sau, trước khi đi ngang rồi hồi phục.",
+      "Tuần này nhà đầu tư theo dõi báo cáo việc làm tháng 10 của Mỹ, bầu cử giữa nhiệm kỳ Mỹ và quyết định lãi suất của Ngân hàng Trung ương Anh. Với người có tiền nhàn rỗi, giới phân tích khuyên không nên mua đuổi lúc giá trong nước còn cao hơn thế giới quá nhiều; ai đang giữ vàng nên cân nhắc phòng ngừa rủi ro thay vì kỳ vọng tăng nhanh."
+     ],
+     "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/11/1/11-the-gioi-giam-vang-sjc-dieu-chinh-manh-1683.jpg?width=0&s=IgIGRVsDuvY9NktYe9OcyQ",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Tuần đầu kỳ họp Quốc hội: tăng trưởng quý IV phải đạt 12,5%, bỏ tử hình 4 tội",
+     "summary": "Trong tuần 26–31/10, Quốc hội bàn kinh tế – xã hội, Luật Đất đai, nhà ở và Bộ luật Hình sự sửa đổi. Muốn cả năm tăng trưởng từ 10% trở lên, GDP quý IV phải tăng 12,5%. Đại biểu cũng đề nghị kiểm soát giá bán lại nhà ở xã hội sau 5 năm để chặn đầu cơ.",
+     "source": "VOV",
+     "url": "https://vov.vn/chinh-tri/nhin-lai-tuan-dau-ky-hop-thu-2-xay-dung-nhung-quy-dinh-phu-hop-hon-voi-thuc-tien-post1346331.vov",
+     "detail": [
+      "Tuần làm việc đầu tiên của Kỳ họp thứ 2 (26–31/10) dành cho nhiều dự án luật về an ninh, tư pháp, đất đai, nhà ở và thị trường bất động sản. Tinh thần chung là luật phải sát thực tiễn và tháo gỡ được các điểm nghẽn.",
+      "Về kinh tế, GDP 9 tháng tăng trên 9%. Để đạt mục tiêu cả năm từ 10% trở lên, Phó Thủ tướng cho biết quý IV phải tăng 12,5%, một thách thức rất lớn. Đại biểu Trịnh Xuân An (Đồng Nai) đề nghị đánh giá chất lượng tăng trưởng bằng thu nhập thực, việc làm bền vững và khả năng tích lũy của người dân. Ông cũng cho rằng doanh nghiệp phải còn tiền tái đầu tư công nghệ sau khi trả lãi vay.",
+      "Về nhà ở, nhiều đại biểu cho rằng cả nhà thương mại lẫn nhà ở xã hội đều đắt, vượt quá khả năng chi trả của nhiều người. Đại biểu Lý Anh Thư (An Giang) đề nghị quản lý giá bán lại nhà ở xã hội sau 5 năm để tránh trục lợi. Với Luật Đất đai sửa đổi, đại biểu đề nghị đặt ra tiêu chí đo được cho nguyên tắc nơi ở mới phải tốt hơn nơi ở cũ, và giao trách nhiệm theo dõi việc khôi phục sinh kế cho người bị thu hồi đất.",
+      "Với Bộ luật Hình sự sửa đổi, đại biểu nhất trí bỏ án tử hình với 4 tội: bạo loạn, chống loài người, tội phạm chiến tranh và khủng bố nhằm chống chính quyền nhân dân. Riêng tội phạm ma túy quy mô lớn, nhiều ý kiến đề nghị tiếp tục cân nhắc. Đại biểu cũng nhấn mạnh không hình sự hóa các quan hệ kinh tế, dân sự, nhằm giữ môi trường kinh doanh lành mạnh. Thêm một điểm đáng chú ý: sách giáo khoa sẽ thống nhất từ năm học 2028–2029 và được cấp miễn phí sớm hơn một năm."
+     ],
+     "tag": "Kỳ họp Quốc hội",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "DeepSeek tung 'Super-Agent' tự đọc nhóm chat, tự đề xuất sửa lỗi lập trình",
+     "summary": "Ngày 31/10, DeepSeek (Trung Quốc) công bố bản thử nghiệm mã nguồn mở Super-Agent: trợ lý lập trình tự theo dõi trao đổi của nhóm kỹ sư, phát hiện lỗi và đề xuất cách sửa mà không cần ra lệnh. Đây là đòn cạnh tranh trực diện với Claude Code (Anthropic) và Codex (OpenAI), trong lúc DeepSeek vừa gọi được khoảng 100 tỷ nhân dân tệ (~15 tỷ USD) trước khi lên sàn.",
+     "source": "Digital Trends",
+     "url": "https://www.digitaltrends.com/computing/deepseek-wants-to-steal-claude-code-and-codexs-lunch-with-an-ai-agent-that-does-not-wait-around/",
+     "detail": [
+      "DeepSeek, công ty AI Trung Quốc từng gây chấn động thế giới với các mô hình giá rẻ, vừa giới thiệu bản thử nghiệm có tên Super-Agent. Thông tin được nhóm 'Harness' của công ty đăng trên WeChat hôm thứ Bảy 31/10, và Bloomberg, Reuters, Digital Trends đồng loạt đưa tin ngày 01/11. Phần mềm được phát hành mã nguồn mở, nghĩa là ai cũng có thể tải về, xem cách nó hoạt động và tự thử nghiệm.",
+      "Điểm khác biệt nằm ở cách làm việc. Với trợ lý lập trình thông thường, kỹ sư phải mô tả vấn đề rồi yêu cầu AI xử lý. Super-Agent thì 'ngồi' sẵn trong các nhóm chat của đội phát triển phần mềm, tự nhận ra khi có người đang gặp lỗi và chủ động đưa ra giải pháp. DeepSeek nói mục tiêu là mang lại giá trị lớn nhất trong khi người dùng phải bỏ ra ít sự chú ý nhất.",
+      "Thuật ngữ 'harness' (tạm hiểu là bộ khung) chỉ lớp phần mềm bao quanh một mô hình ngôn ngữ lớn, giúp nó dùng công cụ bên ngoài, chia nhỏ và điều phối các việc phức tạp. Anthropic cũng dùng cách tiếp cận này để làm ra Claude Code, công cụ cho phép lập trình viên giao hẳn việc viết, sửa và kiểm thử mã cho AI. DeepSeek lập riêng nhóm Harness từ đầu năm 2026 để đuổi theo các phòng thí nghiệm AI hàng đầu của Mỹ.",
+      "Các báo lưu ý đây mới là bản mẫu, chưa chứng minh DeepSeek đã vượt đối thủ; độ tin cậy với dự án lớn và khả năng triển khai rộng vẫn còn bỏ ngỏ. Digital Trends nhận xét đây chỉ là dấu hiệu sớm về hướng đi của ngành, 'chưa phải lý do để gỡ Claude Code hay Codex'. Tuy vậy, cuộc đua Mỹ – Trung rõ ràng đã chuyển từ chatbot hỏi–đáp sang 'đặc vụ AI' tự hành cho kỹ sư và doanh nghiệp.",
+      "Về tài chính, theo Bloomberg, DeepSeek vừa hoàn tất vòng gọi vốn khoảng 100 tỷ nhân dân tệ (khoảng 15 tỷ USD), thuộc loại lớn nhất Trung Quốc, chuẩn bị cho kế hoạch IPO. Số tiền này đủ để công ty tăng tốc nghiên cứu và phát triển thêm các trợ lý tự động.",
+      "Với doanh nghiệp và đội IT ở Việt Nam, công cụ mã nguồn mở, chi phí thấp như của DeepSeek có thể là lựa chọn thay thế rẻ hơn các dịch vụ Mỹ. Nhưng việc một AI được 'đọc' toàn bộ nhóm chat nội bộ cũng đặt ra câu hỏi về bảo mật dữ liệu công ty; bộ phận nhân sự và IT nên có quy định rõ trước khi cho nhân viên cài thử."
+     ],
+     "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/DT-2026-11-01T213741.865.jpg?resize=1200%2C630&ssl=1",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Sinh con: những khoản hỗ trợ mới và đề xuất 5 triệu đồng của Đà Nẵng",
+     "summary": "Luật Dân số hiệu lực từ 1/7/2026 bổ sung hỗ trợ tối thiểu 2 triệu đồng cho một số nhóm phụ nữ sinh con, thêm ưu tiên nhà ở xã hội. Đà Nẵng trình HĐND hỗ trợ một lần 5 triệu đồng cho phụ nữ sinh đủ hai con trước 35 tuổi, dự kiến từ 1/1/2027, khoảng 9.400 người/năm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/nhung-chinh-sach-moi-khi-sinh-con-ai-duoc-huong-huong-the-nao-3357058.html",
+     "detail": [
+      "Luật Dân số số 113/2025/QH15 có hiệu lực từ 1/7/2026, hỗ trợ tài chính cho ba nhóm phụ nữ: người dân tộc thiểu số rất ít người, người sống ở địa phương có mức sinh dưới mức thay thế (2,1 con/phụ nữ) và người sinh đủ hai con trước 35 tuổi. Theo Nghị định 168/2026, mức tối thiểu là 2 triệu đồng/người; nhóm đầu áp dụng từ 1/7/2026, hai nhóm sau từ 1/1/2027. Tổng tỷ suất sinh của Đà Nẵng năm 2025 là 2,15 nên phụ nữ thành phố không thuộc diện 'địa phương sinh thấp'.",
+      "Ngày 23/10, UBND Đà Nẵng trình HĐND dự thảo hỗ trợ một lần 5 triệu đồng cho phụ nữ thường trú tại thành phố sinh đủ hai con trước 35 tuổi, kể cả trường hợp sinh đôi. Nếu được thông qua, chính sách áp dụng từ 1/1/2027 và không cộng dồn với mức của Trung ương. Năm 2025 thành phố có 9.398 phụ nữ đủ điều kiện, nên kinh phí năm 2027 ước gần 47 tỷ đồng.",
+      "Về chế độ thai sản, lao động nữ sinh con thứ hai từ 1/7/2026 (đã có một con còn sống) được hưởng chế độ mới theo Luật BHXH 2024; lao động nam cũng có quy định riêng về thời gian nghỉ. Trợ cấp một lần khi sinh là 5,06 triệu đồng/con; nếu sức khỏe chưa hồi phục sau 30 ngày, lao động nữ được nghỉ dưỡng sức 5–10 ngày, mỗi ngày 759.000 đồng.",
+      "Người có từ hai con đẻ trở lên được thêm vào nhóm ưu tiên mua, thuê nhà ở xã hội, nhưng ưu tiên không có nghĩa hồ sơ được duyệt ngay; Bộ Xây dựng đang phối hợp Bộ Y tế thống nhất cách hiểu. Bộ phận nhân sự nên cập nhật các mốc này để tư vấn đúng cho người lao động khi làm hồ sơ thai sản."
+     ],
+     "figure": {
+      "value": "5 triệu đồng",
+      "label": "Đà Nẵng đề xuất hỗ trợ phụ nữ sinh đủ 2 con trước 35 tuổi (từ 1/1/2027)"
+     },
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Cả nước rà soát vị trí việc làm, chốt nhu cầu biên chế trước 20/11",
+     "summary": "Các cơ quan Trung ương và địa phương phải gửi dữ liệu vị trí việc làm trước 10/11 và xác định nhu cầu nhân lực, phương án biên chế trước 20/11/2026. Đây là nền móng cho giai đoạn 2027–2031 và cho đề án trả lương theo vị trí việc làm, kết quả đầu ra.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/xay-dung-co-so-du-lieu-vi-tri-viec-lam-nen-tang-cot-loi-cho-tinh-gon-bo-may-va-cai-cach-tien-luong-post1399039.html",
+     "detail": [
+      "Thực hiện Kết luận 107-KL/TW ngày 17/10/2026 của Bộ Chính trị về hoàn thiện hệ thống vị trí việc làm, Ban Tổ chức Trung ương đã ban hành kế hoạch rà soát mà báo gọi là sâu rộng nhất từ trước đến nay. Vị trí việc làm hiểu nôm na là bản mô tả từng chỗ làm cụ thể trong cơ quan: làm việc gì, cần người thế nào, chịu trách nhiệm ra sao.",
+      "Lịch trình rất gấp: trước 10/11 gửi dữ liệu ban đầu, trước 20/11 xác định nhu cầu nhân lực và phương án biên chế, trước 25/11 Ban Tổ chức Trung ương tổng hợp, đầu tháng 12 báo cáo Ban Chỉ đạo và trình Bộ Chính trị trong quý IV. Dữ liệu phải có nguồn gốc, mã tham chiếu và được kiểm chứng; số liệu chưa kiểm chứng không được dùng để xin tăng biên chế.",
+      "Tại Quốc hội, Bộ trưởng Nội vụ cho biết đã rà soát 949 nhiệm vụ phân cấp cho địa phương, trong đó 584 nhiệm vụ khả thi, 355 cần hướng dẫn thêm và 10 cần điều chỉnh thẩm quyền. Về tiền lương, ngân sách 6 tháng cuối năm dành 48,5 nghìn tỷ đồng để nâng lương cơ sở lên 2,53 triệu đồng/tháng, điều chỉnh lương hưu và nâng phụ cấp cho 163.000 công chức cấp xã từ 25% lên 55%.",
+      "Song song, TP.HCM vừa cho phép thu hút nhân tài bằng hợp đồng lao động thay vì bắt buộc vào biên chế, với thu nhập 106,2–265,5 triệu đồng/tháng và hỗ trợ ban đầu tới 531 triệu đồng. Với người làm nhân sự, đây là tín hiệu khu vực công đang chuyển dần sang cách quản trị giống doanh nghiệp: mô tả công việc rõ ràng, trả lương theo kết quả, cạnh tranh trực tiếp về người giỏi."
+     ],
+     "tag": "Cải cách tiền lương",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Doanh nghiệp, hộ kinh doanh doanh thu dưới 10 tỷ được giảm 30% thuế thu nhập",
+     "summary": "Nghị định hướng dẫn giảm 30% thuế thu nhập doanh nghiệp và thu nhập cá nhân cho đơn vị có doanh thu năm không quá 10 tỷ đồng đã có hiệu lực từ 29/10, áp dụng cho năm 2026 và 2027. Theo Bộ Tài chính, 99,98% hộ kinh doanh và khoảng 81% doanh nghiệp được hưởng.",
+     "source": "CafeF (theo VTV)",
+     "url": "https://cafef.vn/giam-30-thue-hon-81-doanh-nghiep-9998-ho-kinh-doanh-huong-loi-188261101073318578.chn",
+     "detail": [
+      "Chính phủ đã ban hành nghị định hướng dẫn nghị quyết của Quốc hội về giảm 30% thuế thu nhập doanh nghiệp và thuế thu nhập cá nhân, có hiệu lực từ ngày 29/10/2026. Đối tượng là doanh nghiệp và hộ, cá nhân kinh doanh có doanh thu năm từ 10 tỷ đồng trở xuống, áp dụng trong hai năm 2026 và 2027.",
+      "Người nộp thuế tự xác định số thuế được giảm khi kê khai theo quý hoặc từng kỳ. Nếu năm 2026 đã khai mà chưa trừ phần giảm, có thể điều chỉnh khi quyết toán năm; số nộp thừa được bù trừ hoặc hoàn lại. Lưu ý quan trọng: nếu doanh thu vượt ngưỡng 10 tỷ đồng thì không còn được hưởng và phải nộp bù số thuế đã giảm trước đó.",
+      "Số liệu của Bộ Tài chính cho thấy 99,98% hộ kinh doanh và khoảng 81,11% doanh nghiệp nằm dưới ngưỡng doanh thu này. Ngân sách dự kiến giảm thu khoảng 6.700 tỷ đồng trong giai đoạn 2026–2027.",
+      "Chủ hộ kinh doanh và chuyên gia kế toán nhận xét số tiền mỗi đơn vị tiết kiệm không lớn, nhưng giúp xoay vòng vốn, bổ sung hàng hóa. Với bộ phận kế toán – nhân sự ở doanh nghiệp nhỏ, đây là việc cần cập nhật ngay vào tờ khai quý IV để không bỏ lỡ quyền lợi."
+     ],
+     "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/1/avatar1793493048469-1793493049863382058230-0-161-764-1383-crop-17934931792681721567121.jpg",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index chốt tuần 1.741 điểm, khối ngoại bán ròng gần 2.700 tỷ; tuần này thử ngưỡng 1.760",
+     "summary": "Tuần 26–30/10, VN-Index mất 32,53 điểm (-1,83%) còn 1.741,62 điểm, thanh khoản giảm gần 10%, khối ngoại bán ròng 2.692 tỷ đồng trên HoSE. Các công ty chứng khoán cho rằng tuần đầu tháng 11 chỉ số dao động 1.720–1.770, có thể hồi về 1.760 nếu dòng tiền quay lại.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tuan-toi-vn-index-co-the-tro-lai-nguong-1760-1770-diem-188261101221824447.chn",
+     "detail": [
+      "Tuần cuối tháng 10, thị trường chứng khoán có 4 phiên giảm và chỉ 1 phiên tăng, áp lực bán dồn vào hai phiên cuối. VN-Index đóng cửa 1.741,62 điểm, giảm 32,53 điểm, xóa một nửa thành quả hơn 68 điểm của tuần trước đó. Rổ VN30 (30 cổ phiếu vốn hóa lớn) giảm 2,73% còn 1.855 điểm, HNX-Index giảm 3,79% còn 252,74 điểm. Tính cả tháng 10, VN-Index giảm 1,53%, tháng giảm thứ hai liên tiếp.",
+      "Thanh khoản tiếp tục yếu: bình quân hơn 645 triệu cổ phiếu mỗi phiên trên HoSE, giảm khoảng 9,4%, giá trị giao dịch quanh 14.700 tỷ đồng/phiên. Khối ngoại bán ròng cả 5 phiên, tổng hơn 2.692 tỷ đồng; bị bán mạnh nhất là FPT (782 tỷ), VPL, VIC và GMD. Nhóm ngân hàng như LPB, TCB, SSB giảm hơn 3% trong phiên 30/10.",
+      "Về triển vọng, SHS chưa thấy tín hiệu VN-Index thủng 1.700 điểm, kịch bản tích cực là hồi về 1.760. Chứng khoán Tiên Phong (TPS) coi nhịp giảm là giai đoạn tích lũy lại nhưng cần dòng tiền cải thiện. AseanSC dự báo chỉ số dao động trong vùng 1.720–1.770, hỗ trợ 1.715–1.730 và kháng cự 1.755–1.775; nếu thủng 1.715 có thể lùi về vùng 1.680–1.700.",
+      "Nhóm cổ phiếu Vingroup được xem là lực đỡ chính cho chỉ số, còn ngân hàng (TCB, HDB, VPB, CTG, TPB), xây dựng – hạ tầng là các nhóm được chuyên gia đưa vào danh sách theo dõi tháng 11. Lời khuyên chung: giữ tỷ trọng cổ phiếu vừa phải, không bắt đáy sớm, giải ngân từng phần và cắt bớt vị thế yếu nếu thị trường mất hỗ trợ."
+     ],
+     "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/1/avatar1793546266856-17935462679341606750388.png",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Từ 11/11: thu thập dữ liệu không được đồng ý có thể bị phạt đến 60 triệu đồng",
+     "summary": "Nghị định 363/2026 về xử phạt trong lĩnh vực dữ liệu có hiệu lực từ 11/11. Thu thập hoặc tạo lập dữ liệu khi chưa được đồng ý bị phạt 20–40 triệu đồng, còn vi phạm cố ý hoặc nghiêm trọng bị phạt 40–60 triệu đồng. Doanh nghiệp, kể cả bộ phận nhân sự đang lưu hồ sơ ứng viên và nhân viên, cần rà lại quy trình.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-11-5139157.html",
+     "detail": [
+      "Nghị định 363/2026 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực dữ liệu và có hiệu lực từ ngày 11/11. Các hành vi bị phạt gồm: thu thập hoặc tạo lập dữ liệu khi chưa được chủ thể đồng ý, không ban hành quy trình thu thập, và không kiểm tra chất lượng dữ liệu. Mức phạt cho các hành vi này là 20–40 triệu đồng.",
+      "Nếu cố ý làm sai lệch dữ liệu hoặc thu thập vượt quá phạm vi đã thông báo, mức phạt tăng lên 40–60 triệu đồng. Với dữ liệu cốt lõi, dữ liệu quan trọng quốc gia hoặc trường hợp làm lộ thông tin nhạy cảm, cơ sở dữ liệu vi phạm có thể bị đình chỉ hoạt động 6–9 tháng. Bên vi phạm còn phải xóa dữ liệu thu thập trái phép và nộp lại khoản lợi bất hợp pháp.",
+      "Với người làm nhân sự, quy định này liên quan trực tiếp đến các hoạt động hằng ngày như thu CV, lưu bản sao căn cước, thông tin người thân, sức khỏe hay tài khoản ngân hàng của người lao động. Nên có mẫu xin đồng ý xử lý dữ liệu rõ ràng, chỉ thu đúng thông tin cần dùng và có quy trình lưu trữ, xóa dữ liệu. Cũng trong tháng 11, Thông tư 81/2026 về Ban đại diện cha mẹ học sinh (hiệu lực 15/11) cấm ban này đặt khoản đóng góp bắt buộc hoặc sử dụng sai thông tin cá nhân của phụ huynh, học sinh."
+     ],
+     "tag": "Luật dữ liệu",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Chính phủ bỏ đề xuất cho người dưới 18 tuổi đăng ký hiến mô, tạng",
+     "summary": "Trước phiên thảo luận sáng 2/11 của Quốc hội, Chính phủ chỉnh lý dự luật hiến, ghép mô tạng: chỉ người đủ 18 tuổi mới được đăng ký hiến mô, bộ phận cơ thể, hiến xác. Người dưới 18 tuổi chỉ còn được hiến mô tái sinh cho anh chị em ruột, khi có văn bản đồng ý của cha mẹ.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/chinh-phu-bo-quy-dinh-nguoi-duoi-18-tuoi-duoc-dang-ky-hien-mo-bo-phan-co-the-hien-xac-100261101220155045.htm",
+     "detail": [
+      "Bản dự thảo Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác (sửa đổi) trình Quốc hội ngày 21/10 từng đề xuất cho người dưới 18 tuổi đăng ký hiến bộ phận cơ thể sau khi chết, nếu có nguyện vọng và người đại diện đồng ý. Dự thảo cũng chia nhóm: từ 15 đến dưới 18 tuổi được hiến mô cho người thân trong gia đình, dưới 15 tuổi được hiến cho cha mẹ, anh chị em ruột. Đề xuất này gây tranh cãi lớn trong dư luận.",
+      "Trong báo cáo gửi đại biểu tối 1/11, Chính phủ cho biết đã tiếp thu ý kiến thẩm tra và nhiều đại biểu. Các ý kiến lo ngại tác động tâm lý, đạo đức xã hội, nguy cơ trẻ bị lợi dụng vì phụ thuộc người lớn, và đề nghị chỉ cho hiến mô tái sinh như tủy xương, tế bào gốc (loại mô cơ thể tự tạo lại được).",
+      "Theo bản chỉnh lý, quyền bày tỏ nguyện vọng và đăng ký hiến chỉ dành cho người từ đủ 18 tuổi. Người dưới 18 tuổi không được hiến bộ phận cơ thể khi còn sống; chỉ được hiến mô tái sinh (trừ máu) cho anh chị em ruột, khi không có người trưởng thành phù hợp và cha mẹ đẻ đồng ý bằng văn bản. Mốc phân nhóm 15 tuổi bị bỏ.",
+      "Để tránh xung đột lợi ích, cả trẻ và cha mẹ phải được tư vấn độc lập; cơ sở lấy mô phải lập hội đồng gồm chuyên gia y tế, pháp luật, tâm lý, và thành viên hội đồng không tham gia ca ghép đó. Quốc hội thảo luận dự luật sáng 2/11; bài chưa nêu thời điểm biểu quyết."
+     ],
+     "tag": "Quốc hội 2/11",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Từ 15/11, thanh toán tự động trên 10 triệu đồng bằng AI phải có người giám sát",
+     "summary": "Thông tư 53/2026 của Ngân hàng Nhà nước có hiệu lực từ 15/11 yêu cầu ngân hàng phân loại rủi ro hệ thống AI; thanh toán tự động trên 10 triệu đồng/giao dịch hoặc 20 triệu/ngày với cá nhân và quyết định cho vay từ 50 triệu phải có con người giám sát. Tháng 11 còn nhiều quy định ngân hàng mới khác.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nhung-chinh-sach-moi-lien-quan-hoat-dong-ngan-hang-co-hieu-luc-tu-thang-11-2026-188261101083216965.chn",
+     "detail": [
+      "Thông tư 53/2026/TT-NHNN về an toàn và quản lý rủi ro khi dùng trí tuệ nhân tạo (AI) trong ngân hàng có hiệu lực từ 15/11. Ngân hàng, ví điện tử, trung gian thanh toán phải phân loại hệ thống AI theo mức rủi ro và bảo đảm luôn có con người chịu trách nhiệm cuối cùng, AI không được thay thế hoàn toàn.",
+      "Các trường hợp được xếp rủi ro cao gồm: thanh toán tự động với cá nhân trên 10 triệu đồng/giao dịch hoặc 20 triệu đồng/ngày; với tổ chức trên 50 triệu đồng/giao dịch hoặc 100 triệu/ngày; và quyết định cấp tín dụng tự động cho khoản vay từ 50 triệu đồng. Người dùng có thể thấy thêm bước xác nhận hoặc thẩm định thủ công với những giao dịch này.",
+      "Cũng trong tháng 11, Quyết định 44/2026/QĐ-TTg (hiệu lực 20/11) nâng hạn mức vay ưu đãi cho người chấp hành xong án phạt tù: học nghề tối đa 10 triệu đồng/tháng (trước là 4 triệu), làm ăn, tạo việc làm tối đa 200 triệu (trước 100 triệu), cơ sở kinh doanh tuyển họ được vay tới 10 tỷ đồng/dự án. Đây là thông tin hữu ích cho doanh nghiệp có chính sách tuyển dụng tái hòa nhập.",
+      "Ngoài ra, Thông tư 40/2026 đặt tỷ lệ an toàn vốn tối thiểu 8% cho quỹ tín dụng nhân dân từ 1/11, Thông tư 48/2026 rút thời gian đăng ký quan hệ giao dịch ngoại tệ từ 7 xuống 4 ngày (từ 9/11), và Thông tư 49/2026 buộc ngân hàng có quy chế nội bộ khi làm dịch vụ tư vấn (từ 15/11)."
+     ],
+     "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/1/chinh-sach-moi-thang-2-1793496576224-17934965768241877971742-0-0-406-650-crop-17934967140931664851237.jpg",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "AI bắt đầu ra tiền: ngân hàng, dược phẩm báo lợi nhuận nhờ AI",
+     "summary": "Sau thời gian dài đổ tiền, nhiều tập đoàn lớn đã đo được lợi ích từ AI: ngân hàng Santander thu 194 triệu euro giá trị kinh doanh trong 9 tháng 2026. Chi tiêu AI toàn cầu năm 2025 đạt 581,7 tỷ USD, tăng 130%, nên nhà đầu tư đang đòi hỏi kết quả cụ thể.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/khi-ai-bat-dau-tao-tien-cho-doanh-nghiep-post1399135.html",
+     "detail": [
+      "Theo báo cáo AI Index 2026 của Đại học Stanford, chi tiêu cho AI năm 2025 đạt 581,7 tỷ USD, tăng 130% so với năm trước. Riêng Microsoft, Amazon, Google và Meta dự kiến chi khoảng 700 tỷ USD cho hạ tầng AI trong năm nay, khiến giới đầu tư ngày càng sốt ruột chờ thấy lợi nhuận thật.",
+      "Ngân hàng Santander (Tây Ban Nha) cho biết các dự án AI tạo ra 194 triệu euro giá trị kinh doanh từ tháng 1 đến tháng 9/2026. Standard Chartered có lợi nhuận hoạt động quý III tăng 14%, với AI có mặt ở hầu hết khâu vận hành. Hãng dược Novartis báo lợi nhuận hoạt động lõi 6,04 tỷ USD, tăng 10%, và CEO nói đây là quý đầu tiên ông thấy rõ AI cải thiện kết quả kinh doanh.",
+      "Ở mảng công nghệ, Meta có doanh thu quý III tăng 26% nhờ AI giúp quảng cáo hiệu quả hơn, còn doanh thu điện toán đám mây của Google tăng hơn gấp đôi lên gần 31 tỷ USD, dù mảng tìm kiếm chậm lại vì cạnh tranh từ các công cụ AI.",
+      "Điểm chung các lãnh đạo tài chính nêu ra là AI cắt bớt việc giá trị thấp để nhân viên dồn sức cho việc quan trọng hơn như chăm sóc khách hàng, đồng thời giúp doanh thu tăng nhanh hơn chi phí. Họ cũng thừa nhận khó tách bạch chính xác bao nhiêu phần lợi nhuận là nhờ AI, vì AI đã len vào mọi quy trình. Với bộ phận nhân sự, xu hướng này đặt ra yêu cầu đào tạo lại kỹ năng thay vì chỉ cắt giảm."
+     ],
+     "tag": "AI & lợi nhuận",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng: giám đốc trung tâm Anh ngữ dựng 'trường Mỹ' giả, thu tiền hơn 200 học sinh",
+     "summary": "Ông Trương Văn Thiên Tư, 56 tuổi, giám đốc Trung tâm Anh ngữ Thiên Lập Nhân, bị khởi tố vì lừa đảo. Từ năm 2019, ông tuyển hơn 200 học sinh 5–16 tuổi vào 'chương trình Mỹ' với học phí 7–8 triệu đồng/tháng, rồi cấp học bạ, bằng cấp tự in. Nhiều gia đình đã rút con khỏi trường công và mất hàng trăm triệu đồng.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chieu-tuyen-sinh-chuong-trinh-my-tai-trung-tam-anh-ngu-thien-lap-nhan-5139373.html",
+     "detail": [
+      "Ngày 1/11, Cơ quan An ninh điều tra Công an Đà Nẵng công bố chi tiết vụ án liên quan đến Trung tâm Anh ngữ Thiên Lập Nhân. Trung tâm được cấp phép cuối năm 2017 tại 177 Hải Phòng (phường Thanh Khê) và sau đó mở thêm cơ sở ở các phường Hòa Xuân và Thanh Khê. Giấy phép chỉ cho phép dạy tiếng Anh cho trẻ nhỏ, không cho dạy chương trình phổ thông hay liên kết quốc tế. Giám đốc Trương Văn Thiên Tư bị khởi tố, bắt tạm giam từ 14/10 về tội lừa đảo chiếm đoạt tài sản.",
+      "Từ năm 2019, ông Tư tự giới thiệu là hiệu trưởng 'Prinberk Academy' của Mỹ và tuyển hơn 200 học sinh học toàn thời gian từ thứ Hai đến thứ Sáu. Học phí 7–8 triệu đồng/tháng nhưng hóa đơn lại ghi 'hỗ trợ giáo dục' để che giấu. Ông hứa học bạ và bằng cấp có giá trị để chuyển tiếp lên bậc học cao hơn ở Mỹ. Xác minh cho thấy không có trường tư nào tên Prinberk Academy tại Mỹ trong giai đoạn 2019–2024.",
+      "Học bạ và bằng cấp thực chất do ông Tư hoặc người nhà in màu tại Việt Nam và đóng hai con dấu nổi tự đặt làm. Ông còn thu thêm 100–120 USD 'phí vận chuyển' và dùng phong bì in cờ Mỹ, ghi địa chỉ ở California để tạo lòng tin. Cuối năm 2024, khi bị khiếu nại, ông chuyển học sinh sang một công ty đứng tên người thân và xin giải thể trung tâm. Sở GD-ĐT ra quyết định giải thể vào ngày 7/1/2026.",
+      "Phụ huynh có con từng học tại Thiên Lập Nhân hoặc Công ty Bảo An Nhiên được đề nghị liên hệ cơ quan điều tra tại 16 Phan Đình Phùng (phường Hải Châu). Bài học rút ra: trước khi đóng tiền cho chương trình 'quốc tế', nên kiểm tra giấy phép của Sở GD-ĐT và xác minh trường đối tác ở nước ngoài có được kiểm định hay không."
+     ],
+     "tag": "Lừa đảo giáo dục",
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "Ngân hàng phân hóa: Sacombank cắt hơn 4.200 người, Agribank tuyển 744 vị trí",
+     "summary": "Đến 30/9, Sacombank giảm 4.263 nhân sự so với cuối 2025, Kienlongbank cắt hơn 1.000 người chỉ trong quý 3, Eximbank giảm 783 người. Ngược lại, nhóm Big4 và Ngân hàng Chính sách xã hội đang tuyển hơn 1.400 vị trí.",
+     "source": "CafeBiz (theo Tiền Phong)",
+     "url": "https://cafebiz.vn/ngan-hang-noi-loc-nhan-vien-cho-ram-ro-tuyen-176261101195701112.chn",
+     "detail": [
+      "Thị trường lao động ngành ngân hàng đang chia làm hai chiều rõ rệt. Sacombank còn 12.553 nhân sự tại 30/9, giảm 4.263 người so với cuối năm 2025 – mức thấp nhất khoảng 10 năm – trong bối cảnh tái cấu trúc toàn diện, thay đổi lãnh đạo, đổi tên thành Ngân hàng Sài Gòn Tài Lộc và dời trụ sở.",
+      "Kienlongbank giảm 1.078 người chỉ trong quý 3, còn 2.596 nhân sự; ngân hàng đóng bớt phòng giao dịch, chuyển sang mô hình đa kênh với ứng dụng di động và điểm giao dịch tự động. Eximbank còn 5.358 người, giảm 783 người từ đầu năm.",
+      "Ở chiều ngược lại, Ngân hàng Chính sách xã hội thông báo tuyển 156 người tại 29/34 chi nhánh tỉnh và Trung tâm Công nghệ thông tin. Nhóm Big4 tính đến 7/10 tuyển tổng cộng hơn 1.200 vị trí: Agribank 744, Vietcombank 292 (trong đó 266 vị trí không yêu cầu kinh nghiệm), VietinBank 189 và BIDV 46.",
+      "Xu hướng cho thấy ngân hàng tư nhân đang tinh gọn và số hóa mạnh, trong khi ngân hàng nhà nước có mạng lưới rộng vẫn cần thêm người cho tín dụng chính sách. Với người làm nhân sự, đây là tín hiệu về nguồn ứng viên ngân hàng có kinh nghiệm dồi dào trên thị trường, đồng thời là cơ hội cho sinh viên mới ra trường nộp vào nhóm Big4."
+     ],
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/1/avatar1793537764636-1793537765134500364865.webp",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Viên chức ký hợp đồng có thời hạn bao nhiêu lần? Bộ Nội vụ giải đáp",
+     "summary": "Theo Nghị định 259/2026/NĐ-CP, áp dụng từ 1/7/2026, luật không giới hạn số lần ký hợp đồng có thời hạn với viên chức; thời hạn do hai bên thỏa thuận theo luật lao động (tối đa 36 tháng mỗi hợp đồng). Viên chức tuyển từ 1/7/2020 đến 1/7/2026 đã ký từ hai hợp đồng có thời hạn trở lên có thể được ký hợp đồng không thời hạn.",
+     "source": "Báo Chính phủ",
+     "url": "https://baochinhphu.vn/vien-chuc-duoc-ky-hop-dong-xac-dinh-thoi-han-bao-nhieu-lan-102261030105939526.htm",
+     "detail": [
+      "Một bạn đọc ở Đồng Nai hỏi: khi Luật Viên chức mới không còn quy định rõ ai được ký hợp đồng có thời hạn, thì viên chức được ký loại hợp đồng này bao nhiêu lần? Trước đây, với người tuyển dụng từ 1/7/2020, luật cũ cũng không giới hạn số lần gia hạn.",
+      "Bộ Nội vụ trả lời: theo Điều 22 Nghị định 259/2026, hợp đồng làm việc xác định thời hạn là hợp đồng mà hai bên tự thỏa thuận thời hạn và ngày kết thúc theo pháp luật lao động, dùng mẫu số 02 hoặc 03 kèm nghị định. Bộ luật Lao động 2019 giới hạn mỗi hợp đồng có thời hạn tối đa 36 tháng, nhưng quy định mới không đặt ra số lần ký tối đa.",
+      "Theo Điều 23, viên chức được tuyển dụng trong khoảng từ 1/7/2020 đến 1/7/2026, đã ký từ hai hợp đồng có thời hạn trở lên, sẽ được ký hợp đồng không xác định thời hạn khi hết hợp đồng thứ hai, với hai điều kiện: đáp ứng yêu cầu vị trí việc làm và đơn vị vẫn còn nhu cầu. Các trường hợp cụ thể được dẫn chiếu tới Điều 58, 59, 60 của nghị định.",
+      "Với cán bộ nhân sự ở trường học, bệnh viện, đơn vị sự nghiệp, đây là căn cứ để rà soát lại danh sách viên chức sắp hết hợp đồng thứ hai và chuẩn bị đánh giá vị trí việc làm. Người lao động có thắc mắc nên hỏi trực tiếp cơ quan quản lý viên chức nơi mình công tác."
+     ],
+     "tag": "Quyền lợi viên chức",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Chính sách tháng 11: phạt nặng gian lận vé số, siết hội phụ huynh, rút gọn thủ tục mai táng",
+     "summary": "Nghị định 389/2026 về xử phạt trong kinh doanh xổ số có hiệu lực từ 30/11, mức phạt tối đa 100 triệu đồng với cá nhân và 200 triệu đồng với tổ chức. Từ 15/11, hội phụ huynh không được ấn định khoản đóng góp. Từ 10/11, trợ cấp mai táng cho cựu chiến binh được giải quyết trong 12 ngày làm việc.",
+     "source": "VOV",
+     "url": "https://vov.vn/xa-hoi/nhung-chinh-sach-noi-bat-co-hieu-luc-tu-thang-112026-post1346401.vov",
+     "detail": [
+      "Theo Nghị định 389/2026 (hiệu lực 30/11), cá nhân làm giả vé số bị phạt 80–100 triệu đồng, còn người cạo sửa, tẩy xóa vé để lĩnh thưởng bị phạt 60–100 triệu đồng. Công ty xổ số làm lộ thông tin người trúng thưởng bị phạt 40–60 triệu đồng, cố tình kéo dài thời gian trả thưởng bị phạt 20–40 triệu đồng. Ngoài tiền phạt, bên vi phạm có thể bị đình chỉ kinh doanh có thời hạn và bị tịch thu tang vật.",
+      "Điều lệ Ban đại diện cha mẹ học sinh của Bộ GD-ĐT có hiệu lực từ 15/11. Theo đó, ban này không được đặt khoản đóng góp bắt buộc, không được ấn định mức hay thời hạn nộp tiền, và không được thu hoặc quản lý các khoản hỗ trợ. Đóng góp tự nguyện phải bằng hiện vật, dịch vụ hoặc trả thẳng cho bên cung cấp, và phải công khai kết quả. Tiền hỗ trợ cũng không được dùng để sửa chữa cơ sở vật chất hay mua quà cho giáo viên.",
+      "Quyết định 1257 của Bộ Nội vụ (hiệu lực 10/11) sửa thủ tục chi trợ cấp mai táng cho cựu chiến binh. Hồ sơ gồm bản khai theo mẫu, bản sao giấy chứng tử và giấy tờ chứng minh người mất là cựu chiến binh. Có thể nộp tại Trung tâm phục vụ hành chính công cấp xã, qua bưu điện hoặc trên Cổng Dịch vụ công quốc gia. Xã có 5 ngày làm việc để xác nhận, Sở Nội vụ có 7 ngày để ra quyết định, tổng cộng 12 ngày làm việc.",
+      "Nghị định 353/2026 (hiệu lực 1/11) cũng quy định trẻ 5–6 tuổi chưa hoàn thành chương trình mầm non được miễn, giảm học phí và hỗ trợ chi phí học tập. Với người làm nhân sự, đây là thông tin nên chia sẻ cho nhân viên đang có con nhỏ hoặc có người thân là cựu chiến binh."
+     ],
+     "tag": "Chính sách mới",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Aramco chi 2,6 tỷ USD mua 49% công ty AI quốc gia Humain của Ả Rập Xê Út",
+     "summary": "Ngày 01/11, tập đoàn dầu khí Saudi Aramco hoàn tất mua 49% cổ phần Humain, công ty AI do quỹ đầu tư quốc gia PIF sở hữu, với khoảng 9,9 tỷ riyal (2,6 tỷ USD) tiền mặt cùng tài sản AI, máy tính. Humain đặt mục tiêu 3 GW công suất trung tâm dữ liệu AI vào năm 2030, cho thấy các nước dầu mỏ đang dồn lực biến AI thành ngành kinh tế mới.",
+     "source": "Arab News",
+     "url": "https://www.arabnews.com/finance/aramco-closes-26bn-deal-for-49-stake-in-humain-3009220",
+     "detail": [
+      "Saudi Aramco, công ty dầu mỏ lớn nhất thế giới, ngày 01/11 thông báo đã hoàn tất thương vụ mua 49% cổ phần Humain, công ty trí tuệ nhân tạo của Ả Rập Xê Út. Quỹ Đầu tư Công (PIF), quỹ đầu tư quốc gia của nước này, vẫn giữ 51%. Thương vụ chính thức hóa thỏa thuận sơ bộ mà hai bên ký từ ngày 28/10/2025.",
+      "Theo tuyên bố chung, Aramco góp khoảng 9,9 tỷ riyal (khoảng 2,6 tỷ USD) tiền mặt trong năm 2026, đồng thời chuyển giao thêm các tài sản về AI, năng lực tính toán và kỹ thuật số. Phần sở hữu được nắm qua một công ty con 100% vốn của Aramco. Mục đích là gom toàn bộ tài sản, nhân lực và công nghệ AI của hai 'ông lớn' quốc gia về một mối.",
+      "Humain ra đời tháng 5/2025, xây dựng AI 'trọn gói' ở 4 mảng: trung tâm dữ liệu thế hệ mới, điện toán hiệu năng cao và đám mây, mô hình AI (trong đó có ALLaM, mô hình ngôn ngữ lớn tiếng Ả Rập) và giải pháp AI cho doanh nghiệp, chính phủ. Công ty đặt mục tiêu đạt 3 GW công suất trung tâm dữ liệu AI vào năm 2030 và trở thành nước xuất khẩu năng lực AI. Tháng 10 vừa qua, Humain đã ký sơ bộ cho hãng đám mây Nebius thuê tới 50 MW tại khu Oxagon ở NEOM, dự kiến vận hành từ quý 4/2027.",
+      "CEO Aramco Amin Nasser cho biết từ năm 2023, công ty đã thu về 11,3 tỷ USD 'giá trị hiện thực hóa từ công nghệ', phần lớn đến từ các giải pháp AI. Phía PIF nói việc hợp nhất sẽ tạo cộng hưởng về nhân tài, công nghệ và sở hữu trí tuệ, và AI sẽ là đòn bẩy cho cả 6 hệ sinh thái kinh tế mà quỹ đầu tư.",
+      "Ý nghĩa: các quốc gia giàu dầu mỏ vùng Vịnh đang dùng tiền từ dầu để mua vé vào cuộc đua AI, cạnh tranh với Mỹ và Trung Quốc về hạ tầng tính toán. Với Việt Nam, đây là ví dụ về mô hình tập đoàn nhà nước dẫn dắt AI quốc gia, và cũng là tín hiệu cuộc đua giành chip, điện năng và kỹ sư AI toàn cầu sẽ còn nóng hơn."
+     ],
+     "tag": "Thương vụ 2,6 tỷ USD",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Hạ lãi suất cho vay, tăng trích lập: lợi nhuận Sacombank, Eximbank giảm mạnh",
+     "summary": "Lợi nhuận trước thuế 9 tháng của Sacombank chỉ khoảng 5.900 tỷ đồng (giảm 46%), Eximbank 864 tỷ (giảm 58%) do giảm lãi suất cho vay hỗ trợ khách hàng và tăng dự phòng rủi ro. Saigonbank, BVBank, Kienlongbank, PGBank cũng báo lãi quý 3 đi xuống.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/vi-sao-loi-nhuan-mot-so-ngan-hang-giam-manh-176261101195958248.chn",
+     "detail": [
+      "Mùa báo cáo quý 3 cho thấy không phải ngân hàng nào cũng lãi lớn. Sacombank có tổng tài sản 1,057 triệu tỷ đồng, tiền gửi khách hàng tăng 25,4%, cho vay tăng gần 12% so với đầu năm, nhưng thu nhập lãi thuần 9 tháng lại giảm 17,8% xuống khoảng 17.500 tỷ đồng. Nguyên nhân là ngân hàng nhiều lần giảm lãi suất: giảm 0,5 điểm % theo chỉ đạo của Ngân hàng Nhà nước hồi tháng 4, sau đó giảm 1,5–2%/năm cho doanh nghiệp xuất nhập khẩu, lĩnh vực ưu tiên và hộ kinh doanh.",
+      "Dù chi phí hoạt động của Sacombank giảm 19,3% và lợi nhuận trước dự phòng tăng 42,6%, ngân hàng nâng quỹ dự phòng lên 12.848 tỷ đồng, nên lãi trước thuế 9 tháng chỉ khoảng 5.900 tỷ, bằng 54% cùng kỳ. Ngân hàng giải thích việc thu hẹp biên lợi nhuận là chủ động chia sẻ với khách hàng để giữ dòng tiền cho doanh nghiệp.",
+      "Eximbank lãi trước thuế 9 tháng 864 tỷ đồng, chỉ bằng 42% cùng kỳ, do trích lập dự phòng rủi ro tín dụng tăng lên 997 tỷ và tập trung xử lý nợ xấu, cắt giảm danh mục cho vay kém hiệu quả. Các chỉ số an toàn vốn (CAR trên 13%) và tỷ lệ cho vay/huy động (73%) vẫn trong giới hạn cho phép.",
+      "Ở quý 3, lợi nhuận Saigonbank giảm hơn 78%, BVBank giảm 19%, Kienlongbank gần 13%, PGBank 10,5%. Điểm chung là biên lãi ròng (NIM – chênh lệch giữa lãi cho vay và lãi huy động) thu hẹp, dự phòng tăng. Với người vay, đây là mặt tích cực của chính sách hạ lãi suất; với nhà đầu tư cổ phiếu ngân hàng, cần phân biệt rõ nhóm đang hưởng lợi và nhóm đang 'dọn dẹp' bảng cân đối."
+     ],
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/1/avatar1793537935857-1793537936301601404802.jpg",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ Nội vụ đề xuất 8 nhóm dữ liệu quốc gia về cán bộ, công chức, viên chức",
+     "summary": "Bộ Nội vụ đề xuất sửa Nghị định 27/2026 về cơ sở dữ liệu quốc gia cán bộ, công chức, viên chức. Hồ sơ số sẽ gồm từ danh tính, quan hệ gia đình, quá trình tuyển dụng – bổ nhiệm, lương và phụ cấp, đánh giá xếp loại đến kinh tế bản thân và sức khỏe.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/tin-tuc-sang-2-11-tphcm-dinh-huong-hinh-thanh-cong-vien-dien-anh-tai-cong-vien-bo-song-sai-gon-100261101231803258.htm",
+     "detail": [
+      "Trong bản tin sáng 2/11, Tuổi Trẻ cho biết Bộ Nội vụ đang lấy ý kiến dự thảo nghị định sửa đổi Nghị định 27/2026 của Chính phủ, trong đó điều chỉnh nội dung dữ liệu của Cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức. Đây là kho hồ sơ điện tử dùng chung để quản lý đội ngũ trong khu vực công.",
+      "Theo dự thảo, dữ liệu gồm các nhóm: thông tin cơ bản và định danh; quan hệ gia đình, lịch sử bản thân; quá trình tuyển dụng, bầu cử, bổ nhiệm, quy hoạch, điều động, luân chuyển, biệt phái, thôi việc, nghỉ hưu; học vấn, đào tạo, bồi dưỡng (lý luận chính trị, quốc phòng – an ninh, ngoại ngữ, tin học...).",
+      "Các nhóm còn lại là nơi làm việc, vị trí, chức danh, lương cơ bản, phụ cấp, kết quả đánh giá xếp loại, khen thưởng, kỷ luật; việc tham gia tổ chức chính trị, lực lượng vũ trang; kinh tế bản thân; tình trạng sức khỏe và các thông tin khác về quá trình công tác.",
+      "Với người làm nhân sự, đặc biệt ở đơn vị sự nghiệp công, dự thảo cho thấy hồ sơ cán bộ sẽ ngày càng được số hóa và chuẩn hóa toàn diện, kéo theo yêu cầu cập nhật đầy đủ, chính xác và bảo mật dữ liệu cá nhân nhạy cảm như sức khỏe, tài sản."
+     ],
+     "tag": "Dự thảo nghị định",
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "Vingroup lãi 43.700 tỷ đồng 9 tháng nhưng nợ vay gần 390.000 tỷ",
+     "summary": "Vingroup lãi sau thuế 43.700 tỷ đồng sau 9 tháng 2026, gấp gần 6 lần cùng kỳ, VinFast giao hơn 211.000 xe. Tập đoàn đồng thời lao vào metro, đường sắt, thép với quy mô hàng trăm nghìn tỷ, khiến nợ vay lên gần 390.000 tỷ đồng và áp lực dòng tiền rất lớn.",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/ty-phu-pham-nhat-vuong-mo-rong-dau-tu-vingroup-truoc-ap-luc-von-lon-2570353.html",
+     "detail": [
+      "Chín tháng đầu năm, Vingroup đạt lợi nhuận sau thuế 43.700 tỷ đồng, vượt 25% kế hoạch năm, nhờ ô tô điện và bất động sản. VinFast giao 211.242 xe toàn cầu (tăng 91%), Vinhomes lãi 75.100 tỷ đồng, Vinpearl lãi 2.829 tỷ đồng. Cổ phiếu VIC tăng hơn 42% từ đầu năm và Forbes ước tài sản của ông Phạm Nhật Vượng khoảng 37,8 tỷ USD.",
+      "Tập đoàn đang mở rộng mạnh sang hạ tầng: VinSpeed hợp tác Siemens cấp 10 đoàn tàu cho tuyến Hà Nội – Quảng Ninh và Bến Thành – Cần Giờ; liên danh Vinhomes – SGC ký 5 tuyến metro TP.HCM với tổng vốn gần 900.000 tỷ đồng; VinMetal làm nhà máy thép ray, thép hình tại Hà Tĩnh công suất trên 700.000 tấn/năm.",
+      "Đổi lại, tổng tài sản đã lên khoảng 1,6 triệu tỷ đồng, nợ vay gần 390.000 tỷ đồng trong khi tiền và đầu tư ngắn hạn là 106.800 tỷ. Trong 12 tháng, tập đoàn huy động hơn 2,3 tỷ USD qua trái phiếu quốc tế, cổ phiếu ưu đãi và vay hợp vốn. Rủi ro được nêu gồm chậm giải phóng mặt bằng, đội vốn, giá vật liệu tăng và phụ thuộc thiết bị nhập khẩu.",
+      "Bài báo nhận định quy mô vốn lớn chưa chắc đi kèm hiệu quả tương ứng; điều quyết định là khả năng đưa dự án vào vận hành đúng hạn và biến vốn thành dòng tiền thật. Với thị trường lao động, chuỗi dự án hạ tầng này sẽ kéo theo nhu cầu lớn về kỹ sư xây dựng, đường sắt, cơ khí trong vài năm tới."
+     ],
+     "tag": "Doanh nghiệp lớn",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Làng nghề Đà Nẵng tìm sức sống mới, được hỗ trợ tới 300 triệu đồng",
+     "summary": "Đà Nẵng có 71 nghệ nhân đang được quản lý, nhưng nhiều làng nghề thiếu thợ, như làng mộc Đông Khương từ 60–70 thợ chỉ còn 4–5 người. Nghị quyết 58/2026 hỗ trợ 100% chi phí đào tạo thợ giỏi và 50–80% tiền máy móc, tối đa 300 triệu đồng mỗi đơn vị.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/emagazine-suc-song-moi-cho-san-pham-thu-cong-3357119.html",
+     "detail": [
+      "Sau đại dịch, thị trường đồ gỗ truyền thống chững lại, buộc các nghệ nhân Đà Nẵng tìm hướng mới. Nghệ nhân Trần Thu ở xã Gò Nổi chuyển sang chạm khắc trên vỏ quế kết hợp ánh sáng, làm đèn ngủ, đèn trang trí giá từ vài trăm nghìn đến vài chục triệu đồng; làng mộc Kim Bồng và làng tre dừa Cẩm Thanh (Hội An) kết hợp sản xuất với tour trải nghiệm cho du khách.",
+      "Khó khăn lớn nhất là nhân lực: làng mộc Đông Khương (phường Điện Bàn) từng có 60–70 thợ, lúc cao điểm gần 100, nay chỉ còn 4–5 người gắn bó. Đào tạo một nghệ nhân mất hàng chục năm trong khi người trẻ ít theo nghề.",
+      "Nghị quyết 58/2026/NQ-HĐND có hiệu lực từ 10/7/2026 hỗ trợ 100% chi phí đào tạo thợ giỏi, nghệ nhân (tối đa 300 triệu đồng/khóa); hỗ trợ 50% tiền máy móc, chuyển giao công nghệ ở đồng bằng và 80% ở miền núi, hải đảo, trần 300 triệu đồng. Nghị quyết còn hỗ trợ thiết kế bao bì, đăng ký nhãn hiệu, mã QR, website và thương mại điện tử.",
+      "Hiện thành phố quản lý 71 nghệ nhân, gồm 5 Nghệ nhân Nhân dân và 13 Nghệ nhân Ưu tú. Chủ tịch Hiệp hội Làng nghề Đà Nẵng cho rằng chính sách cần sát nhu cầu từng thợ, ưu tiên máy cầm tay cỡ nhỏ thay vì dây chuyền lớn."
+     ],
+     "figure": {
+      "value": "71",
+      "label": "nghệ nhân thủ công đang được Đà Nẵng quản lý"
+     },
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "Chủ lọc dầu Dung Quất gửi ngân hàng hơn 58.000 tỷ, lãi 9 tháng gấp 11 lần",
+     "summary": "BSR, doanh nghiệp vận hành Nhà máy lọc dầu Dung Quất, đang gửi ngân hàng hơn 58.000 tỷ đồng, gần một nửa tổng tài sản. Lãi sau thuế 9 tháng đạt hơn 24.900 tỷ đồng, gấp khoảng 11 lần cùng kỳ. Nguyên nhân chính là giá dầu thô quý III tăng từ 69 lên 97 USD/thùng.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chu-nha-may-loc-dau-dung-quat-gui-ngan-hang-hon-2-ty-usd-5139328.html",
+     "detail": [
+      "Tính đến cuối tháng 9, tổng tài sản của Tổng công ty Lọc hóa dầu Việt Nam (BSR) vượt 120.000 tỷ đồng. Trong đó, gần 57.000 tỷ đồng (khoảng 2,2 tỷ USD) là tiền gửi có kỳ hạn, tăng hơn 20.000 tỷ so với đầu năm. Các khoản gửi lớn nhất nằm ở BIDV (hơn 12.400 tỷ), VietinBank (10.500 tỷ) và SHB (6.400 tỷ).",
+      "Lãi suất huy động đã tăng 11 tháng liên tiếp, kỳ hạn 6–12 tháng niêm yết trên 8%/năm, nên riêng tiền lãi gửi ngân hàng của BSR trong 9 tháng đã hơn 1.800 tỷ đồng, gần gấp đôi cùng kỳ. Doanh thu đạt hơn 164.000 tỷ đồng, vượt kế hoạch cả năm và gần chạm kỷ lục năm 2022. Lãi sau thuế hơn 24.900 tỷ, riêng quý III gần 9.000 tỷ.",
+      "Ban lãnh đạo giải thích kết quả này chủ yếu nhờ giá dầu thô bình quân quý III tăng từ 69 USD/thùng (năm 2025) lên 97 USD/thùng, do xung đột Trung Đông. Chứng khoán Techcom đánh giá lượng tiền mặt lớn và không có nợ dài hạn là 'tấm đệm' cho kế hoạch nâng cấp, mở rộng nhà máy. Trước đó, doanh nghiệp từng cảnh báo các rủi ro như nhà máy xuống cấp và nguồn dầu thô trong nước suy giảm.",
+      "Dung Quất nằm ở Quảng Ngãi, sát Đà Nẵng, và là một trong những doanh nghiệp lớn nhất miền Trung. Kết quả kinh doanh tốt thường đi kèm nhu cầu tuyển dụng kỹ thuật và chính sách thu nhập hấp dẫn, nhưng phụ thuộc nhiều vào giá dầu thế giới."
+     ],
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/01/bsr-1793521479-5894-1793521485.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=9hAsMwnfIaxh9tyNeFyd4w",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Bài học tuyển dụng thời AI: thay vài nhân viên mới bằng một người lương cao",
+     "summary": "Bài bình luận trên Fortune ngày 31/10 kể một công ty định tuyển vài nhân viên marketing mới vào nghề lương khoảng 60.000 USD/người, nhưng cuối cùng chỉ tuyển một người lương cao hơn hẳn nhờ dùng AI. Các tác giả khuyên doanh nghiệp đừng giới hạn ngân sách AI như Accenture (29 USD/người/tháng), mà hãy đo chi phí trên mỗi đầu việc hoàn thành.",
+     "source": "Fortune",
+     "url": "https://fortune.com/2026/10/31/dont-ration-company-ai-token-budgets-caps-accenture/",
+     "detail": [
+      "Bài viết dạng bình luận của hai tác giả Joe Mohen (chủ tịch Neocortex Robotics) và Robert B. Cohen (CEO AI Economics) đăng trên Fortune ngày 31/10, xuất phát từ tranh cãi quanh Accenture. Từ 01/10, theo thông báo nội bộ do trang 404 Media tiết lộ, tập đoàn tư vấn này chỉ tài trợ 29 USD/người/tháng cho việc dùng Claude, phần vượt phải tính vào ngân sách dự án; trước đó có nhân viên tiêu 500–1.000 USD mỗi tháng. Accenture thì nói thông tin rằng họ hạn chế chặt quyền dùng AI là không chính xác.",
+      "Các tác giả cho rằng đặt hạn mức như vậy là sai hướng, vì nó 'phạt' chính những người dùng nhiều nhất, thường cũng là người làm ra nhiều nhất. Thước đo đúng là chi phí để hoàn thành một sản phẩm trước và sau khi có AI, không phải số 'token' mỗi nhân viên dùng. Token là đơn vị tính tiền của AI, mỗi token khoảng 3/4 một từ tiếng Anh; một nhân viên văn phòng hỏi khoảng 30 câu mỗi ngày chỉ tốn chừng 6 USD/tháng.",
+      "Ví dụ đáng chú ý nhất liên quan đến tuyển dụng. Một công ty trong danh mục đầu tư của họ dự định tuyển vài nhân viên marketing mới vào nghề, lương khoảng 60.000 USD/người. Cuối cùng họ chỉ tuyển một người với mức lương cao hơn đáng kể; người này không biết lập trình nhưng nhờ AI vẫn tự thiết kế tài liệu và xây phần mềm phân tích so sánh khách hàng với mặt bằng ngành. Ở một dự án khác, ba nhân viên chưa từng làm web đã dựng xong website trong 3 ngày, trong khi một công ty quảng cáo báo giá 60.000 USD.",
+      "Bài viết dẫn khảo sát của Jellyfish trên 12.000 lập trình viên tại 200 công ty: chi phí cho mỗi đầu việc hoàn thành chênh nhau tới gần 320 lần giữa nhóm dùng ít và nhóm dùng nhiều nhất (0,28 USD so với 89 USD), mức chi trung vị khoảng 52 USD/tháng. Các tác giả thừa nhận nghiên cứu chỉ cho thấy mối tương quan, không chứng minh nhân quả, và tiền token chỉ chiếm khoảng 1/4 tổng chi phí khi tính cả công kiểm tra, giám sát.",
+      "Họ cũng không né mặt trái: sẽ có những vị trí biến mất, như trường hợp một nhà thiết kế đồ họa cùng hai đồng nghiệp bị cho nghỉ khi chủ mới cho rằng AI làm được việc của cả phòng. Nhà tuyển dụng Mỹ giờ đã bắt đầu kiểm tra kỹ năng dùng AI của sinh viên mới ra trường, và nhiều trường kinh doanh lớn cấp sẵn ChatGPT, Claude cho học viên.",
+      "Với người làm nhân sự, bài viết gợi ý vài hướng thiết thực: xem lại các vị trí mới vào nghề có thể gộp hoặc nâng cấp, đưa kỹ năng dùng AI vào tiêu chí tuyển dụng và đào tạo, và xây chính sách ngân sách AI dựa trên hiệu quả công việc thay vì cắt đồng loạt. Đây là quan điểm cá nhân của các tác giả, nên cần cân nhắc theo bối cảnh từng doanh nghiệp."
+     ],
+     "tag": "Nhân sự & AI",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Cảnh báo 'bắt cóc online': một nữ sinh bị lừa gần 2 tỷ đồng",
+     "summary": "Công an TP.HCM chiều 1/11 cảnh báo chiêu 'bắt cóc online' nhắm vào người trẻ: kẻ gian giả công an, dọa liên quan rửa tiền rồi điều khiển nạn nhân từ xa. Một nạn nhân sinh năm 2008 đã mất hơn 1,98 tỷ đồng tiền, vàng của gia đình.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/canh-bao-thu-doan-lua-dao-bat-coc-online-nham-vao-nguoi-tre-post1399092.html",
+     "detail": [
+      "'Bắt cóc online' là kiểu lừa không cần bắt người thật: kẻ gian gọi điện, giả làm công an, nói thông tin cá nhân của nạn nhân dính tới đường dây rửa tiền, rồi ép nạn nhân làm theo hướng dẫn, cắt liên lạc với gia đình, thậm chí thuê phòng khách sạn ngồi một mình. Từ đó chúng moi tiền của nạn nhân và người thân.",
+      "Ngày 21/10, một nữ sinh sinh năm 2008 nhận cuộc gọi lạ, bị yêu cầu 'xác minh tài sản'. Vì sợ, em đã mua dụng cụ phá két, lấy tiền, vàng và tài sản gia đình đem bán rồi chuyển khoản nhiều lần, tổng thiệt hại hơn 1,98 tỷ đồng. Ngày 23/10, công an phường Bảy Hiền tìm thấy một nạn nhân khác cùng tuổi trong khách sạn chỉ khoảng một giờ sau tin báo; em đang gọi Zoom với nhóm lừa được cho là ở Campuchia và đã chuyển hơn 3 triệu đồng.",
+      "Công an khẳng định không bao giờ yêu cầu chuyển tiền để chứng minh trong sạch, không làm việc hay lấy lời khai qua ứng dụng gọi video, không yêu cầu ai tự cách ly, thuê khách sạn hay cắt liên lạc với gia đình. Gặp cuộc gọi kiểu này, hãy bình tĩnh dừng liên lạc và đến trụ sở công an gần nhất để kiểm tra.",
+      "Phụ huynh nên nói chuyện với con về thủ đoạn này và để ý các dấu hiệu bất thường: lo lắng, đột ngột không nghe máy, rời nhà không lý do, giao dịch tiền lạ. Doanh nghiệp cũng có thể đưa nội dung này vào truyền thông nội bộ, vì lao động trẻ mới đi làm là nhóm dễ bị nhắm tới."
+     ],
+     "tag": "An toàn số",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Xã Chiên Đàn đủ 5 tiêu chuẩn, chuẩn bị lên phường",
+     "summary": "Xã Chiên Đàn (cửa ngõ Tây Nam Đà Nẵng) có 32.427 dân, tỷ lệ đô thị hóa 69,14%, cơ bản đạt đủ 5 tiêu chuẩn thành lập phường và HĐND xã đã thông qua đề án. Xã có 26 dự án cụm công nghiệp vốn gần 900 tỷ đồng, tạo việc làm cho gần 4.000 lao động.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/chien-dan-no-luc-cho-hanh-trinh-len-phuong-3357135.html",
+     "detail": [
+      "Theo Quy hoạch chung Đà Nẵng đến 2050 được Thủ tướng duyệt ngày 21/10/2026, Chiên Đàn thuộc nhóm 26 đô thị loại III và là một trong 8 đô thị mở rộng của thành phố. Xã nằm ở cửa ngõ Tây Nam, có quốc lộ 1A, quốc lộ 40B và cao tốc Đà Nẵng – Quảng Ngãi đi qua.",
+      "Rà soát cho thấy xã có 32.427 dân, diện tích 48,63 km², tỷ lệ dân đô thị 69,14%, cơ bản đáp ứng 5 tiêu chuẩn để thành lập phường. HĐND xã đã thông qua đề án lập phường Chiên Đàn trên nguyên trạng xã; bài chưa nêu mốc thời gian chính thức.",
+      "Về kinh tế, 26 dự án trong các cụm công nghiệp có tổng vốn gần 900 tỷ đồng, doanh thu gần 1.000 tỷ đồng/năm, sử dụng gần 4.000 lao động. Thành phố đã đồng ý đầu tư hệ thống xử lý nước thải cho cụm công nghiệp Chợ Lò; khu công nghiệp Phú Xuân 365 ha được đưa vào danh mục xúc tiến đầu tư, cùng một khu đô thị phía Đông khoảng 74 ha được đề xuất.",
+      "Lãnh đạo xã thừa nhận lên phường sẽ tăng áp lực về hạ tầng, quản lý đất đai, xây dựng, môi trường; nhiều hộ còn làm nông nên chuyển đổi nghề và tạo việc làm mới là nhiệm vụ lớn. Với doanh nghiệp, đây là khu vực có nguồn lao động địa phương cần đào tạo lại."
+     ],
+     "figure": {
+      "value": "32.427",
+      "label": "dân số xã Chiên Đàn; tỷ lệ đô thị hóa 69,14%"
+     },
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Hà Nội dự kiến hỗ trợ hộ nghèo tối đa 20 triệu đồng khi đổi sang xe máy điện",
+     "summary": "Sở Xây dựng Hà Nội trình dự thảo thủ tục hỗ trợ tiền mặt 100% giá xe, tối đa 20 triệu đồng/người, cho người thuộc hộ nghèo chuyển từ xe máy xăng sang xe điện. Chính sách áp dụng đến hết 31/12/2027, mỗi người chỉ được hỗ trợ một lần.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/ha-noi-du-kien-ho-tro-ho-ngheo-toi-20-trieu-dong-khi-doi-xe-may-dien-176261101214311831.chn",
+     "detail": [
+      "Sở Xây dựng Hà Nội vừa trình UBND thành phố dự thảo quy trình hỗ trợ trực tiếp bằng tiền cho hộ thu nhập thấp chuyển sang phương tiện xanh, triển khai Nghị quyết 68/2026 của HĐND thành phố về chuyển đổi phương tiện dùng nhiên liệu hóa thạch sang năng lượng sạch.",
+      "Mức hỗ trợ bằng 100% giá trị xe mới theo hóa đơn hợp lệ (đã gồm VAT), tối đa 20 triệu đồng/người; không tính phụ kiện, bảo hiểm hay phí dịch vụ. Ví dụ xe giá 18 triệu được hỗ trợ đủ 18 triệu, xe 25 triệu được 20 triệu và người mua tự trả phần còn lại. Mỗi người chỉ được hưởng một lần cho một xe.",
+      "Điều kiện: thuộc hộ nghèo theo chuẩn đa chiều giai đoạn 2026–2027 do thành phố công bố, có nơi thường trú hoặc nơi ở hiện tại tại Hà Nội trên VNeID, đang sở hữu xe máy xăng đăng ký trước khi nghị quyết có hiệu lực và đổi xe trong thời gian chính sách còn hiệu lực (đến 31/12/2027).",
+      "Đây là một trong những gói hỗ trợ đổi xe cụ thể đầu tiên ở cấp địa phương, có thể là mô hình tham khảo cho các đô thị lớn khác, trong đó có Đà Nẵng, khi lộ trình giảm phương tiện chạy xăng được đẩy nhanh."
+     ],
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/1/avatar1793544122845-1793544123610410282354.jpg",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Bầu cử giữa kỳ Mỹ 3/11: phe Dân chủ muốn hạn chế thuế quan nếu thắng",
+     "summary": "Đảng Dân chủ dự định hạn chế quyền áp thuế của Tổng thống Trump nếu giành được ít nhất một viện Quốc hội trong cuộc bầu cử ngày 3/11. Hiện Mỹ áp thuế bổ sung 10% hoặc 12,5% lên hàng hóa của khoảng 60 đối tác. Tuy vậy, giới phân tích cho rằng đảo ngược chính sách thuế quan sẽ rất khó.",
+     "source": "VOV",
+     "url": "https://vov.vn/the-gioi/dang-dan-chu-co-the-han-che-thue-quan-cua-ong-trump-neu-thang-cu-post1346469.vov",
+     "detail": [
+      "Theo Thượng nghị sĩ Ron Wyden (Ủy ban Tài chính Thượng viện), nếu thắng ở Hạ viện hoặc Thượng viện, Đảng Dân chủ sẽ mở rộng điều trần, điều tra và đưa ra dự luật hạn chế quyền áp thuế của tổng thống. Trọng tâm điều tra gồm quy trình miễn thuế cho doanh nghiệp, cơ sở pháp lý của các mức thuế và các thỏa thuận thương mại Mỹ đã ký. Một ưu tiên được nêu là gỡ thuế với Canada.",
+      "Hồi tháng 2, Tòa án Tối cao Mỹ đã bác các mức thuế 'đối ứng' ban hành theo luật quyền hạn kinh tế khẩn cấp. Sau đó, chính quyền chuyển sang dùng căn cứ pháp lý khác. Từ 24/7, Mỹ áp thuế bổ sung 10% hoặc 12,5% với hàng hóa của khoảng 60 đối tác, với lý do các nước này chưa ngăn chặn hiệu quả hàng sản xuất bằng lao động cưỡng bức. Thuế riêng theo ngành với thép, nhôm, ô tô vẫn được duy trì.",
+      "Giới phân tích cho rằng ngay cả khi Dân chủ kiểm soát cả hai viện, việc đảo ngược thuế quan vẫn gặp trở ngại lớn. Tổng thống có quyền phủ quyết, và muốn vượt phủ quyết thì cần hai phần ba số phiếu ở mỗi viện. Ngoài ra, nhiều mức thuế dựa trên quyền mà Quốc hội đã trao cho chính phủ từ trước.",
+      "Việt Nam là nước xuất khẩu lớn sang Mỹ nên kết quả bầu cử ngày 3/11 đáng theo dõi. Nếu cán cân quyền lực ở Quốc hội Mỹ thay đổi, chính sách thương mại sẽ bị giám sát chặt hơn. Doanh nghiệp xuất khẩu, gồm cả các doanh nghiệp may mặc, thủy sản ở miền Trung, nên chuẩn bị nhiều kịch bản về đơn hàng và chi phí thuế."
+     ],
+     "tag": "Thuế quan Mỹ",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ Công Thương mở trung tâm đào tạo bán dẫn, điện hạt nhân; Huế có trung tâm miền Trung",
+     "summary": "Bộ Công Thương chọn một số trường thế mạnh để đào tạo nhân lực chip bán dẫn, điện hạt nhân và tiết kiệm năng lượng, thay vì dàn trải. Trường Cao đẳng Công nghiệp Huế được giao làm trung tâm đào tạo tiết kiệm năng lượng cho khu vực miền Trung; mục tiêu đến 2030 có các cơ sở đào tạo trình độ cao ở lĩnh vực then chốt.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/bo-cong-thuong-phat-trien-nhan-luc-cho-nganh-cong-nghe-moi-post1399127.html",
+     "detail": [
+      "Theo chiến lược của ngành Công Thương, các lĩnh vực ưu tiên gồm AI, bán dẫn, công nghệ sinh học, vật liệu mới, năng lượng tái tạo và hydro. Thay vì mở ngành ở mọi trường, Bộ chọn các trường trực thuộc đã có nền tảng để đầu tư tiếp.",
+      "Về chip bán dẫn, ba trường được ưu tiên đầu tư phòng thí nghiệm theo Quyết định 1017/QĐ-TTg: Đại học Công nghiệp Hà Nội (đưa thiết kế chip vào chương trình từ 2022), Đại học Công nghiệp TP.HCM và Đại học Điện lực. Đại học Điện lực cũng nằm trong danh sách đào tạo nhân lực điện hạt nhân đến năm 2035.",
+      "Về tiết kiệm năng lượng, Trường Cao đẳng Công nghiệp Huế được giao làm trung tâm cho khu vực miền Trung, còn Trường Cao đẳng Công Thương TP.HCM phụ trách phía Nam. Với hydro và lưu trữ năng lượng, Bộ chọn cách thận trọng: lồng nội dung vào các ngành sẵn có, khóa ngắn hạn, chưa vội mở ngành riêng.",
+      "Rà soát năm 2026 cho thấy kế hoạch đào tạo còn lệch với tiến độ các dự án năng lượng; đại diện Đại học Điện lực đề nghị cập nhật dự báo nhu cầu thường xuyên để tránh 'đào tạo một đằng, cần một nẻo'. Với doanh nghiệp miền Trung, trong đó có Đà Nẵng, nguồn kỹ sư, kỹ thuật viên năng lượng và bán dẫn tại chỗ sẽ dần dồi dào hơn, và các trường được khuyến khích liên kết, chia sẻ phòng thí nghiệm với doanh nghiệp."
+     ],
+     "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V71JD9wZq5lNcJbaWHu8GUMWngF3e3HiKJGWISvjrz_tg3TDOH4W6GH8kv4AJD6Gm5G8OFx1lh7IPjNrZb33l8ZXzVQ1sBwR72cmNzkcNIw7a/bandan.jpg.webp",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Chuyên gia: tiền chuyển sang cổ phiếu vật liệu, xây dựng 'chân sóng' cuối năm",
+     "summary": "Chuyên gia MBS dự báo VN-Index đi ngang trong vùng 1.700–1.750 điểm hai tháng cuối năm, dòng tiền chuyển sang cổ phiếu vốn hóa vừa. Thép, xi măng, đá xây dựng như HPG, HSG, NKG, DHA và nhà thầu VCG, CTD được kỳ vọng hưởng lợi từ đầu tư công.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chuyen-gia-chi-ten-nhom-co-phieu-dang-o-chan-song-co-co-hoi-but-pha-cuoi-nam-188261101181828709.chn",
+     "detail": [
+      "Theo ông Nguyễn Huy Hoàng, chuyên viên tư vấn đầu tư Chứng khoán MB (MBS), thị trường đang thiếu động lực chung nên dòng tiền tìm đến cổ phiếu có câu chuyện tăng trưởng riêng, đã giảm sâu nhưng nền tảng kinh doanh vững và lợi nhuận dự kiến cải thiện từ quý IV/2026 đến quý I/2027.",
+      "Nhóm vật liệu xây dựng được hưởng lợi trước nhờ giải ngân đầu tư công và sản xuất phục hồi; giá bán đã lên mặt bằng mới trong quý 3 nên có thể phản ánh vào lợi nhuận ngay quý IV. Hòa Phát (HPG) được nhắc tới nhờ dự án Dung Quất 2 và các biện pháp phòng vệ thương mại với thép cán nóng nhập khẩu. Nhà thầu như Vinaconex (VCG), Coteccons (CTD) có độ trễ hơn, tùy tiến độ nghiệm thu.",
+      "Ông Hoàng cho rằng nhóm vốn hóa lớn, đặc biệt cổ phiếu họ Vingroup, chủ yếu giữ nhịp cho chỉ số; nếu thanh khoản không bùng nổ thì khó có đợt tăng đồng loạt. VN-Index nhiều khả năng tích lũy trong vùng 1.700–1.750 điểm thay vì bứt phá nhanh.",
+      "Với nhà đầu tư cá nhân, khuyến nghị là giải ngân từng phần trong các phiên biến động, ưu tiên chọn ngành và chọn mã thay vì kỳ vọng vào chỉ số chung."
+     ],
+     "tag": "Dự báo tháng 11",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "OpenAI tính đổi tên trung tâm dữ liệu thành 'khu điện toán AI' sau bầu cử Mỹ",
+     "summary": "Theo Axios, được TechCrunch dẫn ngày 01/11, OpenAI chuẩn bị chiến dịch truyền thông lớn sau bầu cử giữa kỳ Mỹ (thứ Ba 03/11), gồm đề xuất 'giới hạn tốc độ' cho AI và gọi trung tâm dữ liệu là 'AI compute campus'. Động thái cho thấy sự phản đối của dân chúng với các trung tâm dữ liệu tốn điện, tốn nước đã thành vấn đề chính trị.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+     "detail": [
+      "Trung tâm dữ liệu là những 'nhà máy' khổng lồ chứa hàng chục nghìn máy chủ để chạy AI. Chúng ngày càng bị người dân Mỹ phản đối vì ngốn điện, nước và đẩy giá điện địa phương lên. Theo trang Axios, được TechCrunch đưa tin tối 01/11, OpenAI đang chuẩn bị một chiến dịch truyền thông rầm rộ ngay sau cuộc bầu cử giữa kỳ diễn ra thứ Ba 03/11, khi phe Dân chủ được dự báo có thể giành lại Hạ viện, thậm chí cả Thượng viện.",
+      "Theo kế hoạch, OpenAI sẽ đưa ra một loạt đề xuất để định hướng cuộc tranh luận về AI: áp 'giới hạn tốc độ' cho AI, cho người dân thấy AI giúp ích gì trong đời sống hằng ngày, thúc đẩy Mỹ tham gia đặt chuẩn mực AI toàn cầu, và gọi trung tâm dữ liệu bằng cái tên mới 'AI compute campus' (khu điện toán AI) nghe thân thiện hơn.",
+      "Ông Chris Lehane, giám đốc đối ngoại toàn cầu của OpenAI, ví cuộc bầu cử giữa kỳ là 'đoạn trailer' cho năm 2028, khi ông tin AI sẽ thành chủ đề lớn của bầu cử tổng thống Mỹ. Ông cho rằng tranh luận về trung tâm dữ liệu là 'lành mạnh', vì nó đã buộc Amazon và Microsoft bỏ việc dùng thỏa thuận bảo mật (NDA) khi đàm phán với chính quyền địa phương.",
+      "Lehane cũng nói cộng đồng nên buộc các công ty chịu trách nhiệm để người dân thực sự hưởng lợi từ những dự án này. Cùng thời điểm, TechCrunch ghi nhận trung tâm dữ liệu đã thành đề tài tranh cử ngay cả ở Brooklyn (New York), cho thấy mức độ quan tâm của cử tri đã lan rộng.",
+      "Ý nghĩa: ngành AI đang bước vào giai đoạn phải 'thuyết phục' xã hội chứ không chỉ chạy đua công nghệ. Với các địa phương Việt Nam muốn thu hút đầu tư trung tâm dữ liệu, câu chuyện ở Mỹ là lời nhắc cần tính trước bài toán điện, nước và lợi ích cho cộng đồng khi thu hút các dự án này."
+     ],
+     "tag": "Chính trị & AI",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Đường Tiểu La ở Thăng Bình tái thi công, 30,5 tỷ đồng, xong trước Tết",
+     "summary": "Sau nhiều năm đình trệ vì vướng mặt bằng và nhà thầu bỏ dở, đường Tiểu La dài 839 m ở trung tâm xã Thăng Bình được thi công lại với vốn 30,482 tỷ đồng, mặt cắt 14,5 m. Mục tiêu cơ bản hoàn thành trước Tết Nguyên đán 2027.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/xa-thang-binh-gap-rut-thi-cong-hoan-thien-du-an-duong-tieu-la-3357110.html",
+     "detail": [
+      "Dự án đường Tiểu La (đoạn Tư Thiết – Bình Quý) được duyệt từ cuối năm 2020 khi còn huyện Thăng Bình. Vướng giải phóng mặt bằng kéo dài cùng giá vật liệu, nhân công tăng khiến nhà thầu xin chấm dứt hợp đồng; khi bỏ cấp huyện từ 1/7/2025, công trình đứng hẳn. Con đường xuống cấp, không có thoát nước, nhiều ổ gà và bụi.",
+      "Tháng 9/2026, lãnh đạo thành phố thống nhất làm theo mặt cắt 14,5 m ban đầu (vỉa hè mỗi bên 2 m, mặt đường 10,5 m), thay vì thu hẹp xuống 9,5 m. Tổng mức đầu tư 30,482 tỷ đồng, tuyến dài 839,25 m, ảnh hưởng 165 thửa đất và mặt bằng đã được người dân bàn giao.",
+      "Đến 30/10, nhà thầu đã làm xong cống hộp qua đường và lắp khoảng 900 m cống thoát nước hai bên; do mùa mưa nên chưa đào nền để tránh sình lầy. Tuyến nối với quốc lộ 1 và đường ven biển 129, giúp chỉnh trang trung tâm xã và kích thích thương mại – dịch vụ."
+     ],
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/31/5(1).jpg",
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Chuyên gia phản đối cấm chuyển nhượng hợp đồng mua nhà hình thành trong tương lai",
+     "summary": "Trước đề xuất của một đại biểu Quốc hội ngày 30/10 về cấm chuyển nhượng hợp đồng mua nhà chưa hình thành, TS Nguyễn Minh Phong cho rằng việc này dễ đẩy giao dịch sang giấy tay, ủy quyền, gây thất thu thuế và khiến người mua kẹt vốn 2–3 năm.",
+     "source": "CafeBiz (theo Tiền Phong)",
+     "url": "https://cafebiz.vn/loi-bat-cap-hai-neu-cam-chuyen-nhuong-hop-dong-mua-nha-hinh-thanh-trong-tuong-lai-176261101062016442.chn",
+     "detail": [
+      "Khi Quốc hội thảo luận Luật Kinh doanh bất động sản (sửa đổi) ngày 30/10, một đại biểu đề xuất cấm chuyển nhượng hợp đồng mua bán nhà ở hình thành trong tương lai (nhà đang xây, chưa có sổ) nhằm hạn chế đầu cơ.",
+      "TS Nguyễn Minh Phong, Ủy viên Hội đồng tư vấn Kinh tế của Ủy ban Trung ương MTTQ, cho rằng cần thận trọng: người mua đã có quyền tài sản hợp pháp từ khi ký hợp đồng, và chuyển nhượng hợp đồng không đồng nghĩa với đầu cơ. Theo ông, Nhà nước có thể chống thổi giá, giao dịch ảo mà không cần cấm hẳn.",
+      "Nếu đóng kênh chính thức, giao dịch dễ chuyển sang ủy quyền toàn phần hoặc giấy viết tay, Nhà nước khó quản lý và thất thu thuế, người dân thì chịu rủi ro tranh chấp, lừa đảo. Hợp đồng thường kéo dài 2–3 năm; người mua gặp biến cố như mất việc, giảm thu nhập mà không được chuyển nhượng sẽ phải tiếp tục trả tiền hoặc chịu mất cọc, phạt hợp đồng.",
+      "Ông cũng lưu ý Việt Nam đang thiếu cung nhà ở, khác Trung Quốc thừa cung, và bất động sản liên quan tới hơn 40 ngành nghề. Đây là điểm người đang mua nhà trả góp theo tiến độ nên theo dõi khi luật được thông qua."
+     ],
+     "tag": "Luật BĐS sửa đổi",
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "Doanh nghiệp bất động sản phía Nam: Đất Xanh cũ lãi giảm 98%, An Gia giảm 86%",
+     "summary": "Kết quả quý III cho thấy địa ốc phía Nam phân hóa mạnh: Novaland lãi khoảng 1.102 tỷ đồng, còn Bluemarq (tiền thân Đất Xanh) lãi giảm 98%, An Gia giảm 85,9%, Quốc Cường Gia Lai và Thuduc House chuyển lỗ. Lãi vay mua nhà cao khiến tỷ lệ bán được chỉ khoảng 39%.",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/doanh-nghiep-bat-dong-san-phia-nam-noi-gi-khi-loi-nhuan-lao-doc-2570241.html",
+     "detail": [
+      "Novaland có doanh thu quý III khoảng 5.120 tỷ đồng, tăng hơn 204%, lãi sau thuế khoảng 1.102 tỷ đồng nhờ bàn giao nhà ở các dự án Aqua City, Victoria Village, Sunrise Riverside. Ngược lại, Bluemarq Group (tiền thân Đất Xanh) chỉ lãi khoảng 3,2 tỷ đồng so với 163,6 tỷ cùng kỳ vì bán căn hộ, đất nền và môi giới đều giảm.",
+      "Phát Đạt có lợi nhuận kinh doanh tăng 119% nhưng lãi sau thuế chỉ khoảng 13,7 tỷ đồng do chi phí dự án BT và thuế. An Gia lãi 15,3 tỷ đồng, giảm 85,9%. Quốc Cường Gia Lai lỗ gần 7 tỷ đồng khi ít căn hộ bàn giao và đã bán các nhà máy thủy điện; Thuduc House lỗ khoảng 2,89 tỷ đồng vì không còn khoản thu bất thường như năm trước.",
+      "Theo VARS IRE, thị trường có 31.844 căn mở bán mới nhưng chỉ 12.520 giao dịch, tỷ lệ hấp thụ khoảng 39,3%. MBS Research dự báo nửa cuối năm tỷ lệ này chỉ 40–50%. Tổng giám đốc Bluemarq cho rằng lãi suất vay mua nhà cao khiến khách cân nhắc lâu hơn, làm khó mảng bán hàng và môi giới.",
+      "Bức tranh này cho thấy lợi nhuận 'gấp hàng chục lần' của một số đại gia địa ốc không phản ánh toàn ngành. Doanh nghiệp nhỏ, nhất là mảng môi giới, đang chịu áp lực lớn; người lao động trong lĩnh vực này nên chuẩn bị cho khả năng thu nhập theo hoa hồng còn bấp bênh."
+     ],
+     "tag": "Bất động sản",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Đầu tư bất động sản nghỉ dưỡng: chuyên gia khuyên soi kỹ pháp lý và đơn vị vận hành",
+     "summary": "Hiệp hội Bất động sản dự báo thị trường căn hộ du lịch, biệt thự nghỉ dưỡng có thể phục hồi vào khoảng năm 2028. Nhưng hơn 90% người mua loại hình này là để đầu tư, nên dự án quá lớn dễ khiến cạnh tranh cho thuê gay gắt. Chuyên gia khuyên ưu tiên pháp lý đầy đủ, dự án vừa phải và đơn vị quản lý chuyên nghiệp.",
+     "source": "VOV",
+     "url": "https://vov.vn/kinh-te/dau-tu-bat-dong-san-nghi-duong-luc-nay-can-luu-y-gi-post1346394.vov",
+     "detail": [
+      "TS Nguyễn Văn Đính, Phó Chủ tịch Hiệp hội Bất động sản Việt Nam, cho rằng phân khúc nghỉ dưỡng còn nhiều tiềm năng vì nguồn cung lưu trú chưa đáp ứng mục tiêu phát triển du lịch. Ông dự báo thị trường mua bán lại căn hộ du lịch, shophouse và biệt thự nghỉ dưỡng có thể phục hồi vào khoảng năm 2028. Tuy nhiên, triển vọng chung không có nghĩa sản phẩm nào cũng sinh lời.",
+      "Lợi nhuận thực tế phụ thuộc vào vị trí, chất lượng công trình, công suất cho thuê, chi phí vận hành và cách chia doanh thu. Nếu lượng khách không ổn định hoặc phí vận hành cao, tiền chủ sở hữu thực nhận có thể thấp hơn nhiều so với kỳ vọng. Vì hơn 90% người mua là nhà đầu tư, dự án quá nhiều căn sẽ khiến các chủ nhà phải cạnh tranh nhau khi cho thuê hoặc bán lại.",
+      "Ông Nguyễn Hoàng (Eagle Academy) khuyên chọn chủ đầu tư uy tín, vị trí gần sân bay, bãi biển hoặc điểm du lịch trọng điểm, và đơn vị vận hành có năng lực marketing tốt. TS Nguyễn Minh Phong nhận xét thời của việc chạy theo 'lợi nhuận cam kết' như giai đoạn condotel mới xuất hiện đã qua. Hồ sơ pháp lý đầy đủ giờ là yêu cầu hàng đầu của người mua.",
+      "Với người ở Đà Nẵng, một thị trường có nhiều condotel và biệt thự biển, đây là danh sách kiểm tra hữu ích trước khi xuống tiền: xem sổ hồng hoặc giấy tờ sở hữu, đọc kỹ hợp đồng chia doanh thu và tính dòng tiền theo kịch bản thận trọng thay vì theo con số cam kết."
+     ],
+     "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/1793517682401_2013843145369971772_9207885489156108806_f1de50316e52794e36593bd35440e3a5.jpg?v=1793577673",
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "Chỉ một liên danh đăng ký làm khu đô thị 9.384 tỷ đồng tại Hải Phòng",
+     "summary": "Liên danh TPM360 – NMID là nhà đầu tư duy nhất nộp hồ sơ dự án mở rộng khu đô thị, nhà ở công nhân Tràng Duệ rộng 90,76 ha, vốn 9.384 tỷ đồng. Đây là dự án thứ ba gần đây ở Hải Phòng chỉ có một nhà đầu tư tham gia đấu thầu.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/lo-dien-lien-danh-duy-nhat-muon-lam-du-an-hon-9000-ty-dong-tai-thanh-pho-nho-nhat-viet-nam-176261101205624386.chn",
+     "detail": [
+      "Trung tâm Phát triển quỹ đất Hải Phòng công bố biên bản mở thầu dự án mở rộng Khu đô thị – dịch vụ thương mại và nhà ở công nhân Tràng Duệ, quy mô khoảng 90,76 ha tại phường An Hải và Lê Lợi, tổng vốn dự kiến 9.384 tỷ đồng. Liên danh TPM360 – NMID là đơn vị duy nhất nộp hồ sơ.",
+      "Dự án gồm nhà liền kề, biệt thự thương mại, chung cư nhà ở xã hội cùng trường học, y tế, công viên, khu thương mại. Việc chỉ có một nhà thầu chưa có nghĩa là liên danh đã trúng thầu, hồ sơ vẫn phải được đánh giá theo quy định.",
+      "Trước đó, dự án hơn 13.695 tỷ đồng, gần 161 ha ở phường Hải An cũng chỉ có liên danh Ecolives – EcoCapital tham gia; dự án gần 2.781 tỷ ở phường An Dương dù đã gia hạn vẫn chỉ có một nhà đầu tư. Hiện tượng 'một nhà thầu' lặp lại cho thấy các dự án đô thị lớn kén nhà đầu tư, và cạnh tranh trong đấu thầu đất còn hạn chế."
+     ],
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/1/avatar1793541275997-1793541276795731257405.jpg",
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Dạy trẻ dùng AI có trách nhiệm: người lớn cũng phải học",
+     "summary": "Khung giáo dục AI cho học sinh phổ thông (Quyết định 2422 ngày 18/8/2026) dự kiến 12 tiết mỗi lớp mỗi năm, từ lớp 2 đã học khi nào nên và không nên dùng AI. Tác giả cho rằng nhà trường, gia đình và học sinh cần cùng thống nhất nguyên tắc dùng AI.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/day-tre-ai-nguoi-lon-cung-can-hoc-10026110109213435.htm",
+     "detail": [
+      "Bài viết của tác giả Lê Trường An bắt đầu từ một tranh luận trên mạng: phụ huynh phàn nàn khi giáo viên lớp 2 dùng AI hỗ trợ làm thời khóa biểu. Từ đó, tác giả đặt câu hỏi liệu giáo viên và phụ huynh đã có cách hiểu chung về việc dùng AI trong giáo dục hay chưa.",
+      "Bộ GD-ĐT đã ban hành Khung nội dung giáo dục trí tuệ nhân tạo cho học sinh phổ thông với bốn mạch: lấy con người làm trung tâm, đạo đức AI, kỹ thuật – ứng dụng AI và thiết kế hệ thống AI. Nội dung cốt lõi khoảng 12 tiết mỗi lớp mỗi năm; ngay từ lớp 2, trẻ học các chủ đề như 'AI làm việc, con người kiểm soát'.",
+      "Tác giả đề xuất 'tam giác trách nhiệm': nhà trường cần nguyên tắc minh bạch về việc nào được dùng AI, sản phẩm nào phải có người kiểm tra, dữ liệu nào tuyệt đối không đưa lên AI và ai chịu trách nhiệm cuối cùng; phụ huynh là đối tác, được hướng dẫn về rủi ro dữ liệu cá nhân, thông tin sai và phụ thuộc công nghệ.",
+      "Các nguyên tắc này cũng áp dụng được cho nơi làm việc: doanh nghiệp đang đưa AI vào công việc văn phòng nên có quy định rõ việc nào được dùng AI, dữ liệu nào cấm nhập vào chatbot và người phụ trách cuối cùng là ai."
+     ],
+     "tag": "Giáo dục AI",
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Ra mắt Bản đồ số văn hóa Việt Nam cmap.vn trước Ngày Văn hóa 24/11",
+     "summary": "Tối 1/11, Bộ VH-TT-DL ra mắt nền tảng Bản đồ số văn hóa Việt Nam (CMAP) phủ 34 tỉnh thành, cho tra cứu lễ hội, di sản, bảo tàng, sự kiện theo vị trí và thời gian thực tại cmap.vn. Nền tảng ra đời trước Ngày Văn hóa Việt Nam đầu tiên 24/11.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/bo-van-hoa-moi-nguoi-dan-truy-cap-ban-do-so-van-hoa-viet-nam-100261101213107888.htm",
+     "detail": [
+      "Lễ ra mắt diễn ra tối 1/11 tại Văn Miếu – Quốc Tử Giám (Hà Nội). Nền tảng gom thông tin văn hóa của 34 tỉnh, thành lên một bản đồ số chung, giúp người dân và du khách chọn hoạt động theo địa điểm, thời gian và chủ đề.",
+      "Người dùng có thể tra cứu di sản, bảo tàng, lễ hội truyền thống, giải thể thao phong trào và hành trình du lịch di sản; tìm sự kiện quanh vị trí hiện tại; và có công cụ giúp tối ưu chi phí. Thông tin được cập nhật theo thời gian thực; truy cập qua website cmap.vn.",
+      "Bộ kêu gọi địa phương, đơn vị văn hóa cập nhật thông tin chính xác, kịp thời; mời nghệ nhân, người sáng tạo và doanh nghiệp đưa sản phẩm lên nền tảng. Trước dịp Ngày Văn hóa Việt Nam 24/11, đây là công cụ tiện để người lao động và bộ phận nhân sự tìm, lên kế hoạch hoạt động văn hóa cho gia đình, tập thể."
+     ],
+     "tag": "cmap.vn",
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Chiến dịch 'Không Một Mình 2026': dạy trẻ tự nhận diện rủi ro trên mạng",
+     "summary": "Tối 31/10, Cục An ninh mạng (A05, Bộ Công an) và Liên minh Niềm Tin Số khởi động Ngày Internet an toàn với chủ đề 'Kết nối không tổn thương'. Cục trưởng A05 cho rằng chỉ dặn trẻ cẩn thận là chưa đủ. Phải dạy trẻ nhận ra tình huống bất thường và tạo môi trường để trẻ dám kể với người lớn.",
+     "source": "VOV",
+     "url": "https://vov.vn/xa-hoi/cuc-truong-cuc-an-ninh-mang-chia-se-ve-bao-ve-tre-em-tren-moi-truong-internet-post1346375.vov",
+     "detail": [
+      "Ngày Internet an toàn thuộc chiến dịch 'Không Một Mình 2026' được tổ chức tối 31/10 tại quảng trường Đông Kinh Nghĩa Thục, Hà Nội. Đây là năm thứ hai chiến dịch diễn ra, với sự phối hợp của các Bộ Giáo dục, Y tế, Văn hóa cùng UNICEF và UNODC. Mục tiêu là nâng cao nhận thức và kỹ năng bảo vệ trẻ em, thanh thiếu niên trên mạng cho gia đình, nhà trường và doanh nghiệp.",
+      "Theo Thiếu tướng Lê Xuân Minh, Cục trưởng Cục An ninh mạng, internet mở ra nhiều cơ hội học tập cho trẻ, nhưng trẻ thường thiếu kinh nghiệm để nhận ra và tự bảo vệ mình trước rủi ro. Ông cho rằng giáo dục an toàn mạng không thể dừng ở các lời dặn như 'đừng chia sẻ thông tin cá nhân' hay 'đừng tin người lạ'. Trẻ cần biết nhận ra tình huống bất thường, đặt giới hạn, dừng lại khi thấy không an toàn và chủ động tìm người tin cậy để nhờ giúp.",
+      "Điều ông coi là quan trọng nhất là người lớn phải tạo được 'một không gian tin tưởng' để trẻ dám nói ra những điều chưa hiểu hoặc những lần đã lỡ mắc sai lầm. Với các bậc cha mẹ đang đi làm, cách thực tế là trò chuyện thường xuyên về những gì con xem trên mạng, không phản ứng gay gắt khi con kể chuyện, và hướng dẫn con cách báo cáo, chặn tài khoản lạ. Doanh nghiệp cũng có thể đưa nội dung này vào các buổi sinh hoạt công đoàn hoặc ngày gia đình của công ty."
+     ],
+     "tag": "An toàn số",
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Văn chỉ La Châu xuống cấp, 50% mái hỏng, chờ duyệt dự án tu bổ",
+     "summary": "Văn chỉ La Châu (xã Hòa Tiến) xây năm 1852, phục dựng năm 2015 với khoảng 2 tỷ đồng, nay chưa đầy 10 năm đã hư khoảng 50% mái ngói, tường ẩm mốc. Phương án tu bổ mở rộng lên 4.547 m² đã được chọn từ 2024 nhưng chủ trương đầu tư vẫn chưa được duyệt.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/cap-thiet-trung-tu-van-chi-la-chau-3357117.html",
+     "detail": [
+      "Văn chỉ La Châu là nơi tôn vinh đạo học của vùng Hòa Vang, hoàn thành năm 1852 theo đề xuất của Tiến sĩ Đỗ Thúc Tịnh – tiến sĩ đầu tiên và duy nhất của huyện dưới triều Nguyễn. Công trình bị chiến tranh phá hủy năm 1969, được phục dựng năm 2015 và xếp hạng di tích cấp thành phố tháng 7/2022.",
+      "Nằm trơ trọi giữa cánh đồng, di tích chịu nắng mưa trực tiếp: trần bong tróc, chân bệ nứt, nền gạch vỡ; người trông coi cho biết khoảng một nửa mái ngói đã hư khiến nước thấm vào tường.",
+      "Từ cuối 2023, thành phố giao Sở VH-TT-DL làm chủ đầu tư; tháng 8/2024 phương án 2 được chọn với tổng diện tích 4.547 m², gồm chính điện, nhà Tả – Hữu, lầu chuông, lầu trống, cổng tam quan, bãi đỗ xe. Tuy nhiên chủ trương đầu tư chưa được phê duyệt; xã Hòa Tiến đang làm đường vào di tích nối vành đai phía Tây, dự kiến xong 2026–2027, và đề nghị thành phố hỗ trợ kinh phí."
+     ],
+     "tag": "Di tích xuống cấp",
+     "note": ""
+    }
+   ]
+  },
   {
    "id": "2026-11-01-1900",
    "date": "2026-11-01",
