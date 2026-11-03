@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-03T15:05:00+07:00",
+ "updated": "2026-11-03T19:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-03-1900",
+   "date": "2026-11-03",
+   "slot": "19:00",
+   "createdAt": "2026-11-03T19:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "know",
+     "title": "Lương tối thiểu vùng tăng từ 1/1/2027, cao nhất 5,7 triệu đồng/tháng",
+     "summary": "Chính phủ ban hành Nghị định 399/2026/NĐ-CP, nâng lương tối thiểu vùng thêm 310.000–390.000 đồng/tháng từ 1/1/2027. Vùng I lên 5,7 triệu, vùng IV lên 4,04 triệu đồng; doanh nghiệp cần rà soát hợp đồng, thang bảng lương trước cuối năm.",
+     "source": "VietnamPlus",
+     "url": "https://www.vietnamplus.vn/luong-toi-thieu-chinh-thuc-tang-tu-dau-nam-2027-muc-thap-nhat-la-404-trieu-dong-post1145853.vnp",
+     "image": "https://media.vietnamplus.vn/images/wU9keeg-MVtM86KQbMalHvrjoNUuVDwGBatH44lFR5XECJhdJ17bqLEfIaotQ0HRjC7Fa6630993VvgoAgV03w/tien-luong-2806.jpg.webp",
+     "detail": [
+      "Ngày 3/11, Phó Thủ tướng Phạm Thị Thanh Trà thay mặt Chính phủ ký Nghị định 399/2026/NĐ-CP quy định mức lương tối thiểu với người lao động làm việc theo hợp đồng lao động. Nghị định có hiệu lực từ 1/1/2027 và thay thế Nghị định 293/2025/NĐ-CP đang áp dụng.",
+      "Mức lương tối thiểu tháng mới: vùng I 5.700.000 đồng (tăng 390.000), vùng II 5.080.000 đồng (tăng 350.000), vùng III 4.450.000 đồng (tăng 310.000), vùng IV 4.040.000 đồng (tăng 340.000). Tính ra mức tăng khoảng 7,3–9,2%, vùng IV tăng mạnh nhất về tỷ lệ.",
+      "Lương tối thiểu giờ cũng tăng: vùng I 27.400 đồng/giờ, vùng II 24.400, vùng III 21.400 và vùng IV 19.400 đồng/giờ. Người làm theo tuần, ngày, sản phẩm hay khoán thì tiền lương quy đổi ra tháng hoặc giờ cũng không được thấp hơn các mức này.",
+      "Đối tượng áp dụng gồm người lao động theo Bộ luật Lao động và mọi người sử dụng lao động: doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình và cá nhân có thuê mướn lao động. Những thỏa thuận đang có lợi hơn cho người lao động vẫn được giữ nguyên, trừ khi hai bên thỏa thuận khác.",
+      "Với bộ phận nhân sự, đây là việc cần làm ngay trong tháng 11–12: rà soát hợp đồng, thỏa ước lao động tập thể, quy chế lương và mức đóng BHXH, BHYT, BHTN (vì lương đóng không được thấp hơn lương tối thiểu vùng). Không được cắt hay giảm các khoản trả cho làm thêm giờ, làm đêm, bồi dưỡng bằng hiện vật khi điều chỉnh lương."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index giảm phiên thứ tư liên tiếp, đóng cửa dưới mốc 1.700 điểm",
+     "summary": "Phiên 3/11, VN-Index mất 11,1 điểm (-0,65%) xuống dưới 1.700, riêng VIC lấy đi hơn 12 điểm. Thanh khoản HoSE chỉ khoảng 10.500 tỷ đồng, khối ngoại bán ròng gần 500 tỷ – phiên thứ 8 liên tiếp.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vn-index-lai-mat-moc-1700-diem-khoi-ngoai-noi-dai-chuoi-ban-rong-188261103172938695.chn",
+     "figure": {
+      "value": "≈1.699,6",
+      "label": "VN-Index đóng cửa 3/11",
+      "delta": "-11,1 điểm (-0,65%)",
+      "dir": "down",
+      "spark": [
+       1710.7,
+       1713,
+       1690,
+       1699.6
+      ]
+     },
+     "detail": [
+      "VN-Index có lúc lên 1.713 điểm trong phiên sáng nhưng lực bán tăng mạnh buổi chiều, kéo chỉ số xuống thấp nhất 1.690 điểm trước khi đóng cửa giảm 11,1 điểm. Đây là phiên giảm thứ tư liên tiếp và là lần đầu chỉ số đóng cửa dưới 1.700 điểm trong nhịp điều chỉnh hiện tại.",
+      "Thủ phạm chính là VIC (Vingroup) giảm 3,31%, một mình lấy đi hơn 12 điểm của chỉ số. Nhóm dầu khí cũng yếu với BSR -2,95%, GAS -2,08%, PVD -1,41%; một số mã giảm sâu khác là BVH -5,88%, PNJ -5,45%, KOS -6,45%.",
+      "Điểm sáng là nhóm thép: HPG +4,17%, HSG +3,88%, NKG +3,42%. Một số ngân hàng và chứng khoán tầm trung cũng tăng như MSB +2,86%, VCI +2,71%, STB +2,3%, VIB +2,21%. Độ rộng thị trường thực tế khá cân bằng với 152 mã tăng và 135 mã giảm trên HoSE.",
+      "Thanh khoản HoSE khoảng 10.474 tỷ đồng, thấp nhất 5 phiên và giảm 34% so với phiên trước, cho thấy dòng tiền lớn chưa sẵn sàng bắt đáy. Khối ngoại bán ròng gần 500 tỷ đồng, tập trung ở MBB (~255 tỷ), VCB (~219 tỷ), VIC (~114 tỷ); ngược lại họ mua ròng HPG (~227 tỷ), SHB và VHM.",
+      "Với nhà đầu tư cá nhân, nhiều bài phân tích khuyên giữ tỷ trọng tiền mặt hợp lý, hạn chế dùng margin (vay ký quỹ) khi dư nợ cho vay chứng khoán đang ở mức kỷ lục và chỉ số vừa mất ngưỡng hỗ trợ tâm lý 1.700 điểm."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Xuất nhập khẩu 10 tháng lần đầu vượt 1.000 tỷ USD, tháng 10 xuất siêu 7,3 tỷ",
+     "summary": "Tổng kim ngạch xuất nhập khẩu 10 tháng năm 2026 đạt 1.010,55 tỷ USD, tăng 32,3% – mức cao nhất lịch sử. Lũy kế vẫn nhập siêu 12,07 tỷ USD nhưng tháng 10 đã xuất siêu 7,31 tỷ USD, tháng thứ hai liên tiếp.",
+     "source": "VOV",
+     "url": "https://vov.vn/kinh-te/xuat-nhap-khau-dat-muc-cao-nhat-lich-su-can-can-thuong-mai-dao-chieu-post1346798.vov",
+     "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-09/xuat-nhap-khau-qua-khu-vuc-cang-hai-phong-202620260513155541.jpg?v=1793681859",
+     "detail": [
+      "Theo số liệu Cục Thống kê (Bộ Tài chính), sau 10 tháng tổng kim ngạch xuất nhập khẩu của Việt Nam đạt 1.010,55 tỷ USD, tăng 32,3% so với cùng kỳ. Đây là lần đầu tiên con số này vượt mốc 1.000 tỷ USD.",
+      "Riêng tháng 10, xuất khẩu đạt 64,67 tỷ USD (tăng 51,4% so với cùng kỳ), nhập khẩu 57,36 tỷ USD, nên cán cân thương mại xuất siêu 7,31 tỷ USD. Tuy vậy lũy kế 10 tháng vẫn nhập siêu 12,07 tỷ USD, trong khi cùng kỳ năm 2025 xuất siêu 19,49 tỷ USD.",
+      "Khu vực có vốn đầu tư nước ngoài (FDI) chiếm tới 81,2% kim ngạch xuất khẩu và xuất siêu 25,76 tỷ USD; khu vực trong nước lại nhập siêu 37,83 tỷ USD. Hàng công nghiệp chế biến chiếm 90,7% xuất khẩu; 94,1% hàng nhập là tư liệu sản xuất như máy móc, nguyên liệu.",
+      "Mỹ vẫn là thị trường xuất khẩu lớn nhất với 159,4 tỷ USD, Việt Nam xuất siêu sang Mỹ 140,1 tỷ USD. Ngược lại, nhập siêu từ Trung Quốc lên 134,94 tỷ USD (tăng 43,2%) và từ Hàn Quốc 48,63 tỷ USD.",
+      "Con số kỷ lục cho thấy sản xuất – xuất khẩu đang sôi động, kéo theo nhu cầu tuyển dụng ở khu công nghiệp cuối năm. Nhưng việc phụ thuộc lớn vào khối FDI và nguồn nguyên liệu nhập khẩu vẫn là điểm yếu, đồng thời mức xuất siêu lớn với Mỹ dễ khiến Việt Nam bị chú ý trong các chính sách thương mại."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Trung Quốc tăng tốc làm luật quản lý AI trọn vòng đời, từ phát triển đến triển khai",
+     "summary": "Ủy ban Cải cách và Phát triển Quốc gia Trung Quốc (NDRC) ngày 3/11 cho biết sẽ đẩy nhanh lập pháp về AI, đặt chuẩn an toàn và đạo đức cho toàn bộ vòng đời mô hình. Doanh nghiệp AI sẽ phải công khai sự cố, lỗ hổng; nhà nước cũng theo dõi tác động của AI tới việc làm.",
+     "source": "The Star (theo Bloomberg)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/11/03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+     "tag": "Luật AI",
+     "detail": [
+      "Tại cuộc họp báo ở Bắc Kinh ngày 3/11, ông Vương Nhược Manh, quan chức cấp cao của NDRC – cơ quan hoạch định kinh tế của Trung Quốc – cho biết nước này sẽ đẩy nhanh việc xây dựng luật cho toàn bộ quá trình phát triển và ứng dụng AI. Bloomberg đánh giá đây là một trong những nỗ lực toàn diện nhất thế giới nhằm phòng nguy cơ mất kiểm soát với AI ngày càng mạnh.",
+      "Khung pháp lý dự kiến hỗ trợ ba 'đầu vào' cốt lõi là dữ liệu, năng lực tính toán và thuật toán; đồng thời quản lý các kịch bản ứng dụng quan trọng và đặt chuẩn an toàn, hướng dẫn đạo đức cho cả vòng đời AI – từ lúc huấn luyện đến khi đưa vào sử dụng.",
+      "Các nhà phát triển và vận hành AI sẽ phải tăng cường quản trị rủi ro, công khai rủi ro an toàn, sự cố và lỗ hổng bảo mật. Doanh nghiệp được cho thời gian chuyển tiếp và hướng dẫn tuân thủ; sẽ có 'sandbox' (khu thử nghiệm chính sách) theo từng ngành để thử – sai có kiểm soát.",
+      "Đáng chú ý với người lao động, chính phủ Trung Quốc cam kết theo dõi tác động của AI tới việc làm, tình trạng mất việc và có lưới an sinh cho người bị ảnh hưởng. Ông Vương cũng kêu gọi hợp tác quốc tế, chia sẻ thông tin lỗ hổng, vì 'an toàn AI không phải vấn đề một công ty, ngành hay quốc gia nào tự giải quyết được'.",
+      "Động thái diễn ra khi các công ty Trung Quốc như DeepSeek, Moonshot, Alibaba đang chạy đua với OpenAI và Anthropic, và sau hàng loạt vụ tấn công mạng có sự tham gia của AI. Tháng 9, Mỹ và Trung Quốc đã đồng ý tìm hiểu chung về lợi ích và rủi ro AI sau thượng đỉnh Trump – Tập.",
+      "Bài báo chưa nêu mức phạt hay thời điểm có hiệu lực. Với các nước như Việt Nam – vừa xây dựng Luật Trí tuệ nhân tạo – cách Trung Quốc kết hợp quản lý chặt với khuyến khích phát triển là một hình mẫu đáng theo dõi."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Quốc hội bàn siết đấu giá: chặn thông đồng, phạt nặng người trúng rồi bỏ cọc",
+     "summary": "Chiều 3/11, 15 đại biểu thảo luận dự án Luật Đấu giá tài sản (sửa đổi), tập trung vào nạn thông đồng, dìm giá và 'trả giá cao rồi bỏ cọc'. Đề xuất gồm cấm người có quan hệ gia đình cùng đấu một tài sản, kéo dài thời gian cấm đấu giá lên 1–2 năm.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/ky-hop-thu-2-quoc-hoi-khoa-xvi-siet-che-tai-bit-lo-hong-trong-dau-gia-tai-san-post1399599.html",
+     "tag": "Kỳ họp thứ 2",
+     "detail": [
+      "Theo Bộ trưởng Tư pháp Hoàng Thanh Tùng, thông đồng, dìm giá hay đẩy giá thật cao rồi bỏ cọc xảy ra phổ biến nhất ở đấu giá quyền sử dụng đất (nhất là đất ở) và quyền khai thác khoáng sản. Dự thảo luật không cho phép người có quan hệ gia đình hoặc quan hệ chi phối doanh nghiệp cùng đăng ký đấu một tài sản.",
+      "Nhiều đại biểu đề xuất mạnh hơn: cấm các bên dùng chung tài khoản, nguồn tiền đặt trước hoặc người đại diện cùng tham gia; cấm người đại diện, cổ đông chi phối của doanh nghiệp đang bị cấm lập pháp nhân mới để 'lách'; công khai danh sách vi phạm trên Cổng đấu giá tài sản quốc gia.",
+      "Về tiền đặt trước, hiện đất ở cho cá nhân áp mức 20–50% giá khởi điểm (từ tháng 1/2026), đất dự án 10–20%. Ở Thanh Hóa, khi áp mức 50%, số lô bị hủy do bỏ cọc giảm từ 377 (năm 2025) xuống 82. Tuy vậy một số đại biểu lo mức 50% là rào cản tài chính với người dân, đề nghị mở rộng bảo lãnh ngân hàng.",
+      "Một số ý kiến đề nghị phân biệt người bỏ cọc vì lý do bất khả kháng với người cố tình trả giá ảo để thao túng; với trường hợp cố ý, ngoài mất tiền cọc còn phải bồi thường toàn bộ thiệt hại, và thời gian cấm tham gia đấu giá nên tăng từ tối thiểu 6 tháng lên 1–2 năm.",
+      "Phó Chủ tịch Quốc hội Nguyễn Hồng Diên yêu cầu cơ quan soạn thảo đánh giá lại tác động của mức đặt trước 20–50%, hoàn thiện quy định đấu giá trực tuyến và chống chia nhỏ tài sản để né đấu giá. Luật dự kiến được thông qua cuối Kỳ họp thứ 2. Người dân muốn mua đất đấu giá nên theo dõi vì quy định tiền cọc và chế tài sẽ thay đổi."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng đối thoại doanh nghiệp: hạn 17/11 phải trả lời hơn 50 kiến nghị",
+     "summary": "Sáng 3/11, Phó Chủ tịch UBND thành phố Phan Thái Bình chủ trì đối thoại với doanh nghiệp ngành Công Thương, nhận hơn 50 ý kiến về đất đai, mặt bằng, thuế. Các sở phải hoàn tất trả lời, báo cáo trước 17/11; thành phố tính đối thoại định kỳ 3–6 tháng/lần.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-doi-thoai-thao-go-kho-khan-cho-doanh-nghiep-nganh-cong-thuong-3357272.html",
+     "tag": "Gỡ khó doanh nghiệp",
+     "detail": [
+      "Hội nghị đối thoại năm 2026 do Phó Chủ tịch UBND thành phố Phan Thái Bình và Giám đốc Sở Công Thương Lê Thị Kim Phương đồng chủ trì, có đại diện các sở, địa phương, doanh nghiệp, hiệp hội và hợp tác xã. Sở Công Thương đã nhận hơn 50 kiến nghị trước hội nghị.",
+      "Nhiều vướng mắc cụ thể được nêu: thủ tục thuê đất kéo dài ở KCN Thuận Yên (xã Tiên Phước); doanh nghiệp đề nghị thực hiện đúng ưu đãi thuế đã hứa khi mời đầu tư; KCN Đông Quế Sơn mặt bằng 'da beo' với 18 hộ chưa nhận bồi thường, 73 trường hợp chưa thống nhất vị trí tái định cư và 39,6 ha chồng lấn; hợp tác xã mây tre ở xã Bà Nà chậm gia hạn thuê đất nên chưa ký được đơn hàng.",
+      "Các doanh nghiệp xăng dầu phản ánh việc cấm, phân luồng đường Cách Mạng Tháng Tám để thi công nút giao cầu vượt Hòa Xuân ảnh hưởng trực tiếp đến kinh doanh. Sở Xây dựng được giao tìm phương án vừa giữ tiến độ công trình vừa giảm thiệt hại, cân nhắc hỗ trợ nếu ảnh hưởng lớn.",
+      "Ông Phan Thái Bình phê bình tình trạng 'nghe xong rồi để đó', yêu cầu mỗi kiến nghị có cơ quan chủ trì, phối hợp rõ ràng và báo cáo kết quả về UBND thành phố trước ngày 17/11/2026; việc chưa xong cũng phải báo tiến độ. Ông đề nghị tổ chức đối thoại 3–6 tháng/lần cho mọi lĩnh vực, buổi sau là dịp kiểm tra kết quả buổi trước.",
+      "Với doanh nghiệp ở các xã phía nam (khu vực Quảng Nam cũ) sau hợp nhất, đây là kênh quan trọng để giải quyết các 'điểm nghẽn' về đất đai vốn kéo dài nhiều năm."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "S&P hạ triển vọng tín nhiệm Meta xuống 'tiêu cực' vì chi tiêu AI quá lớn",
+     "summary": "S&P Global Ratings chuyển triển vọng của Meta từ 'ổn định' sang 'tiêu cực', lo ngại chi đầu tư AI 135–145 tỷ USD/năm làm âm dòng tiền. S&P dự báo Meta thiếu hụt dòng tiền 39 tỷ USD năm nay và 71 tỷ USD năm 2027.",
+     "source": "TechCentral.ie (theo Reuters)",
+     "url": "https://techcentral.ie/sp-global-cuts-metas-outlook-to-negative-over-high-ai-spending",
+     "tag": "Bong bóng AI?",
+     "detail": [
+      "Ngày 3/11, hãng xếp hạng tín nhiệm S&P Global hạ triển vọng của Meta (công ty mẹ Facebook) từ 'ổn định' xuống 'tiêu cực'. 'Triển vọng tiêu cực' nghĩa là hạng tín nhiệm AA- hiện tại của Meta có nguy cơ bị hạ trong thời gian tới nếu tình hình không cải thiện.",
+      "Lý do là chi tiêu vốn (capex) cho AI của Meta được dự báo lên 135–145 tỷ USD mỗi năm. Quý III, Meta có dòng tiền hoạt động tự do âm 2,12 tỷ USD; S&P dự báo thiếu hụt 39 tỷ USD trong năm nay, 71 tỷ USD năm 2027 và có thể kéo dài sau 2028, buộc Meta phải dựa vào vay nợ.",
+      "S&P cho rằng Meta có thể khó kiếm lời từ AI hơn các đối thủ, vì chưa rõ khi nào doanh thu từ AI bù được chi phí. Tỷ lệ đòn bẩy của Meta có thể vượt 1,0 lần vào năm 2027 – ngưỡng then chốt để giữ hạng AA-. Nợ dài hạn của Meta cuối tháng 9 là 80,92 tỷ USD.",
+      "Meta phản bác, cho rằng cơ hội kinh doanh từ AI là rất lớn và năng lực tín dụng của công ty vẫn vững. Công ty đang có kế hoạch huy động 97,5 tỷ USD qua bán cổ phần.",
+      "S&P cũng hạ triển vọng của Broadcom từ 'tích cực' về 'ổn định' do phụ thuộc vào vài khách hàng AI lớn, còn Oracle vừa bị hạ xuống BBB-, sát mức 'đầu cơ'. Chuỗi động thái này cho thấy giới tài chính bắt đầu lo ngại về cuộc đua chi tiền cho AI – điều cũng giải thích vì sao cổ phiếu công nghệ toàn cầu đang biến động mạnh."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Sửa Luật Điện lực: 18 dự án điện khí LNG, chỉ 1 dự án kịp tiến độ",
+     "summary": "Chiều 3/11, Quốc hội thảo luận sửa Luật Điện lực; đại biểu cảnh báo nhu cầu vốn cho điện giai đoạn 2026–2035 trên 100 tỷ USD nhưng nhiều dự án chậm. Các đề xuất gồm theo dõi tiến độ liên thông, đầu tư nguồn đi đôi với lưới truyền tải và thận trọng với giá điện theo giờ cho hộ gia đình.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/ky-hop-thu-hai-quoc-hoi-khoa-xvi-dau-tu-nguon-dien-phai-di-doi-voi-luoi-truyen-tai-post1399618.html",
+     "tag": "Luật Điện lực",
+     "detail": [
+      "Theo đại biểu Nguyễn Thị Thanh Bình (Hưng Yên), chọn được nhà đầu tư chưa có nghĩa dự án sẽ đúng tiến độ: trong 18 dự án điện khí LNG thuộc danh sách theo dõi, chỉ 1 dự án được đánh giá có khả năng kịp tiến độ. Bà đề nghị mỗi dự án có tổng tiến độ, trách nhiệm rõ, và UBND tỉnh làm đầu mối phối hợp với Bộ Công Thương, EVN.",
+      "Bà cũng chỉ ra khung giá điện năm 2026 vẫn dựa trên dự án mẫu duyệt từ 2023, trước Luật Đất đai mới; chi phí bồi thường thay đổi có thể đẩy tổng vốn tăng 5–40%. Đề xuất giao một đơn vị độc lập lập khung giá, công bố hằng năm trong quý I, và chia sẻ hợp lý rủi ro tỷ giá cho nhà đầu tư (doanh thu bằng đồng, nợ bằng ngoại tệ).",
+      "Đại biểu Bùi Văn Dũng (Thanh Hóa) đề nghị làm rõ ai trả, trả những chi phí nào khi giá điện không được điều chỉnh kịp, chỉ bù chi phí hợp lý đã kiểm toán. Ông lưu ý giá điện theo thời gian sử dụng (giờ cao điểm đắt hơn) với hộ gia đình cần thí điểm trước, vì nhà máy dễ đổi ca nhưng gia đình có con nhỏ khó dời giờ sinh hoạt.",
+      "Đại biểu Nguyễn Bình Tân (Cà Mau) đề nghị hoàn thiện cơ chế mua bán điện trực tiếp (DPPA – doanh nghiệp mua điện thẳng từ nhà máy năng lượng tái tạo), có chứng nhận nguồn gốc điện sạch để doanh nghiệp xuất khẩu chứng minh với đối tác; đồng thời thu hút vốn tư nhân, nước ngoài vào lưới truyền tải theo hình thức PPP vì nhiều nơi có nhà máy nhưng lưới quá tải phải cắt giảm công suất.",
+      "Những quy định này ảnh hưởng trực tiếp đến hóa đơn tiền điện của gia đình và chi phí sản xuất của doanh nghiệp trong những năm tới."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "10 tháng: 162.300 doanh nghiệp mới, nhưng số giải thể tăng hơn gấp đôi",
+     "summary": "Cả nước có khoảng 162.300 doanh nghiệp thành lập mới trong 10 tháng, vốn đăng ký 2.138.800 tỷ đồng, tăng 34,3%. Số doanh nghiệp hoàn tất giải thể lại gần 56.300, tăng 109,8%, nhiều nhất ở bán buôn, bán lẻ.",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/dang-ky-doanh-nghiep-10-thang-nam-2026-von-dang-ky-tang-quy-mo-dau-tu-mo-rong.htm",
+     "image": "https://premedia.vneconomy.vn/files/uploads/2026/11/03/088060a5b4db4c6d8c4291e39aa8e6b4-132297.png?w=1200&h=630&mode=crop",
+     "detail": [
+      "Theo Cục Thống kê, 10 tháng năm 2026 cả nước có khoảng 162.300 doanh nghiệp đăng ký mới, gần như đi ngang (-0,4%) so với cùng kỳ, nhưng tổng vốn đăng ký tăng 34,3% lên 2.138.800 tỷ đồng. Vốn bình quân mỗi doanh nghiệp mới đạt 13,2 tỷ đồng, tăng 34,8% – tức doanh nghiệp ra đời ít hơn về số lượng nhưng quy mô lớn hơn.",
+      "Số lao động đăng ký trong các doanh nghiệp mới chỉ 799.400 người, giảm 17,4%. Có thêm khoảng 81.400 doanh nghiệp quay lại hoạt động; tổng số doanh nghiệp gia nhập thị trường hơn 243.600, giảm 4,8%.",
+      "Ở chiều ngược lại, gần 92.000 doanh nghiệp tạm ngừng kinh doanh (giảm 12,7%), nhưng số hoàn tất giải thể lên gần 56.300, tăng 109,8%. Bán buôn, bán lẻ có 21.673 doanh nghiệp giải thể (tăng 120,1%); vận tải kho bãi và xây dựng cũng tăng hơn gấp đôi.",
+      "Riêng tháng 10 có khoảng 12.600 doanh nghiệp mới với 254.800 tỷ đồng vốn, vốn bình quân 20,2 tỷ đồng/doanh nghiệp. Ngành xây dựng (+26,1%), sản xuất – phân phối điện, nước, khí (+46,8%) và vận tải kho bãi (+20,5%) là những lĩnh vực có số doanh nghiệp mới tăng mạnh.",
+      "Số lao động trong doanh nghiệp mới giảm mạnh là tín hiệu đáng chú ý cho thị trường tuyển dụng: doanh nghiệp mới thiên về vốn lớn, ít lao động hơn, trong khi làn sóng giải thể ở bán lẻ, dịch vụ có thể làm tăng số người tìm việc cuối năm."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Palantir doanh thu tăng 96%, mảng doanh nghiệp Mỹ lần đầu vượt chính phủ",
+     "summary": "Quý III/2026, Palantir đạt 2,31 tỷ USD doanh thu (+96%), doanh thu khách hàng doanh nghiệp tại Mỹ tăng 148% lên 984 triệu USD, lần đầu vượt mảng chính phủ. Công ty nâng dự báo cả năm lên 8,53 tỷ USD, nhưng cổ phiếu vẫn giảm vì lo định giá quá cao.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-blows-past-expectations-q3-234657297.html",
+     "tag": "Kết quả kinh doanh",
+     "detail": [
+      "Palantir – công ty Mỹ chuyên phần mềm phân tích dữ liệu và nền tảng AI cho chính phủ, doanh nghiệp – công bố doanh thu quý III đạt 2,31 tỷ USD, tăng 96% so với cùng kỳ; lợi nhuận điều chỉnh 0,44 USD/cổ phiếu, cao hơn mức 0,41 USD giới phân tích dự báo.",
+      "Lần đầu tiên trong lịch sử công ty, doanh thu từ khách hàng doanh nghiệp tại Mỹ (984 triệu USD, +148%) vượt doanh thu từ chính phủ Mỹ (953 triệu USD, +96%). Trong quý, Palantir ký 212 hợp đồng từ 1 triệu USD trở lên, trong đó 64 hợp đồng từ 10 triệu USD.",
+      "Công ty nâng dự báo doanh thu cả năm 2026 lên khoảng 8,53 tỷ USD, cao hơn kỳ vọng thị trường; riêng mảng doanh nghiệp Mỹ dự kiến vượt 3,56 tỷ USD (tăng ít nhất 143%). Doanh thu quý IV dự kiến khoảng 2,65 tỷ USD.",
+      "CEO Alex Karp mô tả nhu cầu của doanh nghiệp với các giải pháp AI của Palantir là 'cực lớn'; các hãng hàng không, bệnh viện đang dùng nền tảng này để ra quyết định vận hành phức tạp.",
+      "Dù vậy, cổ phiếu Palantir giảm khoảng 3% sau giờ giao dịch vì nhà đầu tư cho rằng giá đã phản ánh hết kết quả tốt. Đây là ví dụ cho tâm lý chung trên phố Wall lúc này: AI tăng trưởng thật, nhưng định giá cổ phiếu công nghệ đang bị soi kỹ hơn."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Phát Đạt nợ vay gấp 2,3 lần sau thương vụ Lotte Thủ Thiêm, lãi quý III giảm 88%",
+     "summary": "Nợ vay của Phát Đạt tăng từ 5.823 tỷ lên 13.638 tỷ đồng sau khi vay MB để mua 35% vốn chủ đầu tư dự án Lotte Eco Smart City Thủ Thiêm. Chi phí lãi vay quý III gấp 2,4 lần, lợi nhuận chỉ còn 10,2 tỷ đồng; công ty tính bán bớt sàn thương mại để giảm nợ.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/no-vay-gap-23-lan-sau-thuong-vu-lotte-phat-dat-co-the-thu-hang-nghin-ty-dong-tu-san-thuong-mai-thu-thiem-17626110308162719.chn",
+     "tag": "Bất động sản",
+     "detail": [
+      "Tháng 8/2026, Phát Đạt (mã PDR) hoàn tất mua 35% vốn Lotte Properties HCMC – chủ đầu tư dự án Lotte Eco Smart City Thủ Thiêm, tổng vốn khoảng 60.000 tỷ đồng. Thương vụ được tài trợ chủ yếu bằng ba khoản vay từ MB tổng 8.834 tỷ đồng, lãi suất bằng lãi tham chiếu cộng biên độ 3,37%/năm.",
+      "Kết quả là nợ vay tăng từ 5.823 tỷ đồng đầu năm lên 13.638 tỷ đồng vào 30/9, trong đó riêng MB chiếm khoảng 75%. Chi phí lãi vay quý III lên 180,1 tỷ đồng, gấp 2,4 lần cùng kỳ; lợi nhuận sau thuế quý chỉ 10,2 tỷ đồng, giảm 88%. Lũy kế 9 tháng mới đạt 27% kế hoạch năm.",
+      "Do khoản đầu tư được ghi nhận là công ty liên kết, chi phí lãi không được vốn hóa vào dự án mà trừ thẳng vào lợi nhuận. Bài báo ước tính từ quý IV, mỗi quý Phát Đạt có thể phải trả khoảng 280–340 tỷ đồng lãi, trong khi dự án thi công 36 tháng và khó có lãi trước cuối 2029.",
+      "Phát Đạt được cho là đang tính bán khoảng 20.000 m² sàn thương mại tại lô 2-1 của dự án, trị giá ước 'hàng nghìn tỷ đồng', để giảm áp lực nợ. Đây là ví dụ điển hình về rủi ro khi doanh nghiệp bất động sản dùng đòn bẩy cao cho dự án dài hạn trong bối cảnh lãi vay chưa giảm sâu."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Ba vận động viên Đà Nẵng giành 13 huy chương giải lặn Đông Nam Á",
+     "summary": "Tại Giải lặn vô địch Đông Nam Á 2026 ở Malaysia, ba vận động viên Đà Nẵng giành 9 HCV, 4 HCB. Riêng Vũ Sinh Hùng (lứa trẻ) đoạt 5 HCV; đội tuyển Việt Nam xếp nhất toàn đoàn với 92 HCV.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/van-dong-vien-da-nang-gianh-13-huy-chuong-tai-giai-lan-vo-dich-dong-nam-a-3357259.html",
+     "tag": "Thể thao Đà Nẵng",
+     "detail": [
+      "Giải lặn vô địch Đông Nam Á 2026 diễn ra tại Malaysia, thi đấu song song nội dung trẻ và tuyển. Đà Nẵng cử 3 vận động viên cùng huấn luyện viên Nguyễn Quang Minh tham gia trong thành phần đội tuyển Việt Nam gồm 46 vận động viên, thi đấu từ 27/10 đến 1/11.",
+      "Vũ Sinh Hùng (lứa trẻ) giành 5 HCV ở các cự ly 200m, 400m, 800m và hai nội dung tiếp sức 4x50m, 4x100m. Ở nội dung tuyển, Nguyễn Thị Hằng giành 3 HCV, 1 HCB; Nguyễn Thị Lan Vy giành 1 HCV, 3 HCB. Tổng cộng Đà Nẵng có 13 huy chương: 9 vàng, 4 bạc.",
+      "Đội tuyển lặn Việt Nam đứng đầu toàn đoàn với 92 HCV, 62 HCB và 6 HCĐ. Thành tích cho thấy lặn (bơi chân vịt) tiếp tục là thế mạnh của thể thao Đà Nẵng, đóng góp lực lượng nòng cốt cho đội tuyển quốc gia."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-03-1500",
    "date": "2026-11-03",
