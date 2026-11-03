@@ -1,6 +1,607 @@
 {
- "updated": "2026-11-02T19:05:00+07:00",
+ "updated": "2026-11-03T07:07:15+07:00",
  "editions": [
+  {
+   "id": "2026-11-03-0700",
+   "date": "2026-11-03",
+   "slot": "07:00",
+   "createdAt": "2026-11-03T07:07:15+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "biz",
+     "title": "ECCO Việt Nam giải thể, hơn 1.600 công nhân nhà máy giày mất việc",
+     "summary": "Hãng giày Đan Mạch ECCO dừng toàn bộ sản xuất tại nhà máy ở KCN Bàu Bàng (TP.HCM) từ chiều 2/11 và tiến hành giải thể công ty. Hợp đồng của phần lớn trong hơn 1.600 công nhân chấm dứt chậm nhất 30/11 — tín hiệu đáng chú ý về làn sóng cắt giảm trong ngành da giày cuối năm.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/ecco-viet-nam-giai-the-dung-hoat-dong-nha-may-giay-co-hon-1600-cong-nhan-100261102191358722.htm",
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/2/eccovietnam2-1793621345061611662578-234-0-785-1053-crop-1793621465956875053602.jpg",
+     "detail": [
+      "Công ty TNHH ECCO Việt Nam, đặt nhà máy tại khu công nghiệp Bàu Bàng (nay thuộc xã Bàu Bàng, TP.HCM, trước đây là Bình Dương), đã ngừng toàn bộ hoạt động sản xuất giày từ 14h ngày 2/11/2026. Quyết định giải thể do chủ sở hữu duy nhất là ECCO Sko A/S (Đan Mạch) ký ngày 30/10, và được giám đốc nhà máy công bố trực tiếp với công nhân trong buổi họp chiều 2/11.",
+      "Nhà máy có hơn 1.600 lao động (báo cáo công đoàn năm 2025 ghi 1.620 người). Hợp đồng của những người không được giữ lại sẽ chấm dứt vào ngày 30/11, hoặc sớm hơn nếu hợp đồng hết hạn trước; chỉ một số ít người ở lại vài tháng để làm thủ tục giải thể. Công ty cam kết trả đủ lương còn nợ, tiền phép năm chưa nghỉ và các khoản theo luật, đồng thời chi thêm một khoản hỗ trợ thiện chí, chốt và trả sổ bảo hiểm xã hội cho từng người.",
+      "Về nguyên nhân, ECCO cho biết nhu cầu sụt giảm nhiều năm và tập đoàn đang tái cấu trúc mạng lưới sản xuất toàn cầu do dư thừa công suất, nên dồn sản xuất về một số nhà máy hiện có. Phó trưởng Ban quản lý các KCX-KCN TP.HCM (HEPZA) cho biết doanh nghiệp đóng cửa ở Việt Nam để mở rộng nhà máy chính tại Đan Mạch và không nợ bảo hiểm xã hội.",
+      "HEPZA đã họp với công đoàn và chính quyền địa phương ngay chiều 2/11 để bàn quyền lợi người lao động, sẽ hướng dẫn thủ tục giải thể và kết nối công nhân với các doanh nghiệp lân cận đang tuyển. Hội Da giày TP.HCM nhận định cả ngành đang gặp đơn hàng chậm, thị trường xuất khẩu bất ổn và chi phí tăng.",
+      "Với người làm nhân sự, đây là ví dụ cụ thể về quy trình chấm dứt hợp đồng hàng loạt khi doanh nghiệp giải thể: thông báo, thời hạn kết thúc hợp đồng, các khoản phải trả và việc chốt sổ BHXH. Nguồn lao động ngành giày có tay nghề từ nhà máy này cũng có thể trở thành nguồn tuyển dụng cho các doanh nghiệp đang thiếu người dịp cuối năm."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng SJC giữ 137–140 triệu đồng/lượng, thế giới bật tăng gần 70 USD",
+     "summary": "Sáng 3/11, vàng miếng SJC niêm yết 137 triệu đồng/lượng mua vào, 140 triệu đồng/lượng bán ra. Giá thế giới hồi phục mạnh lên khoảng 3.944 USD/ounce, tăng 68 USD, sau khi rơi xuống dưới 3.900 USD tuần trước. Người mua vàng nên lưu ý chênh lệch mua – bán vẫn 3–4 triệu đồng/lượng.",
+     "source": "VietNamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-3-11-the-gioi-tang-vot-vang-trong-nuoc-co-co-hoi-but-pha-2570807.html",
+     "detail": [
+      "Theo bảng giá cập nhật lúc 6 giờ sáng 3/11, vàng miếng SJC tại TP.HCM được mua vào 137 triệu đồng/lượng và bán ra 140 triệu đồng/lượng, ngang mức đã lên vào sáng 2/11. Doji niêm yết 135–139 triệu đồng/lượng, Bảo Tín Mạnh Hải (Kim Gia Bảo) 134,5–138,5 triệu đồng/lượng. Chênh lệch giữa giá mua và giá bán là 3 triệu đồng ở SJC và 4 triệu đồng ở hai thương hiệu còn lại. Nghĩa là người mua rồi bán lại ngay sẽ lỗ khoản này.",
+      "Trên thị trường thế giới, vàng giao ngay lên khoảng 3.944 USD/ounce lúc 21h30 tối 2/11 (giờ Việt Nam), tăng 68 USD. Hợp đồng kỳ hạn tháng 12 quanh 3.951 USD/ounce. Theo Reuters, giá giao ngay tăng 1,74% trong phiên 2/11, sau khi có lúc rơi xuống dưới 3.900 USD/ounce trong tuần trước vì đợt bán tháo.",
+      "Động lực hồi phục đến từ tín hiệu ngoại giao mới giữa Mỹ và Iran khiến giá dầu giảm hơn 4%, làm dịu lo ngại lạm phát. Chỉ số USD giảm nhẹ về 101,5 điểm. Tuy vậy, khả năng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất vào tháng 12 và cuộc bầu cử giữa kỳ Mỹ ngày 3/11 vẫn khiến nhà đầu tư thận trọng.",
+      "Chuyên gia kim loại quý Jesse Colombo cho rằng vàng đang thử vùng hỗ trợ 3.900–4.000 USD/ounce. Nếu giá đóng cửa thủng vùng này với khối lượng lớn, áp lực bán có thể kéo giá về quanh 3.500 USD/ounce. Với người mua tích trữ trong nước, giá biến động mạnh cộng chênh lệch mua – bán lớn là rủi ro cần tính trước khi xuống tiền."
+     ],
+     "figure": {
+      "value": "140 triệu",
+      "label": "SJC bán ra (đồng/lượng), sáng 3/11",
+      "delta": "Thế giới +68 USD/ounce",
+      "dir": "up",
+      "spark": [
+       139,
+       140,
+       140
+      ]
+     }
+    },
+    {
+     "cat": "fin",
+     "title": "Khối ngoại xả ngân hàng, công ty chứng khoán cảnh báo VN-Index có thể về 1.650",
+     "summary": "Phiên 2/11, khối ngoại bán ròng khoảng 453 tỷ đồng, tập trung vào MBB, VCB, ACB, STB. Cho phiên 3/11, nhiều công ty chứng khoán cho rằng nếu thủng mốc 1.700 điểm, chỉ số có thể về vùng 1.650–1.680. Phần lớn khuyên giữ tỷ trọng tiền mặt cao, chưa vội bắt đáy.",
+     "source": "Người Quan Sát",
+     "url": "https://nguoiquansat.vn/nhan-dinh-thi-truong-3-11-vn-index-co-nguy-co-lui-sau-kiem-dinh-vung-day-1-650-diem-325755.html",
+     "detail": [
+      "VN-Index đóng cửa phiên 2/11 quanh 1.711 điểm, mất 31 điểm, với giá trị giao dịch trên HoSE khoảng 15.900 tỷ đồng. Theo CafeF, khối ngoại bán ròng khoảng 453 tỷ đồng trên toàn thị trường, riêng HoSE bán ròng khoảng 523 tỷ đồng. Bốn mã ngân hàng MBB (182 tỷ), VCB (155 tỷ), ACB (118 tỷ) và STB (106 tỷ) bị bán ròng tổng cộng khoảng 560 tỷ đồng. Chiều ngược lại, MSN được mua ròng khoảng 90 tỷ đồng.",
+      "Nhóm bi quan gồm TPS, Yuanta và Chứng khoán Asean. TPS cho rằng chỉ số có thể thử lại 1.677 và 1.651 điểm, là đáy tháng 10 và tháng 7, thấp hơn mức đóng cửa khoảng 1,9–3,5%. Yuanta dự báo khả năng về 1.680 điểm trong tuần và khuyên giảm tỷ trọng cổ phiếu xuống khoảng 30%, giữ 70% tiền mặt. Asean chỉ ra chỉ số đã thủng đường trung bình 10 và 20 phiên, tức xu hướng ngắn hạn suy yếu.",
+      "Nhóm trung lập gồm Chứng khoán Bảo Việt và Kafi. Hai công ty cho rằng thị trường có thể tích lũy quanh 1.700 điểm, kháng cự gần nhất ở khoảng 1.735 điểm. Tuy nhiên, nếu mất mốc 1.700, rủi ro điều chỉnh sâu về vùng 1.650–1.680 sẽ tăng.",
+      "Khuyến nghị chung là không bắt đáy sớm, tránh dùng vay ký quỹ (margin) và chỉ mua chọn lọc những mã khỏe hơn thị trường khi có tín hiệu cân bằng rõ, thanh khoản cải thiện. Với nhà đầu tư cá nhân, đây là giai đoạn ưu tiên quản trị rủi ro hơn tìm lợi nhuận nhanh."
+     ],
+     "image": "https://nqs.1cdn.vn/thumbs/1200x630/2026/11/02/43D9_vn-index.jpg"
+    },
+    {
+     "cat": "vn",
+     "title": "Mỹ bầu cử giữa kỳ 3/11: toàn bộ 435 ghế Hạ viện, 35 ghế Thượng viện",
+     "summary": "Ngày 3/11 (giờ Mỹ), cử tri Mỹ bầu lại toàn bộ 435 ghế Hạ viện và 35 ghế Thượng viện, được xem là phép thử với Tổng thống Trump. Đảng Dân chủ chỉ cần giành thêm 3 ghế để nắm Hạ viện và 4 ghế để nắm Thượng viện; thăm dò NPR/PBS/Marist cho thấy họ dẫn 52% so với 44%. Kết quả sẽ quyết định chính sách thuế quan, ngân sách Mỹ trong hai năm cuối nhiệm kỳ.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/cuoc-canh-tranh-quyen-luc-post1399242.html",
+     "detail": [
+      "Cuộc bầu cử giữa nhiệm kỳ ngày 3/11/2026 bầu lại toàn bộ 435 ghế Hạ viện, 35 ghế Thượng viện cùng nhiều chức vụ cấp bang. Đây là phép thử lớn với Tổng thống Donald Trump sau gần hai năm cầm quyền.",
+      "Hiện phe Cộng hòa giữ 53 ghế Thượng viện, phe Dân chủ và hai nghị sĩ độc lập liên minh có 47 ghế, nên Dân chủ cần thêm 4 ghế để giành quyền kiểm soát. Ở Hạ viện, Cộng hòa có 218 ghế, Dân chủ 214, một nghị sĩ độc lập đứng về Cộng hòa và hai ghế trống; Dân chủ chỉ cần thêm ít nhất 3 ghế để chiếm đa số.",
+      "Thăm dò của NPR/PBS News/Marist công bố ngày 27/10 cho thấy 52% cử tri có khả năng đi bầu nghiêng về ứng viên Dân chủ, so với 44% cho Cộng hòa. Tuy vậy, Cook Political Report đánh giá các cuộc đua Thượng viện ở Alaska, Iowa, Kansas, Maine, Michigan, Ohio và Texas vẫn quá sát sao, và tỷ lệ toàn quốc không chuyển thẳng thành số ghế.",
+      "Chi phí sinh hoạt là mối lo hàng đầu của cử tri: lạm phát tháng 9 ở mức 3,6%, thất nghiệp 4,2%, dù GDP quý 3 tăng 3,4%. Cộng hòa nhấn mạnh an ninh biên giới và khai thác nhiên liệu hóa thạch trong nước, còn Dân chủ tập trung vào giá cả và trách nhiệm giải trình của chính phủ.",
+      "Nếu Cộng hòa giữ cả hai viện, chương trình nghị sự của ông Trump sẽ ít bị cản trở. Nếu Dân chủ thắng ít nhất một viện, Quốc hội Mỹ sẽ tăng giám sát, mở điều trần về thương mại, thuế quan và có thể xảy ra bế tắc ngân sách — điều đáng theo dõi với doanh nghiệp xuất khẩu Việt Nam sang Mỹ."
+     ],
+     "tag": "Bầu cử Mỹ 3/11"
+    },
+    {
+     "cat": "ai",
+     "title": "Marvell mua Lumentum giá 115 tỷ USD, thương vụ lớn bậc nhất lịch sử công nghệ",
+     "summary": "Hãng chip Marvell mua lại Lumentum, nhà sản xuất linh kiện quang (laser, cáp quang) cho trung tâm dữ liệu AI, với giá trị 115 tỷ USD tính cả nợ, trả hoàn toàn bằng cổ phiếu. Thương vụ lớn hơn cả vụ Microsoft mua Activision (68,7 tỷ USD), cho thấy cuộc đua hạ tầng AI vẫn rất nóng dù cổ phiếu chip đang bị bán tháo.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+     "detail": [
+      "Ngày 2/11, Marvell, công ty Mỹ chuyên thiết kế chip theo đơn đặt hàng, công bố mua lại Lumentum, hãng sản xuất chip quang và thiết bị mạng. Giá trị doanh nghiệp của thương vụ là 115 tỷ USD (đã gồm nợ). Đây được xem là một trong những vụ mua bán lớn nhất lịch sử ngành công nghệ, vượt xa vụ Microsoft mua Activision Blizzard (68,7 tỷ USD) năm 2022 hay Dell mua EMC (67 tỷ USD) năm 2016.",
+      "Thương vụ trả hoàn toàn bằng cổ phiếu: mỗi cổ phiếu Lumentum đổi lấy 4,5 cổ phiếu Marvell, tương đương mức giá cao hơn khoảng 23,9% so với giá đóng cửa trước khi tin đàm phán bị lộ. Sau giao dịch, cổ đông Lumentum sẽ nắm khoảng 33% công ty hợp nhất. Hội đồng quản trị hai bên đã nhất trí, nhưng thương vụ còn chờ cổ đông và cơ quan quản lý phê duyệt, dự kiến hoàn tất trong nửa đầu năm 2028.",
+      "Lý do chính nằm ở AI. Các trung tâm dữ liệu AI cần truyền lượng dữ liệu khổng lồ giữa hàng nghìn con chip, và công nghệ kết nối quang (dùng ánh sáng truyền qua cáp quang thay cho tín hiệu điện qua dây đồng) nhanh hơn, tốn ít điện hơn. Marvell giỏi chip và mạng, còn Lumentum mạnh về laser và linh kiện quang; ghép lại, Marvell muốn thành công ty dẫn đầu về \"kết nối AI\", từ con chip tới thiết bị trong trung tâm dữ liệu.",
+      "Theo các báo cáo đi kèm, Marvell kỳ vọng mảng kết nối mang về khoảng 37,5 tỷ USD doanh thu vào năm tài chính 2031 và cho rằng thị trường này tăng khoảng 65% mỗi năm. Tổng giám đốc Marvell Matt Murphy gọi đây là cơ hội \"chỉ đến một lần trong một thế hệ\". Thương vụ cũng giúp Marvell cạnh tranh mạnh hơn với Broadcom, đối thủ lớn trong mảng chip đặt riêng cho các hãng như Google.",
+      "Đáng chú ý, Nvidia là cổ đông lớn ở cả hai công ty: hồi tháng 3/2026, Nvidia đã rót 2 tỷ USD vào mỗi bên. Vụ sáp nhập diễn ra đúng lúc cổ phiếu chip và AI đang bị bán mạnh vì lo ngại \"bong bóng AI\", cho thấy các doanh nghiệp lớn vẫn đặt cược dài hạn rằng chi tiêu cho hạ tầng AI sẽ còn tăng.",
+      "Với người lao động và doanh nghiệp, tin này phản ánh một xu hướng: tiền đầu tư AI đang dồn mạnh vào phần \"hạ tầng\" (chip, mạng, điện) chứ không chỉ phần mềm. Các ngành liên quan như bán dẫn, linh kiện điện tử, nơi Việt Nam đang thu hút FDI, có thể tiếp tục hưởng lợi từ làn sóng này."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Du lịch Đà Nẵng 10 tháng: hơn 17 triệu lượt khách lưu trú, tăng 24,5%",
+     "summary": "10 tháng năm 2026, cơ sở lưu trú ở Đà Nẵng đón khoảng 17,09 triệu lượt khách, tăng 24,5% so với cùng kỳ; doanh thu lưu trú, ăn uống đạt khoảng 58.365 tỷ đồng, tăng 25,7%. Riêng tháng 10, khách quốc tế tăng 10,7% so với tháng trước dù đang mùa thấp điểm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/hoat-dong-du-lich-tren-dia-ban-thanh-pho-duy-tri-da-tang-truong-3357147.html",
+     "tag": "Khách tăng 24,5%",
+     "detail": [
+      "Theo báo cáo kinh tế – xã hội tháng 10/2026, hoạt động du lịch Đà Nẵng tiếp tục tăng so với cùng kỳ, dù giảm nhẹ so với tháng trước do yếu tố mùa vụ. Doanh thu lưu trú và ăn uống tháng 10 đạt 5.916 tỷ đồng, giảm 0,4% so với tháng 9 nhưng tăng 32,9% so với cùng kỳ; trong đó lưu trú 1.708 tỷ đồng (tăng 23,4%), ăn uống 4.208 tỷ đồng (tăng 37,1%).",
+      "Cộng dồn 10 tháng, doanh thu lưu trú, ăn uống đạt khoảng 58.365 tỷ đồng, chiếm 22,2% tổng mức bán lẻ hàng hóa và dịch vụ tiêu dùng của thành phố, tăng 25,7%. Riêng lưu trú đạt 18.379 tỷ đồng (tăng 22%), ăn uống 39.986 tỷ đồng (tăng 27,5%).",
+      "Về lượng khách, tháng 10 các cơ sở lưu trú đón khoảng 1,47 triệu lượt, tăng 25,5% so với cùng kỳ; khách quốc tế 732.300 lượt, tăng 10,7% so với tháng trước, còn khách nội địa giảm 9,1% so với tháng 9 nhưng tăng 50,6% so với cùng kỳ. Tính chung 10 tháng, tổng lượt khách lưu trú khoảng 17,09 triệu, tăng 24,5%; khách quốc tế 8,3 triệu (tăng 24,1%), nội địa 8,78 triệu (tăng 24,9%).",
+      "Du lịch và dịch vụ ăn uống đang là động lực lớn của kinh tế thành phố, tạo nhiều việc làm thời vụ cuối năm trong khách sạn, nhà hàng. Đà tăng ổn định của khách quốc tế ngay trong mùa mưa là tín hiệu tích cực cho nhu cầu tuyển dụng ngành dịch vụ dịp lễ hội cuối năm và Tết."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Giá dầu thế giới lao dốc 7–8% khi Mỹ và Iran phát tín hiệu đàm phán",
+     "summary": "Sáng 3/11 (giờ VN), dầu WTI giảm 7,4% xuống 96,46 USD/thùng, Brent giảm 8% còn 104,29 USD/thùng, mức giảm trong ngày mạnh nhất từ cuối tháng 7. Nếu xu hướng giữ được, giá xăng dầu trong nước ở các kỳ điều hành tới có thêm dư địa giảm.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dau-tho-sap-gia-18826110306182015.chn",
+     "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/2/images-23-17936614587581431954761-0-0-424-679-crop-17936614636031695462506.jpg",
+     "detail": [
+      "Giá dầu thô thế giới bất ngờ giảm sâu trong phiên giao dịch kết thúc rạng sáng 3/11 theo giờ Việt Nam. Dầu WTI của Mỹ mất 7,4%, đóng cửa ở 96,46 USD/thùng, còn dầu Brent giảm 8% xuống 104,29 USD/thùng. Đây là phiên giảm mạnh nhất của WTI kể từ ngày 27/7, sau khi giá dầu đã tăng hơn 10% trong tháng 10.",
+      "Nguyên nhân chính là lãnh đạo Mỹ và Iran cùng phát tín hiệu sẵn sàng tìm lối ra ngoại giao cho cuộc xung đột đã làm rối loạn thị trường năng lượng suốt khoảng 8 tháng qua. Phía Mỹ cho rằng Iran muốn đạt thỏa thuận và Washington không muốn dùng vũ lực. Phía Iran nói sẵn sàng đối thoại nếu Mỹ thể hiện thiện chí như dỡ bỏ trừng phạt, giảm hiện diện quân sự và chấm dứt phong tỏa.",
+      "Giới phân tích nhận định phần lớn đà tăng gần đây của dầu là 'phí rủi ro', tức khoản giá cộng thêm do lo ngại chiến sự làm gián đoạn nguồn cung. Tuy vậy, một chuyên gia của TD Securities cho rằng khi xung đột chưa có kết cục, các vụ tấn công tàu chở dầu vẫn tiếp diễn, khoản phí này khó biến mất hoàn toàn chỉ nhờ tin ngoại giao.",
+      "Với Việt Nam, giá dầu thế giới là căn cứ chính để điều chỉnh giá xăng dầu trong nước mỗi kỳ. Nếu mức giá thấp hơn được duy trì, người dân và doanh nghiệp vận tải có thể được hưởng lợi ở các kỳ điều hành tới, đồng thời áp lực lạm phát cuối năm cũng nhẹ bớt."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Quốc hội hôm nay bàn sửa Luật Điện lực, Sở hữu trí tuệ, Đấu giá",
+     "summary": "Ngày 3/11, Quốc hội thảo luận tại hội trường bốn dự án luật kinh tế: Luật Trưng mua, trưng dụng tài sản, Luật Sở hữu trí tuệ (buổi sáng), Luật Đấu giá tài sản và Luật Điện lực (buổi chiều). Hôm qua 2/11, 56 lượt đại biểu đã góp ý bốn dự án gồm Luật Đầu tư, hiến tạng, Luật sư và Nuôi con nuôi. Các luật này tác động trực tiếp đến giá điện, quyền tác giả và đấu giá đất, tài sản.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/ngay-311-quoc-hoi-thao-luan-du-an-luat-dau-gia-tai-san-sua-doi-post1399360.html",
+     "detail": [
+      "Kỳ họp thứ 2, Quốc hội khóa XVI bước sang ngày làm việc thứ 16 với phiên thảo luận tại hội trường về các dự án luật thuộc lĩnh vực kinh tế. Buổi sáng 3/11 bàn Luật Trưng mua, trưng dụng tài sản (sửa đổi) do Bộ trưởng Tài chính giải trình, và Luật sửa đổi một số điều của Luật Sở hữu trí tuệ do Bộ trưởng Khoa học và Công nghệ giải trình.",
+      "Buổi chiều, Quốc hội thảo luận Luật Đấu giá tài sản (sửa đổi), Bộ trưởng Tư pháp Hoàng Thanh Tùng giải trình, và Luật sửa đổi một số điều của Luật Điện lực, Bộ trưởng Công Thương giải trình. Đấu giá tài sản liên quan trực tiếp đến đấu giá quyền sử dụng đất, biển số xe, tài sản công; còn Luật Điện lực liên quan đến đầu tư nguồn, lưới điện và cơ chế giá điện.",
+      "Theo Thông cáo báo chí số 15, ngày 2/11 Quốc hội đã dành trọn ngày cho bốn dự án: Luật Đầu tư (15 đại biểu phát biểu), Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến xác (10 đại biểu), Luật Luật sư và Luật Nuôi con nuôi (31 đại biểu phát biểu, 3 đại biểu tranh luận).",
+      "Ở Luật Nuôi con nuôi, đại biểu quan tâm điều kiện và thứ tự ưu tiên người nhận con nuôi, quyền thừa kế của trẻ và số hóa thủ tục; ở Luật Luật sư, các vấn đề nổi bật là kỳ thi quốc gia về luật sư, điều kiện hành nghề của luật sư nước ngoài và kỷ luật nghề nghiệp. Các dự án sẽ tiếp tục được chỉnh lý trước khi trình thông qua."
+     ],
+     "tag": "Kỳ họp thứ 2"
+    },
+    {
+     "cat": "know",
+     "title": "Từ 1/1/2027 cấm nhập khẩu điện thoại, máy tính, máy ảnh đã qua sử dụng",
+     "summary": "Thông tư 63/2026 của Bộ Khoa học và Công nghệ cấm nhập khẩu nhiều loại thiết bị số, điện tử đã qua sử dụng từ 1/1/2027, kể cả hàng đã tân trang, sửa chữa. Quy định ảnh hưởng trực tiếp tới thị trường điện thoại, laptop 'hàng cũ nhập khẩu' và người mua.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/tu-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-100261102115347102.htm",
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/2/iphonecu2-17935951334291778568417.png",
+     "detail": [
+      "Bộ Khoa học và Công nghệ vừa ban hành Thông tư 63/2026, đưa ra danh mục sản phẩm công nghệ số, điện tử đã qua sử dụng bị cấm nhập khẩu vào Việt Nam. Thông tư có hiệu lực từ ngày 1/1/2027.",
+      "Danh mục gồm máy tính và các bộ phận chức năng (mã HS 8470, 8471), điện thoại di động, điện thoại thông minh và thiết bị truyền nhận dữ liệu (HS 8517); micro, loa, tai nghe, bộ khuếch đại âm thanh; máy ảnh số, máy quay; thiết bị radar, định vị, điều khiển từ xa không dây; màn hình, máy chiếu, máy thu hình. Linh kiện, phụ kiện đã qua sử dụng của các sản phẩm này cũng bị cấm. Mã HS là mã phân loại hàng hóa dùng khi làm thủ tục hải quan.",
+      "Điểm đáng chú ý là hàng đã tân trang, sửa chữa hoặc thay thế linh kiện để có chức năng, hình thức tương đương hàng mới vẫn bị cấm nếu thuộc mã HS trong danh mục. Ngoại lệ dành cho máy móc dùng trực tiếp trong dự án sản xuất, đóng gói, kiểm thử chip bán dẫn hoặc phục vụ đào tạo, nghiên cứu, nếu đáp ứng điều kiện pháp luật; hàng đã được cấp phép nhập trước 1/1/2027 được tiếp tục theo giấy phép.",
+      "Với người tiêu dùng, nguồn điện thoại, laptop 'like new' nhập khẩu chính ngạch sẽ thu hẹp từ năm sau, nên khi mua hàng cũ cần hỏi rõ nguồn gốc, hóa đơn để tránh hàng nhập lậu. Doanh nghiệp đang có kế hoạch nhập thiết bị cũ cho văn phòng hoặc sản xuất nên rà soát lại trước thời điểm thông tư có hiệu lực."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic chuẩn bị IPO, định bán 3,5 tỷ USD cổ phiếu cho nhà đầu tư Nhật",
+     "summary": "Hồ sơ nộp tại Nhật ngày 2/11 cho thấy Anthropic, công ty làm ra trợ lý AI Claude, định bán tới 552,9 tỷ yên (khoảng 3,5 tỷ USD) cổ phiếu cho nhà đầu tư Nhật trong đợt niêm yết tại Mỹ. Một số nhà đầu tư bàn mức định giá khoảng 1.500 tỷ USD, có thể thành một trong những đợt IPO AI lớn nhất từ trước tới nay.",
+     "source": "Reuters (qua Investing.com)",
+     "url": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-sell-35-billion-of-shares-to-japan-investors-in-ipo-filing-shows-4989963",
+     "tag": "IPO 3,5 tỷ USD",
+     "detail": [
+      "Anthropic, công ty Mỹ phát triển trợ lý AI Claude và là đối thủ chính của OpenAI, đang chuẩn bị IPO, tức lần đầu bán cổ phiếu ra công chúng trên sàn chứng khoán Mỹ. Theo hồ sơ công bố tại Tokyo ngày 2/11, công ty dự định phân bổ tối đa 552,9 tỷ yên, khoảng 3,5 tỷ USD, cổ phiếu cho nhà đầu tư Nhật Bản trong đợt này.",
+      "Tiền thu được từ phần cổ phiếu mới bán cho nhà đầu tư Nhật sẽ dùng làm vốn lưu động, chi phí hoạt động và chi đầu tư. Mizuho Securities đứng ra quản lý đợt bán tại Nhật, cùng các ngân hàng lớn như Goldman Sachs và các công ty chứng khoán liên doanh với Morgan Stanley nhận đăng ký mua.",
+      "Hồ sơ không nêu tổng quy mô đợt IPO hay mức định giá. Tuy nhiên, Reuters từng đưa tin một số nhà đầu tư đã bàn tới mức định giá khoảng 1.500 tỷ USD, tức ngang các tập đoàn công nghệ lớn nhất thế giới. Để so sánh, trong đợt IPO kỷ lục 75 tỷ USD của SpaceX hồi tháng 6, nhà đầu tư Nhật chỉ mua 2,2 tỷ USD; con số 3,5 tỷ USD của Anthropic vì vậy được coi là rất lớn.",
+      "Thời điểm này khá nhạy cảm: cổ phiếu AI và chip đang bị bán tháo, OpenAI được cho là đã hạ mục tiêu gọi vốn. Việc Anthropic vẫn xúc tiến IPO quy mô lớn cho thấy nhà đầu tư vẫn tin vào các công ty làm mô hình AI hàng đầu, dù thị trường lo ngại về bong bóng.",
+      "Với người dùng phổ thông, một Anthropic niêm yết sẽ phải công khai tài chính minh bạch hơn và chịu áp lực tăng doanh thu, điều có thể ảnh hưởng tới giá và chính sách các gói Claude trong tương lai. Đây cũng là tín hiệu cho thấy cuộc cạnh tranh giữa các công ty AI lớn đang chuyển sang giai đoạn huy động vốn đại chúng."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng có 670 khu mỏ vật liệu, chỉ 41 khu được cấp phép khai thác",
+     "summary": "Chiều 2/11, Ban Đô thị HĐND thành phố họp hoàn thiện báo cáo giám sát về khai thác khoáng sản làm vật liệu xây dựng thông thường. Theo quy hoạch có 670 khu mỏ, nhưng đến 12/8/2026 mới 41 khu còn giấy phép hiệu lực. Thành phố yêu cầu làm rõ việc đấu giá mỏ đẩy giá vật liệu lên và đề xuất cách hạ giá thành cho các dự án trọng điểm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/bo-sung-nguon-cung-vat-lieu-xay-dung-phuc-vu-cac-du-an-trong-diem-3357199.html",
+     "tag": "Hạ tầng",
+     "detail": [
+      "Chiều 2/11, Trưởng Ban Đô thị HĐND thành phố Lê Tùng Lâm chủ trì cuộc họp góp ý dự thảo báo cáo giám sát chuyên đề về quy hoạch, quản lý, khai thác và sử dụng khoáng sản làm vật liệu xây dựng thông thường (đất, đá, cát san lấp). Phó Chủ tịch UBND thành phố Trần Phước Sơn dự và chỉ đạo. Đợt giám sát xem xét giai đoạn từ 1/1/2024 đến 20/5/2026, làm việc trực tiếp với 5 đơn vị và nghiên cứu báo cáo của 15 cơ quan liên quan.",
+      "Theo quy hoạch thời kỳ 2021–2030, tầm nhìn 2050, Đà Nẵng có 670 khu vực mỏ vật liệu xây dựng thông thường. Tuy nhiên, tính đến ngày 12/8/2026 chỉ có 41 khu vực còn giấy phép khai thác hiệu lực, tức nguồn cung thực tế rất hạn chế so với quy hoạch. Báo cáo chỉ ra nhiều hạn chế: dự báo nhu cầu, đấu giá và quản lý nguồn cung còn yếu; thủ tục cấp phép vướng mắc; kiểm soát ranh giới khai thác và trữ lượng còn lỏng lẻo. Có nơi như cánh đồng Bàu Tong (xã Hòa Vang) bị bỏ hoang sau khi doanh nghiệp khai thác xong mà không hoàn thổ.",
+      "Phó Chủ tịch Trần Phước Sơn yêu cầu báo cáo phải làm rõ việc đấu giá mỏ ảnh hưởng thế nào đến thị trường và làm giá vật liệu tăng, đánh giá năng lực của doanh nghiệp trúng đấu giá. Ông cũng đề nghị xem xét liệu quy hoạch cứng nhắc và thủ tục hành chính có đang trở thành rào cản làm giảm nguồn cung, đội chi phí hay không; từ đó kiến nghị phân cấp, điều chỉnh mốc quy hoạch và có giải pháp đặc thù để hạ giá vật liệu.",
+      "Ban Đô thị sẽ tiếp thu, hoàn chỉnh báo cáo để trình Thường trực HĐND thành phố. Thiếu đất, đá san lấp là nguyên nhân khiến nhiều dự án giao thông, tái định cư chậm tiến độ và đội vốn; nếu tháo gỡ được, các công trình trọng điểm và dự án nhà ở có thể giảm chi phí, tác động trực tiếp tới giá nhà và tiến độ hạ tầng mà người dân đang chờ."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Bộ trưởng Tài chính: cần thu hút 30–40 tỷ USD FDI giải ngân mỗi năm",
+     "summary": "Giải trình trước Quốc hội ngày 2/11 về sửa Luật Đầu tư, Bộ trưởng Ngô Văn Tuấn cho biết để tăng trưởng từ 10% trở lên, vốn đầu tư toàn xã hội phải gấp khoảng 2,21 lần giai đoạn 2021–2025. Việt Nam đang cạnh tranh gay gắt với Philippines, Malaysia, Ấn Độ ở ngành điện tử, chip.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/cuoc-dua-thu-hut-fdi-tang-nhiet-philippines-malaysia-an-do-deu-nhap-cuoc-canh-tranh-bo-truong-bo-tai-chinh-noi-gi-ve-muc-tieu-thu-hut-30-40-ty-usd-nam-von-giai-ngan-cua-viet-nam-176261102133719884.chn",
+     "tag": "Luật Đầu tư sửa đổi",
+     "detail": [
+      "Sáng 2/11, sau phần thảo luận của đại biểu, Bộ trưởng Bộ Tài chính Ngô Văn Tuấn đã giải trình trước Quốc hội về dự án sửa đổi Luật Đầu tư. Luật này đã qua 16 lần sửa đổi; ông giải thích các lần trước chủ yếu để cắt giảm thủ tục, còn lần này nhằm khơi thông nguồn lực và huy động vốn cho tăng trưởng, đồng thời thể chế hóa Nghị quyết 10 của Bộ Chính trị về khu vực có vốn đầu tư nước ngoài (FDI).",
+      "Theo Bộ trưởng, để đạt mục tiêu tăng trưởng từ 10% trở lên, tổng vốn đầu tư toàn xã hội cần tăng khoảng 2,21 lần so với giai đoạn 2021–2025. Riêng FDI, Việt Nam cần bình quân 30–40 tỷ USD vốn giải ngân mỗi năm; ông nhấn mạnh đây là tiền thực sự rót vào, không phải vốn đăng ký trên giấy.",
+      "Ông nhận định cuộc cạnh tranh thu hút đầu tư đang 'hết sức gay gắt'. Philippines, Malaysia đưa ra ưu đãi cho đúng các ngành Việt Nam đang nhắm tới như điện tử, máy tính, điện thoại, chip bán dẫn; Ấn Độ hỗ trợ trực tiếp doanh nghiệp để trở thành trung tâm sản xuất điện thoại thế giới.",
+      "Hướng sửa luật là ưu đãi tập trung cho công nghệ cao, đổi mới sáng tạo, chuyển giao công nghệ và gắn với tỷ lệ nội địa hóa. Hỗ trợ phải đo đếm được theo kết quả đầu ra, và luật sẽ quy định rõ việc chấm dứt ưu đãi nếu nhà đầu tư không làm đúng cam kết. Với người lao động, dòng vốn chất lượng cao hơn đồng nghĩa nhu cầu lớn hơn về kỹ sư, kỹ thuật viên có tay nghề."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Làm cho công ty nước ngoài: phải học chương trình pháp luật trong 6 tháng",
+     "summary": "Theo Nghị định 371 có hiệu lực từ 15/11, người Việt làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam phải hoàn thành chương trình phổ biến pháp luật trong 6 tháng kể từ khi ký hợp đồng. Người lao động cũng phải nộp hồ sơ quản lý trong 10 ngày làm việc sau khi ký hợp đồng. Bộ phận nhân sự ở doanh nghiệp, văn phòng nước ngoài cần nắm để hướng dẫn nhân viên.",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/noi-vu/nguoi-viet-lam-cong-ty-nuoc-ngoai-phai-hoan-thanh-chuong-trinh-phap-luat-20261102151811204.htm",
+     "detail": [
+      "Nghị định số 371 của Chính phủ quy định chi tiết việc tuyển dụng và quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam, có hiệu lực từ ngày 15/11. Bản tin trước đã nêu yêu cầu bên nước ngoài phải công khai tin tuyển dụng trên Sàn giao dịch việc làm quốc gia. Điểm mới đáng chú ý ở bài này là các nghĩa vụ đặt lên chính người lao động.",
+      "Trong vòng 6 tháng kể từ khi ký hợp đồng, người lao động phải hoàn thành chương trình tuyên truyền, phổ biến chính sách, pháp luật của Nhà nước. Họ còn phải nộp hồ sơ quản lý trong 10 ngày làm việc kể từ ngày ký hợp đồng. Hồ sơ gồm phiếu thông tin cá nhân, bản sao hợp đồng lao động và giấy chứng nhận đã hoàn thành chương trình pháp luật.",
+      "Khi thông tin cá nhân thay đổi hoặc khi được yêu cầu, người lao động phải cập nhật hồ sơ và gửi cho cơ quan quản lý qua bưu chính hoặc thư điện tử chính thức. Họ cũng phải tuân thủ pháp luật về lao động, an ninh, trật tự và thực hiện đúng hợp đồng đã ký.",
+      "Bù lại, nghị định ghi nhận quyền tham gia tổ chức chính trị – xã hội, được hỗ trợ tư vấn bảo vệ quyền lợi hợp pháp và được yêu cầu xác nhận thông tin nhân sự dựa trên hồ sơ quản lý. Với doanh nghiệp, văn phòng đại diện nước ngoài, bộ phận nhân sự nên rà soát quy trình tiếp nhận nhân viên mới để kịp nhắc các mốc 10 ngày và 6 tháng."
+     ],
+     "tag": "Hiệu lực 15/11"
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ trưởng Y tế: cấm hoàn toàn lấy tạng từ người dưới 18 tuổi còn sống",
+     "summary": "Giải trình trước Quốc hội ngày 2/11, Bộ trưởng Y tế cho biết dự luật hiến, lấy, ghép mô, tạng sửa đổi cấm tuyệt đối lấy mô, tạng không tái sinh từ người sống dưới 18 tuổi. Trẻ vị thành niên chỉ được hiến mô tái sinh cho anh chị em ruột khi không có người hiến trưởng thành phù hợp.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/bo-truong-y-te-nghiem-cam-lay-tang-tu-nguoi-duoi-18-tuoi-con-song-5139667.html",
+     "tag": "Quốc hội",
+     "detail": [
+      "Sáng 2/11, Quốc hội thảo luận dự án Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác (sửa đổi). Sau khi tiếp thu nhiều ý kiến lo ngại của đại biểu, Bộ trưởng Y tế Đào Hồng Lan giải trình rằng cơ quan soạn thảo đã chỉnh lại độ tuổi và điều kiện hiến.",
+      "Diễn biến mới so với các đề xuất trước: dự thảo cấm hoàn toàn việc lấy mô, tạng không tái sinh (như thận, gan) từ người sống dưới 18 tuổi. Người chưa thành niên chỉ được hiến mô tái sinh trong danh mục của Bộ Y tế, như tế bào gốc tạo máu, và chỉ cho anh chị em ruột khi không có người hiến trưởng thành phù hợp. Điều kiện kèm theo là đủ sức khỏe, được tư vấn độc lập và có đồng ý bằng văn bản của cả cha và mẹ.",
+      "Bộ trưởng nhấn mạnh ý nguyện của trẻ được đặt lên trên sự đồng ý của cha mẹ: \"Sự đồng ý của cha mẹ phải đặt trên cơ sở quyền và sự đồng ý của trẻ.\" Việc đăng ký hiến sau khi chết vẫn chỉ dành cho người từ đủ 18 tuổi như luật hiện hành.",
+      "Dự thảo cũng siết chống trục lợi: kiểm tra danh tính và quan hệ giữa người hiến và người nhận, cấm tổ chức đưa người ra nước ngoài hoặc vào Việt Nam để ghép tạng trái phép. Hội đồng xác định chết não phải độc lập với ê-kíp điều trị và ghép, và việc phân bổ tạng phải qua cơ sở dữ liệu quốc gia với tiêu chí công khai, chủ yếu dựa trên yếu tố y khoa.",
+      "Đây là luật liên quan trực tiếp đến quyền của trẻ em và người bệnh chờ ghép tạng. Việc bỏ hẳn khả năng lấy tạng từ trẻ còn sống giúp giảm nguy cơ ép buộc hoặc mua bán tạng, trong khi vẫn mở một lối hẹp để cứu anh chị em ruột bằng mô tái sinh."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "PMI sản xuất tháng 10 lên 52,3 điểm, đơn hàng mới tăng tháng thứ sáu",
+     "summary": "Chỉ số Nhà quản trị mua hàng (PMI) ngành sản xuất Việt Nam tháng 10/2026 đạt 52,3 điểm, tăng từ 51,9 điểm của tháng 9. Tổng đơn hàng mới tăng tháng thứ sáu liên tiếp và điều kiện kinh doanh cải thiện 16 tháng liền. Đây là tín hiệu tích cực cho sản xuất đầu quý IV, khi nền kinh tế cần tăng tốc để đạt mục tiêu năm.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/thang-10-nam-2026-chi-so-pmi-dat-523-diem-post1399382.html",
+     "detail": [
+      "PMI là chỉ số khảo sát các nhà quản lý mua hàng ở doanh nghiệp sản xuất; trên 50 điểm nghĩa là ngành đang mở rộng, dưới 50 là thu hẹp. Tháng 10/2026, PMI của Việt Nam đạt 52,3 điểm, nhích lên từ 51,9 điểm tháng 9, cho thấy sản xuất cải thiện nhẹ ngay đầu quý IV.",
+      "Theo bài báo, tổng số đơn đặt hàng mới đã tăng tháng thứ sáu liên tiếp, còn điều kiện kinh doanh chung của ngành sản xuất cải thiện suốt 16 tháng liền. Chuỗi tăng đều đặn này cho thấy nhu cầu với hàng sản xuất trong nước vẫn được duy trì.",
+      "Nhìn lại các tháng trước, PMI đạt 51,8 điểm tháng 6, lên 52,9 điểm tháng 7 và 53,3 điểm tháng 8 trước khi chững lại ở 51,9 điểm tháng 9. Như vậy tháng 10 đã phục hồi một phần sau nhịp giảm của tháng 9.",
+      "Với người lao động trong khu vực sản xuất, đơn hàng tăng thường đi kèm nhu cầu tuyển dụng và làm thêm giờ dịp cuối năm. Với doanh nghiệp, đây là căn cứ để lên kế hoạch nguyên liệu, nhân sự cho mùa cao điểm trước Tết."
+     ],
+     "figure": {
+      "value": "52,3",
+      "label": "PMI sản xuất tháng 10/2026",
+      "delta": "+0,4 điểm",
+      "dir": "up",
+      "spark": [
+       51.8,
+       52.9,
+       53.3,
+       51.9,
+       52.3
+      ]
+     }
+    },
+    {
+     "cat": "ai",
+     "title": "Squarespace sa thải 19% nhân viên khi AI 'tự dựng web' làm đảo lộn ngành",
+     "summary": "Nền tảng làm website Squarespace cắt khoảng 300 người, tương đương 19% nhân sự toàn cầu, gọi là tái cơ cấu để vận hành gọn và nhanh hơn. Cuộc cắt giảm diễn ra khi các công cụ AI cho phép tạo website chỉ bằng vài câu mô tả đang làm thay đổi hẳn ngành dịch vụ thiết kế web.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
+     "detail": [
+      "Ngày 2/11, Squarespace, công ty Mỹ giúp khách hàng tự thiết kế và vận hành website, xác nhận cắt giảm khoảng 19% lực lượng lao động toàn cầu, tương đương khoảng 300 người. Trang The Verge đưa tin đầu tiên, sau đó người phát ngôn của công ty xác nhận với TechCrunch.",
+      "Công ty mô tả đây là một phần của đợt tái cơ cấu rộng hơn, nhằm \"đơn giản hóa cách vận hành, làm rõ ưu tiên và giúp công ty đi nhanh hơn\". Thông báo chính thức không nhắc trực tiếp tới AI, nhưng bối cảnh ngành cho thấy áp lực từ AI rất rõ.",
+      "Các công cụ \"vibe-coding\", tức người dùng chỉ cần gõ mô tả bằng lời, AI sẽ tự viết mã và dựng xong website, đang làm đảo lộn thị trường thiết kế web. Đối thủ Wix đã mua công cụ Base44 với giá 80 triệu USD; startup Lovable gọi vốn 400 triệu USD với định giá 13,3 tỷ USD hồi tháng 8; Google cũng ra mắt công cụ tạo giao diện nhanh Stitch.",
+      "Squarespace không đứng ngoài cuộc: hãng đã ra công cụ AI Blueprint từ 2024 và đang chuẩn bị nền tảng mới Forma được xây dựng \"từ gốc bằng AI\". Công ty thành lập năm 2004, lên sàn năm 2021 với định giá 10 tỷ USD nhưng không được nhà đầu tư mặn mà, và được quỹ đầu tư tư nhân mua lại với giá 7 tỷ USD năm 2024.",
+      "Với người làm nhân sự, đây là ví dụ điển hình của xu hướng doanh nghiệp tái cơ cấu khi AI thay đổi mô hình kinh doanh: công ty không nhất thiết nói \"AI thay người\", nhưng cắt giảm để dồn nguồn lực cho sản phẩm AI. Những vị trí dễ bị ảnh hưởng là các khâu mà AI làm nhanh và rẻ hơn, như thiết kế, lập trình cơ bản và hỗ trợ khách hàng; kỹ năng dùng và giám sát công cụ AI ngày càng trở thành yêu cầu tuyển dụng."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Thủ tục môi trường Đà Nẵng trực tuyến 100%, thẩm định nhanh hơn khoảng 50%",
+     "summary": "Từ đầu năm, Sở Nông nghiệp và Môi trường Đà Nẵng đã phê duyệt đánh giá tác động môi trường cho 11 dự án và cấp giấy phép môi trường cho 18 dự án, cơ sở. 100% thủ tục môi trường được làm trực tuyến toàn trình, không phụ thuộc địa giới. Từ 7/10, quy trình mới cắt khoảng 50% thời gian thẩm định với hồ sơ chưa đạt, có thêm 'luồng xanh' cho dự án đầu tư công.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/gan-cai-cach-thu-tuc-voi-bao-ve-moi-truong-3357218.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/01/dji_20250430131037_0129_d-953669dd0eba9b170ca77ffbe781ce98.jpg",
+     "detail": [
+      "Sở Nông nghiệp và Môi trường Đà Nẵng cho biết từ đầu năm 2026 đã phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường (ĐTM – đánh giá trước khi dự án được triển khai xem có gây hại môi trường không) cho 11 dự án và cấp giấy phép môi trường cho 18 dự án, cơ sở. Sở cũng tham mưu thành phố tiếp tục phân cấp thẩm định, cấp phép, đăng ký môi trường, kể cả cho các dự án thuộc Khu công nghệ cao, các khu công nghiệp và Khu kinh tế mở Chu Lai.",
+      "Theo Phó Giám đốc Sở Trương Xuân Tý, 100% thủ tục hành chính về môi trường của Sở đã được cung cấp trực tuyến toàn trình và không phụ thuộc địa giới hành chính; hệ thống theo dõi điện tử giúp tránh hồ sơ trễ hạn vì lý do nội bộ. Sau khi thẩm quyền chuyển từ bộ về địa phương, thời gian giải quyết đã giảm từ 30% trở lên so với quy định của Luật Bảo vệ môi trường 2020.",
+      "Ngày 7/10/2026, Chủ tịch UBND thành phố phê duyệt quy trình nội bộ sửa đổi, rút ngắn khoảng 50% thời gian thẩm định với hồ sơ chưa đủ điều kiện; cơ chế 'luồng xanh' giúp các dự án đầu tư công đi nhanh hơn đáng kể. Sở đang nghiên cứu cắt giảm tiếp, nhất là với dự án khai thác khoáng sản làm vật liệu xây dựng. Việc thu phí bảo vệ môi trường vẫn duy trì liên tục nhờ phối hợp với cơ quan thuế, chính quyền cơ sở và đơn vị cấp nước.",
+      "Thời gian tới, Sở chuyển trọng tâm từ kiểm tra thủ tục sang kiểm tra kết quả thực tế về môi trường, giám sát chặt việc doanh nghiệp tuân thủ ĐTM và giấy phép. Với doanh nghiệp, thủ tục nhanh hơn giúp dự án sớm triển khai, nhưng đổi lại sẽ bị hậu kiểm kỹ hơn trong quá trình vận hành."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Dư nợ cho vay ký quỹ chứng khoán lập đỉnh mới khoảng 455.000 tỷ đồng",
+     "summary": "Đến cuối quý 3/2026, dư nợ margin toàn thị trường ước khoảng 455.000 tỷ đồng, cao nhất lịch sử, so với 406.000 tỷ cuối 2025. Vốn chủ sở hữu ngành chứng khoán đạt khoảng 423.000 tỷ, tăng 13%; đòn bẩy cao khiến rủi ro lớn hơn khi thị trường giảm mạnh.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nganh-chung-khoan-truoc-van-hoi-moi-von-lon-hon-cho-vay-manh-hon-canh-tranh-khoc-liet-hon-188261102152126004.chn",
+     "detail": [
+      "Sau khi Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp, các công ty chứng khoán đang chạy đua tăng vốn và mở rộng cho vay. Ước tính đến cuối quý 3/2026, vốn chủ sở hữu toàn ngành khoảng 423.000 tỷ đồng, tăng 13% so với đầu năm. Có 5 công ty vốn trên 30.000 tỷ đồng là TCBS, SSI, VPBankS, VIX và VPS, trong đó TCBS dẫn đầu với khoảng 47.000 tỷ.",
+      "Dư nợ cho vay ký quỹ (margin – nhà đầu tư vay tiền công ty chứng khoán để mua cổ phiếu, dùng chính cổ phiếu làm tài sản đảm bảo) lên khoảng 455.000 tỷ đồng, cao nhất từ trước tới nay, so với khoảng 406.000 tỷ cuối năm 2025. Có 18 công ty dư nợ trên 10.000 tỷ đồng; 5 công ty vượt 1 tỷ USD gồm TCBS, SSI, VPBankS, VPS và HSC.",
+      "Nhóm công ty chứng khoán có ngân hàng đứng sau nắm khoảng 240.000 tỷ đồng, hơn một nửa dư nợ toàn thị trường. Cạnh tranh môi giới cũng khốc liệt: thị phần của VPS trên HoSE giảm từ hơn 20% đầu 2024 xuống dưới 12% trong quý 3/2026, khi phí giao dịch ngày càng thấp hoặc miễn phí.",
+      "Điểm đáng lưu ý với nhà đầu tư cá nhân là đòn bẩy trên thị trường đang ở mức kỷ lục. Khi giá cổ phiếu giảm sâu, tài sản đảm bảo mất giá có thể kích hoạt lệnh gọi ký quỹ và bán giải chấp dây chuyền, khiến thua lỗ khuếch đại nhanh hơn."
+     ],
+     "tag": "Margin kỷ lục"
+    },
+    {
+     "cat": "know",
+     "title": "Nhân viên ngân hàng lén chuyển sổ tiết kiệm online của 5 khách, chiếm 31,7 tỷ",
+     "summary": "Công an Đắk Lắk bắt một nhân viên chăm sóc khách hàng ưu tiên của ngân hàng cùng đồng phạm ở Đà Nẵng, cáo buộc lén chuyển quyền sở hữu sổ tiết kiệm online của 5 khách, chiếm đoạt hơn 31,7 tỷ đồng. Thủ đoạn là mượn điện thoại khách để 'hướng dẫn' dùng app ngân hàng.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/nhan-vien-ngan-hang-bi-mat-chuyen-so-tiet-kiem-cua-5-khach-5139874.html",
+     "tag": "Cảnh giác tài chính",
+     "detail": [
+      "Ngày 2/11, Công an tỉnh Đắk Lắk bắt tạm giam Trần Thị Kim Anh (41 tuổi), nhân viên chăm sóc khách hàng ưu tiên tại một chi nhánh ngân hàng ở Đắk Lắk, và Trần Đại Nghĩa (40 tuổi, trú Đà Nẵng) về tội sử dụng mạng máy tính, mạng viễn thông, phương tiện điện tử chiếm đoạt tài sản.",
+      "Theo cơ quan điều tra, từ tháng 7 đến tháng 9/2026, Kim Anh cầm điện thoại của khách với lý do hướng dẫn dùng ứng dụng ngân hàng điện tử, rồi lén chuyển quyền sở hữu các sổ tiết kiệm online sang tài khoản của Nghĩa. Hai người trao đổi qua Zalo và Telegram; tổng số tiền chiếm đoạt từ 5 khách là hơn 31,7 tỷ đồng.",
+      "Kim Anh khai số tiền được chuyển cho Nghĩa để đầu tư và giao dịch tiền mã hóa. Bài báo không nêu tên ngân hàng và cách vụ việc bị phát hiện; công an đang truy dòng tiền và làm rõ vai trò những người liên quan.",
+      "Bài học thực tế: không đưa điện thoại đã đăng nhập app ngân hàng cho người khác thao tác, kể cả nhân viên ngân hàng. Người có tiền gửi tiết kiệm online nên định kỳ tự kiểm tra trạng thái sổ trên ứng dụng chính thức, bật thông báo biến động và báo ngay cho ngân hàng nếu thấy bất thường."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Cổ phiếu FPT xuống đáy 3 năm, vốn hóa mất hơn 120.000 tỷ đồng",
+     "summary": "Phiên 2/11, FPT giảm 4,74% còn 50.200 đồng, thấp hơn 56% so với đầu tháng 2/2025, vốn hóa bốc hơi hơn 120.800 tỷ. Trái ngược, lợi nhuận quý 3 lập kỷ lục 2.723 tỷ; nhà đầu tư lo AI đe dọa mô hình gia công phần mềm.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/fpt-mat-120000-ty-von-hoa-188261102164752939.chn",
+     "tag": "Mất 120.000 tỷ",
+     "detail": [
+      "Cổ phiếu FPT, từng là một trong những mã tăng trưởng nổi bật nhất sàn, tiếp tục giảm 4,74% trong phiên 2/11 xuống 50.200 đồng/cổ phiếu, vùng thấp nhất 3 năm. So với đầu tháng 2/2025, giá đã mất hơn 56%, kéo vốn hóa từ khoảng 215.500 tỷ xuống dưới 94.700 tỷ đồng.",
+      "Nghịch lý là kết quả kinh doanh vẫn tốt. Quý 3/2026, lợi nhuận sau thuế thuộc cổ đông công ty mẹ đạt mức kỷ lục 2.723 tỷ đồng. Lũy kế 9 tháng, doanh thu 40.023 tỷ (tăng 12,4%), lợi nhuận trước thuế 8.770 tỷ (tăng 17%); doanh thu dịch vụ AI và phân tích dữ liệu tăng 55%, lên 2.915 tỷ.",
+      "Hai lực bán chính được chỉ ra. Khối ngoại đã bán ròng hơn 210 triệu cổ phiếu FPT trong 10 tháng, tương đương gần 17.000 tỷ đồng, kéo tỷ lệ sở hữu nước ngoài xuống khoảng 27%. Đồng thời, nhà đầu tư toàn cầu định giá lại các công ty dịch vụ công nghệ thông tin như Infosys, Accenture vì lo AI tự động hóa lập trình, kiểm thử – vốn là mảng gia công cốt lõi.",
+      "Chứng khoán Vietcap dự báo lợi nhuận FPT tăng bình quân 14%/năm giai đoạn 2026–2029, chậm hơn mức 22%/năm của 2021–2024. Câu chuyện FPT phản ánh rõ áp lực AI lên ngành phần mềm Việt Nam: doanh nghiệp phải chuyển đổi đủ nhanh sang dịch vụ AI, đám mây để bù cho mảng truyền thống đang chậm lại."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Tổng Bí thư yêu cầu xây năng lực logistics quốc gia, gỡ điểm nghẽn đến 2027",
+     "summary": "Sáng 2/11, Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Đảng ủy Chính phủ về phát triển logistics và hạ tầng logistics. Ông yêu cầu chuyển từ tư duy 'làm dịch vụ' sang xây dựng năng lực logistics quốc gia, lập cơ chế điều phối cấp quốc gia và xác định các điểm nghẽn phải gỡ đến năm 2027. Mục tiêu là kéo chi phí logistics về gần mức khu vực, hỗ trợ tăng trưởng hai con số.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/tong-bi-thu-chu-tich-nuoc-to-lam-lam-viec-voi-dang-uy-chinh-phu-ve-phat-trien-logistics-post1399227.html",
+     "detail": [
+      "Sáng 2/11 tại trụ sở Trung ương Đảng, Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì buổi làm việc với Đảng ủy Chính phủ và các cơ quan liên quan về phát triển logistics (chuỗi dịch vụ vận chuyển, kho bãi, phân phối hàng hóa). Thông điệp chính là logistics không chỉ là một ngành dịch vụ mà gắn với sức cạnh tranh, khả năng tự chủ của nền kinh tế và cả quốc phòng, an ninh.",
+      "Theo chỉ đạo, logistics phải được điều hành ở tầm Chính phủ với một đầu mối điều phối rõ ràng, không để từng bộ, từng địa phương làm riêng lẻ. Việt Nam cần hướng tới trở thành trung tâm trung chuyển và phân phối quan trọng của khu vực, giành phần hàng quá cảnh, kho bãi và dịch vụ giá trị gia tăng.",
+      "Mạng lưới logistics cần quy hoạch thống nhất theo hướng đa trung tâm, đa phương thức; ưu tiên kết nối cảng biển, sân bay, ga đường sắt hàng hóa, cửa khẩu với khu công nghiệp và vùng sản xuất. Tổng Bí thư lưu ý không đầu tư theo phong trào khi chưa chắc chắn có nguồn hàng, đồng thời đẩy mạnh số hóa chứng từ, chia sẻ dữ liệu hải quan, cảng, kho và chuyển sang phương tiện ít phát thải.",
+      "Các việc cần làm ngay gồm: rà soát, nâng cấp chiến lược logistics quốc gia; lập cơ chế chỉ đạo, điều phối quốc gia; xác định những điểm nghẽn lớn nhất phải xử lý đến năm 2027; xây dựng bộ chỉ số đo hiệu quả logistics và giao rõ cơ quan, thời hạn, trách nhiệm cho từng bộ, địa phương.",
+      "Với doanh nghiệp, chỉ đạo này mở ra cơ hội cho các hãng logistics Việt lớn mạnh để quản lý chuỗi cung ứng quốc tế, và hứa hẹn giảm chi phí vận chuyển cho nhà sản xuất, xuất khẩu. Các địa phương có cảng biển, sân bay như Đà Nẵng có thể được hưởng lợi nếu nằm trong mạng lưới trung tâm logistics được ưu tiên."
+     ],
+     "tag": "Logistics quốc gia"
+    },
+    {
+     "cat": "dn",
+     "title": "Doanh nghiệp phía nam Đà Nẵng cần vốn ưu đãi, đề xuất trung tâm khởi nghiệp",
+     "summary": "Tại buổi gặp gỡ giữa doanh nghiệp với chính quyền các phường phía nam Đà Nẵng và Hội Doanh nhân trẻ, doanh nghiệp nêu khó khăn về vốn, thị trường và kỹ năng quản trị. Phường Tam Kỳ đề xuất nghiên cứu một trung tâm khởi nghiệp chung cho 4 phường phía nam; các phường Bàn Thạch, Hương Trà kêu gọi đầu tư dịch vụ cho công nhân và du lịch sinh thái.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/ket-noi-lang-nghe-doanh-nghiep-3357217.html",
+     "tag": "Doanh nghiệp",
+     "detail": [
+      "Khu vực phía nam Đà Nẵng (Tam Kỳ cũ) có lợi thế về sản xuất, thương mại, dịch vụ, nhưng doanh nghiệp ở đây vẫn cần hỗ trợ về vốn, thị trường và kỹ năng quản trị. Tại buổi kết nối, đại diện Công ty Sâm Nữ Hoàng (phường Tam Kỳ) cho biết đã có cây giống, sản phẩm thử nghiệm và đã nộp đề án phát triển vùng nguyên liệu, mong được cơ quan chức năng sớm xem xét phê duyệt.",
+      "Ông Nguyễn Bão Quốc, thành viên Hội đồng tư vấn khởi nghiệp quốc gia, khuyên doanh nghiệp phải xác định rõ hướng đi, vì doanh nghiệp khoa học công nghệ, doanh nghiệp nhỏ và vừa hay startup đổi mới sáng tạo cần cách hỗ trợ khác nhau; với sản phẩm thực phẩm, phải chuẩn từ sản xuất, chất lượng, bao bì, nhãn mác rồi mới kết nối thị trường. Hội Doanh nhân trẻ đề nghị có vốn vay ưu đãi và các lớp đào tạo quản trị với chuyên gia; một doanh nghiệp xuất khẩu muốn liên kết để đưa hàng địa phương ra nước ngoài.",
+      "Về phía chính quyền, phường Bàn Thạch (nơi có khu công nghiệp) mời gọi doanh nghiệp đầu tư dịch vụ phục vụ công nhân như siêu thị, ăn uống, nhà trọ, y tế, giáo dục; phường Hương Trà kêu gọi đầu tư du lịch cộng đồng, sinh thái gắn với làng sinh thái, vườn sưa. Phó Chủ tịch UBND phường Tam Kỳ Bùi Tấn Công đề xuất nghiên cứu một trung tâm khởi nghiệp chung cho 4 phường phía nam.",
+      "Trung tâm Khuyến công và Xúc tiến thương mại thành phố mời doanh nghiệp liên hệ để được hướng dẫn chính sách hỗ trợ đầu tư máy móc, xúc tiến sản phẩm. Với người lao động khu vực phía nam, các dự án dịch vụ quanh khu công nghiệp nếu được triển khai sẽ cải thiện điều kiện sống và tạo thêm việc làm tại chỗ."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Cảnh báo chiếm Zalo lãnh đạo để lừa nhân viên ứng tiền, chuyển khoản",
+     "summary": "Công an tỉnh Phú Thọ cảnh báo kẻ gian chiếm hoặc giả tài khoản Zalo của lãnh đạo, trò chuyện công việc rồi nhờ nhân viên ứng tiền, mua quà, chuyển khoản hộ. Trong một vụ, nhân viên mất trọn 50 triệu đồng sau khi chuyển vào tài khoản cửa hàng vàng bạc giả. Doanh nghiệp nên có quy trình xác minh độc lập cho mọi yêu cầu chi tiền.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cong-an-phat-thong-bao-quan-trong-den-nhung-ai-hay-nhan-tin-voi-sep-dong-nghiep-qua-zalo-188261102110837276.chn",
+     "detail": [
+      "Ngày 31/10, Công an tỉnh Phú Thọ cảnh báo thủ đoạn chiếm quyền tài khoản Zalo của lãnh đạo, hoặc lập tài khoản có tên và ảnh đại diện giống hệt. Kẻ gian nhắn tin trao đổi công việc như bình thường để tạo lòng tin, sau đó mới đưa ra yêu cầu về tiền.",
+      "Trong ví dụ được nêu, đối tượng nhờ một nhân viên tạm ứng 50 triệu đồng để mua quà biếu người thân và bảo nhân viên liên hệ chính lãnh đạo để xin ứng tiền. Lãnh đạo thật không biết tài khoản đã bị chiếm nên vẫn chuyển tiền. Sau đó kẻ gian gửi mã QR của một tài khoản giả danh cửa hàng vàng bạc, nhân viên chuyển khoản và mất toàn bộ số tiền.",
+      "Công an khuyến cáo không tin tuyệt đối tài khoản Zalo dù mang tên, ảnh của người thân, sếp hay đồng nghiệp. Mọi yêu cầu chuyển tiền, tạm ứng cần xác minh bằng cách gọi vào số điện thoại đã lưu từ trước hoặc gặp trực tiếp. Trước khi chuyển hay quét mã QR, cần kiểm tra tên chủ tài khoản. Tuyệt đối không cung cấp mật khẩu, mã OTP, không bấm đường link hay cài ứng dụng lạ.",
+      "Với tổ chức, cơ quan chức năng đề nghị thiết lập quy trình xác minh độc lập cho các yêu cầu tài chính, nhất là khoản lớn. Nếu đã chuyển tiền hoặc bị chiếm tài khoản, cần báo ngay ngân hàng để phong tỏa, giữ lại tin nhắn, chứng từ và trình báo công an gần nhất. Bộ phận nhân sự có thể đưa tình huống này vào buổi phổ biến an toàn thông tin cho nhân viên."
+     ],
+     "tag": "Lừa đảo qua Zalo"
+    },
+    {
+     "cat": "biz",
+     "title": "Gần 3.800 căn hộ bỏ trống ở Thủ Thiêm đấu giá khởi điểm 18.253 tỷ",
+     "summary": "TP.HCM duyệt giá khởi điểm hơn 18.253 tỷ đồng để đấu giá 5 lô đất cùng 3.790 căn hộ xây xong từ 2015 nhưng bỏ trống nhiều năm ở Thủ Thiêm. Đây là lần thứ năm khối tài sản này được đưa ra đấu giá, với giá gần gấp đôi các lần trước.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gan-3-800-can-ho-bo-trong-o-thu-thiem-co-gia-khoi-diem-gan-18-300-ty-dong-5139763.html",
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/02/dji-1793604405-1232-1793604680.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ZT9td1j3fQaK24WVpAcIuw",
+     "detail": [
+      "UBND TP.HCM đã phê duyệt giá đất, giá trị công trình và hạ tầng cho 5 lô đất (trước đây là R1–R5) thuộc khu tái định cư Bình Khánh, Khu đô thị mới Thủ Thiêm, phường An Khánh. Tổng giá trị hơn 18.253 tỷ đồng, dùng làm giá khởi điểm đấu giá quyền sử dụng đất và tài sản trên đất.",
+      "Trong đó, quyền sử dụng hơn 78.800 m2 đất ở hỗn hợp cao tầng được định giá hơn 11.316 tỷ đồng, phần nhà ở với 3.790 căn hộ hơn 6.360 tỷ và hạ tầng gần 577 tỷ. Các block được xây bằng ngân sách trong chương trình 12.500 căn hộ tái định cư phục vụ giải tỏa Thủ Thiêm, hoàn thành năm 2015 nhưng bỏ trống nhiều năm, nhiều hạng mục đã xuống cấp.",
+      "Thành phố đã bốn lần đấu giá không thành, với giá khởi điểm khoảng 8.800 tỷ đồng năm 2017 và khoảng 9.900 tỷ trong các lần 2021, 2023. Năm 2025, TP.HCM chuyển các căn hộ từ nhà tái định cư sang nhà ở thương mại để tăng sức hút, lý giải vì sao giá khởi điểm lần này cao hơn nhiều. Người trúng đấu giá được giao đất có thu tiền sử dụng đất, thời hạn 50 năm.",
+      "TP.HCM dự kiến đấu giá 50 khu đất trong năm 2026 (8 ở Thủ Thiêm, 42 nơi khác) để tăng thu ngân sách. Kết quả phiên đấu giá này sẽ là phép thử sức hấp thụ của thị trường căn hộ quy mô lớn và cách xử lý tài sản công bỏ hoang — bài toán mà nhiều địa phương, trong đó có Đà Nẵng, cũng đang gặp."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "72 doanh nghiệp Việt vào Fortune Đông Nam Á 500, tăng trưởng gấp 3 khu vực",
+     "summary": "72 doanh nghiệp Việt trong bảng Fortune Southeast Asia 500 năm 2026 có tổng doanh thu 177,9 tỷ USD, tăng 10,5%, gấp 3 mức bình quân khu vực (3,4%). Dù chiếm chưa tới 10% doanh thu cả bảng, nhóm này đóng góp khoảng 1/4 phần tăng thêm.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/72-doanh-nghiep-viet-tao-bat-ngo-tai-dong-nam-a-voi-doanh-thu-1779-ty-usd-176261102195010123.chn",
+     "tag": "Fortune SEA 500",
+     "detail": [
+      "Chiều 2/11, tại Diễn đàn Hợp tác Đầu tư TP.HCM 2026, Giám đốc Biên tập Fortune châu Á công bố số liệu từ bảng xếp hạng Fortune Southeast Asia 500 năm 2026, dựa trên kết quả tài chính năm 2025. Đây là lần đầu TP.HCM đăng cai Hội nghị thượng đỉnh Fortune Southeast Asia 500, diễn ra ngày 3/11.",
+      "500 doanh nghiệp lớn nhất Đông Nam Á có tổng doanh thu 1.880 tỷ USD, tăng 3,4%, và lợi nhuận 150 tỷ USD. Trong đó, 72 doanh nghiệp Việt Nam đạt 177,9 tỷ USD doanh thu, tăng 10,5% – nhanh gấp 3 lần bình quân và đứng thứ 2 trong các quốc gia góp mặt. Doanh thu nhóm Việt chưa tới 10% cả bảng nhưng đóng góp khoảng một phần tư mức tăng chung.",
+      "TP.HCM tận dụng dịp này để quảng bá môi trường đầu tư: 10 tháng năm 2026 thành phố thu hút hơn 19 tỷ USD FDI, vượt 73,9% kế hoạch năm, với hơn 22.000 dự án còn hiệu lực. Thành viên Trung tâm Tài chính quốc tế hoạt động trong lĩnh vực ưu tiên được hưởng thuế thu nhập doanh nghiệp 10% trong 30 năm; chuyên gia làm việc tại đây được miễn thuế thu nhập cá nhân đến hết 2030.",
+      "Mạng lưới Fortune đã gửi TP.HCM hơn 30 kiến nghị thuộc 8 nhóm vấn đề như thủ tục đầu tư, đất đai, hạ tầng và nhân lực. Kết quả này cho thấy doanh nghiệp Việt đang lớn nhanh hơn khu vực, nhưng để giữ đà, các nút thắt về thủ tục và nhân lực chất lượng cao vẫn phải được tháo gỡ."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Elon Musk siết hạn mức Grok Bot vì chi phí vận hành 'cao không bền vững'",
+     "summary": "Cuối tuần qua, nhiều người dùng trả phí của trợ lý AI Grok Bot thấy hạn mức sử dụng hàng tuần bất ngờ bị đẩy lên 100% dù không dùng. Elon Musk xác nhận đây không phải lỗi mà do chi phí phục vụ quá cao so với doanh thu, dấu hiệu cho thấy AI đang đắt lên với người dùng.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+     "tag": "Siết hạn mức AI",
+     "detail": [
+      "Trong dịp cuối tuần Halloween (31/10–1/11), một số người dùng Grok Bot, trợ lý AI dạng \"đặc vụ\" (agent, có thể tự thực hiện nhiều bước công việc) của SpaceX, phát hiện hạn mức sử dụng hàng tuần bị dùng hết dù họ không hề hoạt động qua đêm. Nhiều người kể trên mạng X rằng mức đã dùng nhảy từ khoảng 50% lên thẳng 100%.",
+      "Chủ nhật 1/11, Elon Musk xác nhận đây không phải trục trặc kỹ thuật. Trả lời một người dùng, ông viết rằng chi phí phục vụ Grok Bot \"cao không bền vững so với doanh thu\". Musk chưa cho biết hạn mức của người đăng ký sẽ thay đổi thế nào trong thời gian tới.",
+      "Grok Bot vốn được giới thiệu như một câu chuyện thành công của SpaceX, công ty vừa lên sàn; Musk gọi đây là sản phẩm tăng trưởng nhanh nhất ông từng thấy. Theo hồ sơ tháng trước, mảng AI chiếm 52% thu nhập của SpaceX và bộ phận \"Super Intelligence\" báo lãi 431 triệu USD, điều hiếm hoi trong ngành AI; khoản lãi lẽ ra còn cao hơn nếu không có 1,2 tỷ USD chi phí một lần liên quan việc mua lại Cursor.",
+      "Sự việc nằm trong xu hướng chung: các công ty AI đang siết hạn mức hoặc đẩy người dùng sang gói đắt hơn vì chạy mô hình AI rất tốn điện và chip. Cùng ngày, OpenAI cũng thông báo ChatGPT và công cụ lập trình Codex sẽ dùng chung một \"quỹ\" lượt sử dụng, khiến một số người có thể chạm giới hạn thường xuyên hơn.",
+      "Với cá nhân và doanh nghiệp đang phụ thuộc vào các công cụ AI trả phí, bài học là không nên mặc định giá và hạn mức sẽ giữ nguyên. Nên theo dõi điều khoản gói dịch vụ, dự phòng công cụ thay thế và tính chi phí AI như một khoản có thể tăng trong ngân sách."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Quốc lộ 14E qua Đà Nẵng gần hoàn thành, còn vướng 2 hộ dân",
+     "summary": "Dự án nâng cấp Quốc lộ 14E dài khoảng 71 km qua Đà Nẵng đã thi công đạt hơn 1.350/1.430 tỷ đồng giá trị hợp đồng, 29/30 cây cầu đã xong. Mặt bằng đã bàn giao trên 99%, chỉ còn 2 hộ ở xã Thăng Bình và Hiệp Đức chưa giao đất. Mưa và giá đá, nhựa đường tăng đang làm chậm phần việc cuối.",
+     "source": "VOV",
+     "url": "https://vov.vn/kinh-te/quoc-lo-14e-qua-da-nang-gan-xong-con-2-ho-dan-chua-ban-giao-mat-bang-post1346732.vov",
+     "detail": [
+      "Dự án cải tạo, nâng cấp Quốc lộ 14E đoạn qua Đà Nẵng dài khoảng 71 km (từ Km15+270 đến Km89+700), do Ban Quản lý dự án đường bộ miền Trung thuộc Cục Đường bộ Việt Nam làm chủ đầu tư, khởi công từ tháng 2/2023. Đến nay giá trị thi công đạt hơn 1.350 tỷ đồng trên tổng giá trị hợp đồng xây lắp hơn 1.430 tỷ đồng.",
+      "Nền đường và lớp cấp phối đá dăm loại 2 đã xong toàn tuyến, lớp đá dăm loại 1 đạt gần 99%, lớp bê tông nhựa dưới đạt hơn 95% và lớp trên khoảng 93%. Cầu vượt đường sắt Bắc – Nam tại xã Thăng Bình đã thảm nhựa ngày 25–26/10 và thông xe chiều 26/10; trong 30 cây cầu trên tuyến, 29 cầu đã hoàn thành, chỉ còn cầu Đắk Mi 1 (Km85) đang làm mặt cầu và lan can.",
+      "Mặt bằng đã bàn giao hơn 99%, nhưng vẫn còn 2 hộ dân chưa giao đất, gồm một hộ ở xã Thăng Bình và một hộ ở xã Hiệp Đức. Ngoài ra, mưa mùa miền Trung cùng tình trạng khan hiếm, tăng giá vật liệu như đá dăm và nhựa đường đang ảnh hưởng tiến độ.",
+      "Theo kế hoạch, dự án phải hoàn thành trong tháng 10/2026, trong khi mốc thông xe từng đặt ra là cuối tháng 8 — nghĩa là tiến độ đã bị lùi. Khi xong, tuyến đường sẽ giúp người dân các xã phía tây và tây nam Đà Nẵng (khu vực Quảng Nam cũ) đi lại, vận chuyển hàng hóa thuận tiện và an toàn hơn."
+     ],
+     "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/1_8.jpg?v=1793661427"
+    },
+    {
+     "cat": "know",
+     "title": "30 ngân hàng hạ lãi suất tiết kiệm, phổ biến giảm 0,5 điểm phần trăm",
+     "summary": "Đến ngày 2/11, khoảng 30 ngân hàng đã giảm lãi suất huy động, chủ yếu 0,5 điểm phần trăm ở kỳ hạn từ 6 tháng, cao nhất 0,7 điểm. Lãi suất tiết kiệm 12 tháng tại Eximbank chẳng hạn còn 4,5%/năm. Người có tiền nhàn rỗi nên so sánh kỹ kỳ hạn và kênh gửi online hay tại quầy.",
+     "source": "Sài Gòn Giải Phóng",
+     "url": "https://www.sggp.org.vn/30-ngan-hang-giam-lai-suat-huy-dong-post879618.html",
+     "detail": [
+      "Thực hiện định hướng của Chính phủ và Ngân hàng Nhà nước về giảm chi phí vốn, đến ngày 2/11 khoảng 30 ngân hàng thương mại đã công bố hạ lãi suất huy động. Danh sách gồm cả bốn ngân hàng có vốn Nhà nước (Agribank, Vietcombank, BIDV, VietinBank) và nhiều ngân hàng tư nhân như Techcombank, MB, VPBank, Sacombank, HDBank, SHB, TPBank. Mức giảm phổ biến là 0,5 điểm phần trăm cho kỳ hạn từ 6 tháng trở lên.",
+      "Một số mức cụ thể: Eximbank giảm 0,5 điểm ở kỳ hạn 6–12 tháng, còn 4,2%/năm cho 6–11 tháng và 4,5%/năm cho 12 tháng. NCB giảm tới 0,6 điểm. SeABank giảm mạnh nhất, 0,7 điểm ở kỳ hạn 18–36 tháng. BIDV, Techcombank, Sacombank, MSB cùng giảm 0,5 điểm ở các kỳ hạn tương ứng.",
+      "Song song, các ngân hàng tung gói cho vay ưu đãi. Agribank, VietinBank giảm lãi vay tới 2%/năm, Vietcombank giảm 1,5–2%/năm. Techcombank dành 40.000 tỷ đồng, Sacombank thêm 20.000 tỷ đồng cho khách cá nhân với mức giảm 1,5–2%/năm. MSB có gói 10.000 tỷ đồng cho doanh nghiệp, lãi vay từ 7,5%/năm.",
+      "Với người gửi tiết kiệm, thu nhập từ lãi sẽ giảm dần, nhất là các khoản đáo hạn và tái tục từ tháng 11. Ngược lại, người đang vay mua nhà hay vay tiêu dùng có cơ hội đàm phán giảm lãi. Nên so sánh lãi suất giữa các ngân hàng, giữa gửi online và tại quầy, đồng thời đọc kỹ điều kiện rút trước hạn."
+     ],
+     "image": "https://image.sggp.org.vn/1200x630/Uploaded/2026/kiuvpcvo/2026_03_20/vietcombank-tphcm-2110-7201.jpg.webp"
+    },
+    {
+     "cat": "biz",
+     "title": "Chủ tịch PNJ cho chính công ty vay 700 tỷ đồng, lãi 10%/năm",
+     "summary": "Báo cáo tài chính quý III cho thấy PNJ nợ bà Cao Thị Ngọc Dung, Chủ tịch HĐQT, 700 tỷ đồng theo khoản vay tín chấp lãi 10%/năm, kỳ hạn tới 25/9/2027. Khoản vay diễn ra khi PNJ đang khó khăn, tổng nợ vay ngắn hạn vượt 4.320 tỷ đồng.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/tin-tuc-sang-3-11-chu-tich-pnj-cho-pnj-vay-700-ti-dong-lai-suat-10-nam-100261102185734967.htm",
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/2/pnj-3-1792110219817651784860-144-0-948-1536-crop-1793624796671442840299.jpg",
+     "detail": [
+      "Theo thuyết minh báo cáo tài chính hợp nhất quý III/2026, tính đến 30/9, Công ty Vàng bạc Đá quý Phú Nhuận (PNJ) đang nợ Chủ tịch HĐQT Cao Thị Ngọc Dung 700 tỷ đồng. Khoản vay kéo dài từ 25/9/2026 đến 25/9/2027, lãi suất 10%/năm và không có tài sản bảo đảm (vay tín chấp).",
+      "Khoản này được ghi vào nợ vay ngắn hạn, bên cạnh các khoản vay từ nhiều ngân hàng thương mại. Tổng nợ vay và thuê tài chính ngắn hạn của PNJ cuối tháng 9 hơn 4.320,5 tỷ đồng, tăng khoảng 96,2 tỷ so với cuối năm 2025; riêng vay ngân hàng gần 3.616,9 tỷ, chiếm khoảng 83,7%.",
+      "Việc lãnh đạo trực tiếp cho doanh nghiệp vay là giao dịch với người có liên quan, buộc phải công bố trong báo cáo tài chính. Mức lãi 10%/năm cao hơn đáng kể lãi tiết kiệm phổ biến, cho thấy nhu cầu vốn lưu động của PNJ khá cấp bách trong giai đoạn kinh doanh trang sức gặp khó.",
+      "Cũng trong bản tin sáng 3/11 của Tuổi Trẻ, mẹ Chủ tịch Novaland đăng ký bán 6,3 triệu cổ phiếu NVL từ 5 đến 16/11, và TP.HCM đặt mốc bàn giao toàn bộ mặt bằng dự án bờ nam kênh Đôi trước 31/3/2027. Với nhà đầu tư và người lao động ngành bán lẻ, tình hình tài chính của PNJ là chỉ báo đáng theo dõi về sức mua hàng xa xỉ cuối năm."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Petrolimex vượt Vingroup, thành doanh nghiệp doanh thu lớn nhất sàn 9 tháng",
+     "summary": "9 tháng 2026, Petrolimex đạt 373.226 tỷ đồng doanh thu, tăng 64%, nhỉnh hơn Vingroup (khoảng 372.500 tỷ), bình quân 1.400 tỷ mỗi ngày. Lợi nhuận trước thuế 4.688 tỷ, vượt 39% kế hoạch năm, nhờ giá xăng dầu cao và sản lượng tăng hơn 11%.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/mot-doanh-nghiep-co-doanh-thu-vuot-vingroup-bo-xa-vinhomes-gap-hon-2-lan-hoa-phat-va-the-gioi-di-dong-188261102151520439.chn",
+     "tag": "Doanh thu số 1",
+     "detail": [
+      "Sau một năm bị Vingroup vượt mặt, Tập đoàn Xăng dầu Việt Nam (Petrolimex) đã lấy lại vị trí doanh nghiệp phi tài chính có doanh thu lớn nhất sàn chứng khoán. Doanh thu 9 tháng 2026 đạt 373.226 tỷ đồng, tăng 64%, nhỉnh hơn Vingroup khoảng 372.500 tỷ; xếp tiếp theo là PV OIL, Vinhomes, Hòa Phát, Lọc hóa dầu Bình Sơn và Thế Giới Di Động.",
+      "Riêng quý 3, doanh thu Petrolimex đạt 138.482 tỷ (tăng 66%), lợi nhuận sau thuế 1.363 tỷ (tăng 93%). Lũy kế 9 tháng, lợi nhuận trước thuế 4.688 tỷ, tăng 67%, tương đương gần 139% kế hoạch cả năm; doanh thu cũng đã vượt 18% kế hoạch. Động lực đến từ giá xăng dầu tăng do căng thẳng Trung Đông và sản lượng bán ra tăng hơn 11%.",
+      "Dù doanh thu khổng lồ, biên lợi nhuận của ngành xăng dầu rất mỏng: cứ 100 đồng doanh thu, Petrolimex chỉ giữ lại khoảng 1 đồng lợi nhuận sau thuế. Đến 30/9, tổng tài sản đạt 109.009 tỷ, tăng 27% so với đầu năm, tiền và đầu tư ngắn hạn khoảng 28.400 tỷ.",
+      "Quý cuối năm, doanh nghiệp đặt trọng tâm bảo đảm nguồn cung, mở rộng cửa hàng, kho cảng và ổn định kinh doanh xăng E10. Khi giá dầu thế giới vừa giảm mạnh đầu tháng 11, đà tăng doanh thu của nhóm xăng dầu có thể chững lại trong các quý tới."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng lên kế hoạch ứng phó El Nino, nguy cơ thiếu nước mùa khô 2027",
+     "summary": "Đà Nẵng đang xây dựng kế hoạch phòng chống thiên tai giai đoạn 2026–2027 do El Nino có thể kéo dài đến tháng 6/2027. Lưu vực sông Vu Gia – Thu Bồn có nguy cơ hạn hán, thiếu nước, xâm nhập mặn ở mức 'cao đến rất cao' trong mùa cạn 2027. Mực nước các hồ thủy điện lớn hiện gần mực nước chết dù đã có mưa tháng 9–10.",
+     "source": "VOV",
+     "url": "https://vov.vn/xa-hoi/da-nang-xay-dung-ke-hoach-ung-pho-voi-el-nino-post1346736.vov",
+     "detail": [
+      "El Nino là hiện tượng nóng lên bất thường của vùng biển xích đạo Thái Bình Dương, thường khiến miền Trung ít mưa, nắng nóng và khô hạn. Theo dự báo được VOV dẫn lại, Đà Nẵng và các tỉnh miền Trung sẽ chịu tác động lớn của El Nino, có thể kéo dài tới tháng 6/2027.",
+      "Lưu vực sông Vu Gia – Thu Bồn, nguồn nước chính của Đà Nẵng, được đánh giá có nguy cơ hạn hán, thiếu nước và xâm nhập mặn ở mức cao đến rất cao trong mùa cạn năm 2027. Lưu vực có 7 hồ thủy điện lớn, là nguồn cấp nước chủ yếu cho sinh hoạt và sản xuất trong 8 tháng mùa cạn, nhưng dù đã có mưa tháng 9 và 10, mực nước các hồ vẫn rất thấp, gần mực nước chết.",
+      "Sở Nông nghiệp và Môi trường đề xuất Chủ tịch UBND thành phố yêu cầu các chủ hồ thủy điện lập kế hoạch vận hành linh hoạt theo từng giai đoạn, ưu tiên tích nước để cấp cho sinh hoạt và sản xuất ở hạ du. Sở cũng đã soạn kế hoạch cấp nước an toàn và đang lấy ý kiến các sở, ngành, địa phương; thành phố sẽ ban hành các giải pháp công trình và phi công trình.",
+      "Với người dân và doanh nghiệp Đà Nẵng, đây là cảnh báo sớm về khả năng nước máy bị nhiễm mặn hoặc thiếu nước vào mùa khô năm sau. Các cơ sở sản xuất, dịch vụ dùng nhiều nước nên tính phương án dự trữ từ sớm."
+     ],
+     "tag": "Cảnh báo thiếu nước"
+    },
+    {
+     "cat": "biz",
+     "title": "Vietjet doanh thu 9 tháng tăng 41%, đạt hơn 74.000 tỷ đồng",
+     "summary": "Vietjet đạt doanh thu hợp nhất 74.385 tỷ đồng sau 9 tháng 2026, tăng 41% và hoàn thành 86% kế hoạch năm; lãi sau thuế 1.721 tỷ. Hãng chở hơn 20,7 triệu khách và khai thác 223 đường bay, phần lớn là quốc tế.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/doanh-thu-vietjet-tang-41-nho-mo-rong-mang-bay-5139808.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/02/Image-372856742-ExtractWord-0-2050-4462-1793608731.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=QuD9M7nHHD8xGmvi_KJtww",
+     "detail": [
+      "Vietjet (mã VJC) công bố kết quả 9 tháng năm 2026 với doanh thu hợp nhất 74.385 tỷ đồng, tăng 41% so với cùng kỳ và đạt 86% kế hoạch năm. Lợi nhuận sau thuế hợp nhất 1.721 tỷ đồng, bằng 82% mục tiêu. Riêng công ty mẹ đạt doanh thu 67.857 tỷ (tăng 30%) và lãi sau thuế 1.467 tỷ.",
+      "Trong quý III, hãng thực hiện 39.000 chuyến bay, chở 7,3 triệu khách, doanh thu hợp nhất 22.849 tỷ (tăng 35%) nhưng lãi sau thuế chỉ 348 tỷ. Lũy kế 9 tháng, Vietjet chở hơn 20,7 triệu khách trên 111.700 chuyến bay và vận chuyển hơn 58.000 tấn hàng; nộp ngân sách hơn 5.944 tỷ đồng.",
+      "Mạng bay hiện có 223 đường, gồm 176 quốc tế và 47 nội địa. Các đường mới hoặc sắp mở gồm Hà Nội – Almaty – Praha, TP.HCM – Colombo và TP.HCM – Tây Sydney (dự kiến từ tháng 1/2027). Hãng cũng hợp tác với Starlink để lắp internet vệ tinh trên máy bay và dự kiến xây trung tâm bảo dưỡng tại Long Thành.",
+      "Tính đến 30/9, tổng tài sản hợp nhất 152.800 tỷ đồng, tỷ lệ nợ ròng trên vốn chủ sở hữu 2,4 lần — mức đòn bẩy khá cao, phổ biến với hãng bay đang mở rộng đội tàu. Doanh thu tăng mạnh nhưng biên lợi nhuận mỏng phản ánh áp lực chi phí nhiên liệu, điều mà các hãng nội địa cùng chịu trong năm nay. Mùa cao điểm cuối năm sẽ quyết định việc hoàn thành kế hoạch."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Việt Nam – Trung Quốc bàn thúc đẩy đường sắt kết nối, cân bằng thương mại",
+     "summary": "Ngày 2/11 tại Bắc Kinh, đoàn đại biểu Đảng do Trưởng Ban Chính sách, Chiến lược Trung ương Nguyễn Thanh Nghị dẫn đầu đã hội kiến Chủ tịch Chính hiệp Vương Hộ Ninh và hội đàm với Phó Thủ tướng Hà Lập Phong. Phía Việt Nam đề nghị thương mại cân bằng, mở cửa thị trường cho hàng Việt và đẩy nhanh kết nối đường sắt. Chuyến thăm kéo dài 1–5/11.",
+     "source": "VOV",
+     "url": "https://vov.vn/chinh-tri/thuc-day-tin-cay-chinh-tri-va-hop-tac-thuc-chat-viet-nam-trung-quoc-post1346724.vov",
+     "detail": [
+      "Đoàn đại biểu Đảng Cộng sản Việt Nam do Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Chính sách, Chiến lược Trung ương Nguyễn Thanh Nghị dẫn đầu thăm Trung Quốc từ ngày 1 đến 5/11. Ngày 2/11 tại Bắc Kinh, đoàn hội kiến Chủ tịch Chính hiệp toàn quốc Trung Quốc Vương Hộ Ninh, hội đàm với Phó Thủ tướng Quốc vụ viện Hà Lập Phong và làm việc với Trung tâm Nghiên cứu phát triển Quốc vụ viện; sau đó đoàn sẽ thăm tỉnh Chiết Giang.",
+      "Hai bên nhất trí tăng cường trao đổi giữa hai Đảng, triển khai kết quả các chuyến thăm cấp cao, trong đó có chuyến thăm cấp nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm gần đây, và kiểm soát tốt bất đồng. Phía Việt Nam khẳng định coi quan hệ với Trung Quốc là ưu tiên hàng đầu.",
+      "Việt Nam đề nghị thúc đẩy thương mại cân bằng, bền vững, tạo thuận lợi hơn cho hàng Việt vào thị trường Trung Quốc; đẩy nhanh kết nối đường sắt, vận tải liên vận quốc tế và hạ tầng đa phương thức; hợp tác đầu tư chất lượng, kết nối lưới điện, khoa học công nghệ và đào tạo nhân lực, cùng du lịch nhân Năm Du lịch Việt – Trung 2026–2027.",
+      "Phía Trung Quốc đề xuất mở rộng hợp tác cửa khẩu thông minh, khu hợp tác kinh tế qua biên giới, kinh tế số, kinh tế xanh; nhập khẩu thêm nông sản Việt Nam và mời Việt Nam tham gia sự kiện xúc tiến xuất khẩu sang Trung Quốc năm 2027. Bài báo không nêu thỏa thuận ký kết hay con số cụ thể, song các định hướng này có ý nghĩa với doanh nghiệp xuất khẩu nông sản và logistics."
+     ],
+     "tag": "Ngoại giao"
+    },
+    {
+     "cat": "ai",
+     "title": "ChatGPT gộp hai thẻ Chat và Work, dùng chung hạn mức với Codex",
+     "summary": "OpenAI thông báo qua email sẽ gộp hai mục Chat và Work trong ứng dụng ChatGPT trên máy tính thành một, thử trước với một nhóm người dùng. ChatGPT và công cụ lập trình Codex sẽ dùng chung hạn mức, nên một số người có thể phải chờ làm mới lượt dùng thường xuyên hơn.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+     "tag": "ChatGPT đổi giao diện",
+     "detail": [
+      "Theo email OpenAI gửi người dùng ngày 2/11, ứng dụng ChatGPT trên máy tính sẽ gộp hai thẻ Chat (trò chuyện, hỏi đáp) và Work (làm việc, xử lý dự án) thành một trải nghiệm duy nhất. Mục tiêu là bớt rối khi người dùng không biết mình đang làm ở đâu và dự án nằm ở thẻ nào.",
+      "OpenAI cho biết thay đổi sẽ đến với một số người dùng chọn lọc trước để lấy ý kiến, sau đó mới triển khai rộng. Công ty mô tả việc gộp giúp người dùng đi từ lúc \"khám phá một ý tưởng\" tới lúc để ChatGPT thực hiện trọn vẹn công việc ngay trong cùng một chỗ.",
+      "Codex, công cụ AI hỗ trợ lập trình, vẫn là một mục riêng trong ứng dụng. Tuy nhiên, ChatGPT và Codex sẽ dùng chung một hạn mức \"token\" (đơn vị tính lượng văn bản AI xử lý). OpenAI nói phần lớn người dùng sẽ không nhận ra khác biệt, nhưng tùy mức dùng và mô hình, một số người có thể chạm giới hạn và phải chờ làm mới thường xuyên hơn.",
+      "Động thái này đi theo hướng mà đối thủ Anthropic đã làm hồi tháng 9/2026, khi gộp phần trò chuyện và phần làm việc cộng tác của Claude vào một màn hình. Các trợ lý AI đang chuyển từ \"chatbot hỏi đáp\" sang \"trợ lý làm việc\" có thể tự thực hiện nhiều bước.",
+      "Với dân văn phòng, kể cả bộ phận nhân sự đang dùng ChatGPT để soạn thông báo, mô tả công việc hay tổng hợp hồ sơ, giao diện mới có thể tiện hơn khi mọi việc nằm một chỗ. Nhưng nếu nhóm dùng chung tài khoản cho cả viết lẫn lập trình, cần để ý hạn mức có thể hết nhanh hơn trước."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Làn sóng trả mặt bằng nhà phố ở TP.HCM lan rộng dịp cuối năm",
+     "summary": "Nhiều tuyến phố TP.HCM có hàng chục mặt bằng treo biển cho thuê; riêng đoạn 2,6 km đường Ba Tháng Hai có gần 40 căn, tăng hơn 20% so với đầu năm. Doanh thu không đủ bù tiền thuê và sức ép từ bán hàng online khiến nhiều thương hiệu rút lui. Chủ nhà chưa giảm giá mà chuyển sang linh hoạt diện tích, điều kiện thuê.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/lan-song-tra-mat-bang-nha-pho-gia-tang-cuoi-nam-5139541.html",
+     "detail": [
+      "Cuối năm, nhiều tuyến phố ở TP.HCM dày biển cho thuê. Đường Âu Cơ có hơn 30 mặt bằng tìm khách. Đoạn 2,6 km đường Ba Tháng Hai (từ Lý Thường Kiệt đến Cách Mạng Tháng Tám) có gần 40 mặt bằng, tăng hơn 20% so với đầu năm. Gần 1 km đường Hồ Văn Huê, vốn là phố áo cưới, có hơn 20 căn bỏ trống. Ở khu trung tâm như Nguyễn Huệ, Đồng Khởi, Hai Bà Trưng, tình hình chưa cải thiện.",
+      "Theo Batdongsan, tháng 8 lượng tin cho thuê nhà phố tại TP.HCM tăng 25% so với tháng trước, trong khi nhu cầu thuê giảm 4%. Dữ liệu của Nhà Tốt cho thấy giá thuê trung bình quý 3 giảm 2,9% so với cuối năm ngoái. Mặt bằng kinh doanh vẫn quanh 27 triệu đồng/tháng nhưng diện tích thuê được tăng từ 152 lên 162 m², tức chủ nhà nhượng bộ bằng diện tích thay vì hạ giá niêm yết.",
+      "Nguyên nhân chính là doanh thu không đủ bù chi phí vận hành, trong đó tiền thuê chiếm phần lớn. Thương mại điện tử và mạng xã hội cũng khiến nhiều doanh nghiệp thu hẹp cửa hàng hoặc chuyển tới nơi rẻ hơn. Bà Cao Thị Thanh Hương (Savills TP.HCM) nhận định lợi thế mặt tiền không còn đủ bảo đảm hiệu quả kinh doanh.",
+      "Với các chuỗi bán lẻ, F&B và hộ kinh doanh, đây là thời điểm có lợi để đàm phán thuê mới. Ngược lại, nhà đầu tư nhà phố cho thuê cần tính tới lợi suất thấp, chỉ khoảng 2,3% ở khu trung tâm và 3,1% ở khu cận trung tâm."
+     ],
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/03/nha1-1793644714-6470-1793644725.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=xNO97RK-ECwiAS0S0JEn1g"
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng siết trật tự vỉa hè, Liên Chiểu phạt gần 430 triệu đồng",
+     "summary": "Thực hiện Chỉ thị 14 của Ban Thường vụ Thành ủy, các phường ở Đà Nẵng đồng loạt lập lại trật tự vỉa hè, mục tiêu 100% phường, xã bảo đảm mỹ quan đô thị. Phường Liên Chiểu xử lý hơn 575 vi phạm từ tháng 4, phạt gần 430 triệu đồng; phường Hải Vân lập lại trật tự trên 45 tuyến đường.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/vi-dien-mao-do-thi-van-minh-3357152.html",
+     "tag": "Trật tự đô thị",
+     "detail": [
+      "Ban Thường vụ Thành ủy Đà Nẵng ban hành Chỉ thị 14-CT/TU về tăng cường lãnh đạo công tác trật tự đô thị, nếp sống văn minh, đặt mục tiêu 100% phường, xã bảo đảm trật tự vỉa hè, vệ sinh và mỹ quan; UBND thành phố cụ thể hóa bằng Kế hoạch 109/KH-UBND. Các phường đang đồng loạt ra quân với cách làm vừa vận động vừa xử phạt.",
+      "Tại phường Hải Vân, lực lượng chức năng vận động 54 hộ buôn bán lấn chiếm quanh chung cư Xuân Thiều vào chợ Nam Ô, lập lại trật tự vỉa hè trên 45 tuyến đường với 1.815 hộ chấp hành. Phường Liên Chiểu từ tháng 4/2026 đã xử lý hơn 575 vi phạm vỉa hè, giao thông, phạt gần 430 triệu đồng, tháo dỡ biển quảng cáo quá khổ trên các đường Lạc Long Quân, Âu Cơ, Nguyễn Lương Bằng, Nguyễn Chánh.",
+      "Phường Ngũ Hành Sơn trong 6 tháng xử lý 161 mái che, 1.504 biển hiệu, vật lấn chiếm và 46 xe, ki-ốt, phạt 126 trường hợp gần 90 triệu đồng; mô hình 'tuyến đường xanh, sạch, đẹp' thí điểm ở 5 khu dân cư sẽ mở rộng ra các tuyến Lê Văn Hiến, Non Nước, Nguyễn Duy Trinh, Trần Đại Nghĩa, Mai Thúc Lân. Phường Sơn Trà từ tháng 7 đến 9 thu giữ 289 vật dụng lấn chiếm, dẹp 7 điểm dịch vụ tự phát trên bãi biển.",
+      "Người buôn bán nhỏ, hộ kinh doanh mặt tiền cần lưu ý việc xử phạt đang được làm thường xuyên hơn. Bài viết nhấn mạnh kết quả bền vững phụ thuộc vào ý thức người dân và sự giám sát của cộng đồng, không chỉ dựa vào các đợt ra quân."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Ban Cơ yếu và Viettel ra mắt chip bảo mật 'Make in Việt Nam' VGC v1.0",
+     "summary": "Ngày 3/11, Ban Cơ yếu Chính phủ và Viettel công bố chip bảo mật VGC v1.0, sau 24 tháng nghiên cứu với hơn 40 kỹ sư. Thuật toán mật mã MKV chạy trực tiếp trên vi mạch, toàn bộ khâu thiết kế, kiểm thử do Việt Nam làm.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/nong-hom-nay-3-11-con-chip-va-nen-tang-ban-dan-bao-mat-dau-tien-make-in-viet-nam-chinh-thuc-lo-dien-176261103002326566.chn",
+     "tag": "Chip bảo mật nội địa",
+     "detail": [
+      "Ban Cơ yếu Chính phủ phối hợp với Tập đoàn Viettel công bố chip bảo mật VGC v1.0 trong ngày 3/11, là sản phẩm đầu tiên của nền tảng thiết kế chip bán dẫn bảo mật trong nước. Dự án kéo dài 24 tháng, huy động hơn 40 kỹ sư và chuyên gia, thực hiện theo định hướng Nghị quyết 57 của Bộ Chính trị về khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "Điểm nổi bật là thuật toán mã khối MKV – đã được công bố thành tiêu chuẩn quốc gia TCVN 14263:2024 – được đưa thẳng vào phần cứng vi mạch thay vì chạy bằng phần mềm. Theo Ban Cơ yếu, các khâu từ thuật toán, thiết kế đến kiểm thử đều do Việt Nam tự làm, tạo quy trình phối hợp có thể dùng lại cho các thế hệ chip sau.",
+      "Bài viết cũng lưu ý một con chip chưa đủ để khẳng định năng lực công nghệ quốc gia. Các sản phẩm ứng dụng như thiết bị lưu trữ bảo mật USB VGC vẫn phải qua hoàn thiện, thử nghiệm và kiểm định nghiêm ngặt trước khi dùng để bảo vệ bí mật nhà nước.",
+      "Bước đi này gắn với chiến lược tự chủ bán dẫn mà Chính phủ đang theo đuổi, song song với cuộc đua thu hút FDI vào ngành chip. Về lâu dài, việc làm chủ chip bảo mật giúp giảm phụ thuộc thiết bị nước ngoài trong bảo vệ dữ liệu cơ quan nhà nước và mở thêm nhu cầu nhân lực thiết kế vi mạch."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Doanh nghiệp Việt rục rịch mua robot, chuyên gia nhắc tính đủ chi phí",
+     "summary": "Thị trường robot Việt Nam ước hơn 280 triệu USD năm 2025, dự báo vượt 460 triệu USD vào 2034. Mật độ robot chỉ 23–58 trên 10.000 công nhân, thấp xa Thái Lan (84) và Hàn Quốc (1.220). Một trạm robot trọn gói tốn khoảng 759 triệu đến hơn 2 tỷ đồng, nên doanh nghiệp được khuyên thí điểm nhỏ và đầu tư đào tạo người vận hành.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ruc-rich-sam-robot-don-song-tu-dong-hoa-5139889.html",
+     "detail": [
+      "Theo Liên đoàn Robot Quốc tế (IFR), thế giới có hơn 5 triệu robot công nghiệp đang hoạt động, gấp hơn ba lần một thập kỷ trước. Năm ngoái có kỷ lục 603.000 robot được lắp mới, tăng 11%. Ở Việt Nam, IMARC ước thị trường robot năm 2025 đạt hơn 280 triệu USD và có thể vượt 460 triệu USD vào năm 2034. Riêng robot công nghiệp được dự báo tăng từ 112 lên 230 triệu USD vào 2031.",
+      "Dù vậy, mức độ tự động hóa còn thấp: mỗi 10.000 lao động sản xuất ở Việt Nam chỉ có 23–58 robot, so với 84 ở Thái Lan, 101 ở Malaysia và 1.220 ở Hàn Quốc. Mới đây, AICAP ký thỏa thuận mua 1.000 robot từ liên minh robot Trung Quốc CDRA và Aibrain.",
+      "Một trạm robot sản xuất hoàn chỉnh có giá từ khoảng 759 triệu đến hơn 2 tỷ đồng, thời gian hoàn vốn 3–5 năm. Chuyên gia nhấn mạnh tổng chi phí sở hữu, gồm tích hợp, cải tạo nhà xưởng, phần mềm, đào tạo, bảo trì và thời gian dừng máy, quan trọng hơn giá mua. Doanh nghiệp nhỏ và vừa được gợi ý thuê robot theo dịch vụ (RaaS) khi đơn hàng ngắn và hay thay đổi.",
+      "Nhiều doanh nghiệp đã tốn kém vì thiếu người vận hành giỏi hoặc chưa chuẩn hóa quy trình trước khi mua máy. Chuyên gia khuyên đo giờ công và chi phí từng công đoạn trước khi đầu tư, đồng thời dành ngân sách cho đào tạo nhân viên và hợp tác với trường đại học. Với bộ phận nhân sự, tự động hóa đi kèm nhu cầu đào tạo lại lao động và tuyển kỹ thuật viên tích hợp hệ thống."
+     ],
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/02/wm1-wm1-robotduongnghue-1793620711-6036-1793620871.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=SiZ0oZJg-iG4tfrYfLNXDA"
+    },
+    {
+     "cat": "dn",
+     "title": "Cầu Rồng Đà Nẵng tính phun lửa, phun nước thêm 2 đêm mỗi tuần",
+     "summary": "Chủ tịch UBND Đà Nẵng giao các sở nghiên cứu đề xuất tăng biểu diễn cầu Rồng từ 3 lên 5 đêm/tuần, thêm thứ Ba và thứ Tư. Nếu được duyệt, doanh nghiệp du thuyền đề nghị thí điểm một năm từ 1/12/2026.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/cau-rong-da-nang-nghien-cuu-tang-2-dem-phun-lua-phun-nuoc-moi-tuan-100261102175902695.htm",
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/2/3dji202604260530480130d-1793616681206638876802-63-0-1043-1871-crop-1793617030131738426484.jpg",
+     "detail": [
+      "Ngày 2/11, UBND TP Đà Nẵng cho biết Chủ tịch Nguyễn Mạnh Hùng đã giao Sở Văn hóa, Thể thao và Du lịch phối hợp Sở Xây dựng nghiên cứu tăng tần suất phun lửa, phun nước trên cầu Rồng. Đề xuất đến từ các doanh nghiệp du lịch đường thủy nội địa thuộc Hiệp hội Du lịch Đà Nẵng.",
+      "Hiện cầu Rồng biểu diễn vào tối thứ Sáu, thứ Bảy, Chủ nhật. Phương án mới thêm tối thứ Ba và thứ Tư, nâng lên 5 đêm/tuần; thứ Hai và thứ Năm dành để bảo trì hệ thống. Lý do là lượng khách đi tàu trên sông Hàn ngày thường giảm rõ rệt, nhiều du khách lưu trú ngắn ngày không trùng cuối tuần nên lỡ màn trình diễn.",
+      "Về kinh phí, doanh nghiệp hiện đóng góp 5.000 đồng/khách để chi cho vận hành; đề xuất nâng lên 10.000 đồng/khách. Đây là khoản doanh nghiệp tàu thuyền đóng, không phải vé thu của người xem ở khu vực công cộng. Theo ước tính của doanh nghiệp, với khoảng 2.320 khách/ngày hiện nay, nguồn thu khoảng 348 triệu đồng/tháng; nếu tăng đêm diễn và khách lên khoảng 3.480 người/ngày thì có thể hơn 1 tỷ đồng/tháng.",
+      "Doanh nghiệp còn đề xuất thêm âm thanh, ánh sáng, đèn LED đổi màu trên thân rồng đồng bộ với nhạc và về lâu dài biến khu vực cầu thành không gian lễ hội đêm. Trong tháng 11, các sở sẽ lấy ý kiến và hoàn thiện phương án trình thành phố. Nếu được duyệt, người dân và du khách sẽ có thêm lựa chọn giữa tuần, đồng thời khu vực hai bờ sông Hàn có thể đông hơn vào các tối thứ Ba, thứ Tư."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Xăng, điện đã giảm nhưng giá cơm, phở chưa giảm theo",
+     "summary": "Dù giá xăng dầu và giá điện giảm từ đầu tháng 11, các quán ăn ở TP.HCM chưa hạ giá sau khi đã tăng ít nhất 5.000 đồng/suất trong hai tháng. Chủ quán nói nguyên liệu, vận chuyển chưa giảm; dầu diesel vẫn trên 30.000 đồng/lít.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/xang-dau-dien-da-giam-gia-bao-gio-hang-quan-moi-chiu-du-theo-100261102164843419.htm",
+     "tag": "Giá cả sinh hoạt",
+     "detail": [
+      "Giá xăng dầu và giá điện đã giảm từ đầu tháng 11, nhưng giá các món ăn hằng ngày như cơm, mì, phở ở TP.HCM gần như không nhúc nhích. Người mua phản ánh trong gần hai tháng, nhiều quán đã tăng ít nhất 5.000 đồng/suất với lý do xăng tăng: cơm từ 35.000 đồng/dĩa, tô mì, phở khoảng 45.000–55.000 đồng trở lên.",
+      "Chủ các quán ăn giải thích mức giảm giá xăng, điện còn quá nhỏ so với chi phí đầu vào. Rau, thịt, cá, gạo, dầu ăn, gia vị phần lớn đứng giá, có loại cao hơn năm ngoái 10–20%. Với hóa đơn điện, hộ dùng khoảng 400 kWh/tháng chỉ tiết kiệm gần 20.000 đồng/tháng nhờ mức giảm 2%.",
+      "Phía cung ứng cho biết nhiên liệu chiếm 40–50% chi phí vận hành xe, nhưng dầu diesel, loại hầu hết xe tải dùng, vẫn trên 30.000 đồng/lít; phải về khoảng 23.000–25.000 đồng/lít thì cước vận chuyển mới giảm rõ. Một siêu thị lớn cho biết cước từ Lâm Đồng về TP.HCM khoảng 2.000 đồng/kg, chỉ điều chỉnh định kỳ theo hợp đồng nên giá ít biến động.",
+      "Đại diện Saigon Co.op đề nghị chuỗi cung ứng minh bạch, bóc tách cơ cấu giá để thấy xăng, điện thực sự chiếm bao nhiêu, tránh việc tăng giá vô cớ. Với người làm công ăn lương, hiện tượng 'tăng nhanh, giảm chậm' khiến chi phí ăn uống thực tế không giảm theo tin vui về giá năng lượng; khi thương lượng giá với nhà cung cấp suất ăn, doanh nghiệp có thể dùng mức giảm nhiên liệu làm căn cứ."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-02-1900",
    "date": "2026-11-02",
