@@ -1,6 +1,227 @@
 {
- "updated": "2026-11-03T11:05:00+07:00",
+ "updated": "2026-11-03T15:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-03-1500",
+   "date": "2026-11-03",
+   "slot": "15:00",
+   "createdAt": "2026-11-03T15:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "vn",
+     "title": "Bộ Tài chính đề xuất ban hành bảng giá đất 3 năm một lần, áp dụng từ 2028",
+     "summary": "Theo dự thảo Luật Đất đai (sửa đổi), bảng giá đất và hệ số điều chỉnh K sẽ được HĐND cấp tỉnh quyết định theo chu kỳ 3 năm, kỳ đầu từ 1/1/2028, thay cho cách ban hành hằng năm. Quốc hội dự kiến biểu quyết luật vào 21/11; thay đổi này ảnh hưởng trực tiếp đến chi phí đất đai của người dân và doanh nghiệp.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vi-sao-bo-tai-chinh-de-xuat-dieu-chinh-bang-gia-dat-3-nam-mot-lan-5140066.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/dji-1793684433-2848-1793684455.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=livcM33hGM-_8lEN9ghWcg",
+     "detail": [
+      "Bảng giá đất là bảng giá do địa phương ban hành, dùng làm căn cứ tính nhiều khoản liên quan đến đất như thuế, phí, tiền sử dụng đất. Hệ số K là hệ số điều chỉnh để đưa giá trong bảng sát hơn với giá thị trường. Chiều 3/11, Bộ Tài chính giải trình rằng Chính phủ đề xuất ban hành bảng giá đất và hệ số K theo chu kỳ 3 năm, nằm trong dự thảo Luật Đất đai (sửa đổi) đang trình Quốc hội.",
+      "Theo dự thảo, HĐND cấp tỉnh sẽ quyết định bảng giá đất và hệ số K, kỳ đầu tiên bắt đầu từ ngày 1/1/2028. Chu kỳ 3 năm được xem là điểm cân bằng: dày hơn chu kỳ 5 năm trước đây nhưng không gây xáo trộn như ban hành mỗi năm. Trong chu kỳ, địa phương vẫn có thể điều chỉnh giữa kỳ nếu hạ tầng, quy hoạch hay mục tiêu quản lý thay đổi.",
+      "Bộ Tài chính cho rằng cách làm này giảm áp lực tổ chức thực hiện, giúp người dân và doanh nghiệp dự tính trước chi phí đất đai để lên kế hoạch đầu tư, đồng thời cho địa phương thời gian thu thập dữ liệu, đánh giá tác động. Bộ cũng sẽ làm rõ thời điểm công bố để tránh biến động đột ngột.",
+      "Một số đại biểu Quốc hội hỏi Nhà nước sẽ định giá đất theo chuẩn nào, đề nghị giá phải dựa trên dữ liệu đã kiểm chứng và phản ánh giá chuyển nhượng phổ biến. Bộ Tài chính trả lời giá đất sẽ căn cứ mục tiêu phát triển từng thời kỳ, dữ liệu, phương pháp khoa học, công khai minh bạch và có cơ chế chống thao túng, 'giá ảo'.",
+      "Dự thảo luật gọn hơn nhiều, gồm 3 chương, 112 điều, ít hơn luật hiện hành 148 điều; Quốc hội dự kiến biểu quyết ngày 21/11. Với người đang có kế hoạch chuyển mục đích sử dụng đất, làm sổ đỏ hay mua bán nhà đất, đây là quy định cần theo dõi vì nó quyết định mức giá tính nghĩa vụ tài chính trong nhiều năm."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Khảo sát: gần 1/5 lao động Mỹ bị AI thay thế được mời quay lại làm",
+     "summary": "Khảo sát của SHL với hơn 1.000 người lao động mỗi nước Mỹ và Anh cho thấy gần một phần năm người Mỹ từng bị sa thải hoặc thay thế bởi AI sau đó được công ty cũ mời trở lại. Gần 50% chỉ quay lại nếu được tăng lương đáng kể — bài học cho bộ phận nhân sự khi cắt giảm vì AI.",
+     "source": "People Matters",
+     "url": "https://www.peoplematters.in/news/business/nearly-1-in-5-workers-laid-off-due-to-ai-are-asked-to-return-survey-finds-53098",
+     "tag": "Nhân sự & AI",
+     "detail": [
+      "Công ty đánh giá và quản trị nhân tài SHL vừa công bố khảo sát do Propeller Insights thực hiện từ tháng 6 đến tháng 7/2026, với hơn 1.000 người lao động ở mỗi nước Mỹ và Anh. Kết quả đáng chú ý nhất: gần một trong năm người lao động Mỹ được hỏi cho biết họ từng bị sa thải hoặc bị AI thay thế, rồi sau đó lại được chính công ty cũ mời quay lại.",
+      "Người lao động đặt điều kiện khá rõ nếu quay lại: gần 50% đòi tăng lương đáng kể, 43% muốn có cam kết bằng văn bản về sự ổn định công việc, 40% muốn công ty minh bạch hoàn toàn việc AI sẽ được dùng thế nào trong vị trí của họ, và 30% coi trọng một lời xin lỗi hoặc thừa nhận từ lãnh đạo. Chỉ 6,6% nói sẽ không bao giờ quay lại.",
+      "Hiện tượng này được gọi là 'AI rebounding' — doanh nghiệp cắt người quá nhanh khi tái cơ cấu quanh tự động hóa, rồi nhận ra AI chưa mang lại hiệu quả như kỳ vọng, đồng thời mất đi hiểu biết nghiệp vụ, quan hệ khách hàng và kinh nghiệm tích lũy. Báo cáo dẫn thêm số liệu của Orgvue (3/2026): 32% tổ chức từng sa thải vì AI sau đó phải tuyển lại; còn theo Challenger, Gray & Christmas, AI là lý do chính của gần 40% đợt cắt giảm việc làm công bố trong tháng 5/2026. Ford và Amazon được nhắc tên là đã xem xét lại nhân sự sau các đợt cắt giảm liên quan đến AI.",
+      "Đại diện SHL nhận xét nhiều công ty đã 'rút phích cắm quá sớm' với nhân viên, vì AI không thay được người hiểu khách hàng, biết phán đoán và giữ quan hệ. Giáo sư Joseph Fuller (Đại học Harvard) cho rằng giá trị của AI phụ thuộc nhiều vào hiểu biết bối cảnh của chính nhân viên, nên không thể triển khai như một phần mềm thông thường.",
+      "Về phía người lao động, 44% đang tự học các công cụ AI, 42,6% rèn kỹ năng chuyên ngành khó tự động hóa, 40% trau dồi kỹ năng giao tiếp, lãnh đạo. Với người làm nhân sự, khảo sát gợi ý: khi tính chuyện cắt giảm vì AI cần cân nhắc cả chi phí mất kiến thức, ưu tiên đào tạo lại và luân chuyển nội bộ, vì tuyển lại người cũ thường tốn kém hơn và làm tổn hại lòng tin."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Mỹ được cho là tấn công đảo Qeshm của Iran, giá dầu quay đầu tăng",
+     "summary": "Theo Wall Street Journal dẫn quan chức Mỹ, Mỹ đã tấn công đảo Qeshm ở eo biển Hormuz sau khi Iran báo có nhiều tiếng nổ. Sáng 3/11 dầu Brent tăng 0,5% lên 105,25 USD/thùng, sau phiên 2/11 lao dốc hơn 7% nhờ kỳ vọng đàm phán Mỹ – Iran.",
+     "source": "Sài Gòn Giải Phóng",
+     "url": "https://www.sggp.org.vn/my-tan-cong-dao-qeshm-cua-iran-post879766.html",
+     "tag": "Trung Đông",
+     "detail": [
+      "Ngày 2/11 (giờ Mỹ), tờ Wall Street Journal dẫn lời các quan chức Mỹ giấu tên cho biết Mỹ đã tấn công đảo Qeshm của Iran, nằm trong eo biển Hormuz — tuyến vận chuyển dầu quan trọng bậc nhất thế giới. Trước đó, hãng thông tấn nhà nước Iran IRNA đưa tin có nhiều tiếng nổ trên đảo. Bộ Chỉ huy Trung tâm Mỹ (CENTCOM) chưa phản hồi.",
+      "Đây được mô tả là đợt mới nhất trong chuỗi không kích hạn chế mà Mỹ tiến hành vài tuần qua, quy mô nhỏ và chủ ý giữ kín, dường như để không phát tín hiệu quay lại chiến dịch lớn. Phía Iran cho biết Vệ binh Cách mạng đã bắn hạ một số máy bay không người lái của Mỹ trên eo biển Hormuz và đảo Qeshm, thu giữ một số chiếc còn nguyên vẹn.",
+      "Diễn biến này xảy ra giữa lúc đàm phán đang có tiến triển: Tổng thống Trump bày tỏ tin tưởng hai nước có thể đạt thỏa thuận chấm dứt xung đột, Phó Tổng thống JD Vance nói đã có 'một số tiến triển', còn Ngoại trưởng Iran cho biết đàm phán qua trung gian Qatar và Pakistan đang được đẩy nhanh.",
+      "Thị trường phản ứng ngay: sáng 3/11 dầu Brent tăng 0,5% lên 105,25 USD/thùng, dầu WTI tăng 0,5% lên 96,93 USD, sau khi giảm hơn 7% trong phiên 2/11 nhờ tín hiệu hòa đàm. Với Việt Nam, giá dầu thế giới biến động mạnh sẽ tác động đến giá xăng dầu trong nước ở các kỳ điều hành tới, cũng như chi phí vận tải và lạm phát."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng xúc tiến đường bay thẳng tới Western Sydney, hợp tác Wi-Fi tầm xa và UAV",
+     "summary": "Ngày 3/11, đoàn công tác Đà Nẵng làm việc tại Sydney (Australia) về mở đường bay thẳng Đà Nẵng – Western Sydney và hợp tác công nghệ với Đại học Sydney, Đại học Macquarie. 9 tháng năm 2026, Đà Nẵng đón gần 377.000 lượt khách Australia, tăng 43,86%.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-xuc-tien-duong-bay-thang-va-hop-tac-cong-nghe-moi-tai-sydney-australia-3357266.html",
+     "tag": "Đường bay mới",
+     "detail": [
+      "Ngày 3/11, đoàn công tác Đà Nẵng do Phó Bí thư Thành ủy Ngô Xuân Thắng dẫn đầu tiếp tục chương trình tại Sydney, tập trung ba nội dung: đường bay thẳng, công nghệ truyền thông không dây và kinh tế tầm thấp (thiết bị bay không người lái – UAV).",
+      "Tại Sân bay quốc tế Western Sydney (WSI) — mới đón chuyến bay thương mại đầu tiên ngày 25/10/2026, công suất giai đoạn 1 khoảng 10 triệu khách/năm và hoạt động 24/7 — hai bên bàn khả năng mở đường bay thẳng. Sân bay Đà Nẵng năm 2025 phục vụ hơn 15,29 triệu lượt khách, được quy hoạch nâng lên 20 triệu khách/năm vào 2030. 9 tháng năm nay, Đà Nẵng đón 376.981 lượt khách Australia, tăng 43,86%; riêng bang New South Wales và Việt Nam có hơn 500.000 lượt đi lại hai chiều năm 2025. Đà Nẵng đề xuất lập đầu mối liên lạc, chia sẻ dữ liệu thị trường và có thể khai thác thử theo mùa; đường bay vẫn đang ở giai đoạn chuẩn bị, chưa có thời điểm khai thác.",
+      "Tại Đại học Sydney, đoàn tìm hiểu Wi-Fi tầm xa (phủ sóng tới hàng trăm mét, gắn được lên xe cứu hỏa, cứu thương để lập mạng tại hiện trường) và công nghệ 'Wi-Fi Sensing' — dùng biến đổi sóng Wi-Fi để phát hiện té ngã, ngừng di chuyển bất thường mà không cần camera, hữu ích cho chăm sóc người cao tuổi. Thành phố muốn thử nghiệm ở bán đảo Sơn Trà và các xã miền núi phía tây.",
+      "Tại Đại học Macquarie, Ban Quản lý Khu công nghệ cao Đà Nẵng làm việc với trung tâm nghiên cứu drone có hơn 20 nhà khoa học, với các công nghệ như nhiều UAV cùng nâng hàng, thay pin trên không (dự án được tài trợ 2,24 triệu AUD). Đà Nẵng đề xuất dùng UAV giám sát rừng Sơn Trà, phát hiện cháy rừng, tìm người mất tích, đánh giá thiệt hại sau bão lũ và mời đối tác đặt cơ sở nghiên cứu, sản xuất tại Khu công nghệ cao. Nếu thành hiện thực, đường bay thẳng sẽ giúp du lịch, giao thương với cộng đồng người Việt lớn ở Sydney thuận tiện hơn."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic cảnh báo sắp chạm ngưỡng 'AI tự cải tiến' trong hồ sơ IPO",
+     "summary": "Trong hồ sơ IPO sửa đổi nộp Ủy ban Chứng khoán Mỹ, Anthropic thừa nhận các mô hình tương lai có thể 'sắp' đạt mức tiến bộ tăng tốc rõ rệt nhờ AI tự nghiên cứu AI. Công ty khẳng định chưa mô hình nào vượt ngưỡng và cam kết giữ con người giám sát.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+     "detail": [
+      "RSI (recursive self-improvement – tự cải tiến đệ quy) là thời điểm AI giỏi tới mức tự huấn luyện, tự cải tiến chính nó, khiến năng lực tăng vọt. Người lo ngại coi đây là nguy cơ AI vượt khỏi tầm kiểm soát; người lạc quan coi là bước nhảy về năng suất và khoa học. Khái niệm này nổi lên mạnh từ đầu năm 2026.",
+      "Trong bản S-1A sửa đổi — hồ sơ đăng ký phát hành cổ phiếu lần đầu (IPO) nộp Ủy ban Chứng khoán Mỹ — ở phần rủi ro, Anthropic viết rằng việc dùng AI trong chính hoạt động nghiên cứu có thể đẩy tiến độ nhanh hơn khả năng đảm bảo an toàn. Công ty thừa nhận từng dùng AI để phát triển các mô hình có bước nhảy năng lực mà lúc đó không nhận ra, và có thể chỉ nhận ra các lần tăng tốc tương lai sau khi chúng đã xảy ra.",
+      "Theo ước tính nội bộ về các mô hình tương lai (không phải mô hình hiện tại), Anthropic có thể 'sắp' chạm định nghĩa 'tiến bộ tăng tốc đáng kể nhờ AI' trong chính sách mở rộng có trách nhiệm (RSP) của mình. Công ty nói chưa mô hình nào bị xếp là vượt ngưỡng này và vẫn đang đánh giá dữ liệu.",
+      "Anthropic cho biết không định để Claude tự thiết kế, tự xây các thế hệ mô hình kế tiếp mà thiếu giám sát thực chất của con người, và đang cân nhắc sửa RSP để con người tiếp tục nắm quyền kiểm soát. Một số người hoài nghi cho rằng hồ sơ IPO vừa là tài liệu công bố rủi ro vừa là công cụ quảng bá; tuy vậy tác giả bài viết nhận định năng lực lập trình, toán học và an ninh mạng của Claude đã tăng mạnh trong năm nay nên lời cảnh báo đáng được coi trọng.",
+      "Thông tin này xuất hiện cùng lúc với số liệu tài chính trong hồ sơ IPO (doanh thu tăng mạnh nhưng chi phí cũng tăng). Đối với người dùng phổ thông, đây là tín hiệu cho thấy cuộc tranh luận về quản lý, giám sát AI sẽ còn nóng lên khi các công ty AI lớn lên sàn."
+     ],
+     "tag": "An toàn AI"
+    },
+    {
+     "cat": "dn",
+     "title": "Chủ tịch Đà Nẵng phê bình nghiêm khắc, 52 nhiệm vụ quá hạn phải báo cáo trước 5/11",
+     "summary": "Chủ tịch UBND TP Đà Nẵng Nguyễn Mạnh Hùng ra công văn phê bình người đứng đầu nhiều cơ quan vì để 52 nhiệm vụ quá hạn, trong đó 28 việc chưa có báo cáo kết quả. Các đơn vị phải giải trình bằng văn bản trước ngày 5/11.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/chu-tich-da-nang-phe-binh-nghiem-khac-nhieu-don-vi-cham-thuc-hien-nhiem-vu-185261103105931384.htm",
+     "tag": "Kỷ luật hành chính",
+     "detail": [
+      "Ngày 3/11, Văn phòng UBND TP Đà Nẵng cho biết Chủ tịch Nguyễn Mạnh Hùng đã ký công văn phê bình nghiêm khắc người đứng đầu các cơ quan, đơn vị, địa phương để nhiều nhiệm vụ quá hạn kéo dài, nhất là những việc trễ hơn 60 ngày mà không có báo cáo kết quả thực chất.",
+      "Rà soát các thông báo kết luận của Chủ tịch và các Phó Chủ tịch từ 1/1 đến 25/10 cho thấy còn 52 nhiệm vụ quá hạn: 28 việc chưa có báo cáo kết quả, 18 việc đang làm nhưng chậm tiến độ, 5 việc phối hợp báo cáo chưa đầy đủ và 1 việc đã có kết quả nhưng cần rà soát. Các đơn vị bị nêu tên gồm Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng, công nghiệp và hạ tầng kỹ thuật, Trung tâm Phát triển quỹ đất và Sở Nông nghiệp và Môi trường.",
+      "Thành phố đánh giá việc chậm trễ ảnh hưởng trực tiếp đến kỷ cương hành chính, tiến độ giải ngân vốn đầu tư công và giải phóng mặt bằng các dự án trọng điểm. Với 28 việc chưa báo cáo, thủ trưởng đơn vị phải giải trình bằng văn bản kết quả, nguyên nhân và cam kết thời gian hoàn thành trước 5/11; với 18 việc chậm, phải dồn tối đa nhân lực, gỡ vướng mặt bằng, thủ tục và báo cáo nếu vượt thẩm quyền, cũng trước 5/11.",
+      "Các Phó Chủ tịch được giao trực tiếp làm việc, kiểm tra hiện trường với đơn vị còn tồn đọng; Văn phòng UBND theo dõi để xem xét trách nhiệm người đứng đầu theo quy định. Động thái này nằm trong chuỗi siết kỷ luật gần đây của Đà Nẵng, khi thành phố đặt mục tiêu tăng trưởng cao và đẩy mạnh giải ngân đầu tư công cuối năm."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng chiều 3/11 hạ nhiệt: SJC giảm 600.000 đồng, bán ra 140,6 triệu",
+     "summary": "Lúc 14h ngày 3/11, vàng miếng SJC tại các thương hiệu lớn giảm 0,6 triệu đồng so với buổi sáng, còn 137,6–140,6 triệu đồng/lượng; vàng nhẫn giảm 0,3–0,6 triệu. So với cuối ngày 2/11, giá vẫn cao hơn khoảng 0,5–0,9 triệu đồng.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-3-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-giam-so-voi-buoi-sang-188261103075423102.chn",
+     "figure": {
+      "value": "140,6",
+      "label": "Vàng miếng SJC bán ra (triệu đồng/lượng), 14h 3/11",
+      "delta": "-0,6 so với sáng",
+      "dir": "down",
+      "spark": [
+       139,
+       140,
+       141.2,
+       140.6
+      ]
+     },
+     "detail": [
+      "Sau khi tăng mạnh buổi sáng, giá vàng trong nước quay đầu giảm nhẹ vào đầu giờ chiều 3/11. Lúc 14h, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải cùng niêm yết vàng miếng SJC ở 137,6 triệu đồng/lượng mua vào và 140,6 triệu bán ra, giảm 0,6 triệu cả hai chiều so với 10h. Bảo Tín Minh Châu mua vào thấp hơn, 135,3 triệu đồng.",
+      "Vàng nhẫn cũng giảm: SJC còn 133,7–137,7 triệu (giảm 0,3), PNJ 134,9–138,9 triệu (giảm 0,6), Bảo Tín Minh Châu và Bảo Tín Mạnh Hải 135,3–139,3 triệu (giảm 0,4), riêng DOJI giữ 135,5–139,5 triệu đồng/lượng.",
+      "Dù hạ nhiệt trong ngày, so với cuối phiên 2/11 vàng nhẫn vẫn tăng 0,5–0,9 triệu và vàng miếng tăng khoảng 0,6 triệu đồng/lượng. Trên thế giới, đầu phiên sáng vàng giao ngay quanh 3.952 USD/ounce, tăng 0,17%.",
+      "Chênh lệch mua – bán vàng miếng vẫn ở mức 3 triệu đồng/lượng (có nơi tới 5,3 triệu), nên người mua để tích trữ ngắn hạn dễ chịu lỗ khi giá đảo chiều trong ngày như hôm nay."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng đặt mục tiêu 45% chuyến đi đô thị bằng giao thông công cộng vào 2050",
+     "summary": "Phó Chủ tịch UBND TP Đà Nẵng Lê Quang Nam đề xuất quy hoạch giao thông cho đô thị đa cực: tỷ lệ chuyến đi bằng giao thông công cộng khoảng 25% năm 2030, 35% năm 2040 và 45% năm 2050, phát triển đô thị quanh nhà ga (TOD) và mô hình logistics kép Liên Chiểu – Chu Lai.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/quy-hoach-giao-thong-trong-khong-gian-da-cuc-3357208.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/02/1-dt1.jpg",
+     "detail": [
+      "Trong bài viết trên Báo Đà Nẵng, TS. Lê Quang Nam, Phó Chủ tịch UBND thành phố, cho rằng quy hoạch giao thông của một đô thị đa cực không chỉ là mở rộng đường sá mà là tổ chức lại không gian phát triển, nối các trung tâm kinh tế, đô thị, dịch vụ với cảng biển, sân bay, đường sắt và logistics. Thành phố theo mô hình '3 vùng, 3 cực, 2 trục, 4 hành lang', với cực bắc là tài chính – thương mại – du lịch, cực nam là công nghiệp – logistics – hàng không.",
+      "Giao thông công cộng được tổ chức thành 5 tầng: đường sắt đô thị và vận tải khối lượng lớn; BRT và xe buýt nhanh liên đô thị; xe buýt đô thị, gom khách, đưa đón công nhân; xe buýt sân bay, du lịch, xe điện; và đi bộ, xe đạp cho quãng đầu – cuối. Mục tiêu tỷ lệ chuyến đi đô thị bằng giao thông công cộng khoảng 25% năm 2030, 35% năm 2040 và 45% năm 2050. Các biện pháp như quản lý đỗ xe, làn ưu tiên xe buýt hay hạn chế phương tiện ở một số khu vực chỉ được nghiên cứu sau khi đã có phương án thay thế phù hợp.",
+      "Thành phố đề xuất phát triển đô thị theo định hướng giao thông công cộng (TOD — xây khu dân cư, việc làm, dịch vụ quanh nhà ga): lõi 0–300 m quanh ga dành cho thương mại, dịch vụ, trung chuyển; vòng 300–600 m cho nhà ở, việc làm hỗn hợp; 600–1.000 m kết nối đi bộ, xe đạp, xe buýt gom. Một phần giá trị đất tăng thêm nhờ hạ tầng sẽ được thu lại để tái đầu tư, dựa trên Luật Đường sắt có hiệu lực từ 1/1/2026.",
+      "Về hàng hóa, cảng Liên Chiểu được định hướng thành cửa ngõ quốc tế gắn khu thương mại tự do, còn Chu Lai – Núi Thành là tổ hợp cảng, hàng không, công nghiệp, logistics; sân bay Đà Nẵng và Chu Lai bổ trợ nhau. Ga Đà Nẵng hiện hữu có thể đổi chức năng khi di dời đường sắt, còn ga đường sắt tốc độ cao được tính trong mạng lưới đô thị.",
+      "Bước đi trước mắt gồm rà soát tuyến xe buýt, điểm dừng; xử lý điểm nghẽn trên các tuyến nối cảng, khu công nghiệp; giữ đất sớm cho đường sắt, nhà ga, bãi đỗ trung chuyển. Với người dân, định hướng này nghĩa là trong vài năm tới mạng xe buýt và các tuyến kết nối sẽ được ưu tiên đầu tư, còn khu vực quanh các nhà ga tương lai sẽ thay đổi quy hoạch đáng kể."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "New York Times kiện Brave vì lấy nội dung bán cho các công ty AI",
+     "summary": "New York Times khởi kiện công ty làm trình duyệt và công cụ tìm kiếm Brave, cáo buộc thu thập trái phép cả bài sau tường phí rồi bán qua Search API cho Anthropic, Perplexity, Mistral để huấn luyện AI. Vụ kiện mở thêm mặt trận bản quyền giữa báo chí và hạ tầng dữ liệu AI.",
+     "source": "Search Engine Journal",
+     "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
+     "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/brave-browser-951.jpg",
+     "detail": [
+      "Ngày 2/11/2026, New York Times khởi kiện các công ty đứng sau trình duyệt Brave và công cụ tìm kiếm Brave Search. Brave vốn được biết đến là trình duyệt chặn quảng cáo, bảo vệ quyền riêng tư, đồng thời bán quyền truy cập chỉ mục tìm kiếm của mình qua giao diện lập trình (Search API).",
+      "Theo đơn kiện, Brave sao chép trái phép nội dung có bản quyền của Times, kể cả bài nằm sau tường phí, để xây chỉ mục tìm kiếm; sau đó cung cấp nội dung này qua Search API cho bên thứ ba như Anthropic, Perplexity và Mistral phục vụ huấn luyện AI và kỹ thuật RAG (cho AI tra cứu tài liệu bên ngoài trước khi trả lời). Times dẫn chính tài liệu tiếp thị của Brave quảng bá API này cho việc huấn luyện và trích xuất nội dung.",
+      "Times còn cáo buộc tính năng 'Ask Brave AI' tóm tắt, tái hiện bài báo khiến người đọc không cần vào trang gốc; trình duyệt Brave giúp vượt tường phí, gỡ quảng cáo của Times và thay bằng quảng cáo của Brave; trình thu thập dữ liệu không tự nhận diện và không cho nhà xuất bản chặn. Vì Brave phớt lờ hai thư yêu cầu chấm dứt (tháng 8/2025 và tháng 4/2026), Times cho rằng đây là vi phạm có chủ ý.",
+      "Bài viết chưa có phản hồi từ Brave và chưa nêu mức bồi thường yêu cầu. Đây là vụ mới nhất trong loạt kiện tụng giữa báo chí và các công ty AI; điểm khác là lần này mục tiêu là một 'nhà cung cấp dữ liệu' trung gian chứ không phải hãng phát triển mô hình.",
+      "Kết quả vụ kiện có thể ảnh hưởng đến cách các chatbot lấy thông tin thời sự: nếu nguồn dữ liệu trung gian bị siết, các công ty AI sẽ phải trả phí bản quyền nhiều hơn hoặc thu hẹp nội dung báo chí mà AI được dùng để trả lời người dùng."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Cảnh báo email giả 'Cổng Dịch vụ công' báo phạt giao thông để lừa nộp tiền",
+     "summary": "Công an Đồng Nai nhận nhiều phản ánh về email giả mạo Cổng Dịch vụ công Quốc gia, báo phạt 1 triệu đồng và dọa tăng gấp đôi nếu chậm nộp, kèm nút bấm dẫn tới trang giả hoặc mã độc. CSGT không gửi quyết định xử phạt qua email, SMS, Zalo hay điện thoại.",
+     "source": "Công an TP.HCM",
+     "url": "https://congan.com.vn/vu-an/phong-chong-toi-pham-tren-khong-gian-mang/canh-giac-thu-doan-gui-email-gia-mao-co-quan-chuc-nang-thong-bao-xu-phat-giao-thong_199495.html",
+     "image": "https://cloud.tienlenquyetthang.com/thumbnail/CATP-480-2026-11-2/11a-6190-6191-1_1281_769_988.jpg",
+     "detail": [
+      "Phòng An ninh mạng Công an tỉnh Đồng Nai cho biết nhận nhiều phản ánh về email mạo danh Cổng Dịch vụ công Quốc gia với tiêu đề kiểu 'Thông báo quyết định xử phạt vi phạm giao thông QD-2026-…'. Email sao chép logo, hình ảnh, phông chữ của cổng thật, ghi số quyết định, cơ quan ra quyết định là Cục CSGT, lỗi 'dùng đèn chiếu xa trong đô thị' và mức phạt 1.000.000 đồng.",
+      "Để gây hoảng, email dọa tiền phạt tăng lên 2.000.000 đồng nếu quá hạn và có thể bị cưỡng chế trừ tài khoản, trừ lương. Nút đỏ 'TRA CỨU & NỘP PHẠT TRỰC TUYẾN' có thể tự tải mã độc về máy hoặc dẫn tới trang thanh toán giả để lấy thông tin cá nhân, tài khoản ngân hàng — nạn nhân có thể mất toàn bộ tiền trong tài khoản.",
+      "Cách kiểm tra phạt thật: cài ứng dụng VNeTraffic, vào mục 'Quyết định xử phạt VPHC' để xem quyết định và trạng thái nộp phạt, hoặc mục 'Tra cứu phạt nguội' rồi nhập biển số xe; nộp phạt qua cổng chính thức dichvucong.gov.vn. Thông báo phạt nguội chỉ gửi bằng giấy hoặc qua ứng dụng VNeTraffic.",
+      "Công an khuyến cáo không nộp phạt qua email, không bấm link hay mở tệp đính kèm từ email tự xưng cơ quan nhà nước nhưng không có đuôi '.gov.vn', không cung cấp mật khẩu, mã OTP, số CCCD hay số tài khoản cho bất kỳ ai. Nếu nhận email đáng ngờ, hãy chụp màn hình làm bằng chứng và báo công an gần nhất. Với người làm nhân sự, đây là nội dung nên phổ biến cho nhân viên vì thủ đoạn đánh vào tâm lý sợ bị trừ lương."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Ngân hàng lãi lớn 9 tháng nhưng nhiều cổ phiếu chỉ quanh mệnh giá 10.000 đồng",
+     "summary": "27 ngân hàng niêm yết lãi trước thuế khoảng 311.079 tỷ đồng 9 tháng, Vietcombank 40.400 tỷ, VietinBank hơn 39.500 tỷ. Thế nhưng sáng 3/11 nhiều mã như SHB, OCB, KLB chỉ quanh 10.000–10.450 đồng, VAB dưới mệnh giá, khi VN-Index giảm phiên thứ tư về gần 1.700 điểm.",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-bao-lai-lon-gia-nhieu-co-phieu-chua-bang-ly-ca-phe-20261103123050126.htm",
+     "tag": "Chứng khoán",
+     "detail": [
+      "Báo cáo quý III cho thấy 27 ngân hàng niêm yết đạt tổng lợi nhuận trước thuế 9 tháng khoảng 311.079 tỷ đồng, tăng so với cùng kỳ. Vietcombank dẫn đầu với khoảng 40.400 tỷ (tăng 22%), VietinBank hơn 39.500 tỷ (tăng 34%), MB 30.518 tỷ (tăng 32%); nhiều nhà băng như VPBank, BIDV, Techcombank, HDBank, TPBank tăng trưởng hai chữ số, BVBank tăng 90% và đã vượt kế hoạch năm.",
+      "Trái ngược với kết quả kinh doanh, giá cổ phiếu ngân hàng ở gần đáy nhiều tháng. Sáng 3/11, CTG quanh 30.000 đồng — thấp nhất 4 tháng; SHB 10.450 đồng, OCB 10.400, KLB 10.350, BVB và BAB 10.200 đồng, còn VAB khoảng 8.960 đồng, dưới mệnh giá 10.000 đồng. Nhóm VBB, NAB, SGB, TPB quanh 12.000–14.000 đồng.",
+      "Bối cảnh chung là VN-Index giảm phiên thứ tư liên tiếp về quanh 1.700 điểm, sau phiên 2/11 mất 30,9 điểm. Thanh khoản sáng 3/11 trên HoSE chỉ hơn 5.600 tỷ đồng; nhóm ngân hàng phân hóa, STB, TCB, VPB, CTG tăng trong khi MBB, BID, VCB giảm.",
+      "Bà Võ Kim Phụng (Công ty Chứng khoán BETA) giải thích thị trường định giá theo lợi nhuận kỳ vọng 6–12 tháng tới, còn kết quả 9 tháng đã được phản ánh. Nhà đầu tư lo tăng trưởng lợi nhuận chậm lại năm 2027, chi phí huy động tăng do cạnh tranh tiền gửi làm co biên lãi ròng (NIM — chênh lệch giữa lãi cho vay và lãi huy động), nợ xấu và nợ cơ cấu tăng ở nhiều nhà băng; khi thị trường bị bán tháo, cổ phiếu vốn hóa lớn thường bị bán trước. Với nhà đầu tư cá nhân, giá rẻ chưa chắc là đáy nếu các rủi ro này chưa được giải tỏa."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "30 tập đoàn chiến lược nắm 4,29 triệu tỷ đồng tài sản, tạo việc cho 560.000 người",
+     "summary": "Vietnam Report công bố bảng xếp hạng ALPHA30 – Top 30 tập đoàn đầu tư chiến lược 2026 với FPT, Viettel, Vingroup, Hòa Phát, THACO… Tổng tài sản khoảng 4,29 triệu tỷ đồng, doanh thu 1,73 triệu tỷ, nhưng tăng trưởng tập trung vào 5 tập đoàn lớn nhất.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/30-tap-doan-viet-nam-nam-429-trieu-ty-dong-tai-san-tao-viec-lam-cho-560000-lao-dong-188261103134808501.chn",
+     "tag": "Xếp hạng",
+     "detail": [
+      "Ngày 3/11, Công ty Báo cáo Đánh giá Việt Nam (Vietnam Report) công bố bảng xếp hạng ALPHA30 – Top 30 Tập đoàn đầu tư chiến lược Việt Nam năm 2026. Danh sách có FPT, Viettel, Sovico, Thế Giới Di Động, Vingroup, Hòa Phát, Sun Group, THACO, Masan, GELEX, REE, T&T, BRG, Geleximco…",
+      "30 tập đoàn này có tổng tài sản khoảng 4,29 triệu tỷ đồng, doanh thu khoảng 1,73 triệu tỷ đồng và tạo việc làm cho khoảng 560.000 lao động. Hơn 80% tăng doanh thu, hơn 95% cải thiện lợi nhuận; trung vị tăng trưởng kép 5 năm (CAGR – tốc độ tăng bình quân mỗi năm) đạt 10,1% với doanh thu và 12,4% với lợi nhuận.",
+      "Tuy nhiên tăng trưởng rất tập trung: 5 doanh nghiệp đóng góp lớn nhất chiếm khoảng 86% phần doanh thu tăng thêm và khoảng 2/3 phần lợi nhuận tăng thêm; 5 tập đoàn lớn nhất nắm khoảng 2/3 tổng tài sản, doanh thu và lợi nhuận cả nhóm. Hơn 70% cải thiện tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE), nhưng chỉ khoảng 1/3 giữ ROE từ 10% trở lên liên tục 2023–2025.",
+      "Điểm sáng là FPT với lợi nhuận tăng bình quân 20,4%/năm trong 5 năm, ROE bình quân 3 năm khoảng 26%; Hòa Phát lãi 2025 tăng khoảng 29% nhưng vẫn chưa bằng một nửa đỉnh 2021. Báo cáo cũng ghi nhận xu hướng tái cấu trúc danh mục: PAN chuyển nhượng Bibica, Gemadept tái cơ cấu liên doanh với CJ Logistics, FPT mua đơn vị thiết kế ô tô ở Ba Lan. Với người lao động, các tập đoàn này vẫn là nhóm tuyển dụng lớn, nhưng cơ hội tập trung ở một số ít doanh nghiệp dẫn đầu."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "California Fitness chỉ còn một phòng tập hoạt động, hội viên thẻ trọn đời lo mất trắng",
+     "summary": "Từ khoảng 35 câu lạc bộ năm 2025, đến 3/11 chuỗi California Fitness & Yoga chỉ còn cơ sở Bình Dương Square mở cửa sau khi đóng thêm Aeon Mall Bình Tân. Nhiều hội viên từng trả hàng chục đến hàng trăm triệu đồng cho thẻ trọn đời, nay bị đề nghị đóng thêm 599.000 đồng/tháng.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/california-fitness-chi-con-mot-phong-tap-hoat-dong-tren-ca-nuoc-100261103100134149.htm",
+     "tag": "Quyền lợi khách hàng",
+     "detail": [
+      "Tối 2/11, California Fitness & Yoga thông báo tạm dừng câu lạc bộ ở Aeon Mall Bình Tân (TP.HCM) từ 3/11 'để điều chỉnh vận hành', chưa hẹn ngày mở lại. Như vậy, từ khoảng 35 câu lạc bộ trên nhiều tỉnh thành năm 2025, cả nước chỉ còn một cơ sở hoạt động là Cali Bình Dương Square; hai cơ sở ở Vũng Tàu và Biên Hòa dự kiến mở lại từ 5/11, các nơi khác chưa có lịch.",
+      "Trước đó, ngày 31/10 công ty khảo sát hội viên về việc thu thêm 599.000 đồng/tháng để cân nhắc mở lại một số câu lạc bộ. Hội viên được hướng dẫn quét mã QR đăng ký bảo lưu thẻ miễn phí, xét từng trường hợp, nhưng công ty chưa công bố địa điểm thay thế hay phương án bù quyền lợi.",
+      "Nhiều hội viên bức xúc: một người đã chi khoảng 200 triệu đồng mua thẻ trọn đời hạng cao và trả thêm 23 triệu mỗi năm để duy trì đặc quyền, nay chỉ còn được vào tập và phải đi hơn 50 km sang Bình Dương; một gia đình mua hai thẻ trọn đời hơn 300 triệu đồng từ 2011 cho biết phòng đóng cửa không báo trước, đồ cá nhân trong tủ khóa chưa lấy ra được. Họ muốn được khôi phục quyền lợi hoặc hoàn tiền thay vì đóng thêm.",
+      "Vụ việc là lời nhắc cho người tiêu dùng khi mua các gói dịch vụ trả trước dài hạn (phòng tập, spa, học tiếng): nên giữ kỹ hợp đồng, chứng từ thanh toán, cân nhắc rủi ro doanh nghiệp đóng cửa, và có thể khiếu nại tới cơ quan bảo vệ người tiêu dùng khi quyền lợi bị ảnh hưởng."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng mở Trung tâm giáo dục cộng đồng về phòng cháy, cứu nạn",
+     "summary": "Sáng 3/11, Đà Nẵng ra mắt Trung tâm Giáo dục cộng đồng về phòng cháy, chữa cháy và cứu nạn, cứu hộ tại 183 Phan Đăng Lưu (phường Cẩm Lệ). Trung tâm mở cửa thứ Bảy, Chủ nhật hằng tuần, dạy thực hành thoát hiểm, dùng bình chữa cháy, sơ cứu cho học sinh, sinh viên, công nhân.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-ra-mat-trung-tam-giao-duc-cong-dong-ve-phong-chay-chua-chay-va-cuu-nan-cuu-ho-3357258.html",
+     "tag": "An toàn cháy nổ",
+     "detail": [
+      "Sáng 3/11, UBND TP Đà Nẵng tổ chức ra mắt Trung tâm Giáo dục cộng đồng về phòng cháy, chữa cháy và cứu nạn, cứu hộ, đặt tại số 183 Phan Đăng Lưu, phường Cẩm Lệ. Trung tâm được thành lập theo Quyết định 4355/QĐ-UBND ngày 24/9/2026, do Công an thành phố quản lý; cán bộ Phòng Cảnh sát PCCC và CNCH làm việc kiêm nhiệm, không tăng biên chế.",
+      "Trung tâm tuyên truyền kiến thức pháp luật, kỹ năng phòng cháy, cứu nạn, phòng tránh tai nạn thương tích và đuối nước. Phần thực hành gồm xử lý tình huống cháy nổ, thoát hiểm khỏi khói và không gian kín, sử dụng bình chữa cháy, vòi và lăng phun, di chuyển người bị nạn, thoát hiểm từ trên cao và sơ cứu ban đầu, kèm khu trưng bày phương tiện chữa cháy chuyên dụng.",
+      "Đối tượng được nhắm tới gồm học sinh, sinh viên, công nhân, người lao động. Lịch sinh hoạt dự kiến vào thứ Bảy và Chủ nhật hằng tuần, sáng 8h–11h, chiều 14h–17h, và có thể tổ chức thêm buổi theo đề nghị. Phó Chủ tịch UBND thành phố Trần Nam Hưng yêu cầu thiết kế chương trình phù hợp từng lứa tuổi, nhóm đối tượng và đặt an toàn học viên lên hàng đầu.",
+      "Trường học, doanh nghiệp và các phường, xã được khuyến khích phối hợp đưa người đến học. Đây là địa chỉ hữu ích để bộ phận nhân sự các doanh nghiệp ở Đà Nẵng tổ chức huấn luyện kỹ năng PCCC, thoát hiểm thực tế cho người lao động; bài báo chưa nêu chi phí hay sức chứa."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-03-1100",
    "date": "2026-11-03",
