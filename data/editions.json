@@ -1,6 +1,219 @@
 {
- "updated": "2026-11-03T07:07:15+07:00",
+ "updated": "2026-11-03T11:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-03-1100",
+   "date": "2026-11-03",
+   "slot": "11:00",
+   "createdAt": "2026-11-03T11:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "know",
+     "title": "Ít nhất 12 doanh nghiệp xin tuyển lại công nhân ECCO Việt Nam",
+     "summary": "Sau khi ECCO Việt Nam giải thể, Ban quản lý các KCX-KCN TP.HCM cho biết ít nhất 12 doanh nghiệp muốn tuyển hơn 1.600 công nhân của nhà máy. Công nhân được nhận trợ cấp theo luật cộng thêm khoản hỗ trợ nửa tháng lương cơ bản cho mỗi năm làm việc.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/it-nhat-12-doanh-nghiep-tuyen-dung-cong-nhan-do-cong-ty-tnhh-ecco-vn-giai-the-185261103100715211.htm",
+     "image": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/11/3/anh-1-dn-17936745269071437719509-0-10-1594-2560-crop-179367508297986717574.jpg",
+     "detail": [
+      "Ngay sau khi Công ty TNHH ECCO Việt Nam (KCN Bàu Bàng, TP.HCM) dừng sản xuất từ 14h ngày 2/11 để giải thể, sáng 3/11 Ban quản lý các khu chế xuất và công nghiệp TP.HCM cho biết đã có ít nhất 12 doanh nghiệp đăng ký muốn tuyển công nhân của nhà máy. Các tên được nêu gồm Paihong VN, Diamond Việt Nam, Waytex, Ampacs International, T.O.P Outdoor Vina, Chervon, Hailex, Fine Chemical, Kammi Vina, Arneplant và Leeda. Nhiều đơn vị đã đến tận cổng nhà máy để tuyển người.",
+      "ECCO Việt Nam có hơn 1.611 lao động, chủ yếu làm giày và sản phẩm da. Công ty giải thích việc đóng cửa là do nhu cầu giảm và tập đoàn tái cơ cấu toàn cầu, thu gọn số nhà máy vì dư công suất, không phải do năng lực người lao động. Theo Liên đoàn Lao động, một doanh nghiệp ở Bàu Bàng còn cho biết sẵn sàng nhận toàn bộ số công nhân này.",
+      "Về quyền lợi, ngoài trợ cấp theo Điều 46 Bộ luật Lao động (trợ cấp thôi việc), mỗi người được thêm một tháng lương cơ bản tính theo thời gian làm việc thực tế trong năm, và khoản hỗ trợ thiện chí bằng nửa tháng lương cơ bản cho mỗi năm thâm niên (dưới 12 tháng vẫn tính tròn một năm). Người được giữ lại hỗ trợ thủ tục giải thể nhận thêm thưởng 50% lương một ngày. Liên đoàn Lao động xác nhận đến nay công ty không nợ quyền lợi nào của người lao động.",
+      "Ban quản lý đang phối hợp với Liên đoàn Lao động TP.HCM để kết nối công nhân với các doanh nghiệp gần đó, đồng thời đề nghị ECCO tạo điều kiện về thời gian, thủ tục để các bên vào tuyển. Với người làm nhân sự, đây là ví dụ đáng tham khảo về cách một doanh nghiệp FDI đóng cửa có trách nhiệm: thông báo rõ lý do, trả đủ và cao hơn mức luật định, phối hợp chính quyền để người lao động sớm có việc mới."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Hồ sơ IPO của Anthropic: doanh thu quý III đạt 17 tỷ USD nhưng chuyển sang lỗ",
+     "summary": "Bản hồ sơ IPO sửa đổi cho thấy Anthropic đạt 17 tỷ USD doanh thu quý III/2026, gấp hơn 12 lần cùng kỳ, nhưng tăng trưởng theo quý chậm lại còn khoảng 47%. Chi phí thuê năng lực tính toán ngắn hạn đắt đỏ khiến công ty lỗ hoạt động 567 triệu USD.",
+     "source": "Fortune",
+     "url": "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/",
+     "figure": {
+      "value": "17 tỷ USD",
+      "label": "Doanh thu quý III/2026 của Anthropic",
+      "delta": "+47% so với quý II",
+      "dir": "up",
+      "spark": [
+       1.4,
+       11.6,
+       17
+      ]
+     },
+     "detail": [
+      "Anthropic, công ty làm ra trợ lý AI Claude, vừa nộp bản sửa đổi hồ sơ đăng ký phát hành cổ phiếu lần đầu ra công chúng (S-1) lên Ủy ban Chứng khoán Mỹ ngày 2/11. Bản đầu tiên công bố tuần trước chưa có số liệu quý III, nên bản cập nhật này được giới đầu tư theo dõi sát trước thềm IPO.",
+      "Doanh thu ba tháng tính đến 30/9 đạt 17 tỷ USD, tăng từ 11,6 tỷ USD ở quý II và 1,4 tỷ USD cùng kỳ năm ngoái — tức tăng hơn 1.000% so với một năm trước. Tuy nhiên, tốc độ tăng theo quý đã chậm lại còn khoảng 47%, so với khoảng 144% ở quý trước. Công ty cũng cho biết việc giảm giá và chiết khấu hợp đồng đã làm doanh thu hụt khoảng 600 triệu USD.",
+      "Tổng chi phí hoạt động tăng vọt lên 17,5 tỷ USD (quý II là 10,6 tỷ USD), khiến Anthropic từ lãi hoạt động 974 triệu USD chuyển sang lỗ 567 triệu USD. Nguyên nhân chính là phải thuê năng lực tính toán (máy chủ chạy AI) ngắn hạn với giá \"cao hơn đáng kể\" so với hợp đồng nhiều năm, cùng khoản chi phí phi tiền mặt 2 tỷ USD liên quan chương trình nhân đôi tiền nhân viên quyên góp từ thiện. Nếu loại các khoản này, biên lợi nhuận điều chỉnh vẫn dương nhưng giảm từ 19% xuống 15%.",
+      "Lỗ ròng quý III lên tới 23,3 tỷ USD, phần lớn do bút toán kế toán khi giá trị các khoản trái phiếu chuyển đổi tăng — không phải tiền mặt thực sự mất đi. Anthropic đã cam kết chi khoảng 895,4 tỷ USD, chủ yếu cho hạ tầng tính toán, trong đó có hệ thống riêng mang tên \"Anthropic Direct\" nhằm thay dần máy thuê ngắn hạn bằng năng lực dài hạn rẻ hơn. Đến 30/9, công ty có 146,6 tỷ USD thanh khoản gồm tiền mặt, đầu tư ngắn hạn và hạn mức tín dụng.",
+      "Số liệu cho thấy cuộc đua AI vẫn tăng trưởng rất nhanh nhưng chi phí hạ tầng đang ăn mòn lợi nhuận. Kết quả IPO của Anthropic sẽ là phép thử lớn cho niềm tin của nhà đầu tư vào các công ty AI, qua đó ảnh hưởng tới giá cổ phiếu công nghệ toàn cầu."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng SJC tăng thêm 1,2 triệu, bán ra 141,2 triệu đồng/lượng",
+     "summary": "Sáng 3/11, vàng miếng SJC tăng 1,2 triệu đồng, lên 138,2–141,2 triệu đồng/lượng (mua–bán). Vàng thế giới đêm qua tăng 71 USD lên khoảng 3.945 USD/ounce, thoát đáy một năm nhờ giá dầu lao dốc; giá trong nước vẫn cao hơn thế giới gần 18 triệu đồng/lượng.",
+     "source": "Sài Gòn Giải Phóng",
+     "url": "https://www.sggp.org.vn/sang-3-11-gia-vang-tiep-tuc-tang-12-trieu-dongluong-post879754.html",
+     "image": "https://image.sggp.org.vn/1200x630/Uploaded/2026/kiuvpcvo/2026_08_11/vang-mieng-pnj-691-6772.jpeg.webp",
+     "detail": [
+      "Khoảng 9h sáng 3/11, SJC, PNJ, DOJI và Phú Quý cùng niêm yết vàng miếng SJC bán ra 141,2 triệu đồng/lượng, tăng 1,2 triệu so với chiều 2/11. Giá mua vào ở SJC, PNJ, DOJI là 138,2 triệu, riêng Phú Quý mua 136,7 triệu đồng/lượng.",
+      "Vàng nhẫn 9999 cũng tăng 1,2 triệu đồng: SJC mua 134 triệu, bán 138 triệu; Phú Quý mua 136,7 triệu, bán 139,7 triệu đồng/lượng.",
+      "Trên thị trường thế giới, phiên 2/11 vàng giao ngay tăng 71 USD lên khoảng 3.945 USD/ounce, có lúc chạm 3.968 USD, sau khi rơi xuống đáy một năm vào cuối tuần trước. Động lực chính là giá dầu Brent giảm tới 8% về khoảng 104 USD/thùng khi Iran và Qatar đàm phán chấm dứt giao tranh ở Trung Đông, làm dịu lo ngại lạm phát. Sáng 3/11 vàng thế giới đi ngang quanh 3.944 USD; nhà đầu tư đang chờ kết quả bầu cử giữa kỳ Mỹ.",
+      "Quy đổi, giá thế giới chỉ khoảng 123,4 triệu đồng/lượng, nên vàng miếng SJC đắt hơn khoảng 17,8 triệu đồng và vàng nhẫn đắt hơn 14,6–16,3 triệu. Khoảng chênh lớn và chênh lệch mua–bán 3 triệu đồng/lượng nghĩa là người mua vào lúc này sẽ chịu rủi ro lỗ ngay nếu giá đảo chiều."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng thu ngân sách 10 tháng hơn 74.000 tỷ đồng, tăng 61,9%",
+     "summary": "Tổng thu ngân sách nhà nước trên địa bàn Đà Nẵng 10 tháng năm 2026 ước đạt hơn 74.024 tỷ đồng, tăng 61,9% so với cùng kỳ. Thành phố cho biết chi ngân sách được quản lý chặt, ưu tiên đầu tư phát triển và an sinh xã hội.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/infographic-da-nang-thu-ngan-sach-10-thang-dat-hon-74-nghin-ty-dong-tang-61-9-3357249.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/02/cover.png",
+     "detail": [
+      "Theo số liệu sơ bộ được Báo Đà Nẵng công bố sáng 3/11 dưới dạng đồ họa, tổng thu ngân sách nhà nước trên địa bàn thành phố trong 10 tháng đầu năm 2026 đạt hơn 74.024 tỷ đồng. So với cùng kỳ năm 2025, nguồn thu tăng 61,9%, một mức tăng rất cao.",
+      "Ở chiều chi, thành phố cho biết ngân sách được điều hành chặt chẽ, tập trung nguồn lực cho đầu tư phát triển (các công trình, dự án hạ tầng), đồng thời vẫn bảo đảm chi thường xuyên và các nhiệm vụ an sinh xã hội.",
+      "Nguồn thu dồi dào giúp thành phố có thêm dư địa để đẩy nhanh các dự án trọng điểm, hỗ trợ doanh nghiệp và chi cho chính sách xã hội. Với người dân, điều này có ý nghĩa ở chỗ các công trình giao thông, trường học, y tế và các chương trình hỗ trợ có nguồn tiền ổn định hơn trong những tháng cuối năm."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Oracle huy động 20 tỷ USD để xây hạ tầng AI, cổ phiếu giảm gần 9%",
+     "summary": "Oracle nộp hồ sơ bán trái phiếu và cổ phiếu để huy động 20 tỷ USD, phục vụ chi tiêu cho trung tâm dữ liệu AI. Cổ phiếu hãng giảm 8,8% trong ngày 2/11, nâng mức mất giá từ đầu năm lên khoảng 39%, cho thấy giới đầu tư ngày càng lo về nợ vay cho AI.",
+     "source": "Reuters (qua Investing.com)",
+     "url": "https://investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687",
+     "tag": "Nợ vay cho AI",
+     "detail": [
+      "Ngày 2/11 (giờ Mỹ), Oracle — hãng phần mềm cơ sở dữ liệu lớn của Mỹ, nay đẩy mạnh cho thuê hạ tầng điện toán đám mây cho AI — nộp hồ sơ lên cơ quan quản lý để huy động 20 tỷ USD qua bán trái phiếu và cổ phiếu. Theo Bloomberg, cổ phiếu dự kiến chào bán giá 116 USD, thấp hơn 11% so với giá đóng cửa phiên trước.",
+      "Gói trái phiếu gồm sáu đợt với kỳ hạn từ 2029 đến 2046. Tiền huy động được dùng cho chi đầu tư, trả nợ, mua lại doanh nghiệp, chia cổ tức và mua lại cổ phiếu. Tuần trước, Oracle cho biết chi đầu tư sẽ lên đỉnh trong năm tài chính này và năm tới, đồng thời cam kết không huy động thêm quá 20 tỷ USD cho AI đến năm tài chính 2030.",
+      "Tin này khiến cổ phiếu Oracle giảm 8,8% xuống 119,22 USD, nâng mức giảm từ đầu năm 2026 lên khoảng 39%. Trước đó cổ phiếu từng bật tăng 11% khi giám đốc tài chính dự báo dòng tiền tự do sẽ dương trở lại từ nửa cuối năm tài chính 2028. Trái phiếu cũ của Oracle cũng mất giá.",
+      "Theo số liệu Reuters dẫn lại, nợ vay của Oracle đã lên khoảng 125,34 tỷ USD tính đến 31/8, trong khi doanh thu năm tài chính 2026 là 67,36 tỷ USD. Hãng đặt mục tiêu doanh thu năm tài chính 2030 vượt 225 tỷ USD, tức gấp hơn ba lần hiện nay.",
+      "Giới đầu tư lo ngại vì Oracle không có quy mô doanh thu như Microsoft hay Amazon nhưng phụ thuộc nhiều vào hợp đồng với OpenAI — công ty vẫn đang thua lỗ. Câu chuyện của Oracle cho thấy làn sóng đầu tư AI ngày càng dựa vào vay nợ, một rủi ro mà thị trường chứng khoán toàn cầu, kể cả Việt Nam, đang theo dõi."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Vận tải Đà Nẵng 10 tháng thu gần 37.000 tỷ đồng, tăng 26,8%",
+     "summary": "Doanh thu vận tải, kho bãi, dịch vụ hỗ trợ và chuyển phát ở Đà Nẵng 10 tháng ước đạt 36.992 tỷ đồng, tăng 26,8%. Riêng tháng 10 tăng 42,9%; khối lượng hàng hóa vận chuyển tăng 36%, cho thấy logistics đang thành động lực mới của thành phố.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/doanh-thu-van-tai-va-dich-vu-ho-tro-tang-gan-27-3357231.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/02/1786175058827_612582671127887191_612582671127887191_abe78ca342b8e4b36cf88de958739dce.jpg",
+     "detail": [
+      "Theo Thống kê Đà Nẵng, doanh thu từ vận tải, kho bãi, dịch vụ hỗ trợ vận tải và bưu chính, chuyển phát trong 10 tháng năm 2026 ước đạt 36.992 tỷ đồng, tăng 26,8% so với cùng kỳ. Riêng tháng 10, doanh thu đạt 4.042 tỷ đồng, tăng tới 42,9%, chủ yếu nhờ vận tải hàng hóa phục vụ sản xuất, kinh doanh và tiêu dùng cuối năm.",
+      "Về sản lượng, 10 tháng qua toàn thành phố vận chuyển khoảng 78,1 triệu tấn hàng hóa (tăng 36%) và khoảng 79,7 triệu lượt hành khách (tăng 12,4%). Hàng hóa tăng nhanh hơn hành khách cho thấy nhu cầu lưu thông hàng cho sản xuất và xuất nhập khẩu đang là động lực chính.",
+      "Báo Đà Nẵng nhận định kết quả này phản ánh vai trò ngày càng lớn của hạ tầng giao thông, kho bãi và logistics (dịch vụ hậu cần: vận chuyển, lưu kho, giao nhận) trong kinh tế thành phố. Đà Nẵng được khuyến nghị tận dụng lợi thế kết nối đường bộ, đường biển và hàng không để nâng năng lực logistics, hỗ trợ thương mại và liên kết vùng.",
+      "Với người lao động, ngành vận tải – kho bãi tăng trưởng nhanh đồng nghĩa nhu cầu tuyển tài xế, nhân viên kho, điều phối và giao nhận sẽ còn cao trong những tháng cuối năm, nhất là mùa cao điểm hàng Tết."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Nhiều khách MB bỗng thấy tài khoản cá nhân gắn mã QR 'hộ kinh doanh'",
+     "summary": "Một số khách hàng Ngân hàng Quân đội (MB) phát hiện trong ứng dụng xuất hiện 'cửa hàng' và mã QR hộ kinh doanh gắn với tài khoản cá nhân, với địa chỉ, ngành nghề không đúng. MB khẳng định đây chỉ là tính năng nhận tiền, không phải đăng ký hộ kinh doanh và không làm phát sinh nghĩa vụ thuế.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/loat-chu-tai-khoan-bong-dung-co-ma-qr-ho-kinh-doanh-5138920.html",
+     "detail": [
+      "Một số khách hàng của MB phản ánh khi mở ứng dụng ngân hàng thì thấy tài khoản cá nhân đã gắn với một \"cửa hàng\" kèm mã QR hộ kinh doanh. Trường hợp chị Hoàng Linh, cửa hàng được ghi là loại hình \"kinh doanh lưu động\" ở một địa chỉ tại Cầu Giấy, Hà Nội — không phải nơi chị ở hay làm việc — và màn hình cửa hàng còn hiển thị cả biến động số dư tài khoản cá nhân.",
+      "Điều khách hàng lo nhất là các khoản chuyển tiền thông thường như lương, tiền gia đình gửi, tiền trả nợ có thể bị hiểu nhầm là doanh thu kinh doanh, dẫn đến phải giải trình hoặc phát sinh thuế. Chị Linh kiểm tra trên ứng dụng của cơ quan thuế thì không thấy tài khoản mình bị ghi nhận là hộ kinh doanh. Trước đó, đầu năm MB từng chạy chiến dịch mở tài khoản hộ kinh doanh trực tuyến hoàn toàn trên ứng dụng.",
+      "Trong phản hồi ngày 30/10, MB cho biết tính năng cửa hàng và VietQR chỉ nhằm giúp khách nhận thanh toán và theo dõi giao dịch; ngân hàng không đăng ký hộ kinh doanh thay khách, và việc hiển thị thông tin này không phải căn cứ để kết luận khách có nghĩa vụ thuế. MB sẽ rà soát các trường hợp khách còn thắc mắc.",
+      "Chuyên gia tài chính Đỗ Thu Hồng (FIDT) cho rằng rủi ro chính nằm ở việc quản lý thông tin chưa rõ ràng chứ không phải tự động phát sinh thuế; ngân hàng cần cho khách tự chọn có dùng hay không và cho phép tắt tính năng. Lời khuyên thực tế: nên mở ứng dụng ngân hàng kiểm tra mục cửa hàng/QR, đối chiếu trên ứng dụng thuế, và yêu cầu ngân hàng sửa hoặc gỡ nếu mình không đăng ký."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Quốc hội bàn trao quyền trưng mua, trưng dụng tài sản khẩn cấp cho cấp xã",
+     "summary": "Sáng 3/11, Quốc hội thảo luận dự án Luật Trưng mua, trưng dụng tài sản (sửa đổi), trong đó cho phép chủ tịch xã quyết định khi có thiên tai, dịch bệnh. Đại biểu ủng hộ nhưng đề nghị làm rõ điều kiện, giới hạn số lần gia hạn và cho phép thẩm định giá độc lập để bảo vệ quyền lợi người có tài sản.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/lam-ro-tham-quyen-trung-mua-trung-dung-tai-san-o-cap-xa-post1399430.html",
+     "tag": "Kỳ họp Quốc hội",
+     "detail": [
+      "Trưng mua, trưng dụng là việc Nhà nước mua bắt buộc hoặc tạm thời sử dụng tài sản của người dân, doanh nghiệp (xe, thiết bị, vật tư, nhà cửa…) trong tình huống khẩn cấp như thiên tai, dịch bệnh, cứu hộ. Sáng 3/11, tại Kỳ họp thứ hai Quốc hội khóa XVI, các đại biểu thảo luận dự thảo luật sửa đổi về vấn đề này, cùng với dự án sửa đổi Luật Sở hữu trí tuệ.",
+      "Đại biểu Hoàng Quốc Khánh (Lai Châu) ủng hộ cho chủ tịch UBND xã quyết định trưng mua khi ứng phó thiên tai, dịch bệnh, tìm kiếm cứu nạn, nhưng cho rằng điều kiện \"cấp trên không tiếp cận được địa bàn\" còn khó áp dụng. Ông đồng tình rút thời hạn thanh toán xuống 20 ngày, song lưu ý các xã miền núi nghèo có thể không đủ tiền, cần ngân sách cấp trên hỗ trợ kịp thời.",
+      "Đại biểu Lò Thị Luyến (Điện Biên) chỉ ra dự thảo cho trưng dụng tối đa 20 ngày, mỗi lần gia hạn tối đa 15 ngày nhưng không giới hạn số lần gia hạn, nên đề nghị khống chế số lần và có cơ chế hủy quyết định khi không còn căn cứ. Đại biểu Vũ Văn Tiến (Hải Phòng) đề nghị khi chủ tài sản không đồng ý mức giá thì được thẩm định lại độc lập, vì hiện cơ quan trưng mua tự thuê đơn vị định giá.",
+      "Ông Tiến cũng nhắc lại bài học thời Covid-19 khi trường học, ký túc xá bị trưng dụng, đề nghị luật quy định rõ cách bồi thường thiệt hại, thu nhập bị mất và chi phí khôi phục, cùng việc kiểm tra hiện trạng khi bàn giao và trả lại. Nếu được tiếp thu, các quy định này giúp người dân và doanh nghiệp có tài sản bị huy động được trả tiền nhanh và công bằng hơn."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Goldman Sachs chỉ cho kỹ sư dùng Claude Code và GitHub Copilot",
+     "summary": "Theo Bloomberg, Goldman Sachs đã giới hạn các công cụ lập trình AI như Claude Code và GitHub Copilot chỉ cho khoảng 12.000 kỹ sư, không cho nhân viên ngân hàng đầu tư và giao dịch dùng nữa. Đây là dấu hiệu các ngân hàng lớn đang siết lại AI vì lo chi phí và rủi ro an ninh.",
+     "source": "PYMNTS (theo Bloomberg)",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-bars-bankers-from-employing-some-ai-tools/",
+     "tag": "AI nơi công sở",
+     "detail": [
+      "Trong nhiều tháng, Goldman Sachs — một trong những ngân hàng đầu tư lớn nhất Phố Wall — cho phép cả nhân viên ngân hàng và giao dịch viên dùng các công cụ AI viết mã như Claude Code của Anthropic hay GitHub Copilot của Microsoft. Hướng dẫn nội bộ ban hành tháng 10, được Bloomberg đưa tin ngày 2/11, nay chỉ cho phép các kỹ sư của ngân hàng sử dụng.",
+      "Một số giao dịch viên tỏ ra bực bội vì họ đã quen dùng AI để theo dõi dòng lệnh của khách hàng và soạn tài liệu, biểu đồ. Hồi tháng 7, giám đốc công nghệ thông tin Marco Argenti từng khen ngợi phong trào \"vibe coding\" — nhân viên không chuyên tự mô tả ý tưởng để AI viết phần mềm, sau đó chuyển cho một trong 12.000 kỹ sư của Goldman hoàn thiện.",
+      "Người phát ngôn Goldman giải thích ngân hàng cho thử nghiệm công cụ AI ở nhiều bộ phận, rồi sau một giai đoạn đánh giá năng suất và quản trị rủi ro sẽ giao công cụ cho \"những người phù hợp nhất để khai thác lâu dài\".",
+      "Đây không phải trường hợp riêng lẻ. CEO JPMorgan Jamie Dimon từng cảnh báo về \"đặc vụ AI làm loạn\" và tuyên bố không cho đặc vụ AI bên ngoài hoạt động trong ngân hàng; Bank of America và Citigroup cũng đặt điều kiện hoặc chặn đặc vụ AI bên thứ ba truy cập tài khoản khách hàng.",
+      "Với doanh nghiệp và người làm nhân sự, bài học là việc đưa AI vào công việc cần có chính sách rõ ràng: ai được dùng công cụ nào, dữ liệu nào được đưa vào, và ai chịu trách nhiệm khi AI làm sai — thay vì để mỗi người tự dùng theo ý mình."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Tin tặc đẩy tủ đông siêu thị châu Âu lên 50 độ C, thực phẩm phải hủy",
+     "summary": "Đêm 2/11, hàng loạt siêu thị ở Bỉ, Luxembourg, Thụy Điển, Ireland bị tấn công mạng khiến tủ lạnh, tủ đông tăng nhiệt, có nơi tới 50 độ C. Vụ việc cho thấy các thiết bị điều khiển qua mạng trong cửa hàng, nhà máy cũng là mục tiêu tấn công.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/hacker-tang-nhiet-tu-lanh-den-50-do-c-tai-hang-loat-sieu-thi-chau-au-5139939.html",
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/03/hack-jpeg-1793661497-6205-1793661554.jpg",
+     "detail": [
+      "Vào nửa đêm 2/11, hệ thống tủ lạnh và tủ đông tại nhiều siêu thị châu Âu bất ngờ tăng nhiệt, buộc các cửa hàng phải tiêu hủy thực phẩm. Bị ảnh hưởng có chuỗi Ahold Delhaize và Colruyt ở Bỉ, Luxembourg; ICA và Coop ở Thụy Điển; 13 cửa hàng SuperValu ở Ireland; 15 trong số 700 cửa hàng Carrefour ở Bỉ và ít nhất một cửa hàng IKEA. Đây là đợt thứ hai sau vụ tương tự ở Pháp giữa tháng 10.",
+      "Tại ICA, tủ đông bị đẩy lên tới 50 độ C; Colruyt có 5 địa điểm bị điều khiển từ xa. Một chủ chuỗi cửa hàng thịt ở Bỉ cho biết tủ đông lên 18 độ C, thiệt hại ước 15.000 euro (khoảng 430 triệu đồng). Một số tủ dùng công nghệ điều khiển nhiệt độ của hãng Danfoss (Đan Mạch) — hãng từng bị nhắm tới trong vụ ở Pháp và đang phối hợp khắc phục.",
+      "Chưa ai nhận trách nhiệm và không có yêu cầu tiền chuộc, nên giới chuyên gia nghi đây là hành vi phá hoại; có thể do một quốc gia muốn phô diễn năng lực hoặc một tin tặc đơn lẻ. Ủy ban châu Âu coi đây là hành động có chủ đích, còn Trung tâm An ninh mạng Bỉ cảnh báo mọi hệ thống CNTT đều có thể bị tấn công, và AI có thể bị dùng để dò lỗ hổng.",
+      "Bài học cho doanh nghiệp, kể cả ở Việt Nam: các thiết bị \"thông minh\" kết nối Internet như tủ lạnh công nghiệp, camera, máy chấm công cũng cần được đổi mật khẩu mặc định, cập nhật phần mềm và tách khỏi mạng nội bộ chính, thay vì chỉ chú trọng bảo vệ máy tính."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "SCB hạ lãi suất tiết kiệm còn 0,1–0,7%/năm, thấp nhất thị trường",
+     "summary": "Ngân hàng SCB vừa giảm lãi suất tiết kiệm trực tuyến 1,5–3,2 điểm phần trăm, kỳ hạn 1–5 tháng chỉ còn 0,1%/năm. Trong khi đó, nhóm Big4 vẫn trả 6,8%/năm cho kỳ hạn 12 tháng và mức cao nhất thị trường là 7,4%/năm.",
+     "source": "VietNamNet",
+     "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-11-lai-suat-thap-ky-luc-cao-nhat-0-7-nam-2570858.html",
+     "figure": {
+      "value": "0,1%/năm",
+      "label": "Lãi suất SCB kỳ hạn 1–5 tháng",
+      "delta": "-1,5 đến -1,8 điểm %",
+      "dir": "down",
+      "spark": [
+       0.1,
+       0.5,
+       0.6,
+       0.7
+      ]
+     },
+     "detail": [
+      "SCB vừa điều chỉnh biểu lãi suất tiết kiệm trực tuyến cho khách hàng cá nhân, giảm từ 1,5 đến 3,2 điểm phần trăm ở các kỳ hạn 1–36 tháng. Cụ thể, kỳ hạn 1–5 tháng và không kỳ hạn chỉ còn 0,1%/năm; 6–11 tháng 0,5%; 12–18 tháng 0,6%; 24–36 tháng 0,7%/năm. Các mức này áp dụng cả cho gửi tại quầy.",
+      "SCB là ngân hàng thuộc diện tái cơ cấu, đang thu hẹp mạnh mạng lưới: riêng tháng 9 và tháng 10 mỗi tháng đóng 5 chi nhánh, hiện chỉ còn 8 điểm giao dịch, giảm hơn 200 điểm trong 3 năm. Với mức lãi suất gần như bằng không, gửi tiền ở đây gần như không sinh lời.",
+      "Ở các ngân hàng khác, mặt bằng lãi suất vẫn cao hơn nhiều: Agribank, BIDV, Vietcombank, VietinBank trả 4,75%/năm cho kỳ hạn 3 tháng, 6,6% cho 6 tháng và 6,8% cho 12 tháng. Một số ngân hàng như VCBNEO, MBV, PGBank, Sacombank, VIB trả 7%/năm kỳ hạn 12 tháng; cao nhất là VPBank 7,4%/năm cho kỳ hạn 18 tháng.",
+      "Với người gửi tiết kiệm, nên so sánh biểu lãi suất trước khi tái tục sổ, vì khoản chênh lệch giữa các ngân hàng có thể lên tới hơn 6 điểm phần trăm mỗi năm. Người đang có sổ ở SCB cần lưu ý ngày đáo hạn để chủ động chuyển nếu thấy lãi suất mới không còn phù hợp."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Robot Trung Quốc chuyển cuộc đua từ phần cứng sang 'bộ não' AI",
+     "summary": "Sau giai đoạn đua làm robot hình người biết chạy, nhảy, các hãng Trung Quốc chuyển sang đầu tư mạnh vào phần mềm AI điều khiển robot. Nửa đầu 2026, lĩnh vực 'AI hiện thân' của Trung Quốc gọi vốn khoảng 13 tỷ USD, gấp 5 lần cùng kỳ.",
+     "source": "CafeF (theo VTV)",
+     "url": "https://cafef.vn/trung-quoc-dich-chuyen-cuoc-dua-robot-tu-phan-cung-sang-bo-nao-188261103090505757.chn",
+     "tag": "Robot · AI",
+     "detail": [
+      "Nhiều năm qua, các hãng robot Trung Quốc gây chú ý bằng những robot hình người biết chạy, nhảy múa, nhào lộn. Nay trọng tâm đang chuyển sang \"bộ não\" — phần mềm AI giúp robot hiểu môi trường và làm được nhiều loại việc hơn. Theo ông Dermot McGrath (ZenGen Labs, Thượng Hải), cạnh tranh đã kéo giá phần cứng xuống, nên lợi nhuận tương lai sẽ nằm ở phần mềm.",
+      "Theo hãng nghiên cứu ITjuzi, nửa đầu năm 2026 các công ty \"AI hiện thân\" (AI gắn vào thân máy vật lý như robot) ở Trung Quốc đã huy động 93,5 tỷ nhân dân tệ (khoảng 13 tỷ USD) qua 322 thương vụ, gấp 5 lần cùng kỳ. Một số startup như X Square, Galaxea, Spirit AI được định giá khoảng 3 tỷ USD mỗi công ty.",
+      "Các tên tuổi lớn cũng chạy đua tuyển người: UBTech (niêm yết ở Hồng Kông) tuyển nhà khoa học trưởng về mô hình AI với đãi ngộ tới 124 triệu nhân dân tệ (khoảng 18 triệu USD) kể cả cổ phiếu; Unitree — hãng xuất xưởng nhiều robot hình người nhất thế giới — có khoảng 30 nhà nghiên cứu phát triển AI dự đoán hành vi của đồ vật.",
+      "Thách thức lớn nhất là thiếu chip Nvidia cao cấp do lệnh hạn chế xuất khẩu của Mỹ, cùng việc cơ quan quản lý siết IPO vì lo định giá bị thổi phồng. Xu hướng này đáng chú ý với Việt Nam vì robot giá rẻ, thông minh hơn từ Trung Quốc có thể sớm xuất hiện trong nhà máy, kho hàng — tác động trực tiếp tới nhu cầu lao động phổ thông."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Đơn hàng xuất khẩu cuối năm nhộn nhịp: gỗ dự kiến gần 19 tỷ USD",
+     "summary": "Nhiều doanh nghiệp gỗ, dệt may, nông sản tăng tốc giao hàng cuối năm. Xuất khẩu rau quả 10 tháng đạt 8,3 tỷ USD (+17,8%), thủy sản 10,46 tỷ USD (+12%), ngành gỗ kỳ vọng gần 19 tỷ USD cả năm; tuy vậy dệt may gặp đơn hàng nhỏ, giá thấp.",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/nhon-nhip-don-hang-xuat-khau-cuoi-nam-185261102191315033.htm",
+     "image": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/11/2/anh-1-17936211365881614889248-320-0-1920-2560-crop-17936214365571862240459.jpg",
+     "detail": [
+      "Những tháng cuối năm, nhiều doanh nghiệp xuất khẩu đang chạy đơn. Công ty Jason Furniture VN (Đồng Nai) với gần 6.000 công nhân tập trung hoàn thành đơn hàng gỗ nội thất; Công ty may Đồng Phú Cường đạt doanh thu tháng 9 hơn 1,75 triệu USD, bằng 122% kế hoạch. Hoàng Anh Gia Lai tận dụng khoảng 1.200 ha sầu riêng ở cao nguyên Bolaven (Lào) thu hoạch tháng 10–11, đúng lúc nguồn cung trong nước giảm, để bán sang Trung Quốc.",
+      "Theo số liệu 10 tháng, xuất khẩu rau quả đạt khoảng 8,3 tỷ USD, tăng 17,8%, và có thể chạm 10 tỷ USD cả năm, trong đó Trung Quốc chiếm khoảng 65%. Thủy sản đạt 10,46 tỷ USD, tăng 12%, cần thêm khoảng 1,54 tỷ USD trong hai tháng cuối để về đích 12 tỷ USD. Hiệp hội Gỗ và Lâm sản dự báo xuất khẩu gỗ vượt 18 tỷ USD, cộng lâm sản ngoài gỗ thì gần 19 tỷ USD.",
+      "Chỉ số PMI sản xuất tháng 10 của S&P Global tăng lên 52,3 điểm (trên 50 là mở rộng), đơn hàng mới tăng tháng thứ sáu liên tiếp, nhưng đơn hàng xuất khẩu mới vẫn giảm và sản lượng tăng chậm nhất 6 tháng do khó mua nguyên liệu.",
+      "Ngành dệt may vẫn tăng trưởng nhưng đơn hàng nhỏ lại, giá thấp, yêu cầu chất lượng và thiết kế phức tạp hơn; nhiều doanh nghiệp chấp nhận lãi mỏng để giữ đơn và giữ việc cho công nhân. Các rào cản về truy xuất nguồn gốc, tiêu chuẩn kỹ thuật ở Mỹ, EU và khó khăn vận tải biển sang Trung Đông, châu Âu là những rủi ro cần theo dõi."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-03-0700",
    "date": "2026-11-03",
