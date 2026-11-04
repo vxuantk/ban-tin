@@ -1,6 +1,209 @@
 {
- "updated": "2026-11-04T07:07:35+07:00",
+ "updated": "2026-11-04T11:01:50+07:00",
  "editions": [
+  {
+   "id": "2026-11-04-1100",
+   "date": "2026-11-04",
+   "slot": "11:00",
+   "createdAt": "2026-11-04T11:01:50+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "vn",
+     "title": "Bầu cử giữa kỳ Mỹ: Đảng Dân chủ được dự báo giành lại Hạ viện",
+     "summary": "Sáng 4/11 (giờ Việt Nam), CNN, NBC News dự báo đảng Dân chủ giành lại Hạ viện, NBC ước ít nhất 244/435 ghế. Dân chủ cũng lật ghế Thượng viện ở Bắc Carolina, kết quả này ảnh hưởng trực tiếp tới hai năm cuối nhiệm kỳ ông Trump.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/my-bat-dau-kiem-phieu-trong-bau-cu-giua-ky-5140465.html",
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/04/ap26308096785595-1793763407-5017-1793763445.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=OapplEfEJjNYX4sjcUkGDQ",
+     "detail": [
+      "Nước Mỹ bắt đầu kiểm phiếu cuộc bầu cử giữa kỳ ngay sau khi các điểm bỏ phiếu đóng cửa. Đây là cuộc bầu cử chọn lại toàn bộ 435 ghế Hạ viện và khoảng một phần ba Thượng viện, diễn ra giữa nhiệm kỳ của Tổng thống Donald Trump nên được xem như cuộc 'chấm điểm' chính quyền đương nhiệm.",
+      "Theo cập nhật trực tiếp của VnExpress lúc 7h18 sáng 4/11, các hãng truyền thông lớn như CNN và NBC News đều dự báo đảng Dân chủ sẽ giành lại quyền kiểm soát Hạ viện sau hai nhiệm kỳ. NBC News ước tính Dân chủ có thể đạt ít nhất 244 ghế, vượt xa mốc 218 ghế cần để chiếm đa số. Ở thời điểm đó, số ghế đã có kết quả theo AP nghiêng về Dân chủ với cách biệt 42 ghế.",
+      "Ở Thượng viện, Dân chủ được dự báo thắng tại Bắc Carolina (ông Roy Cooper) và cả Nam Carolina, nơi đảng Cộng hòa giữ ghế gần 30 năm. Ông Jon Ossoff tái đắc cử ở Georgia, còn Cộng hòa giữ được ghế tại Florida. Kết quả ở Texas, Kansas, New Hampshire vẫn chưa ngã ngũ nên chưa thể khẳng định đảng nào kiểm soát Thượng viện.",
+      "Nhà Trắng cho biết Tổng thống sẽ không ban bố thiết quân luật hay khuyến khích việc từ chối chứng nhận kết quả, dù có một số người ủng hộ kêu gọi. Trước đó ông Trump từng tuyên bố sẽ phủ quyết hàng loạt dự luật nếu đối thủ nắm Quốc hội.",
+      "Nếu Dân chủ nắm Hạ viện, chính quyền Trump sẽ khó thông qua luật mới, ngân sách và chính sách thuế quan có thể bị điều chỉnh, các cuộc điều tra của Quốc hội sẽ tăng. Với Việt Nam, đây là yếu tố cần theo dõi vì chính sách thương mại, thuế quan của Mỹ tác động trực tiếp tới xuất khẩu và doanh nghiệp FDI."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Canva cắt 1.271 vị trí, khoảng 22% nhân sự, sau 'năm khó khăn nhất'",
+     "summary": "Kỳ lân thiết kế Úc Canva tái cấu trúc, ảnh hưởng khoảng 1.271 vị trí, tức 22% trên hơn 5.000 nhân viên. Tăng trưởng chậm lại lần đầu sau 10 năm, chi phí phục vụ AI cho người dùng miễn phí cao và định giá bị nhà đầu tư hạ nhiều lần.",
+     "source": "Forbes Australia",
+     "url": "https://www.forbes.com.au/news/innovation/canva-layoffs-impact-1200-employees/",
+     "detail": [
+      "Canva, nền tảng thiết kế trực tuyến của Úc mà nhiều nhân viên văn phòng, nhân sự, marketing ở Việt Nam đang dùng, vừa công bố đợt tái cấu trúc lớn nhất từ trước tới nay. Khoảng 1.271 vị trí, tương đương 22% trong tổng số hơn 5.000 nhân viên, sẽ bị cắt bỏ, thay đổi hoặc chuyển địa điểm.",
+      "Trong thư nội bộ, CEO Melanie Perkins gọi đây là 'năm khó khăn nhất' của công ty và nói rằng những thay đổi nhỏ 'sẽ không đủ'. Bà cho biết cần 'tái lập Canva' để bảo đảm tăng trưởng thập kỷ tới, cắt bớt thủ tục, xây dựng các nhóm nhỏ và linh hoạt hơn. Các nhóm sản phẩm, tăng trưởng và nền tảng sẽ gộp thành một khối; Sydney trở thành trung tâm sản phẩm chính.",
+      "Nguyên nhân: tăng trưởng của Canva chậm lại lần đầu sau một thập kỷ, dự báo tăng doanh thu bị hạ từ 30% xuống 20%. Công ty đã tái định hướng xoay quanh AI nhưng phải lùi kế hoạch ra mắt sản phẩm vì chi phí chạy AI cho số đông người dùng không trả phí quá lớn. Định giá Canva từ khoảng 40 tỷ USD đầu năm bị một số quỹ hạ xuống quanh 30,4 tỷ USD.",
+      "Về chế độ, người bị cho nghỉ được trả ít nhất 6 tháng lương, một năm bảo hiểm y tế và được giữ máy MacBook; Canva còn lập quỹ hỗ trợ tối đa 10.000 USD cho ai muốn khởi nghiệp. Nhân viên làm việc kết hợp sẽ phải lên văn phòng 2–3 ngày mỗi tuần từ tháng 1, thay cho chính sách ưu tiên làm từ xa trước đây.",
+      "Đợt cắt giảm của Canva nằm trong làn sóng chung năm 2026: Atlassian cắt 1.600 người, Block cắt 4.000 người, Microsoft đề nghị gói nghỉ tự nguyện cho 60.000 nhân viên. Với người làm nhân sự, đây là ví dụ tham khảo về gói hỗ trợ khi cắt giảm và xu hướng các công ty công nghệ siết lại mô hình làm việc từ xa."
+     ],
+     "tag": "Cắt giảm nhân sự"
+    },
+    {
+     "cat": "fin",
+     "title": "Trưa 4/11: vàng SJC lên 141,2 triệu đồng/lượng, cao hơn thế giới gần 18 triệu",
+     "summary": "Khoảng 9h20 sáng 4/11, DOJI và Phú Quý niêm yết vàng miếng SJC bán ra 141,2 triệu đồng/lượng, tăng 600.000 đồng so với đầu giờ hôm qua. Vàng thế giới quanh 3.942 USD/ounce, quy đổi chỉ khoảng 123,2 triệu đồng/lượng.",
+     "source": "VietnamPlus",
+     "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-di-len-giao-dich-quanh-muc-1412-trieu-dong-moi-luong-post1146021.vnp",
+     "image": "https://media.vietnamplus.vn/images/wU9keeg-MVtM86KQbMalHigYMP_qgr2FUNkUD7SWNyyarVYIxpIHLf_aImrDBH5N/vang.jpg.webp",
+     "detail": [
+      "Giá vàng trong nước tiếp tục đi lên trong sáng 4/11. Lúc khoảng 9h20, DOJI niêm yết vàng miếng SJC ở mức 138,2 triệu đồng/lượng mua vào và 141,2 triệu đồng/lượng bán ra; Phú Quý mua 136,6 triệu, bán 141,2 triệu, tăng 600.000 đồng/lượng.",
+      "Vàng nhẫn cũng tăng: Phú Quý bán ra 139,6 triệu đồng/lượng (tăng 600.000), Bảo Tín Minh Châu bán 139,5 triệu đồng/lượng (tăng 200.000). Chênh lệch giữa giá mua và bán ở các doanh nghiệp khoảng 3–4 triệu đồng/lượng, nghĩa là người mua rồi bán lại ngay sẽ lỗ khoản này.",
+      "Trên thị trường thế giới, vàng giao ngay quanh 3.942 USD/ounce, nhích khoảng 12 USD. Quy đổi theo tỷ giá Vietcombank, mức này tương đương khoảng 123,2 triệu đồng/lượng, nên vàng miếng SJC đang đắt hơn thế giới gần 18 triệu đồng/lượng.",
+      "Tỷ giá trung tâm của Ngân hàng Nhà nước ở mức 25.627 đồng/USD, giảm 3 đồng; giá USD tại ngân hàng thương mại giảm 25–40 đồng. Khoảng cách lớn với giá thế giới là rủi ro cho người mua vàng miếng lúc này: nếu chênh lệch thu hẹp, giá trong nước có thể giảm mạnh hơn thế giới."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Luật An ninh dữ liệu: đại biểu đề nghị chặn việc tự 'hạ cấp' dữ liệu để né nghĩa vụ",
+     "summary": "Sáng 4/11, Quốc hội thảo luận dự thảo Luật An ninh dữ liệu chia dữ liệu thành 5 cấp độ theo hậu quả khi bị xâm phạm. Đại biểu lo chủ quản tự xếp cấp thấp để giảm nghĩa vụ; doanh nghiệp đang vận hành có 24 tháng (DN nhỏ và vừa 36 tháng) để tuân thủ.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/bao-ve-an-ninh-du-lieu-theo-cap-do-rui-ro-post1399783.html",
+     "tag": "Quốc hội",
+     "detail": [
+      "Tại Kỳ họp thứ 2, Quốc hội khóa XVI, sáng 4/11 các đại biểu thảo luận dự thảo Luật An ninh dữ liệu cùng hai dự án luật khác do Bộ Công an chủ trì. Dự luật đặt nền móng cho việc quản lý dữ liệu theo mức độ rủi ro và bảo vệ dữ liệu suốt vòng đời, từ thu thập, lưu trữ tới xử lý.",
+      "Dự thảo chia dữ liệu thành 5 cấp độ dựa trên hậu quả nếu dữ liệu bị lộ hoặc bị tấn công. Đại biểu Nguyễn Thị Việt Nga (Hải Phòng) đồng tình cách phân loại này nhưng chỉ ra điểm bất hợp lý: các cấp độ 3, 4, 5 vẫn gắn với cấp độ của hệ thống lưu trữ, khiến cùng một tập dữ liệu có thể bị xếp khác nhau tùy nơi cất giữ. Bà đề nghị tách riêng tiêu chí phân loại dữ liệu và yêu cầu bảo vệ hệ thống.",
+      "Đại biểu Nguyễn Vũ Trung (TP.HCM) cảnh báo khoản 2 Điều 9 giao chủ quản dữ liệu tự xác định cấp độ nhưng chưa có tiêu chí, hồ sơ chứng minh hay cơ chế hậu kiểm. Như vậy, đơn vị có thể xếp dữ liệu thấp hơn thực tế để giảm nghĩa vụ. Ông đề nghị bắt buộc lập và lưu hồ sơ căn cứ, đồng thời cơ quan nhà nước được quyền kiểm tra, yêu cầu điều chỉnh.",
+      "Về lộ trình, dự thảo cho hệ thống đang vận hành 24 tháng để xác định cấp độ và khắc phục, riêng doanh nghiệp nhỏ và vừa 36 tháng; hệ thống cấp độ 4 và 5 phải kiểm toán lần đầu trong 12 tháng. Đại biểu Sùng A Lềnh (Lào Cai) đề nghị không bắt mỗi xã, trường học, trạm y tế lập lại hồ sơ kỹ thuật khi đã dùng hệ thống chung, và cần có hỗ trợ nhân lực, kinh phí cho cơ sở.",
+      "Với doanh nghiệp, kể cả bộ phận nhân sự đang nắm nhiều dữ liệu cá nhân của người lao động (CCCD, lương, sức khỏe, tài khoản ngân hàng), luật này khi thông qua sẽ đòi hỏi phân loại dữ liệu, lập phương án bảo vệ và chịu kiểm tra. Nên theo dõi để chuẩn bị quy trình từ sớm."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng ký hợp tác với Vietjet, mở đường bay đi Osaka và Jakarta từ 20/12",
+     "summary": "Sáng 4/11, UBND TP Đà Nẵng và Vietjet ký thỏa thuận hợp tác toàn diện giai đoạn 2026–2030. Từ 20/12/2026, Vietjet khai thác thêm hai đường bay Đà Nẵng – Osaka (Nhật Bản) và Đà Nẵng – Jakarta (Indonesia).",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-ky-ket-hop-tac-toan-dien-voi-vietjet-3357356.html",
+     "tag": "Đường bay mới",
+     "detail": [
+      "Sáng 4/11, UBND thành phố Đà Nẵng và Công ty CP Hàng không Vietjet ký biên bản thỏa thuận hợp tác toàn diện giai đoạn 2026–2030. Đại diện ký là Phó Chủ tịch UBND thành phố Nguyễn Thị Anh Thi và Phó Tổng Giám đốc Vietjet Đỗ Xuân Quang.",
+      "Theo lãnh đạo thành phố, Bộ Chính trị đã xác định Đà Nẵng là một trong 3 cực tăng trưởng du lịch của cả nước đến năm 2030 (Nghị quyết 26-NQ/TW ngày 22/8/2026). Muốn vậy thành phố cần khả năng kết nối mạnh hơn, và hàng không đóng vai trò then chốt trong việc đưa khách, mở rộng giao thương, đầu tư.",
+      "Nội dung hợp tác gồm: quảng bá điểm đến Đà Nẵng; nghiên cứu thị trường, mở đường bay mới và nâng hiệu quả đường bay hiện có; chuyển đổi số và truyền thông; cùng tổ chức sự kiện văn hóa, du lịch, thương mại, kết nối doanh nghiệp; phát triển du lịch bền vững.",
+      "Giai đoạn trước, Vietjet là hãng tiên phong bay thẳng Đà Nẵng – Ấn Độ và phối hợp tổ chức các chuyến bay thuê chuyến từ Nga, các nước SNG. Từ ngày 20/12/2026, hãng sẽ mở thêm đường bay Đà Nẵng – Osaka và Đà Nẵng – Jakarta.",
+      "Với người dân và doanh nghiệp Đà Nẵng, thêm đường bay thẳng đi Nhật Bản và Indonesia giúp đi lại, công tác thuận tiện hơn, đồng thời mở nguồn khách mới cho khách sạn, nhà hàng, dịch vụ du lịch vào mùa cao điểm cuối năm và Tết."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Công an Đà Nẵng phá đường dây lừa đầu tư chứng khoán qua app LB-Pro hơn 100 tỷ",
+     "summary": "Nhóm đối tượng lập công ty 'ma', dụ người dân đầu tư chứng khoán qua ứng dụng LB-Pro rồi đổi tiền sang tiền số USDT chuyển ra nước ngoài, chiếm đoạt hơn 100 tỷ đồng. Riêng bị hại ở Đà Nẵng mất khoảng 11 tỷ đồng.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/boc-go-duong-day-lua-dao-hon-100-ty-dong-qua-ung-dung-lb-pro-3357351.html",
+     "tag": "Cảnh giác lừa đảo",
+     "detail": [
+      "Cơ quan An ninh điều tra Công an TP Đà Nẵng đã khởi tố vụ án, bắt tạm giam một đối tượng về tội lừa đảo chiếm đoạt tài sản và rửa tiền, cùng ba người khác về tội rửa tiền; một người khác bị cấm đi khỏi nơi cư trú. Đường dây do Phòng An ninh mạng phát hiện, có sự câu kết giữa người trong nước và tổ chức tội phạm nước ngoài.",
+      "Thủ đoạn: nhóm này dụ người dân 'đầu tư chứng khoán' qua ứng dụng LB-Pro. Để tạo lòng tin, chúng lập công ty không hoạt động thật, mở tài khoản ngân hàng doanh nghiệp mang tên trùng với các 'dự án đầu tư' trên ứng dụng, khoác vỏ tài chính, chứng khoán, thương mại điện tử.",
+      "Khi nhận tiền, nhóm nhanh chóng đổi sang USDT (một loại tiền số neo theo đồng USD) rồi chuyển vào ví điện tử của tổ chức nước ngoài để xóa dấu vết. Chỉ riêng từ 1–25/8/2023, nhóm đã dùng tài khoản một công ty để nhận tiền và chuyển hơn 80 tỷ đồng mua USDT. Tổng số tiền bị chiếm đoạt hơn 100 tỷ đồng, riêng bị hại tại Đà Nẵng khoảng 11 tỷ đồng.",
+      "Công an đã triển khai 7 tổ công tác đồng loạt tại Đà Nẵng và Huế, thu giữ ô tô, máy tính và 5 điện thoại; vụ án đang tiếp tục được điều tra.",
+      "Bài học cho người dân: một khoản đầu tư chứng khoán hợp pháp phải đi qua công ty chứng khoán được Ủy ban Chứng khoán cấp phép, không chuyển tiền vào tài khoản công ty lạ hay qua ứng dụng không rõ nguồn gốc. Tài khoản đứng tên doanh nghiệp không đồng nghĩa với an toàn."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Super Micro nâng dự báo doanh thu năm lên 72–82 tỷ USD nhờ máy chủ AI",
+     "summary": "Hãng máy chủ Super Micro báo doanh thu quý gần nhất 19,95 tỷ USD, vượt xa dự báo khoảng 16,4 tỷ của giới phân tích. Công ty nâng dự báo năm tài chính 2027 lên 72–82 tỷ USD, cổ phiếu tăng hơn 7% sau giờ giao dịch.",
+     "source": "Reuters (qua MarketScreener)",
+     "url": "https://www.marketscreener.com/news/super-micro-forecasts-quarterly-revenue-above-estimates-on-strong-ai-server-demand-ce785fdedd81f521",
+     "detail": [
+      "Super Micro Computer là hãng Mỹ chuyên lắp ráp máy chủ dùng chip Nvidia, bán cho các công ty điện toán đám mây và tập đoàn công nghệ đang xây trung tâm dữ liệu AI. Ngày 3/11 (giờ Mỹ), hãng công bố kết quả quý kết thúc 30/9, tức quý I năm tài chính 2027.",
+      "Doanh thu quý đạt 19,95 tỷ USD, cao hơn nhiều mức 16,39 tỷ USD mà giới phân tích dự báo theo LSEG. Lợi nhuận điều chỉnh 1,81 USD mỗi cổ phiếu, vượt mức kỳ vọng 1,23 USD. Biên lợi nhuận gộp 12,7%, cao hơn khoảng 12–12,5% mà công ty ước trước đó; biên này thấp vì mảng lắp ráp máy chủ cạnh tranh mạnh.",
+      "Cho quý tiếp theo, công ty dự báo doanh thu 19,5–21,5 tỷ USD, trong khi thị trường chỉ kỳ vọng khoảng 17,1 tỷ USD. Dự báo cả năm tài chính 2027 được nâng từ 65–72 tỷ lên 72–82 tỷ USD. Cổ phiếu đóng cửa phiên 3/11 ở 31,39 USD và tăng hơn 7% trong giao dịch ngoài giờ.",
+      "Super Micro từng bị nghi ngờ về thực hành kế toán; tháng trước công ty mới bổ nhiệm giám đốc tài chính sau gần hai năm tìm người, và ông cho biết đang tăng nguồn lực kiểm soát nội bộ. Cũng trong tháng trước, một nhà thầu đã nhận tội xuất khẩu trái phép máy chủ chứa chip Nvidia sang Trung Quốc.",
+      "Kết quả này cho thấy nhu cầu xây hạ tầng AI vẫn rất nóng, cùng chiều với số liệu AMD, Palantir công bố đầu tuần. Tuy vậy, biên lợi nhuận mỏng và rủi ro tuân thủ khiến giới phân tích vẫn khuyến nghị trung lập với cổ phiếu này."
+     ],
+     "tag": "Máy chủ AI"
+    },
+    {
+     "cat": "biz",
+     "title": "Lọc hóa dầu Bình Sơn ước doanh thu 2026 gần 224.000 tỷ đồng, tăng 56%",
+     "summary": "BSR, chủ nhà máy lọc dầu Dung Quất, là doanh nghiệp đầu tiên hé lộ doanh thu cả năm 2026: khoảng 223.991 tỷ đồng, đạt 117% kế hoạch. Nhà máy chạy bình quân 123% công suất thiết kế trong 9 tháng.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cong-ty-dau-tien-he-lo-doanh-thu-ca-nam-2026-dat-gan-224000-ty-dong-tang-56-188261103214915204.chn",
+     "detail": [
+      "Tổng công ty Lọc hóa dầu Việt Nam (BSR, niêm yết trên HoSE) – đơn vị vận hành Nhà máy Lọc dầu Dung Quất ở Quảng Ngãi – ước doanh thu hợp nhất năm 2026 đạt khoảng 223.991 tỷ đồng, bằng 117% kế hoạch và tăng 56% so với năm 2025. Đây là doanh nghiệp niêm yết đầu tiên công bố ước tính doanh thu cả năm.",
+      "Trong cơ cấu, sản phẩm chủ lực (xăng, dầu…) đóng góp 177.466 tỷ đồng, tương đương 79,2%; nhóm sản phẩm mới và từ hoạt động mua bán sáp nhập đạt 40.732 tỷ đồng; kinh doanh quốc tế 3.224 tỷ đồng, vượt 45% kế hoạch. Bài viết chưa nêu con số lợi nhuận.",
+      "Động lực chính là nhà máy Dung Quất chạy bình quân khoảng 123% công suất thiết kế trong 9 tháng, có thể chế biến 40 loại dầu thô khác nhau. Tỷ lệ năng lượng tự dùng và hao hụt giảm còn 7,2%, thấp nhất kể từ khi vận hành thương mại.",
+      "Đến 30/9, tổng tài sản BSR khoảng 118.051 tỷ đồng, vốn chủ sở hữu khoảng 81.447 tỷ đồng, vốn điều lệ 50.073 tỷ đồng. Dự án nâng cấp, mở rộng Dung Quất đã ký hợp đồng tổng thầu tháng 7/2026, san lấp mặt bằng đạt 86,6%; giai đoạn 2026–2030 công ty hướng tới nhiên liệu hàng không bền vững, xăng sinh học E10, hydro xanh.",
+      "BSR cung cấp phần lớn xăng dầu sản xuất trong nước, nên việc nhà máy chạy vượt công suất góp phần ổn định nguồn cung khi giá dầu thế giới biến động mạnh vì căng thẳng Mỹ – Iran. Dung Quất cũng gần Đà Nẵng, là trụ cột công nghiệp của khu vực miền Trung."
+     ],
+     "tag": "Doanh thu kỷ lục"
+    },
+    {
+     "cat": "biz",
+     "title": "Ngành điện quý III phân hóa: PV Power lãi gấp đôi, Điện lực TKV lỗ 162 tỷ",
+     "summary": "Sản lượng điện 10 tháng tăng gần 10% nhưng lợi nhuận doanh nghiệp điện phân hóa mạnh. PV Power lãi hơn 2.070 tỷ đồng quý III (+119%), trong khi Điện lực TKV lỗ hơn 162 tỷ vì giá than đẩy giá vốn vượt doanh thu.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nghich-ly-doanh-nghiep-dien-doanh-thu-tang-van-thua-lo-188261104080021374.chn",
+     "tag": "Kết quả quý III",
+     "detail": [
+      "Theo EVN, 10 tháng đầu năm sản lượng điện sản xuất và nhập khẩu đạt hơn 297 tỷ kWh, tăng gần 10%; nhiệt điện than chiếm gần một nửa. Nhu cầu điện tăng mạnh nhưng kết quả kinh doanh quý III của các doanh nghiệp điện niêm yết lại rất khác nhau.",
+      "Nhóm lãi lớn: PV Power (POW) có doanh thu quý III gần 16.770 tỷ đồng, gấp hơn 2 lần cùng kỳ, lãi sau thuế hơn 2.070 tỷ đồng (tăng gần 119%). Nhiệt điện Hải Phòng chuyển từ lỗ 15 tỷ sang lãi khoảng 35 tỷ đồng nhờ sản lượng và giá hợp đồng tăng. REE lãi 9 tháng hơn 2.130 tỷ đồng, tăng gần 12%.",
+      "Nhóm khó khăn: Điện lực TKV (DTK) dù doanh thu tăng 9% vẫn lỗ hơn 162 tỷ đồng quý III, vì giá vốn gần 2.790 tỷ vượt doanh thu – cứ 100 đồng thu về tốn hơn 103 đồng chi phí sản xuất. Hà Đô lãi giảm 32% do mảng năng lượng đi xuống; Điện Gia Lai có quý III khá hơn nhưng chi phí lãi vay chiếm hơn nửa lợi nhuận gộp.",
+      "Nguyên nhân chính là giá than và lãi vay tăng ăn mòn biên lợi nhuận, cộng thêm hết ưu đãi thuế, tranh chấp giá than. Thủy điện giảm sản lượng gần 19% do thời tiết nhưng lãi vẫn tăng nhờ giá điện thị trường tốt hơn; điện gió lãi tăng 25%.",
+      "Bức tranh này liên quan trực tiếp tới cuộc tranh luận về giá điện: doanh nghiệp phát điện chịu áp lực chi phí, trong khi Bộ Công Thương khẳng định không thể đẩy hết rủi ro đầu tư vào giá điện người dân phải trả."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Hải Vân: người dân muốn trồng rừng gỗ lớn để bán tín chỉ carbon, vướng dòng tiền",
+     "summary": "Nhiều hộ ở phường Hải Vân muốn chuyển từ keo ngắn ngày sang rừng gỗ lớn để hưởng hỗ trợ và hướng tới bán tín chỉ carbon. Khó nhất là 5 năm đầu chưa có thu nhập; Đà Nẵng đang làm dự án carbon rừng cùng Huế, Quảng Ngãi.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/trong-rung-go-lon-tao-tin-chi-carbon-3357323.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/28/img_9661.jpg",
+     "detail": [
+      "Ở tổ dân phố Tà Lang – Giàn Bí, phường Hải Vân, người dân lâu nay chủ yếu trồng keo lá tràm, thu hoạch sau 4–5 năm. Keo có rễ nông nên dễ đổ khi bão và giữ đất kém, gây nguy cơ sạt lở. Nhiều hộ muốn chuyển sang trồng hoặc cải tạo thành rừng gỗ lớn để nhận hỗ trợ của thành phố và bảo vệ đất tốt hơn.",
+      "Rừng gỗ lớn để được lâu năm, có thể kết hợp trồng dược liệu dưới tán, nuôi ong, làm du lịch sinh thái. Quan trọng hơn, rừng lâu năm hấp thụ nhiều CO2, có thể tạo 'tín chỉ carbon' – giấy chứng nhận lượng khí thải được rừng hấp thụ, bán cho doanh nghiệp cần bù trừ phát thải.",
+      "Nút thắt lớn nhất là dòng tiền: trong khoảng 5 năm đầu người trồng chưa có thu nhập từ rừng, phải đi làm thuê để sống; nhiều hộ đang vay ngân hàng lo không đủ tiền chăm sóc rừng từ năm thứ 5 trở đi. Cây dược liệu dưới tán cũng phải khoảng 5 năm mới thu hoạch.",
+      "Về chính sách, Nghị định 180/2026/NĐ-CP (ngày 21/5/2026) cho phép chủ rừng liên kết để lập dự án hấp thụ carbon. Tháng 8/2026, Đà Nẵng phê duyệt Đề án phát triển và quản lý tín chỉ carbon rừng giai đoạn 2026–2030; thành phố phối hợp Huế, Quảng Ngãi xây dự án carbon rừng, hướng tới giao dịch qua Trung tâm tài chính quốc tế tại Đà Nẵng và nghiên cứu thí điểm sàn tín chỉ carbon tự nguyện.",
+      "Nếu tháo được bài toán vốn những năm đầu, mô hình này vừa giúp người dân vùng ven có thêm nguồn thu dài hạn, vừa giảm rủi ro sạt lở cho đèo Hải Vân và khu dân cư phía dưới trong mùa mưa bão."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "18 địa phương có chương trình đưa doanh nghiệp ra thị trường quốc tế",
+     "summary": "Tại Diễn đàn Xúc tiến xuất khẩu sáng 4/11, Bộ Công Thương cho biết 18 địa phương đã ban hành chương trình 'Local Go Global'. Mục tiêu 2026–2030: đào tạo 10.000 lượt doanh nghiệp, hỗ trợ sâu 100 doanh nghiệp đầu tư ra nước ngoài.",
+     "source": "Sài Gòn Giải Phóng",
+     "url": "https://www.sggp.org.vn/18-dia-phuong-co-chuong-trinh-ho-tro-doanh-nghiep-tiep-can-thi-truong-quoc-te-post879931.html",
+     "tag": "Xuất khẩu",
+     "detail": [
+      "Sáng 4/11 tại Hà Nội, Bộ Công Thương tổ chức Diễn đàn Xúc tiến xuất khẩu Việt Nam 2026 với chủ đề 'Go Global – Cùng doanh nghiệp vươn ra thế giới'. Bộ cho biết đến nay 18 địa phương đã ban hành chương trình hành động 'Local Go Global' theo Quyết định 626/QĐ-TTg ngày 6/4/2026.",
+      "Khác với xúc tiến thương mại truyền thống chỉ tập trung bán hàng ra nước ngoài, chương trình còn hỗ trợ doanh nghiệp kinh doanh số xuyên biên giới, tham gia chuỗi cung ứng toàn cầu và đặt hiện diện ở nước ngoài qua văn phòng, chi nhánh, liên doanh hoặc mua lại doanh nghiệp (M&A).",
+      "Mục tiêu giai đoạn 2026–2030: đào tạo 10.000 lượt doanh nghiệp về kinh doanh toàn cầu; tư vấn kế hoạch quốc tế hóa cho 1.000 doanh nghiệp; hỗ trợ chuyên sâu 100 doanh nghiệp đầu tư ra nước ngoài (30 theo hình thức M&A); 100 doanh nghiệp tham gia chuỗi giá trị khu vực và toàn cầu; 100 doanh nghiệp bán hàng hiệu quả trên sàn thương mại điện tử xuyên biên giới, trong đó ít nhất 10 doanh nghiệp đạt trên 10 triệu USD doanh thu xuất khẩu trực tuyến.",
+      "Thứ trưởng Lương Hoàng Thái nhấn mạnh sự chủ động của địa phương quyết định kết quả: Nhà nước kiến tạo môi trường, địa phương tổ chức thực hiện, doanh nghiệp là trung tâm. Bài viết chưa nêu Đà Nẵng có trong 18 địa phương hay không.",
+      "Chương trình mở ra cơ hội cho doanh nghiệp nhỏ và vừa muốn bán hàng ra nước ngoài qua sàn thương mại điện tử mà không cần mở chi nhánh, trong bối cảnh xuất nhập khẩu 10 tháng vừa lần đầu vượt 1.000 tỷ USD."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Netflix thử tab 'AI Discover' gợi ý phim theo tâm trạng người xem",
+     "summary": "Netflix ra mắt tab AI Discover trên TV tại Mỹ, gợi ý phim theo chủ đề như 'nhẹ nhàng', 'hù tôi đi', 'xem nhanh'. Hãng gọi đây là 'phòng thí nghiệm' AI, sẽ mở rộng cho thêm người dùng trong vài tuần tới.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+     "tag": "Sản phẩm AI",
+     "detail": [
+      "Ngày 3/11, Netflix ra mắt tab 'AI Discover', được hãng gọi là 'bếp thử nghiệm' cho các công cụ khám phá nội dung mới. Tính năng đầu tiên gợi ý phim, chương trình dựa trên tâm trạng hoặc nhu cầu của người xem thay vì bắt họ lướt danh sách dài.",
+      "Cách dùng: người xem chọn một chủ đề có kèm đoạn clip minh họa, như 'thứ gì đó nhẹ nhàng', 'hù tôi đi', 'phim cho cả nhà', 'xem nhanh'. Sau đó hệ thống đưa ra danh sách phù hợp; người dùng có thể chọn tiếp chủ đề hẹp hơn hoặc bấm 'thứ gì khác' để làm lại từ đầu.",
+      "Mỗi phim có thêm nút 'Tinh chỉnh gợi ý' bên cạnh nút Phát và Danh sách của tôi, để lưu phim thích hoặc chặn những gợi ý không muốn thấy. Netflix cho biết tính năng chạy trên một 'lớp trí tuệ' mới, phản hồi theo thời gian thực những gì người dùng nói với nó và liên tục học thêm.",
+      "Hiện tính năng chỉ mới có tại Mỹ, cho người xem bằng tiếng Anh trên TV hỗ trợ; nút 'Discover' với biểu tượng viên ngọc đỏ sẽ xuất hiện ở thanh điều hướng. Netflix sẽ dựa vào phản hồi để quyết định tính năng nào được đưa vào giao diện chính.",
+      "Đây là ví dụ cho xu hướng các nền tảng dùng AI để thay đổi trải nghiệm tìm kiếm: thay vì gõ tên hay lướt danh mục, người dùng mô tả nhu cầu bằng lời. Netflix chưa công bố thời điểm có mặt ở thị trường ngoài Mỹ như Việt Nam."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Cảnh báo trào lưu 'đi chùa online' trên TikTok bị lợi dụng để trục lợi",
+     "summary": "Công an cảnh báo các phiên livestream dùng hình ảnh Phật, thần linh kêu gọi người xem 'tặng vật phẩm' quy ra tiền để được 'ban lộc'. Người cao tuổi và người đang gặp khó khăn dễ bị cuốn vào, mất tiền và lộ thông tin cá nhân.",
+     "source": "Sức khỏe & Đời sống",
+     "url": "https://suckhoedoisong.vn/cong-an-canh-bao-lua-dao-truc-loi-qua-trao-luu-game-di-chua-online-169261104095228575.htm",
+     "tag": "An toàn số",
+     "detail": [
+      "Trào lưu 'đi chùa online' – lễ Phật, thắp hương, cầu an qua mạng – đang lan rộng trên TikTok và thu hút nhiều người, nhất là giới trẻ. Công an phường Trấn Biên (TP Đồng Nai) vừa cảnh báo hoạt động này đang bị lợi dụng để trục lợi.",
+      "Thủ đoạn: các tài khoản livestream dùng hình ảnh Phật, thần linh và lời cầu bình an, tài lộc để kéo người xem. Người xem được hướng dẫn tặng 'vật phẩm' trên phiên live – thực chất là quà ảo mua bằng tiền thật – hoặc dùng để đổi quà, quay thưởng với giá trị quảng cáo rất cao.",
+      "Người tổ chức đọc tên, cảm ơn người tặng, công khai số quà và đặt các 'mốc' để thúc đẩy chi tiền, kèm lời hứa người tặng sẽ được 'nhận lộc', ưu tiên nhận thưởng đặc biệt. Cách làm này tạo tâm lý đám đông khiến nhiều người chi liên tục.",
+      "Rủi ro gồm mất tiền, lộ thông tin cá nhân và hiểu sai về tín ngưỡng. Người cao tuổi, người gặp khó khăn hoặc thường tìm sự an ủi trên mạng là nhóm dễ bị tác động nhất. Công an khẳng định không có cơ sở nào cho việc tặng quà trên livestream sẽ được ban phước hay gặp may.",
+      "Lời khuyên: phân biệt sinh hoạt tín ngưỡng chân chính với hành vi kêu gọi đóng góp, mua bán vật phẩm; nhắc người thân lớn tuổi và con em không nạp tiền, tặng quà ảo vì lời hứa tài lộc; bảo vệ tài khoản và thông tin cá nhân khi tham gia livestream."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-04-0700",
    "date": "2026-11-04",
