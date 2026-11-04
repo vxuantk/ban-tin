@@ -1,6 +1,210 @@
 {
- "updated": "2026-11-04T15:05:00+07:00",
+ "updated": "2026-11-04T19:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-04-1900",
+   "date": "2026-11-04",
+   "slot": "19:00",
+   "createdAt": "2026-11-04T19:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "VN-Index tăng 33 điểm lên 1.733, cắt chuỗi bốn phiên giảm sâu",
+     "summary": "Phiên 4/11, VN-Index đóng cửa ở 1.733 điểm, tăng 33 điểm; VN30 tăng 2,56%, mạnh nhất hai tuần. Thanh khoản hồi lên gần 18.000 tỷ đồng, khối ngoại vẫn bán ròng nhưng chỉ khoảng 70 tỷ.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/tang-33-diem-vn-index-cat-chuoi-giam-sau-5140774.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/233A7967-4984-1793782452.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=U8dGwtydfLTVmQDauHpt0w",
+     "detail": [
+      "Sau bốn phiên giảm liên tiếp và để mất mốc 1.700 điểm, VN-Index ngày 4/11 bật tăng mạnh, đóng cửa ở 1.733 điểm, cao hơn tham chiếu 33 điểm. Rổ VN30 gồm 30 cổ phiếu lớn nhất tăng 46 điểm (2,56%), là phiên tăng mạnh nhất trong hai tuần.",
+      "Đầu phiên sáng chỉ số còn giảm nhẹ, đến giữa buổi sáng thì đảo chiều và dòng tiền vào mạnh sau giờ nghỉ trưa. Sàn TP HCM có gần 250 mã tăng, gấp khoảng 4 lần số mã giảm; trong VN30 có 29 mã tăng, không mã nào đóng cửa dưới giá tham chiếu.",
+      "Nhóm chứng khoán tăng toàn bộ, trong đó VCI, VND, VIX, TCX tăng kịch trần (mức tăng tối đa cho phép trong ngày) và không còn người bán. Nhóm ngân hàng như LPB, VPB, CTG, EIB tăng trên 3%; nhóm thép tăng phổ biến 1–2%. FPT cũng tăng trần lên 53.900 đồng sau thời gian giảm mạnh.",
+      "Thanh khoản đạt gần 18.000 tỷ đồng, hồi phục rõ so với phiên trước. Khối ngoại bán ròng phiên thứ 9 liên tiếp nhưng giá trị chỉ khoảng 70 tỷ đồng, giảm mạnh so với mức 500–600 tỷ đồng mỗi phiên trước đó.",
+      "Công ty Chứng khoán MB (MBS) cho rằng sau hai tháng giảm, tháng 11 có yếu tố mùa vụ thuận lợi: dữ liệu 10 năm cho thấy tháng này có khoảng 70% khả năng tăng, bình quân 3,8%. Tuy vậy, đây mới là một phiên hồi, nhà đầu tư cá nhân vẫn nên thận trọng với việc mua đuổi."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ trưởng Công an: trần phạt hành chính 3 tỷ đồng, nghiên cứu phạt bằng lao động công ích",
+     "summary": "Chiều 4/11, Bộ trưởng Lương Tam Quang giải trình dự án Luật Xử lý vi phạm hành chính (sửa đổi): mức phạt tối đa ở một số lĩnh vực đề xuất 1,5 tỷ với cá nhân, 3 tỷ với tổ chức. Việc ngừng cung cấp điện, nước, Internet sẽ chuyển thành biện pháp ngăn chặn, kèm điều kiện chặt chẽ.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/bo-truong-luong-tam-quang-se-nghien-cuu-bo-sung-quy-dinh-ve-lao-dong-cong-ich-thay-the-phat-tien-100261104173504031.htm",
+     "tag": "Luật sửa đổi",
+     "detail": [
+      "Chiều 4/11, sau phiên thảo luận tại Quốc hội, Bộ trưởng Bộ Công an Lương Tam Quang giải trình các ý kiến về dự án Luật Xử lý vi phạm hành chính (sửa đổi). Cơ quan soạn thảo sẽ chỉnh lý dự thảo, báo cáo Ủy ban Thường vụ Quốc hội trước khi Quốc hội biểu quyết ngay trong kỳ họp này.",
+      "Về mức phạt, ở một số lĩnh vực như môi trường, an toàn thực phẩm, đo lường, tiêu chuẩn kỹ thuật, định danh điện tử, quỹ hưu trí bổ sung, xếp hạng tín nhiệm, mức tối đa đề xuất là 1,5 tỷ đồng với cá nhân và 3 tỷ đồng với tổ chức. Bộ trưởng nhấn mạnh đây chỉ là mức trần, Chính phủ sẽ quy định mức cụ thể theo tính chất, mức độ vi phạm. Các lĩnh vực này cũng được đề xuất áp dụng chung thời hiệu xử phạt 3 năm.",
+      "Với giao thông, Bộ đang xây dựng trung tâm dữ liệu quốc gia giám sát và xử lý vi phạm. Hướng đề xuất là vi phạm lần đầu thì nhắc nhở, lần hai cảnh cáo, tái phạm thì phạt ở mức cao nhất của khung. Việc cho phép thay tiền phạt bằng lao động công ích sẽ tiếp tục được nghiên cứu, có thể đưa vào nghị định, nghị quyết hoặc báo cáo Ủy ban Thường vụ; hình thức và cách tính thời gian lao động chưa được chốt.",
+      "Đáng chú ý, việc ngừng cung cấp điện, nước, Internet, hạ tầng viễn thông, cũng như tạm dừng đăng kiểm, đăng ký xe, giấy phép lái xe, sẽ không còn là biện pháp cưỡng chế mà chuyển thành biện pháp ngăn chặn, kèm quy định chặt hơn về điều kiện, thẩm quyền, trình tự. Một số đại biểu đề nghị chỉ áp dụng với vi phạm nghiêm trọng, loại trừ bệnh viện, bảo vệ người thứ ba dùng chung hạ tầng (như người lao động, khách hàng) và bồi thường nếu cắt sai.",
+      "Với người dân và doanh nghiệp, các thay đổi này đồng nghĩa mức phạt có thể cao hơn nhiều ở những lĩnh vực liên quan môi trường, thực phẩm, dữ liệu; còn người vi phạm giao thông nhiều lần sẽ bị xử nặng hơn. Chi tiết mức phạt cụ thể sẽ nằm ở các nghị định hướng dẫn sau khi luật được thông qua."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Ngân hàng Nhà nước lần đầu hoán đổi ngoại tệ kỳ hạn 6 tháng, bơm tới 48.800 tỷ",
+     "summary": "NHNN sẽ mua USD của các ngân hàng ngày 9/11 với tỷ giá 24.399 đồng và bán lại sau 182 ngày với giá 24.704 đồng, qua đó cung ứng tối đa khoảng 48.800 tỷ đồng. Mục tiêu là tăng thanh khoản, hỗ trợ giảm lãi suất mà không gây áp lực lớn lên tỷ giá.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ngan-hang-nha-nuoc-du-kien-bom-gan-49-000-ty-qua-kenh-hoan-doi-ngoai-te-5140710.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/12-ngan-hang-nha-nuoc-17937805-6273-4881-1793781287.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=GEmH6aotcxwQj_hjJm6JrA",
+     "detail": [
+      "Ngân hàng Nhà nước (NHNN) thông báo lần đầu thực hiện nghiệp vụ hoán đổi ngoại tệ kỳ hạn 6 tháng (182 ngày). Hoán đổi ngoại tệ hiểu đơn giản là NHNN mua USD của ngân hàng thương mại để đưa tiền đồng ra, rồi hẹn ngày bán lại USD để thu tiền đồng về — tức một khoản 'cho vay có tài sản là USD'.",
+      "Giao dịch diễn ra ngày 6/11. Ở chiều đầu (ngày 9/11), NHNN mua USD với tỷ giá 24.399 đồng/USD; sau 182 ngày sẽ bán lại cho các ngân hàng với giá 24.704 đồng/USD. Quy mô tối đa khoảng 48.800 tỷ đồng (khoảng 2 tỷ USD), số thực tế tùy lượng ngân hàng tham gia.",
+      "Trong năm nay NHNN đã nhiều lần hoán đổi quy mô 1–2 tỷ USD nhưng kỳ hạn dưới 30 ngày. Việc kéo dài lên 6 tháng giúp các ngân hàng có nguồn vốn tiền đồng ổn định hơn, góp phần hạ mặt bằng lãi suất, hỗ trợ mục tiêu tăng trưởng hai con số.",
+      "NHNN cho biết sử dụng linh hoạt công cụ này với chênh lệch lãi suất hợp lý sẽ hạn chế áp lực lên tỷ giá, đồng thời tiếp tục điều hành chủ động, phối hợp với chính sách tài khóa để kiểm soát lạm phát. Với người vay vốn và doanh nghiệp, đây là tín hiệu lãi suất cho vay có thể bớt căng trong những tháng cuối năm."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Vàng thế giới tăng vọt 100 USD, vượt 4.000 USD/ounce sau bầu cử Mỹ",
+     "summary": "Chiều 4/11 (giờ Việt Nam), vàng giao ngay lên 4.029 USD/ounce, tăng khoảng 100 USD; bạc và palladium tăng 4%. Nguyên nhân chính là USD xuống thấp nhất một tháng sau khi Đảng Dân chủ giành Quốc hội Mỹ.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gia-vang-the-gioi-tang-vot-vuot-4-000-usd-5140743.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/goldreu9-1793781285-9467-1793781299.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=re_BdlJeACsF-KuZ5lYC8Q",
+     "detail": [
+      "Trong phiên chiều 4/11 theo giờ Việt Nam, giá vàng giao ngay tăng khoảng 100 USD lên 4.029 USD/ounce, vượt mốc 4.000 USD. Các kim loại quý khác cũng tăng: bạc và palladium thêm 4%, bạch kim thêm 2,5%.",
+      "Lực đẩy lớn nhất đến từ kết quả bầu cử giữa kỳ Mỹ: Đảng Dân chủ giành quyền kiểm soát Quốc hội, khiến đồng USD giảm xuống mức thấp nhất một tháng. USD yếu làm vàng rẻ hơn với người mua dùng tiền tệ khác. Lợi suất trái phiếu Mỹ cũng giảm, do giới phân tích lo Chính phủ và Quốc hội bất đồng sẽ kìm chi tiêu công.",
+      "Một số chuyên gia cho rằng chính quyền Tổng thống Trump có thể trở nên khó đoán hơn, khiến nhà đầu tư mua vàng để phòng rủi ro. Căng thẳng Mỹ – Iran chưa có lối ra cũng hỗ trợ giá vàng.",
+      "Ngược lại, nhu cầu vàng vật chất yếu đi: Hội đồng Vàng Thế giới cho biết nhu cầu ở Ấn Độ — thị trường tiêu thụ lớn nhất — năm nay thấp nhất 6 năm vì giá quá cao. Thị trường đang chờ báo cáo việc làm Mỹ để đoán hướng lãi suất của Fed.",
+      "Trong nước, vàng miếng SJC chiều cùng ngày đã lên 142,4 triệu đồng/lượng. Giá thế giới tăng mạnh có thể tiếp tục kéo giá trong nước đi lên trong các phiên tới, người mua nên lưu ý chênh lệch mua – bán còn lớn."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Giá điện giảm 2% nhưng hộ dùng trên khoảng 903 kWh/tháng sẽ trả nhiều hơn",
+     "summary": "Biểu giá điện sinh hoạt từ 1/11 rút từ 6 xuống 5 bậc, từ 1.901 đến 3.844 đồng/kWh. Hơn 98% hộ được giảm tiền, nhưng hộ dùng trên khoảng 903 kWh/tháng sẽ trả cao hơn do bậc cao nhất đắt thêm 11%.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vi-sao-gia-dien-giam-nhung-co-nha-van-tra-nhieu-tien-hon-5140645.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/img7981jpg-1793769597-7688-1793770564.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=JFWBZuaPwSj1HmvmrBZoNA",
+     "detail": [
+      "Từ 1/11, giá bán lẻ điện bình quân giảm 2% xuống 2.159,9 đồng/kWh, áp dụng đến hết tháng 3/2027. Biểu giá sinh hoạt đổi từ 6 bậc sang 5 bậc với các ngưỡng 100, 200, 400 và 700 kWh; đơn giá thấp nhất 1.901 đồng, cao nhất 3.844 đồng/kWh (chưa VAT).",
+      "Bậc 201–400 kWh được giảm nhiều nhất, 280 đồng/kWh. Ví dụ hộ dùng 400 kWh/tháng trả khoảng 997.800 đồng, rẻ hơn 76.700 đồng (khoảng 7%). Hộ dùng 800 kWh vẫn giảm 39.500 đồng.",
+      "Tuy nhiên bậc trên 700 kWh đắt hơn biểu cũ 384 đồng/kWh (hơn 11%). Điểm hòa vốn khoảng 903 kWh/tháng: dùng 1.000 kWh sẽ trả thêm 37.300 đồng (1,2%), dùng 2.000 kWh trả thêm 421.300 đồng (6,4%), các số chưa gồm VAT.",
+      "Theo EVN, hơn 98% hộ sinh hoạt được giảm tiền, khoảng 1,8% bị tăng. Khung giờ cao điểm mới là 17h30–22h30 nhưng hộ gia đình vẫn tính theo bậc thang, không tính theo giờ. EVN dự kiến doanh thu giảm gần 1.600 tỷ đồng mỗi tháng.",
+      "Với gia đình dùng nhiều điện (máy lạnh nhiều phòng, bếp điện, sạc xe điện), nên theo dõi chỉ số hàng tháng; giữ mức dưới khoảng 900 kWh thì hóa đơn thường giảm so với trước."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "OpenAI: lượng tìm kiếm trên ChatGPT đã bằng khoảng 1/5 Google",
+     "summary": "Trưởng sản phẩm ChatGPT Adam Fry cho biết số câu hỏi kiểu tìm kiếm trên ChatGPT bằng khoảng 20% Google, người dùng tuần tăng từ 1 tỷ lên 1,2 tỷ trong khoảng 60 ngày. Đây là số liệu tự công bố, chưa được kiểm chứng độc lập.",
+     "source": "Big Technology",
+     "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+     "figure": {
+      "value": "1,2 tỷ",
+      "label": "người dùng ChatGPT mỗi tuần",
+      "delta": "+200 triệu / ~60 ngày",
+      "dir": "up",
+      "spark": [
+       1.0,
+       1.2
+      ]
+     },
+     "detail": [
+      "Tại một buổi gặp mặt do OpenAI tổ chức ở New York, Adam Fry — người phụ trách sản phẩm ChatGPT cho người dùng phổ thông, từng làm ở Google — trả lời phỏng vấn nhà báo Alex Kantrowitz (bản tin Big Technology). Ông đưa ra hàng loạt số liệu tăng trưởng mới.",
+      "Theo Fry, số người dùng ChatGPT mỗi tuần tăng từ 1 tỷ lên 1,2 tỷ chỉ trong khoảng 60 ngày. Lượng câu hỏi mang tính tìm kiếm (mỗi lần ChatGPT phải tra web) đã bằng khoảng một phần năm Google. Để so sánh, công cụ Bing của Microsoft chỉ chiếm khoảng 5% thị phần tìm kiếm.",
+      "Các con số khác: 250 triệu người dùng tính năng giọng nói mỗi tuần (gồm đọc chính tả và trò chuyện bằng giọng), khoảng 1,5 tỷ ảnh được tạo mỗi tuần, hơn 50 triệu thuê bao trả phí, và mảng quảng cáo đạt doanh thu năm hơn 1 tỷ USD chỉ sau 200 ngày.",
+      "OpenAI dự định gộp chế độ trò chuyện và chế độ làm việc vào một giao diện tự đoán ý người dùng, đồng thời mở rộng trợ lý cá nhân 'Dots' ra mắt cuối tháng 9. Fry cho rằng người dùng chuyển từ nhờ viết, lập trình sang tra cứu địa điểm, tài chính, sức khỏe.",
+      "Cần lưu ý đây là số liệu OpenAI tự công bố trong một cuộc trò chuyện, không kèm phương pháp đo hay số liệu gốc của Google. Dù vậy, nó cho thấy thói quen tìm thông tin đang dịch chuyển nhanh sang trợ lý AI — điều mà doanh nghiệp làm marketing, tuyển dụng hay bán hàng trực tuyến cần tính tới."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng khảo sát đặt tên đường Nguyễn Bá Thanh, Phan Văn Khải và đôn đốc 4 dự án giao thông",
+     "summary": "Sáng 4/11, lãnh đạo thành phố khảo sát tuyến ĐT605 và đoạn quốc lộ 1 dài 5,72 km ở Điện Bàn Bắc được đề xuất đặt tên hai cố lãnh đạo. Cầu Văn Ly phải thông xe kỹ thuật trước 31/12, đã giải ngân 78,5% giá trị.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/lanh-dao-thanh-pho-khao-sat-cac-tuyen-duong-de-xuat-dat-ten-va-cac-du-an-trong-diem-3357377.html",
+     "tag": "Hạ tầng",
+     "detail": [
+      "Sáng 4/11, Chủ tịch UBND thành phố Nguyễn Mạnh Hùng cùng các sở ngành khảo sát những tuyến đường được đề xuất đặt tên. Tuyến ĐT605, từ quốc lộ 1 qua đồi Bồ Bồ đến phường Điện Bàn Bắc, dự kiến mang tên cố Bí thư Thành ủy Nguyễn Bá Thanh và được người dân ủng hộ. Đoạn quốc lộ 1 dài 5.720 m từ Cầu Đỏ đến đường Hùng Vương (phường Điện Bàn Bắc), lộ giới 33 m, được đề xuất mang tên cố Thủ tướng Phan Văn Khải; đây là trục chính hướng về trung tâm đô thị mới.",
+      "Về quy hoạch công nghiệp, khu đất 280 ha ở xã Điện Bàn Tây được đề xuất bổ sung vào quy hoạch, nhắm tới công nghiệp công nghệ cao và hỗ trợ nhờ gần cao tốc và các cảng Liên Chiểu, Tiên Sa, Chu Lai. Chủ tịch yêu cầu rà soát kỹ vị trí và nguy cơ ngập. Khu công nghiệp Đại Sơn 300 ha ở xã Thượng Đức đề xuất chuyển thành cụm công nghiệp.",
+      "Về giao thông, cầu Văn Ly đã giải ngân khoảng 332,6/423,86 tỷ đồng (78,5%), cầu và đường dẫn phía Gò Nổi đã xong, mục tiêu thông xe kỹ thuật và thảm nhựa toàn tuyến trước 31/12/2026, còn vướng di dời điện, viễn thông, nước. Cầu An Bình đã thông đoạn ĐT609C–ĐT609 từ 26/10, phần còn lại khoảng 275 m nối quốc lộ 14B phải xong cuối năm.",
+      "Cầu sông Thu cơ bản hoàn thành, còn hạng mục an toàn giao thông và chiếu sáng dự kiến xong trong tháng 11. Đường tránh lũ Nam Phước (cầu Tây An 1, 2) đã giải ngân khoảng 132,9/193 tỷ đồng (69%), đã xong 14/16 cống ngang. Các công trình này giúp người dân khu vực phía Nam thành phố đi lại thuận tiện và an toàn hơn mùa mưa lũ."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Gần 1.000 du khách Mỹ, Canada đến Đà Nẵng bằng tàu biển Azamara Pursuit",
+     "summary": "Ngày 4/11, tàu Azamara Pursuit cập cảng Tiên Sa với gần 1.000 khách Bắc Mỹ. 10 tháng qua thành phố đón 25 chuyến tàu biển với 28.590 lượt khách, dự kiến thêm 3 tàu từ 17–24/11.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-don-gan-1-000-khach-tau-bien-den-tham-quan-3357398.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/04/h1.jpg",
+     "detail": [
+      "Sáng 4/11, tàu du lịch Azamara Pursuit do Công ty Lữ hành Saigontourist phục vụ đã cập cảng Tiên Sa, đưa gần 1.000 du khách đến từ Mỹ và Canada tới Đà Nẵng.",
+      "Khách được xe đưa đón vào trung tâm, tham quan nhà thờ Con Gà, chợ Hàn, đường Bạch Đằng – Trần Phú, Ngũ Hành Sơn, làng đá Non Nước, chùa Linh Ứng, biển Mỹ Khê, đồng thời đi phố cổ Hội An và Mỹ Sơn. Tàu rời cảng lúc 20h cùng ngày.",
+      "Theo Sở Văn hóa, Thể thao và Du lịch, 10 tháng năm 2026 thành phố đón 25 chuyến tàu biển với 28.590 lượt khách; khách du lịch đường thủy nội địa ước 1.884.300 lượt. Từ 17 đến 24/11 dự kiến có thêm 3 tàu với hơn 1.000 khách châu Âu và Mỹ.",
+      "Khách tàu biển thường chi tiêu cao trong thời gian ngắn, mang lại nguồn thu cho dịch vụ vận chuyển, hướng dẫn viên, nhà hàng và làng nghề. Mùa tàu biển cuối năm cũng là dịp để các cơ sở du lịch, bán lẻ ở trung tâm và Hội An chuẩn bị nhân lực phục vụ."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "FPT tăng trần lần đầu sau 3 tháng, vốn hóa thêm 6.400 tỷ trong một phiên",
+     "summary": "Ngày 4/11, cổ phiếu FPT tăng trần lên 53.900 đồng sau khi chạm đáy gần 3 năm hôm trước, khối ngoại mua ròng 183 tỷ. 9 tháng, FPT lãi trước thuế 8.770 tỷ, tăng 17%, doanh thu AI và dữ liệu tăng 55%.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/fpt-tai-sinh-176261104152055153.chn",
+     "figure": {
+      "value": "53.900đ",
+      "label": "giá cổ phiếu FPT đóng cửa 4/11",
+      "delta": "+tăng trần",
+      "dir": "up",
+      "spark": [
+       67000,
+       49550,
+       53900
+      ]
+     },
+     "detail": [
+      "Cổ phiếu FPT ngày 4/11 tăng kịch trần lên 53.900 đồng với hơn 12 triệu đơn vị khớp lệnh, phiên tăng trần đầu tiên sau hơn ba tháng. Vốn hóa tăng khoảng 6.400 tỷ đồng trong một phiên, trở lại quanh 100.000 tỷ đồng.",
+      "Trước đó, cổ phiếu này từ trên 67.000 đồng đầu tháng 9 đã rơi xuống 49.550 đồng ngày 3/11, thấp nhất gần ba năm. Khối ngoại hôm qua mua ròng khoảng 183 tỷ đồng, trong khi 10 tháng đầu năm đã bán ròng khoảng 210 triệu cổ phiếu (khoảng 17.000 tỷ đồng).",
+      "Về kinh doanh, 9 tháng năm 2026 FPT đạt doanh thu 40.023 tỷ đồng (tăng 12,4%) và lãi trước thuế 8.770 tỷ đồng (tăng 17%); doanh thu từ AI và dữ liệu tăng 55%. Ngày 3/11, tập đoàn vận hành thử nhà máy kiểm thử và đóng gói chip ở Bắc Ninh với 6 dây chuyền, công suất thiết kế tới 300 triệu chip/năm, và ký hợp tác với MobiFone về AI, điện toán đám mây, 5G/6G.",
+      "Công ty chứng khoán VCBS cho biết hai cụm 'nhà máy AI' của FPT ở Việt Nam và Nhật Bản đang chạy trên 90% công suất, có lãi từ quý II/2026. Tuy vậy, làn sóng AI cũng gây áp lực lên mảng gia công phần mềm truyền thống — vốn là trụ cột của FPT.",
+      "Bài viết nhận định chưa thể khẳng định FPT đã thoát xu hướng giảm; muốn hồi phục bền vững cần dòng tiền, nhất là từ nhà đầu tư nước ngoài, quay lại đều đặn và chiến lược AI, chip cho ra kết quả cụ thể hơn."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic chặn Claude Code sao chép trò chơi có sẵn sau làn sóng game nhái",
+     "summary": "Anthropic thêm quy định vào Claude Code để từ chối dựng lại một trò chơi cụ thể đã tồn tại, kể cả khi đổi tên. Động thái diễn ra khi Steam và Itch.io ngập game nhái làm bằng AI, nhiều studio phải hủy bản dùng thử.",
+     "source": "PC Gamer",
+     "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+     "tag": "Bản quyền",
+     "detail": [
+      "Anthropic vừa cập nhật công cụ lập trình Claude Code để 'lái' mô hình tránh giúp người dùng sao chép trò chơi của nhà phát triển khác. Thay đổi được người dùng mạng X phát hiện, sau đó Addy Osmani, thành viên đội kỹ thuật của Anthropic, xác nhận đã thêm hai câu vào hướng dẫn hệ thống của công cụ.",
+      "Quy định mới cho phép làm game nguyên bản, game theo một thể loại, hoặc game từ thiết kế và tài nguyên của chính người dùng, nhưng cấm 'dựng lại một trò chơi cụ thể đã tồn tại, kể cả khi đổi tên hay gọi là nguyên bản'. Lý do được nêu là dùng Claude để xâm phạm sở hữu trí tuệ vi phạm chính sách sử dụng.",
+      "Bối cảnh là mô hình mới rất giỏi phân tích ngược mã nguồn (đọc ngược phần mềm đã đóng gói để hiểu và tái tạo), dẫn tới làn sóng game nhái. Tại sự kiện Steam Next Fest gần nhất, số bản dùng thử tăng gấp đôi, phần lớn mức tăng đến từ game làm bằng AI; số trang game mới mỗi ngày trên Itch.io cũng gần gấp đôi trong hai tháng.",
+      "Một số studio đã hủy bản demo công khai vì sợ bị sao chép mã. Valve thừa nhận Steam có vấn đề game kém chất lượng và game nhái làm bằng AI, nhưng không cấm công cụ AI, chỉ khuyên nhà phát triển tạo dấu ấn riêng để khó bị nhái.",
+      "Vụ việc cho thấy các công ty AI bắt đầu tự đặt rào chắn về bản quyền ngay trong sản phẩm, điều sẽ ảnh hưởng tới cả doanh nghiệp dùng AI để viết phần mềm: sản phẩm làm ra nên là ý tưởng của mình, không phải bản sao của sản phẩm người khác."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Nhân viên Google DeepMind phản đối điều khoản cấm chỉ trích công ty suốt đời",
+     "summary": "Theo Washington Post, hợp đồng của nhân viên DeepMind ở London có điều khoản không được nói xấu công ty kéo dài cả sau khi nghỉ việc. Hàng chục người đòi bỏ điều khoản vì lo nó ngăn họ cảnh báo công khai về rủi ro AI.",
+     "source": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/international/2026/11/04/google-deepmind-workers-push-back-on-lifetime-gag-clause",
+     "tag": "Quyền người lao động",
+     "detail": [
+      "Theo Washington Post ngày 3/11, hợp đồng lao động của nhân viên Google DeepMind tại London có điều khoản 'không phỉ báng' (non-disparagement — cam kết không nói điều bất lợi về công ty) áp dụng suốt đời, kể cả sau khi đã nghỉ việc.",
+      "Hàng chục nhân viên đã thảo luận vấn đề trên kênh nhắn tin nội bộ và đòi xóa điều khoản khỏi cả hợp đồng hiện hành lẫn hợp đồng mới. Một người cho rằng dù điều khoản có thể không thực thi được về pháp lý, nó vẫn khiến nhân viên e dè và tự kiểm duyệt khi muốn lên tiếng về nguy cơ của AI.",
+      "Tranh cãi bùng lên sau khi một cựu nhân viên nói với BBC tháng trước rằng cô quyết định bất chấp cam kết để lên tiếng phản đối việc Google phát triển AI cho mục đích quân sự. Nhiều nhân viên kiểm tra lại hợp đồng và phát hiện điều khoản tương tự.",
+      "Google cho biết không áp dụng điều khoản với người đã nghỉ việc, luôn khuyến khích thảo luận cởi mở về an toàn, và đã bỏ phần áp dụng sau khi nghỉ việc trong mẫu hợp đồng mới cho người mới tuyển. Tuy nhiên, chưa rõ thay đổi này có áp dụng cho nhân viên hiện tại.",
+      "Với người làm nhân sự, vụ việc là ví dụ đáng chú ý về giới hạn của điều khoản bảo mật và không phỉ báng trong hợp đồng: điều khoản quá rộng, không giới hạn thời gian có thể gây phản ứng mạnh từ nhân viên và ảnh hưởng uy tín nhà tuyển dụng."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng dự kiến chi 270 tỷ đồng nâng cấp hai cơ sở cai nghiện đang quá tải",
+     "summary": "Chiều 4/11, UBND thành phố họp về dự án nâng cấp hai cơ sở cai nghiện thuộc Công an thành phố, tổng vốn dự kiến 270 tỷ đồng. Các cơ sở đang quá tải, hạ tầng xuống cấp; hồ sơ phải bổ sung tiến độ và vốn theo từng năm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-dau-tu-270-ty-dong-nang-cap-hai-co-so-cai-nghien-ma-tuy-3357418.html",
+     "tag": "Đầu tư công",
+     "detail": [
+      "Chiều 4/11, Phó Chủ tịch UBND thành phố Nguyễn Thị Anh Thi chủ trì cuộc họp về đề xuất nâng cấp hai cơ sở cai nghiện ma túy thuộc Công an thành phố, nằm trong Dự án 5 của Chương trình mục tiêu quốc gia phòng, chống ma túy đến năm 2030 (theo Nghị quyết 80/2026/NQ-HĐND).",
+      "Tổng kinh phí dự kiến của hai dự án là 270 tỷ đồng. Lý do đầu tư là các cơ sở đang quá tải và nhiều hạng mục hạ tầng đã xuống cấp nghiêm trọng.",
+      "Tuy nhiên hồ sơ còn thiếu: mới đề cập chi xây dựng cơ bản, chưa tách chi đầu tư và chi thường xuyên, chưa có lộ trình và phương án phân bổ vốn theo năm, chưa lấy đủ ý kiến các sở Xây dựng, Y tế, Tư pháp và địa phương liên quan.",
+      "Lãnh đạo thành phố yêu cầu bổ sung tiến độ, dự toán từng năm và hoàn thiện thủ tục theo Luật Đầu tư công trước khi trình cấp có thẩm quyền. Bài báo chưa nêu tên, quy mô hay thời gian thực hiện cụ thể của hai cơ sở."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-04-1500",
    "date": "2026-11-04",
