@@ -1,6 +1,631 @@
 {
- "updated": "2026-11-03T19:05:00+07:00",
+ "updated": "2026-11-04T07:07:35+07:00",
  "editions": [
+  {
+   "id": "2026-11-04-0700",
+   "date": "2026-11-04",
+   "slot": "07:00",
+   "createdAt": "2026-11-04T07:07:35+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Giá xăng giảm thêm hơn 1.000 đồng/lít từ 22h tối 3/11",
+     "summary": "Liên Bộ Công Thương – Tài chính điều chỉnh giá sớm hơn lịch thứ Năm vì giá cơ sở giảm quá 10%: xăng E5 RON92 còn 23.200 đồng/lít, E10 RON95 còn 23.230 đồng/lít, dầu diesel giảm 1.370 đồng. Chỉ trong ba ngày, xăng E10 đã giảm tổng cộng 2.500 đồng/lít, giúp giảm chi phí đi lại và vận tải.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gia-xang-dau-cung-giam-5140418.html",
+     "detail": [
+      "Từ 22h ngày 3/11, giá các mặt hàng xăng dầu trừ mazut đồng loạt giảm 920–1.370 đồng/lít. Xăng E10 RON95-III giảm 920 đồng, còn 23.230 đồng/lít; xăng E5 RON92 giảm 1.020 đồng, còn 23.200 đồng/lít; dầu diesel còn 28.870 đồng/lít. Riêng dầu mazut tăng 380 đồng, lên 23.970 đồng/kg.",
+      "Thông thường giá xăng dầu được điều chỉnh vào thứ Năm hằng tuần. Tuy nhiên, quy định cho phép điều chỉnh ngay khi giá cơ sở của một mặt hàng phổ biến giảm từ 10% trở lên so với kỳ trước. Kỳ 29/10–3/11, giá bình quân xăng RON95 pha E10 trên thế giới giảm 8,05% còn 127,9 USD/thùng, diesel giảm 4,78%; cộng với tỷ giá USD/VND giảm và thuế tiêu thụ đặc biệt với xăng về 0% từ đầu tháng, giá cơ sở xăng giảm vượt ngưỡng 10%.",
+      "Liên Bộ cho trích lập trở lại Quỹ bình ổn với xăng sinh học ở mức 700 đồng/lít, đồng thời ngừng chi quỹ với tất cả mặt hàng. Quỹ bình ổn là khoản tiền trích từ giá bán để dùng giữ giá khi thị trường tăng nóng.",
+      "Giá dầu thế giới đang biến động mạnh theo diễn biến Trung Đông: giảm hơn 7% phiên 2/11 vì kỳ vọng Mỹ – Iran đạt thỏa thuận, và tiếp tục giảm phiên 3/11. Tính cả đợt giảm khoảng 1.600 đồng hôm 1/11 do thuế tiêu thụ đặc biệt về 0%, xăng E10 đã rẻ hơn 2.500 đồng/lít chỉ trong ba ngày – tin vui cho người đi làm bằng xe máy và doanh nghiệp vận tải, logistics."
+     ],
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/wm1-wm1-110326xangdau15hoanggiang-9945-5355-1793716500.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=Ptk6E03T49joPvWtGkIwRQ"
+    },
+    {
+     "cat": "vn",
+     "title": "Mỹ bước vào ngày bầu cử giữa kỳ, các bang miền Đông đóng cửa lúc 7h sáng 4/11",
+     "summary": "Từ 18h ngày 3/11 (giờ Việt Nam), các điểm bỏ phiếu ở bờ Đông nước Mỹ đã mở cửa để bầu toàn bộ 435 ghế Hạ viện, 35 ghế Thượng viện và 36 thống đốc bang. Đảng Dân chủ chỉ cần thêm 3 ghế để giành Hạ viện, còn Thượng viện sít sao ở 7 bang. Kết quả sẽ định hình nửa cuối nhiệm kỳ của Tổng thống Trump, kéo theo chính sách thuế quan và thương mại.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/bau-cu-giua-ky-my-cac-diem-bo-phieu-o-bo-dong-mo-cua-cuoc-dua-vao-thuong-vien-gay-can-100261103204918569.htm",
+     "detail": [
+      "Lúc 6h sáng 3/11 theo giờ miền Đông Mỹ, tức 18h cùng ngày giờ Việt Nam, các điểm bỏ phiếu tại Maine, New York, Virginia và nhiều bang bờ Đông đã mở cửa. Cử tri bầu lại toàn bộ 435 ghế Hạ viện, 35 trong 100 ghế Thượng viện, thống đốc ở 36 bang cùng nhiều chức danh cấp bang và địa phương.",
+      "Ở Hạ viện, đảng Dân chủ chỉ cần giành thêm ít nhất 3 ghế để nắm quyền kiểm soát; Cook Political Report dự báo đảng này có thể giành thêm 12–25 ghế. Thượng viện khó đoán hơn: Dân chủ cần thêm ít nhất 4 ghế để có đa số 51, và cuộc đua đặc biệt quyết liệt ở 7 bang gồm Maine, Texas, Michigan, Iowa, Ohio, Kansas và Alaska.",
+      "Theo khảo sát AP–NORC giữa tháng 10, 85% người được hỏi coi kinh tế là vấn đề quan trọng nhất và 84% chọn chi phí sinh hoạt. Lạm phát còn cao, chính sách nhập cư, y tế và cuộc chiến với Iran là những chủ đề chi phối lá phiếu. Hơn 50 triệu cử tri đã bỏ phiếu sớm, nhưng khoảng một nửa số phiếu thường vẫn được bỏ vào đúng ngày bầu cử.",
+      "Các bang miền Đông dự kiến đóng cửa khoảng 7h sáng 4/11 giờ Việt Nam; bang cuối cùng là Alaska đóng lúc 13h. Truyền thông Mỹ cho rằng cục diện Hạ viện có thể rõ sớm, còn Thượng viện có thể phải chờ lâu hơn; theo NPR, việc kiểm phiếu có thể kéo dài nhiều ngày, thậm chí nhiều tuần.",
+      "Với Việt Nam, kết quả bầu cử ảnh hưởng gián tiếp nhưng đáng theo dõi: Mỹ là thị trường xuất khẩu lớn nhất, nên việc Quốc hội Mỹ đổi phe có thể thay đổi cách chính quyền ông Trump điều hành thuế quan, thương mại và chi tiêu – yếu tố tác động tới đơn hàng của doanh nghiệp và việc làm của người lao động."
+     ],
+     "tag": "Bầu cử Mỹ"
+    },
+    {
+     "cat": "know",
+     "title": "Từ 1/1/2027: trần trợ cấp thất nghiệp lên 28,5 triệu, sàn đóng BHXH tăng theo",
+     "summary": "Lương tối thiểu vùng tăng 310.000–390.000 đồng từ 1/1/2027 kéo theo hàng loạt khoản: trợ cấp thất nghiệp tối đa vùng I lên 28,5 triệu đồng/tháng, trần lương đóng BHTN vùng I lên 114 triệu, lương đóng BHXH tối thiểu không dưới 5,7 triệu. Bộ phận nhân sự cần rà soát lại thang lương, hợp đồng và mức đóng bảo hiểm trước kỳ lương tháng 1/2027.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/tro-cap-that-nghiep-tien-dong-bhxh-tang-theo-luong-toi-thieu-tu-1-1-2027-5140179.html",
+     "image": "https://i2-vnexpress.vnecdn.net/2026/11/03/l1033221-jpg-1793689273-3101-1793689409.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=3nMlAJATeYlwj4Ip4HXMPw",
+     "detail": [
+      "Lương tối thiểu vùng mới, có hiệu lực từ 1/1/2027, là 5,7 triệu đồng (vùng I), 5,08 triệu (vùng II), 4,45 triệu (vùng III) và 4,04 triệu (vùng IV). Đây không chỉ là mức lương thấp nhất được trả. Nó còn là căn cứ để tính nhiều khoản bảo hiểm và quyền lợi khác của người lao động.",
+      "Với bảo hiểm thất nghiệp, mức hưởng hằng tháng vẫn là 60% bình quân tiền lương đóng của 6 tháng liền kề trước khi nghỉ việc, nhưng không quá 5 lần lương tối thiểu vùng tại tháng cuối tham gia. Trần trợ cấp vì thế lên 28,5 triệu (vùng I), 25,4 triệu (vùng II), 22,25 triệu (vùng III) và 20,2 triệu đồng (vùng IV). Trần lương đóng BHTN bằng 20 lần lương tối thiểu vùng, vùng I lên 114 triệu đồng, tăng 7,8 triệu so với hiện nay.",
+      "Với BHXH bắt buộc, tiền lương làm căn cứ đóng của công việc giản đơn nhất không được thấp hơn lương tối thiểu vùng. Tỷ lệ đóng giữ nguyên: người lao động đóng 8% vào quỹ hưu trí và tử tuất. Doanh nghiệp đóng 14% vào quỹ này, cộng 3% quỹ ốm đau thai sản và 0,5% quỹ tai nạn lao động, bệnh nghề nghiệp. Nền lương đóng cao hơn cũng giúp lương hưu sau này cao hơn.",
+      "Lương tối thiểu mới còn là mức sàn cho tiền lương ngừng việc do lỗi người sử dụng lao động. Khi người lao động bị chuyển sang làm công việc khác, lương mới phải ít nhất bằng 85% lương cũ và không thấp hơn lương tối thiểu vùng. Theo số liệu đến hết tháng 6/2026, cả nước có gần 21,6 triệu người tham gia BHXH. Lương bình quân đóng BHXH ở doanh nghiệp ngoài nhà nước chỉ gần 6,4 triệu đồng, nên nhiều đơn vị sẽ phải điều chỉnh.",
+      "Doanh nghiệp, kể cả ở Đà Nẵng, nên xác định đúng vùng lương của từng địa điểm hoạt động. Từ đó cập nhật phụ lục hợp đồng, phần mềm tính lương và mức đóng BHXH, BHTN cho kỳ lương tháng 1/2027, để tránh bị truy thu hoặc phạt."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Sáng 4/11: vàng SJC đứng ở 140,6 triệu, vàng nhẫn nhích lên, thế giới giảm",
+     "summary": "Lúc 6h30 sáng 4/11, vàng miếng SJC niêm yết 137,6–140,6 triệu đồng/lượng, giữ nguyên mức chiều 3/11. Vàng nhẫn các thương hiệu cao hơn phiên trước 0,5–0,9 triệu, trong khi vàng thế giới lùi về quanh 3.931 USD/ounce. Chênh lệch mua – bán vẫn khoảng 3–4 triệu đồng/lượng, người mua ngắn hạn dễ chịu lỗ.",
+     "source": "Thời báo Tài chính Việt Nam",
+     "url": "https://thoibaotaichinhvietnam.vn/gia-vang-hom-nay-ngay-4-11-gia-vang-trong-nuoc-tang-vang-the-gioi-quay-dau-giam-206372.html",
+     "detail": [
+      "Theo ghi nhận lúc 6h30 sáng thứ Tư 4/11, vàng miếng SJC tại TP.HCM được mua vào 137,6 triệu và bán ra 140,6 triệu đồng/lượng. So với chiều 3/11 (bán ra 140,6 triệu sau khi giảm 600.000 đồng so với buổi sáng), giá vàng miếng đứng yên qua đêm. Khoảng cách giữa giá mua và giá bán vẫn là 3 triệu đồng/lượng.",
+      "Vàng nhẫn tiếp tục được điều chỉnh tăng so với phiên trước. Nhẫn SJC lên 133,7–137,7 triệu đồng/lượng (tăng 900.000 đồng), PNJ 134,9–138,9 triệu (tăng 900.000), DOJI 135,5–139,5 triệu (tăng 500.000), Bảo Tín Minh Châu 135,3–139,3 triệu (tăng 800.000) và Phú Quý 136–139 triệu (tăng 500.000).",
+      "Trái chiều với trong nước, vàng thế giới quay đầu giảm, về khoảng 3.931 USD/ounce, thấp hơn sáng 3/11 hơn 13 USD. Quy đổi theo tỷ giá Vietcombank, mức này tương đương khoảng 123 triệu đồng/lượng chưa gồm thuế phí, tức vàng miếng trong nước đang đắt hơn thế giới khoảng 17 triệu đồng/lượng.",
+      "Bài báo cho rằng áp lực chốt lời sau nhịp hồi phục khiến vàng thế giới đi xuống, dù đồng USD yếu hơn. Giới đầu tư đang theo dõi đàm phán Mỹ – Iran, căng thẳng quanh eo biển Hormuz và tác động chính sách sau cuộc bầu cử giữa kỳ của Mỹ ngày 3/11. Với người mua vàng tích trữ, chênh lệch mua – bán 3–4 triệu đồng/lượng và khoảng cách lớn với giá thế giới là rủi ro cần cân nhắc."
+     ],
+     "image": "https://thoibaotaichinhvietnam.vn/stores/news_dataimages/2026/092026/16/06/in_social/gia-vang-dam-mau-giu-nguyen-220260916063604.jpg?v=2.720260812095833"
+    },
+    {
+     "cat": "ai",
+     "title": "AMD lập kỷ lục quý III, doanh thu chip trung tâm dữ liệu AI tăng 97%",
+     "summary": "AMD báo doanh thu quý III đạt 13,4 tỷ USD, tăng 45%, trong đó mảng trung tâm dữ liệu đạt kỷ lục 8,5 tỷ USD nhờ nhu cầu chip AI. Công ty dự báo quý IV đạt khoảng 17 tỷ USD và doanh thu 2027 tăng hơn 80%, cổ phiếu tăng hơn 7% sau giờ giao dịch.",
+     "source": "Investing.com",
+     "url": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-amd-tops-q3-2026-estimates-as-stock-jumps-after-hours-93CH-4927294",
+     "detail": [
+      "Tối 3/11 (giờ Mỹ), hãng chip AMD công bố kết quả quý III/2026 vượt dự báo của giới phân tích. Doanh thu đạt 13,38 tỷ USD, cao hơn mức 13,06 tỷ USD thị trường kỳ vọng và tăng 45% so với cùng kỳ. Lợi nhuận trên mỗi cổ phiếu (đã điều chỉnh) đạt 2,09 USD, vượt dự báo 1,94 USD.",
+      "Động lực chính là mảng trung tâm dữ liệu – nơi bán chip xử lý và bộ tăng tốc AI cho các công ty điện toán đám mây – đạt kỷ lục 8,5 tỷ USD, tăng 97%, chiếm khoảng 64% tổng doanh thu. Ngược lại, mảng chip chơi game giảm tới 40%, cho thấy AMD đang dồn trọng tâm gần như hoàn toàn vào AI.",
+      "Theo CEO Lisa Su, quý này AMD lần đầu giao hàng thương mại chip MI455X và hệ thống tủ máy chủ Helios – sản phẩm cạnh tranh trực tiếp với Nvidia. Các khách hàng đầu tiên gồm Anthropic, Meta, Microsoft, OpenAI và Oracle đã đưa Helios vào vận hành; bà Su nói khách hàng \"đang chạy các mô hình mới nhất của họ trên Helios\".",
+      "Về triển vọng, AMD dự báo doanh thu quý IV khoảng 17 tỷ USD, tức tăng khoảng 66% so với cùng kỳ, riêng mảng trung tâm dữ liệu tăng khoảng 50% so với quý trước. Công ty còn đặt kỳ vọng doanh thu năm 2027 tăng hơn 80%, với trung tâm dữ liệu chiếm trên 80% tổng doanh thu.",
+      "Cổ phiếu AMD tăng 3,65% trong phiên chính lên 483,9 USD và vọt thêm 7,54% sau giờ giao dịch lên khoảng 520 USD. Kết quả này củng cố nhận định rằng làn sóng đầu tư hạ tầng AI vẫn rất mạnh, bất chấp lo ngại 'bong bóng AI' gần đây, và Nvidia đang có đối thủ cạnh tranh đáng kể hơn."
+     ],
+     "image": "https://d1io3yog0oux5.cloudfront.net/_f0cf63679500d04d1befc9fc9a7fcabe/amd/db/834/7308/social_image_resized.jpg"
+    },
+    {
+     "cat": "vn",
+     "title": "Hôm nay Quốc hội bàn Luật An ninh dữ liệu và Luật Định danh điện tử",
+     "summary": "Sáng 4/11, Quốc hội thảo luận tại hội trường hai dự án Luật An ninh dữ liệu và Luật Định danh và xác thực điện tử; buổi chiều bàn Luật Xử lý vi phạm hành chính (sửa đổi). Đây là các luật chạm trực tiếp tới dữ liệu cá nhân, tài khoản định danh VNeID và cách người dân bị xử phạt hành chính.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/thong-cao-bao-chi-so-16-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1399655.html",
+     "detail": [
+      "Theo Thông cáo báo chí số 16 của Kỳ họp thứ 2, Quốc hội khóa XVI, ngày làm việc 4/11 dành trọn cho nhóm luật về dữ liệu và xử phạt. Buổi sáng, các đại biểu thảo luận tại hội trường hai dự án Luật An ninh dữ liệu và Luật Định danh và xác thực điện tử. Buổi chiều, Quốc hội chuyển sang dự án Luật Xử lý vi phạm hành chính (sửa đổi).",
+      "Định danh và xác thực điện tử là cách Nhà nước công nhận \"danh tính số\" của mỗi người, như tài khoản VNeID dùng để làm thủ tục, mở tài khoản hay ký giao dịch trực tuyến. Luật An ninh dữ liệu hướng tới việc phòng ngừa, xử lý lộ lọt và tấn công dữ liệu. Với người lao động và doanh nghiệp, hai luật này sẽ quyết định cách hồ sơ nhân sự, dữ liệu khách hàng được lưu trữ, chia sẻ và bảo vệ.",
+      "Trước đó, ngày 3/11 là ngày làm việc thứ 16 của kỳ họp. Buổi sáng, 16 đại biểu góp ý Luật Trưng mua, trưng dụng tài sản (sửa đổi) và 15 đại biểu góp ý Luật Sở hữu trí tuệ sửa đổi. Buổi chiều, 15 đại biểu bàn Luật Đấu giá tài sản (sửa đổi) và 12 đại biểu bàn Luật Điện lực sửa đổi; các bộ trưởng Tài chính, Khoa học và Công nghệ, Tư pháp, Công Thương lần lượt giải trình.",
+      "Ở phần Luật Điện lực, các ý kiến xoay quanh việc thể chế hóa Nghị quyết 70-NQ/TW về an ninh năng lượng, xử lý dự án chậm tiến độ, công khai chi phí giá điện, lộ trình xóa bù chéo giá điện và phát triển điện mái nhà, lưu trữ điện. Các dự án luật này còn tiếp tục được chỉnh lý trước khi trình Quốc hội biểu quyết."
+     ],
+     "tag": "Lịch Quốc hội 4/11"
+    },
+    {
+     "cat": "dn",
+     "title": "Giá tiêu dùng Đà Nẵng 10 tháng tăng 5,01%, nhà ở và đi lại dẫn đầu",
+     "summary": "Chỉ số giá tiêu dùng (CPI) bình quân 10 tháng năm 2026 tại Đà Nẵng tăng 5,01% so với cùng kỳ; riêng tháng 10 tăng 5,61% so với cùng kỳ năm trước. Nhóm giao thông tăng 10,73%, nhà ở – điện nước – vật liệu xây dựng tăng 8,81%, cao hơn hẳn mức chung – đáng lưu ý khi tính toán lương, phụ cấp cuối năm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/chi-so-gia-tieu-dung-binh-quan-10-thang-tang-5-01-3357317.html",
+     "detail": [
+      "Theo Thống kê thành phố Đà Nẵng, chỉ số giá tiêu dùng (CPI – thước đo mức thay đổi giá của giỏ hàng hóa, dịch vụ mà người dân thường mua) bình quân 10 tháng năm 2026 tăng 5,01% so với cùng kỳ năm trước. Đây là số liệu riêng của Đà Nẵng, không phải cả nước.",
+      "Riêng tháng 10, CPI gần như đi ngang so với tháng trước (tăng 0,02%) nhưng tăng tới 5,61% so với cùng kỳ. Trong 11 nhóm hàng, 6 nhóm tăng giá so với tháng 9, như thiết bị và đồ dùng gia đình (+0,46%), giáo dục (+0,14%), thuốc và dịch vụ y tế (+0,08%); ngược lại nhóm văn hóa, giải trí, du lịch giảm 1,08% và nhóm nhà ở, điện nước, chất đốt, vật liệu xây dựng giảm 0,54%.",
+      "Nếu so với cùng kỳ năm trước, áp lực giá rõ nhất nằm ở giao thông (+10,73%), nhà ở – điện nước – vật liệu xây dựng (+8,81%) và hàng ăn, dịch vụ ăn uống (+6,55%). Đây đều là những khoản chi thiết yếu hằng tháng của hộ gia đình và người lao động.",
+      "Cùng thời gian, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng 10 tháng ước đạt 263.227 tỷ đồng, tăng 25,5%; tháng 10 đạt 28.037 tỷ đồng, tăng 33,1%. Cơ quan thống kê lưu ý nhu cầu mua sắm thường tăng mạnh vào cuối năm nên cần theo dõi sát cung cầu, giá cả, nhất là hàng thiết yếu.",
+      "Với bộ phận nhân sự, mức tăng giá hơn 5% là một căn cứ tham khảo khi xem xét điều chỉnh lương, phụ cấp ăn trưa, đi lại hay thưởng Tết 2027 để thu nhập thực tế của người lao động không bị bào mòn."
+     ],
+     "tag": "CPI +5,01%"
+    },
+    {
+     "cat": "fin",
+     "title": "FDI đăng ký 10 tháng đạt 54,85 tỷ USD, cao nhất kể từ 2009",
+     "summary": "Tính đến 31/10/2026, tổng vốn đầu tư nước ngoài đăng ký vào Việt Nam đạt 54,85 tỷ USD, tăng 74% và cao nhất 17 năm. Vốn giải ngân khoảng 24,08 tỷ USD, cao nhất 5 năm, với gần 83% đổ vào chế biến, chế tạo. Dòng vốn này hứa hẹn thêm nhiều nhà máy và việc làm trong năm tới.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/ben-canh-xuat-khau-kinh-te-viet-nam-ghi-nhan-mot-ky-luc-moi-trong-vong-17-nam-tro-lai-day-176261103135618773.chn",
+     "detail": [
+      "Theo Cục Đầu tư nước ngoài (Bộ Tài chính), 10 tháng đầu năm 2026 tổng vốn FDI (đầu tư trực tiếp nước ngoài) đăng ký vào Việt Nam đạt 54,85 tỷ USD, tăng 74% so với cùng kỳ. Đây là mức cao nhất kể từ năm 2009, tức sau 17 năm.",
+      "Trong đó, 3.478 dự án mới được cấp phép với 30,73 tỷ USD, gấp 2,2 lần cùng kỳ; chế biến, chế tạo chiếm 47,5% và kho bãi – vận tải chiếm 16,7%. 1.079 lượt dự án tăng vốn thêm 16,13 tỷ USD (tăng 33,2%), còn góp vốn, mua cổ phần đạt 7,99 tỷ USD (tăng 49,6%).",
+      "Singapore dẫn đầu về vốn đăng ký mới với 9,52 tỷ USD (31%), tiếp theo là Hàn Quốc 5,81 tỷ USD, Luxembourg 4,99 tỷ USD, Hồng Kông 3,57 tỷ USD, Trung Quốc 2,77 tỷ USD và Nhật Bản 1,58 tỷ USD. Tổng cộng có 80 quốc gia, vùng lãnh thổ rót vốn mới.",
+      "Vốn FDI thực hiện ước đạt 24,08 tỷ USD, tăng 13,1% và cao nhất cùng kỳ 5 năm; riêng chế biến, chế tạo chiếm 82,9%. Với người lao động và doanh nghiệp, vốn đăng ký tăng mạnh là tín hiệu nhu cầu tuyển dụng ở khu công nghiệp, logistics sẽ còn tăng khi các dự án đi vào xây dựng và vận hành."
+     ],
+     "figure": {
+      "value": "54,85 tỷ USD",
+      "label": "FDI đăng ký 10 tháng 2026",
+      "delta": "+74%",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "vn",
+     "title": "Ông Trump xác nhận Mỹ tập kích cơ sở phòng không của Iran",
+     "summary": "Tối 3/11 (giờ Việt Nam), Tổng thống Trump thừa nhận Mỹ đã \"xóa sổ\" một số cơ sở phòng không Iran, gọi đó là \"cuộc tấn công nhỏ\", chỉ vài giờ sau khi nói thỏa thuận với Tehran \"có thể xảy ra\". Iran tuyên bố sẵn sàng chiến đấu nhưng vẫn theo đuổi đàm phán qua Qatar – diễn biến khiến giá dầu tiếp tục khó lường.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ong-trump-my-da-tap-kich-co-so-phong-khong-cua-iran-5140428.html",
+     "detail": [
+      "Trả lời chương trình Fox & Friends ngày 3/11, ông Trump nói Iran mất khoảng hai tháng xây \"cơ sở phòng không\", Mỹ theo dõi suốt quá trình và tập kích khi công trình hoàn thành. Ông khẳng định đây là \"cuộc tấn công nhỏ\", không phải chiến tranh, và Mỹ kiểm soát hoàn toàn eo biển Hormuz – tuyến vận chuyển dầu quan trọng bậc nhất thế giới.",
+      "Truyền thông Mỹ dẫn nguồn giấu tên cho biết cuộc tập kích \"mang tính phòng vệ\" nhắm vào đảo Qeshm hôm 2/11; CNN nói bệ phóng tên lửa phòng không Iran bị đánh sau khi tìm cách bắn hạ một tiêm kích Mỹ. Wall Street Journal cho rằng đây là đợt mới nhất trong loạt đòn quy mô hạn chế Mỹ tiến hành bí mật nhiều tuần qua.",
+      "Phía Iran phản ứng hai chiều: Tổng thống Masoud Pezeshkian vẫn muốn giải quyết qua đối thoại, trong khi Chủ tịch Quốc hội Ghalibaf tuyên bố nước này \"sẵn sàng chiến đấu\". Qatar, bên trung gian, cho biết hai bên vẫn trao đổi đề xuất và còn hy vọng về một thỏa thuận tạm thời.",
+      "Vụ việc diễn ra đúng ngày Mỹ bầu cử giữa kỳ, khi cử tri bất mãn với xung đột Trung Đông và lạm phát. Với Việt Nam, căng thẳng Mỹ – Iran là biến số chính của giá dầu, và vì thế ảnh hưởng trực tiếp tới các kỳ điều chỉnh giá xăng trong nước."
+     ],
+     "tag": "Trung Đông"
+    },
+    {
+     "cat": "dn",
+     "title": "Mưa lớn trở lại miền Trung từ 8–12/11, Quảng Trị đến Đà Nẵng có thể trên 500 mm",
+     "summary": "Trung tâm Dự báo Khí tượng Thủy văn Quốc gia cảnh báo từ khoảng 8–12/11, Trung Bộ có mưa to đến rất to; từ Quảng Trị đến Đà Nẵng tổng lượng mưa có thể vượt 500 mm. Mưa cường suất lớn dễ xảy ra ngày 9–11/11, nguy cơ lũ quét, sạt lở và ngập vùng trũng.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/tu-khoang-ngay-8-1211-kha-nang-mua-lon-xay-ra-o-khu-vuc-trung-bo-post1399580.html",
+     "detail": [
+      "Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, từ khoảng ngày 8 đến 12/11, khu vực Trung Bộ có khả năng xảy ra một đợt mưa lớn. Từ Thanh Hóa đến Hà Tĩnh có nơi mưa to đến rất to, giảm dần từ ngày 11/11; từ Quảng Trị đến Đà Nẵng và phía đông Quảng Ngãi đến Đắk Lắk, Khánh Hòa cũng có mưa to đến rất to.",
+      "Đáng chú ý, tổng lượng mưa cả đợt ở dải Quảng Trị – Đà Nẵng có thể vượt 500 mm, và mưa với cường suất lớn (lượng mưa rất cao trong thời gian ngắn) có thể xảy ra trong ngày 9–11/11. Cơ quan khí tượng cảnh báo nguy cơ lũ quét trên sông suối nhỏ, sạt lở đất ở vùng đồi núi và ngập úng vùng trũng thấp, kèm dông, lốc, sét.",
+      "Ở các nơi khác, Bắc Bộ có mưa rào rải rác khoảng 5–9/11 rồi chuyển rét từ ngày 9/11; Nam Bộ và Lâm Đồng có mưa dông chiều tối khoảng 4–8/11. Trong tháng 11–12, từ Hà Tĩnh đến Huế và ven biển Nam Trung Bộ vẫn có thể có mưa vừa, mưa to; mưa lớn diện rộng giảm dần từ tháng 1/2027.",
+      "Người dân Đà Nẵng nên theo dõi bản tin dự báo 1–3 ngày và cảnh báo lũ quét, sạt lở theo thời gian thực trên các trang của ngành khí tượng. Doanh nghiệp, cơ quan có thể sắp xếp sớm lịch làm việc, di chuyển, kho hàng cho giai đoạn 9–11/11."
+     ],
+     "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V7zuiBKDSYtJxKpZHwxt7K9v6QyfFsjq0sjw0K0khxhaH/mualon.jpg.webp"
+    },
+    {
+     "cat": "fin",
+     "title": "Nhận định phiên 4/11: VN-Index còn rủi ro giảm, vùng đỡ 1.650–1.680 điểm",
+     "summary": "Phiên 3/11, VN-Index giảm phiên thứ tư liên tiếp, đóng cửa 1.699,62 điểm (-0,65%), riêng VIC lấy đi khoảng 12,6 điểm. Thanh khoản HOSE giảm gần 29%, khối ngoại bán ròng khoảng 502 tỷ đồng. Vietstock cho rằng chỉ số đang 'dò đáy', vùng hỗ trợ cần theo dõi là 1.650–1.680 điểm.",
+     "source": "Vietstock",
+     "url": "https://vietstock.vn/2026/11/vietstock-daily-04112026-tiep-tuc-do-day-1636-1511197.htm",
+     "detail": [
+      "Kết thúc phiên 3/11, VN-Index lùi 0,65% (khoảng 11 điểm) xuống 1.699,62 điểm, đánh dấu phiên giảm thứ tư liên tiếp và đóng cửa dưới mốc tâm lý 1.700. Ngược lại, HNX-Index tăng 0,35% lên 251,42 điểm và VN30 nhích 0,12%. Nhóm vốn hóa lớn giảm 0,64%, trong khi cổ phiếu vừa và nhỏ tăng nhẹ.",
+      "Cổ phiếu VIC là lực cản lớn nhất, lấy đi khoảng 12,59 điểm của VN-Index; HPG, STB và HVN chỉ bù lại được khoảng 3 điểm. Khối lượng khớp lệnh trên HOSE giảm 28,8% còn hơn 515 triệu cổ phiếu, thấp hơn mức trung bình 20 phiên, cho thấy dòng tiền đang đứng ngoài quan sát. Khối ngoại bán ròng khoảng 502 tỷ đồng trên HOSE.",
+      "Về kỹ thuật, VN-Index nằm dưới đường giữa dải Bollinger và chỉ báo MACD đã cắt xuống đường tín hiệu, tức đà giảm đang chiếm ưu thế. Vietstock đánh giá rủi ro giảm tiếp đang tăng lên, vùng đáy tháng 7/2026 quanh 1.650–1.680 điểm là mức hỗ trợ quan trọng trong các phiên tới.",
+      "Nhận định cho phiên 4/11 nhìn chung thận trọng. Với nhà đầu tư cá nhân, đây là giai đoạn nên hạn chế mua đuổi, kiểm soát tỷ lệ vay ký quỹ (vay tiền công ty chứng khoán để mua cổ phiếu) và chờ thị trường xác nhận vùng đáy."
+     ],
+     "tag": "Hỗ trợ 1.650–1.680"
+    },
+    {
+     "cat": "ai",
+     "title": "Google: trường học muốn tắt AI thì học sinh cũng mất luôn Google Search",
+     "summary": "Google sẽ tắt mặc định các công cụ AI (Gemini, NotebookLM…) cho học sinh phổ thông từ năm sau, nhưng trường nào tắt AI hoàn toàn thì cũng mất quyền dùng Google Search. Quyết định gây tranh luận vì Google gần như thống trị lớp học qua Chromebook và ứng dụng giáo dục.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+     "detail": [
+      "Ngày 3/11, Google thông báo từ năm sau sẽ tắt các công cụ AI đối với học sinh phổ thông (K-12) trừ khi ban giám hiệu chủ động bật lên. Thay đổi áp dụng cho Gemini, NotebookLM, Gemini trong Classroom và cả Google Search. Google cho biết quyết định được đưa ra sau khi tham vấn trường học, giáo viên, nhà nghiên cứu và nhà hoạch định chính sách.",
+      "Điểm gây chú ý là vì tính năng AI đã gắn chặt vào công cụ tìm kiếm, trường nào tắt AI hoàn toàn thì học sinh cũng không dùng được Google Search, chỉ thấy thông báo rằng tìm kiếm không khả dụng. Phó chủ tịch phụ trách giáo dục của Google, Chris Phillips, giải thích \"Search và AI tích hợp sâu với nhau\".",
+      "Nói cách khác, trường muốn học sinh tra cứu nguồn tài liệu bằng Google thì phải chấp nhận cả phần tóm tắt bằng AI (AI Overviews) – thứ nhiều giáo viên lo ngại khiến học sinh lười suy nghĩ. Một số nghiên cứu được dẫn trong bài cho thấy chatbot giúp giảm tải nhận thức nhưng có thể đánh đổi bằng khả năng tư duy phản biện.",
+      "Google chưa công bố lịch trình chi tiết, chỉ nói sẽ chia sẻ thêm \"trong những tháng tới\" để trường có thời gian chuẩn bị. Cùng lúc, hãng đưa công cụ Guided Learning – AI đóng vai gia sư, hướng dẫn từng bước thay vì đưa đáp án – vào trường học.",
+      "Quyết định cho thấy sức ảnh hưởng rất lớn của Google trong giáo dục nhờ Chromebook và bộ ứng dụng lớp học phổ biến. Với phụ huynh và nhà trường, kể cả tại Việt Nam nơi nhiều trường dùng Google Workspace for Education, đây là tín hiệu rằng việc 'tránh AI' trong học tập ngày càng khó, và câu hỏi chuyển sang dạy học sinh dùng AI đúng cách."
+     ],
+     "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-logo.jpg"
+    },
+    {
+     "cat": "vn",
+     "title": "Bộ trưởng Công Thương: không thể đẩy rủi ro đầu tư điện vào giá điện người dân",
+     "summary": "Giải trình về Luật Điện lực sửa đổi chiều 3/11, Bộ trưởng Lê Mạnh Hùng cho biết EVN sẽ phải công bố kết cấu chi phí hằng năm để kiểm toán, công khai. Hộ yếu thế tiếp tục được hỗ trợ tương đương 30 kWh/tháng theo giá bậc 1, còn lộ trình xóa bù chéo giá điện do Thủ tướng quyết định.",
+     "source": "VOV",
+     "url": "https://vov.vn/kinh-te/bo-truong-le-manh-hung-khong-the-day-rui-ro-dau-tu-dien-vao-chi-phi-cua-nguoi-dan-post1347008.vov",
+     "detail": [
+      "Chiều 3/11, sau phần thảo luận của đại biểu, Bộ trưởng Bộ Công Thương Lê Mạnh Hùng giải trình về dự án sửa đổi Luật Điện lực. Ông thừa nhận sau hơn 3 năm, chưa đến 10% công suất theo Quy hoạch điện VIII được đưa vào vận hành, còn 14 dự án điện khí LNG chưa triển khai được trên thực tế.",
+      "Để gỡ vướng, dự thảo bổ sung cơ chế chia sẻ rủi ro, giá công suất cho các nhà máy điện nền (trả cả phần chi phí giữ công suất sẵn sàng, không chỉ phần điện thực phát) và cho phép đàm phán hợp đồng mua bán điện dựa trên kết quả đấu thầu để rút ngắn thời gian. Tuy vậy, Bộ trưởng nhấn mạnh nhà đầu tư phải cùng chia sẻ rủi ro, không thể chuyển hết sang Nhà nước rồi tính vào chi phí người dân.",
+      "Về giá điện, dự thảo yêu cầu giá phản ánh chi phí hợp lý; EVN công bố kết cấu chi phí hằng năm, Bộ Công Thương và Bộ Tài chính phối hợp Kiểm toán Nhà nước kiểm toán và công khai trên website. Cơ quan soạn thảo cũng dự kiến giao một đơn vị độc lập xây dựng khung giá phát điện.",
+      "Đối tượng yếu thế tiếp tục được hỗ trợ tiền điện tương đương 30 kWh theo giá bậc 1. \"Bù chéo\" là việc nhóm khách hàng này trả giá cao hơn để bù cho nhóm khác; lộ trình xóa bù chéo sẽ do Thủ tướng quyết định sau khi đánh giá tác động theo từng nhóm và vùng miền. Với hộ gia đình và doanh nghiệp, điều này hứa hẹn hóa đơn điện minh bạch hơn nhưng cơ cấu giá có thể thay đổi trong vài năm tới."
+     ],
+     "tag": "Luật Điện lực"
+    },
+    {
+     "cat": "dn",
+     "title": "Tháng 10, Đà Nẵng mở 24 phiên việc làm, cấp 2.228 giấy phép lao động nước ngoài",
+     "summary": "Trong tháng 10, Đà Nẵng tổ chức 24 phiên giao dịch việc làm với 231 doanh nghiệp tham gia, nhưng chỉ 88 người được nhận việc. Thành phố chi 76,5 tỷ đồng trợ cấp thất nghiệp cho 2.851 người và cấp 2.228 giấy phép lao động cho người nước ngoài.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/thanh-pho-to-chuc-24-phien-giao-dich-viec-lam-trong-thang-10-3357234.html",
+     "detail": [
+      "Theo số liệu ngành lao động thành phố, tháng 10/2026 Đà Nẵng tổ chức 24 phiên giao dịch việc làm, thu hút 231 doanh nghiệp đăng ký tuyển dụng. Các phiên đã giới thiệu việc làm cho 515 lượt người, trong đó 88 người được tuyển thành công – tỷ lệ khá thấp so với số lượt được giới thiệu.",
+      "Cũng trong tháng, 2.851 người được hưởng trợ cấp thất nghiệp hằng tháng với tổng số tiền chi trả 76,5 tỷ đồng. Con số này phản ánh lượng lao động mất việc, chuyển việc vẫn đáng kể trong bối cảnh nhiều doanh nghiệp tái cơ cấu.",
+      "Ở chiều ngược lại, nhu cầu lao động nước ngoài tại Đà Nẵng khá lớn: trong tháng 10, thành phố cấp 2.228 giấy phép lao động cho người nước ngoài và 12 giấy xác nhận không thuộc diện cấp phép. Từ 1/1 đến 11/10/2026 có 2.514 người Đà Nẵng đi làm việc ở nước ngoài, gồm 1.310 người theo hợp đồng và 1.204 lao động thời vụ.",
+      "Về an toàn lao động, 23 doanh nghiệp đã đăng ký 291 thiết bị có yêu cầu nghiêm ngặt về an toàn. Với người làm nhân sự, các phiên giao dịch việc làm định kỳ là kênh tuyển dụng miễn phí đáng tận dụng, nhất là khi đang có nguồn lao động dôi dư từ các doanh nghiệp cắt giảm."
+     ],
+     "tag": "Thị trường lao động"
+    },
+    {
+     "cat": "know",
+     "title": "Công an Đà Nẵng cảnh báo giả nhân viên bưu điện giao hộ chiếu để dụ vay tiền",
+     "summary": "Người vừa làm hộ chiếu trực tuyến qua VNeID bị gọi điện thu 12.000 đồng 'phí chuyển phát'. Sau đó kẻ gian dụ nạn nhân chia sẻ màn hình, mở ví MoMo vào mục 'Vay nhanh' để 'hoàn phí'. Công an Đà Nẵng khuyến cáo không chia sẻ màn hình, không làm thủ tục vay theo hướng dẫn của người lạ, kể cả với khoản tiền rất nhỏ.",
+     "source": "VietTimes",
+     "url": "https://viettimes.vn/cong-an-da-nang-canh-bao-thu-doan-lua-dao-nguoi-lam-ho-chieu-truc-tuyen-qua-vneid-post207910.html",
+     "image": "https://cdn.viettimes.vn/images/j1fjEJDG5qj4jWuFLIsE91iZspNwjnzqE69c_sAhbvuUdMLFCgBf5uHQGVvH0A56/lua-dao.jpg.webp",
+     "detail": [
+      "Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Công an TP Đà Nẵng, vừa cảnh báo một thủ đoạn mới nhắm vào người làm hộ chiếu trực tuyến qua ứng dụng VNeID. Cảnh báo dựa trên phản ánh của một người dân, người này đã kịp dừng lại trước khi bị thiệt hại.",
+      "Sau khi nhận thông báo hồ sơ hộ chiếu đã xử lý xong, nạn nhân liên tục nhận cuộc gọi từ số lạ xưng là nhân viên bưu điện, đòi thanh toán 12.000 đồng tiền cước. Chuyển tiền xong, kẻ gian gọi lại, nói đã đưa nhầm số tài khoản và hứa có 'quản lý' hỗ trợ hoàn tiền. Nạn nhân được dẫn sang một trang Facebook giả mạo bộ phận chăm sóc khách hàng của bưu điện để 'hủy' đơn giao hàng.",
+      "Ở bước cuối, một người đàn ông yêu cầu nạn nhân chia sẻ màn hình điện thoại và mở ví MoMo, vào mục 'Trung tâm tài chính'. Hắn bảo nhập số căn cước do hắn cung cấp rồi bấm vào mục 'Vay nhanh'. Mục đích thật là chiếm quyền thao tác trên điện thoại và mở khoản vay đứng tên nạn nhân. Thấy bất thường, người dân đã nhắn fanpage của Phòng An ninh mạng để xác minh và dừng lại kịp thời.",
+      "Công an khuyến cáo: không chuyển tiền hay cung cấp thông tin khi chưa xác minh, kể cả khi người gọi xưng là bưu điện hay cán bộ nhà nước. Không chia sẻ màn hình, không đưa mã OTP hay mật khẩu, không vay tiền theo hướng dẫn của người lạ. Muốn hỏi về phí chuyển phát hộ chiếu, chỉ liên hệ qua kênh chính thức. Nếu đã lỡ giao dịch, hãy báo ngay ngân hàng hoặc ví điện tử và trình báo công an gần nhất.",
+      "Kẻ gian đang lợi dụng các thủ tục hành chính trực tuyến và những khoản phí rất nhỏ để tạo lòng tin. Bộ phận nhân sự có thể phổ biến cảnh báo này cho nhân viên, nhất là những người đang làm hộ chiếu để đi công tác."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "CPI tháng 10 tăng 0,2% do xăng dầu, bình quân 10 tháng tăng 4,57%",
+     "summary": "Cục Thống kê công bố sáng 3/11: CPI tháng 10 tăng 0,20% so với tháng trước, chủ yếu do giá xăng tăng 6,86%. Bình quân 10 tháng CPI tăng 4,57%, lạm phát cơ bản tăng 4,24%, cho thấy áp lực giá cả lên chi tiêu gia đình vẫn đáng kể.",
+     "source": "VOV",
+     "url": "http://vov.vn/kinh-te/cpi-10-thang-tang-457-nhom-hang-nao-gay-ap-luc-lon-nhat-post1346822.vov",
+     "detail": [
+      "Theo số liệu Cục Thống kê công bố sáng 3/11, chỉ số giá tiêu dùng (CPI) tháng 10/2026 tăng 0,20% so với tháng trước. Nguyên nhân chính là giá xăng dầu trong nước tăng theo giá thế giới: nhóm giao thông tăng 2,66%, trong đó xăng tăng 6,86%, góp 0,27 điểm phần trăm vào mức tăng chung. Giá gas cũng tăng 10,35%.",
+      "Có 7/11 nhóm hàng tăng giá, như giáo dục và thuốc, dịch vụ y tế cùng tăng 0,31%. Ngược lại, nhóm hàng ăn và dịch vụ ăn uống giảm 0,24% (kéo CPI giảm 0,09 điểm), văn hóa, giải trí và du lịch giảm 0,87%.",
+      "Tính bình quân 10 tháng, CPI tăng 4,57% so với cùng kỳ. Ba nhóm gây áp lực lớn nhất là hàng ăn và dịch vụ ăn uống (tăng 4,61%), nhà ở, điện nước, vật liệu xây dựng (tăng 6,66%) và giao thông (tăng 6,98%, riêng nhiên liệu tăng 13,09%). Lạm phát cơ bản, tức chỉ số đã loại trừ lương thực tươi sống, năng lượng, dịch vụ y tế, bình quân 10 tháng tăng 4,24%.",
+      "Mức tăng giá quanh 4,5% đồng nghĩa thu nhập thực tế của người làm công ăn lương bị bào mòn nếu lương không tăng tương ứng. Đây cũng là dữ liệu tham khảo khi doanh nghiệp tính điều chỉnh lương, thưởng cuối năm."
+     ],
+     "figure": {
+      "value": "4,57%",
+      "label": "CPI bình quân 10 tháng/2026",
+      "delta": "+0,20% tháng 10",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "fin",
+     "title": "Giảm 30% thuế thu nhập cho doanh nghiệp, hộ kinh doanh doanh thu dưới 10 tỷ",
+     "summary": "Nghị định 398/2026/NĐ-CP cho phép doanh nghiệp và cá nhân kinh doanh có doanh thu năm không quá 10 tỷ đồng được giảm 30% thuế thu nhập phải nộp trong năm 2026 và 2027. Doanh nghiệp tự tính phần giảm khi tạm nộp thuế theo quý; vượt 10 tỷ thì phải nộp đủ.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/doanh-nghiep-can-luu-y-gi-de-duoc-giam-30-thue-thu-nhap-176261103155239409.chn",
+     "detail": [
+      "Nghị định 398/2026/NĐ-CP hướng dẫn Nghị quyết 43/2026/QH16 của Quốc hội về giảm thuế thu nhập doanh nghiệp (TNDN) và thuế thu nhập cá nhân. Đối tượng gồm doanh nghiệp, hợp tác xã, đơn vị sự nghiệp, tổ chức có hoạt động kinh doanh và cá nhân cư trú có thu nhập từ kinh doanh.",
+      "Điều kiện là tổng doanh thu năm 2026 và 2027 không vượt 10 tỷ đồng, tính cả doanh thu bán hàng, dịch vụ, thu nhập tài chính, thu nhập khác và doanh thu của chi nhánh, địa điểm kinh doanh. Mức giảm là 30% số thuế phải nộp của từng kỳ tính thuế; doanh nghiệp đang hưởng ưu đãi khác được giảm tiếp 30% trên phần thuế còn lại.",
+      "Để chặn lách luật, doanh nghiệp chia, tách sau khi Nghị quyết 43 có hiệu lực sẽ không được giảm nếu tổng doanh thu các doanh nghiệp sau chia, tách vượt 10 tỷ đồng. Doanh nghiệp dự kiến doanh thu dưới ngưỡng tự tính phần giảm khi tạm nộp thuế quý; nếu cuối kỳ doanh thu thực tế vượt 10 tỷ thì phải kê khai, nộp đủ.",
+      "Cá nhân kinh doanh kê khai phần được giảm theo Mẫu số 01 kèm nghị định, nộp cùng tờ khai thuế; nếu doanh thu thực tế vượt ngưỡng phải khai bổ sung và nộp lại số đã giảm. Bộ phận kế toán, nhân sự ở doanh nghiệp nhỏ nên rà soát doanh thu dự kiến để áp dụng đúng ngay từ các kỳ tạm nộp."
+     ],
+     "tag": "Thuế · Áp dụng 2026–2027"
+    },
+    {
+     "cat": "ai",
+     "title": "Nvidia buộc đối tác đám mây bán ít nhất 51% dịch vụ cho khách ngoài Trung Quốc",
+     "summary": "Theo Financial Times, Nvidia yêu cầu các công ty điện toán đám mây dùng chip của mình phải bán ít nhất 51% công suất cho khách hàng không phải Trung Quốc. Quy định áp dụng với hợp đồng mới, nhằm hạn chế Trung Quốc tiếp cận sức mạnh tính toán AI qua đường thuê ngoài.",
+     "source": "Yahoo Finance (AFP)",
+     "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-orders-data-center-clients-080911859.html",
+     "detail": [
+      "Ngày 3/11, tờ Financial Times dẫn lời năm nguồn tin cho biết Nvidia đã yêu cầu các khách hàng điện toán đám mây – những công ty mua chip Nvidia rồi cho thuê lại sức mạnh tính toán – phải bán ít nhất 51% dịch vụ cho doanh nghiệp không phải của Trung Quốc. Nói cách khác, khách Trung Quốc chỉ được chiếm tối đa 49%.",
+      "Quy định mới chỉ áp dụng cho các hợp đồng tương lai, không ảnh hưởng thỏa thuận đã ký. Trước đây, dù Mỹ cấm bán chip AI cao cấp trực tiếp cho Trung Quốc, các công ty Trung Quốc vẫn có thể thuê năng lực tính toán từ trung tâm dữ liệu ở nước khác, đặc biệt tại châu Á.",
+      "Nvidia không xác nhận cũng không phủ nhận thông tin. Trong tuyên bố gửi AFP, hãng nhấn mạnh trung tâm dữ liệu xây trên chip Mỹ là \"nền tảng\" cho các nhà phát triển AI Mỹ, và nước Mỹ không thể thắng cuộc đua AI nếu hạ tầng AI của mình không chiếm ưu thế toàn cầu.",
+      "Phía Trung Quốc, người phát ngôn Bộ Ngoại giao Mao Ninh nói không nắm được thông tin, nhưng nhắc lại mong muốn các bên tạo môi trường kinh doanh \"công bằng, minh bạch và không phân biệt đối xử\" với doanh nghiệp mọi quốc gia, kể cả Trung Quốc.",
+      "Động thái này cho thấy cuộc cạnh tranh công nghệ Mỹ – Trung đang lan sang cả thị trường cho thuê hạ tầng AI ở nước thứ ba. Với các trung tâm dữ liệu đang mọc lên ở Đông Nam Á, trong đó có Việt Nam, quy định này có thể ảnh hưởng đến việc lựa chọn khách hàng và cơ cấu kinh doanh khi dùng chip Nvidia."
+     ],
+     "tag": "Mỹ – Trung, chip AI"
+    },
+    {
+     "cat": "dn",
+     "title": "Phân luồng nút giao cầu Hòa Xuân: cấm xe khách 16 chỗ, xe tải lớn 24/24",
+     "summary": "Từ 9h ngày 31/10, Đà Nẵng phân luồng nút giao Lê Thanh Nghị – Cách Mạng Tháng Tám – Thăng Long – cầu Hòa Xuân để thi công mở rộng. Xe khách từ 16 chỗ và xe tải trên 2,5 tấn bị cấm 24/24 trong khu vực hạn chế; giờ cao điểm vẫn ùn ứ do người dân chưa quen lộ trình mới.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/toan-canh-nut-giao-cau-hoa-xuan-sau-phan-luong-giao-thong-3357239.html",
+     "detail": [
+      "Ban Quản lý dự án đầu tư xây dựng các công trình giao thông và nông nghiệp Đà Nẵng đang nâng cấp, mở rộng nút giao Lê Thanh Nghị – Cách Mạng Tháng Tám – Thăng Long – đường dẫn cầu Hòa Xuân (phường Hòa Cường và Hòa Xuân). Việc phân luồng chính thức bắt đầu từ 9h ngày 31/10/2026 theo thông báo ban hành ngày 27/10.",
+      "Thay đổi chính: xe đi từ Lê Thanh Nghị về Hòa Xuân phải rẽ phải vào Cách Mạng Tháng Tám thay vì đi thẳng lên cầu; xe từ cầu Hòa Xuân về trung tâm phải rẽ phải tại nút Thăng Long thay vì đi thẳng vào Lê Thanh Nghị. Một số tuyến như Nguyễn Hữu Thọ, Trần Đăng Ninh, một đoạn Lê Thanh Nghị gần chợ đầu mối Hòa Cường bị cấm dừng, đỗ; đường Trần Huấn cấm dừng đỗ giờ cao điểm 6–8h và 16–19h.",
+      "Trong vùng hạn chế, xe tải đến 2,5 tấn bị cấm giờ cao điểm, xe tải trên 2,5 tấn và xe khách từ 16 chỗ trở lên bị cấm cả ngày. Xe đầu kéo, sơ mi rơ moóc và xe tải phục vụ chợ đầu mối Hòa Cường bị cấm từ 4h đến 23h trên trục Nguyễn Hữu Thọ – Xô Viết Nghệ Tĩnh – Lê Thanh Nghị; xe container đi cảng Tiên Sa được hướng dẫn đi đường vòng từ xa qua Trường Chinh, quốc lộ 1A, 14B.",
+      "Những ngày đầu, lượng xe vẫn đông vào sáng, trưa, chiều và nhiều người chưa quen lộ trình; Cảnh sát giao thông thành phố và Công an phường Cẩm Lệ phải trực điều tiết. Khi hoàn thành, nút giao được kỳ vọng xóa ùn tắc giờ cao điểm trên cầu Hòa Xuân và các tuyến lân cận.",
+      "Doanh nghiệp có xe đưa đón công nhân, nhân viên (từ 16 chỗ) hoặc xe giao hàng đi qua khu vực Hòa Cường – Hòa Xuân nên rà soát lại lộ trình và giờ xuất phát để tránh vi phạm và trễ giờ làm."
+     ],
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/02/img_1056.jpg"
+    },
+    {
+     "cat": "vn",
+     "title": "Ông Trump tuyên bố cắt khoản viện trợ an ninh khoảng 4 tỷ USD/năm cho Israel",
+     "summary": "Ngày 3/11, Tổng thống Trump nói Mỹ sẽ chấm dứt thỏa thuận hỗ trợ an ninh 10 năm với Israel vào cuối năm nay, sớm hơn hạn 2028. Thỏa thuận ký thời Obama giúp Israel có khoảng 3,8 tỷ USD mua vũ khí mỗi năm; phía Israel chưa bình luận.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/my-se-cham-dut-thoa-thuan-an-ninh-10-nam-voi-israel-5140416.html",
+     "detail": [
+      "Trên chương trình Fox and Friends ngày 3/11, ông Trump cho biết Mỹ đang cấp cho Israel khoảng 4 tỷ USD mỗi năm dưới dạng viện trợ quân sự, tiền mặt hoặc hàng hóa, và khoản này sẽ bị cắt vào cuối năm. Ông nói chính Thủ tướng Benjamin Netanyahu đưa ra ý tưởng, vì Israel nay đã thịnh vượng và có thể tự mua vũ khí; nếu Israel vẫn cần, ông sẽ tiếp tục hỗ trợ.",
+      "Thỏa thuận được ký năm 2016 dưới thời Tổng thống Obama, có hiệu lực từ 2018 và lẽ ra hết hạn năm 2028, giúp Israel có kinh phí mua khoảng 3,8 tỷ USD vũ khí mỗi năm. Theo Hội đồng Quan hệ Đối ngoại Mỹ (CFR), từ năm 1948 Israel đã nhận hơn 300 tỷ USD viện trợ từ Mỹ, nhiều hơn bất kỳ quốc gia nào.",
+      "Tuyên bố đưa ra sát giờ bầu cử giữa kỳ; ông Trump còn viện dẫn lời chỉ trích của ứng viên Dân chủ Abdul El-Sayed ở Michigan, người thường phản đối viện trợ cho Israel. Tuy nhiên, Times of Israel lưu ý ông Netanyahu từng nói việc giảm viện trợ sẽ diễn ra dần trong một thập kỷ, khác với cách mô tả \"cắt ngay\" của ông Trump.",
+      "Nếu được thực hiện, đây là thay đổi lớn trong chính sách Trung Đông của Mỹ, có thể tác động tới cán cân an ninh khu vực vốn đang căng thẳng vì xung đột Mỹ – Iran, và qua đó tới giá dầu thế giới."
+     ],
+     "tag": "Quan hệ Mỹ – Israel"
+    },
+    {
+     "cat": "vn",
+     "title": "Sửa Luật Sở hữu trí tuệ: đại biểu đòi không để AI 'hợp pháp hóa' xâm phạm bản quyền",
+     "summary": "Ngày 3/11, Quốc hội góp ý dự án sửa Luật Sở hữu trí tuệ nhằm cắt điều kiện kinh doanh, đơn giản thủ tục đăng ký bảo hộ và chuyển quản lý giống cây trồng sang Bộ Khoa học và Công nghệ. Đại biểu đề nghị nói rõ AI không phải chủ thể quyền tác giả và phải đặt giới hạn khi dùng dữ liệu để huấn luyện AI.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/don-gian-hoa-thu-tuc-tao-thuan-loi-trong-dang-ky-xac-lap-quyen-so-huu-tri-tue-post1399517.html",
+     "detail": [
+      "Sáng 3/11, Quốc hội thảo luận tại hội trường dự án Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ. Đa số đại biểu đồng tình mục tiêu thống nhất đầu mối quản lý, đơn giản hóa thủ tục đăng ký, xác lập quyền và giảm điều kiện kinh doanh cho doanh nghiệp.",
+      "Đại biểu Nguyễn Trung Kiên (Đồng Nai) đề nghị luật nói rõ nền tảng trí tuệ nhân tạo không phải chủ thể quyền sở hữu trí tuệ; sản phẩm người dùng tạo ra bằng AI chỉ được bảo hộ tương ứng với phần sáng tạo của chính người đó. Ông cũng đề nghị quy định giới hạn khi dùng tác phẩm, dữ liệu để huấn luyện AI, tránh để AI trở thành \"công cụ hợp pháp hóa hành vi xâm phạm bản quyền\".",
+      "Về dịch vụ giám định sở hữu trí tuệ, đại biểu Nguyễn Ngọc Sơn (Hải Phòng) đồng ý bỏ điều kiện kinh doanh nhưng yêu cầu người giám định phải độc lập, dữ liệu điện tử phải truy xuất và kiểm chứng được. Cơ chế quản lý sẽ chuyển sang hậu kiểm, tức là cho hoạt động trước rồi kiểm tra, xử lý vi phạm sau.",
+      "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân giải trình rằng lần sửa này tập trung vào cắt giảm thủ tục và chuyển quản lý giống cây trồng từ Bộ Nông nghiệp sang Bộ Khoa học và Công nghệ; các vấn đề mới như AI, thương mại hóa kết quả nghiên cứu sẽ được đánh giá tác động để sửa ở giai đoạn sau. Chi tiết về xung đột lợi ích và bồi thường trong giám định sẽ được quy định trong nghị định hướng dẫn."
+     ],
+     "tag": "Luật Sở hữu trí tuệ"
+    },
+    {
+     "cat": "biz",
+     "title": "Haier mua trọn Ferroli ASEAN, hãng máy nước nóng top 3 Việt Nam",
+     "summary": "Tập đoàn Trung Quốc Haier Smart Home đã hoàn tất mua 100% cổ phần Công ty TNHH Ferroli ASEAN từ ngày 23/10. Ferroli thuộc nhóm ba thương hiệu dẫn đầu thị phần máy nước nóng điện tại Việt Nam. Giá trị thương vụ không được công bố, nhưng đây là bước Haier mở rộng mảng nước nóng và điều hòa thông gió (HVAC) tại Đông Nam Á.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/haier-hoan-tat-thuong-vu-mua-lai-ferroli-asean-5140240.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/h1-1793693532-4463-1793693634.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=pHMB8Op02IYSdEJEx8EBrQ",
+     "detail": [
+      "Haier Smart Home và Tập đoàn Ferroli (Italy) đã ký các tài liệu hoàn tất việc chuyển nhượng toàn bộ cổ phần Công ty TNHH Ferroli ASEAN, có hiệu lực từ ngày 23/10. Hai bên không công bố giá trị thương vụ. Ferroli ASEAN có hệ thống sản xuất, phân phối và dịch vụ trên toàn quốc. Danh mục sản phẩm gồm máy nước nóng trực tiếp, gián tiếp và máy bơm nhiệt.",
+      "Với Haier, đây là bước mở rộng mảng giải pháp HVAC, tức hệ thống sưởi, thông gió và điều hòa không khí. Trong 6 tháng đầu năm, doanh thu mảng này của Haier tăng 6,1% và lợi nhuận tăng 26,8%. Haier thành lập năm 1984, có khoảng 135.000 nhân viên và sở hữu các thương hiệu như GE Appliances, Fisher & Paykel, AQUA, Candy. Hãng đang dẫn đầu thị trường điều hòa ở Thái Lan và máy nước nóng ở Nam Phi.",
+      "Đại diện Haier cho biết muốn hỗ trợ thị trường HVAC và nước nóng tại Việt Nam tiếp tục phát triển. Tổng giám đốc Tập đoàn Ferroli tin rằng Haier sẽ giúp doanh nghiệp bước vào giai đoạn tăng trưởng tiếp theo. Thương vụ có sự tham gia của các công ty tư vấn KPMG, EY, Clifford Chance và YKVN. Trong đó, KPMG thẩm định cả mảng nhân sự.",
+      "Thương vụ cho thấy các tập đoàn Trung Quốc tiếp tục mua lại doanh nghiệp đã có chỗ đứng ở Việt Nam thay vì xây từ đầu. Khi chủ sở hữu thay đổi, người lao động của Ferroli ASEAN và mạng lưới đại lý nên theo dõi các thay đổi về cơ cấu và chính sách sau thương vụ."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Khối ngoại bán ròng gần 30.000 tỷ đồng chỉ sau 32 phiên kể từ nâng hạng",
+     "summary": "Từ khi FTSE Russell nâng hạng Việt Nam lên thị trường mới nổi thứ cấp (21/9), khối ngoại bán ròng gần 30.000 tỷ đồng trên HoSE, chỉ 3/32 phiên không bán. Lũy kế từ đầu năm đã gần 121.000 tỷ, sát kỷ lục 125.000 tỷ của năm ngoái. VN-Index mất hơn 116 điểm kể từ nâng hạng.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/giat-minh-gia-tri-khoi-ngoai-ban-rong-tu-khi-chung-khoan-viet-nam-duoc-nang-hang-188261103230005.chn",
+     "detail": [
+      "Ngày 21/9, FTSE Russell (tổ chức xếp hạng thị trường toàn cầu) nâng hạng chứng khoán Việt Nam lên nhóm thị trường mới nổi thứ cấp, kỳ vọng thu hút thêm vốn ngoại. Tuy nhiên, trong 32 phiên giao dịch kể từ đó đến 3/11, nhà đầu tư nước ngoài chỉ không bán ròng ở 3 phiên, tổng giá trị bán ròng gần 30.000 tỷ đồng.",
+      "Tính từ đầu năm, khối ngoại đã bán ròng gần 121.000 tỷ đồng trên HoSE, tháng nào cũng bán, gần chạm kỷ lục 125.000 tỷ đồng của năm trước. Riêng phiên 3/11, hai mã ngân hàng bị bán ròng gần 500 tỷ đồng.",
+      "Áp lực này khiến VN-Index giảm hơn 116 điểm (hơn 6%) kể từ khi nâng hạng và thấp hơn đỉnh lịch sử giữa tháng 5 gần 230 điểm. Thanh khoản bình quân trên HoSE chỉ khoảng 13.000 tỷ đồng mỗi phiên, bằng khoảng 1/3 cùng kỳ năm trước, do dòng tiền trong nước yếu trong bối cảnh lãi suất cao.",
+      "Dù vậy, bài viết cho rằng định giá P/E (giá cổ phiếu so với lợi nhuận) quanh 12 lần, gần vùng thấp lịch sử. Về dài hạn, nền vĩ mô ổn định, lợi nhuận quý III tích cực và dòng vốn từ các quỹ thụ động theo chỉ số mới nổi dự kiến giải ngân đến cuối 2027 là những yếu tố hỗ trợ."
+     ],
+     "figure": {
+      "value": "≈30.000 tỷ",
+      "label": "Khối ngoại bán ròng từ khi nâng hạng",
+      "delta": "121.000 tỷ từ đầu năm",
+      "dir": "down"
+     }
+    },
+    {
+     "cat": "ai",
+     "title": "Nga ghi nhận vụ tấn công mạng do AI tự làm, chiếm hơn 10 máy chủ trong 3 giờ",
+     "summary": "Hãng bảo mật Positive Technologies điều tra một vụ tấn công doanh nghiệp Nga được cho là do AI thực hiện trọn vẹn, từ xâm nhập tới lấy cắp dữ liệu. Các tác nhân AI chạy hàng chục lệnh cách nhau vài giây, khiến đội bảo mật gần như không kịp phản ứng.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/nga-ghi-nhan-vu-ai-tu-tan-cong-mang-xam-nhap-hon-10-may-chu-trong-3-gio-100261103114241107.htm",
+     "detail": [
+      "Theo trang công nghệ CNews (Nga), nhóm ứng phó sự cố PT ESC IR của Positive Technologies vừa điều tra một vụ tấn công vào một doanh nghiệp Nga dùng cả Linux và Windows. Đây là lần đầu nhóm gặp một vụ được cho là do AI thực hiện toàn bộ, từ khâu xâm nhập đến đánh cắp dữ liệu, dù chưa được xác nhận chính thức.",
+      "Kẻ tấn công lọt vào qua một lỗi cấu hình ở dịch vụ bên ngoài – loại lỗi khó phát hiện bằng kiểm tra thông thường. Sau đó, các tác nhân AI (AI agent, tức phần mềm AI tự lên kế hoạch và hành động) liên tục viết và chạy hàng chục tập lệnh trên nhiều máy chủ, cách nhau vài giây, tự cài thêm thư viện và phần mềm cần thiết, chiếm hơn 10 máy chủ trong khoảng 3 giờ.",
+      "Điều thú vị là AI vẫn mắc lỗi đơn giản như gõ sai lệnh hay gọi nhầm tên phần mềm, nhưng sửa sai và đổi cách rất nhanh. Ông Denis Goydenko, trưởng nhóm điều tra, cho rằng chính tốc độ và cách hành động khác thói quen tin tặc là dấu hiệu AI tham gia, đồng thời khiến việc truy ra thủ phạm khó hơn.",
+      "Chuyên gia cảnh báo các cách tự động hóa bảo mật cũ không còn đủ, doanh nghiệp cần công cụ phát hiện và ngăn chặn có tốc độ tương đương AI. Với doanh nghiệp vừa và nhỏ, việc rà soát cấu hình các dịch vụ mở ra Internet và cập nhật phần mềm thường xuyên trở nên cấp thiết hơn bao giờ hết."
+     ],
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/3/-using-laptop-coding-data-code-background-digital-symbols-abstract-technology-concept-generative-ai-17936804995481948441767-94-0-1434-2560-crop-1793680752104540562864.jpg"
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng gộp 3 đơn vị, lập Trung tâm Đổi mới sáng tạo về AI, vi mạch",
+     "summary": "Trung tâm Đổi mới sáng tạo Đà Nẵng chính thức hoạt động từ 1/11/2026, hợp nhất các trung tâm hỗ trợ khởi nghiệp, công nghệ sinh học và thiết kế vi mạch – trí tuệ nhân tạo. Mục tiêu là đưa Đà Nẵng vào nhóm 3–5 địa phương dẫn đầu cả nước về chỉ số đổi mới sáng tạo.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/cong-bo-quyet-dinh-thanh-lap-trung-tam-doi-moi-sang-tao-da-nang-3357220.html",
+     "detail": [
+      "Ngày 2/11, Sở Khoa học và Công nghệ Đà Nẵng công bố quyết định của UBND thành phố thành lập Trung tâm Đổi mới sáng tạo Đà Nẵng. Đơn vị mới được hình thành bằng cách hợp nhất 3 trung tâm: Hỗ trợ khởi nghiệp đổi mới sáng tạo; Công nghệ sinh học; và Nghiên cứu, đào tạo thiết kế vi mạch và trí tuệ nhân tạo.",
+      "Trung tâm là đơn vị sự nghiệp công lập trực thuộc Sở, chính thức hoạt động từ ngày 1/11/2026, do ông Nguyễn Viết Toàn làm Giám đốc cùng ba Phó Giám đốc. Việc hợp nhất nhằm tinh gọn bộ máy và dồn nguồn lực cho khoa học, công nghệ và đổi mới sáng tạo.",
+      "Lãnh đạo Sở yêu cầu trung tâm nhanh chóng ổn định tổ chức, hoàn thiện quy chế, bàn giao tài sản, hồ sơ chặt chẽ và đẩy mạnh chuyển đổi số. Thành phố đặt mục tiêu lọt nhóm 3–5 địa phương dẫn đầu cả nước về Chỉ số đổi mới sáng tạo cấp tỉnh (PII – bảng xếp hạng năng lực đổi mới của các tỉnh, thành).",
+      "Trung tâm được kỳ vọng trở thành đầu mối kết nối nguồn lực, thúc đẩy ứng dụng công nghệ sinh học, vi mạch bán dẫn và AI. Với doanh nghiệp và người lao động, đây sẽ là địa chỉ cần theo dõi cho các chương trình hỗ trợ khởi nghiệp, đào tạo nhân lực vi mạch và AI tại thành phố."
+     ],
+     "tag": "Đổi mới sáng tạo"
+    },
+    {
+     "cat": "know",
+     "title": "Giả cán bộ thuế, dụ hộ kinh doanh làm thủ tục 'miễn thuế' qua link, mã QR",
+     "summary": "Kẻ gian nhắm vào hộ kinh doanh doanh thu dưới 1 tỷ đồng/năm, mạo danh cán bộ thuế, yêu cầu 'cập nhật thông tin, làm thủ tục miễn thuế' qua đường link hoặc mã QR giả. Một hộ kinh doanh đã mất hơn 14 triệu đồng. Cơ quan chức năng khuyến cáo chỉ tìm hiểu chính sách thuế qua kênh chính thức.",
+     "source": "VTV",
+     "url": "https://vtv.vn/bay-lua-dao-mien-thue-ho-kinh-doanh-100261103151956461.htm",
+     "image": "https://cdn-images.vtv.vn/fb_thumb_bn/66349b6076cb4dee98746cf1/2026/11/03/canh-bao-21207678717974619198178-07398379600886827299676.jpg",
+     "detail": [
+      "Khi chính sách thuế với hộ kinh doanh đang thay đổi, kẻ gian lợi dụng việc nhiều hộ có doanh thu dưới 1 tỷ đồng/năm còn chưa nắm rõ quy định. Chúng mạo danh cán bộ thuế, gọi điện hoặc nhắn tin yêu cầu 'cập nhật thông tin' để được 'miễn thuế'.",
+      "Nạn nhân được gửi đường link hoặc mã QR giả mạo. Khi làm theo, người dùng có thể bị cài ứng dụng độc hại, lộ thông tin đăng nhập ngân hàng hoặc bị lừa chuyển tiền. Theo cảnh báo, một hộ kinh doanh ở địa phương đã bị chiếm đoạt hơn 14 triệu đồng theo cách này.",
+      "Khuyến cáo được đưa ra: không cung cấp mã OTP, mật khẩu ngân hàng. Không cài ứng dụng lạ, không chuyển tiền cho người tự xưng là cán bộ thuế. Mọi thông tin về chính sách thuế chỉ nên tìm hiểu qua cơ quan thuế và kênh chính thức. Với yêu cầu bất thường liên quan đến căn cước, định danh điện tử hay thủ tục hành chính, người dân nên đến trực tiếp cơ quan công an gần nhất để xác minh.",
+      "Nếu lỡ bấm link lạ hoặc nghi điện thoại bị chiếm quyền điều khiển, cần dừng thao tác, ngắt mạng hoặc tắt nguồn. Sau đó dùng thiết bị khác liên hệ ngân hàng để khóa tài khoản, khóa thẻ và trình báo công an. Người làm kinh doanh phụ, bán hàng online hay người thân đang có hộ kinh doanh đều nên lưu ý."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Vụ Binance mất 6,3 tỷ USD khởi đầu từ một buổi phỏng vấn xin việc giả",
+     "summary": "Báo cáo ban đầu của Binance công bố 3/11 cho thấy tin tặc giả nhà tuyển dụng, gửi \"bài tập lập trình\" chứa mã độc cho một kỹ sư đang tìm việc, từ đó lấy cắp khoảng 6,3 tỷ USD. Đây là bài học trực tiếp cho bộ phận nhân sự và người lao động về chiêu lừa tuyển dụng.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vu-binance-bi-hack-6-3-ty-usd-bat-nguon-tu-mot-ky-su-muon-nhay-viec-5140430.html",
+     "detail": [
+      "Theo báo cáo ban đầu Binance công bố ngày 3/11, vụ tấn công khiến sàn tiền số lớn nhất thế giới mất khoảng 6,3 tỷ USD bắt đầu từ tháng 9, khi một kỹ sư đang tìm việc mới được kẻ tự xưng giám đốc dự án liên hệ qua một nền tảng tuyển dụng hợp pháp. Kẻ gian dựng hồ sơ mạng xã hội có ảnh, tổ chức phỏng vấn trực tuyến và giả làm nhân sự để tạo lòng tin.",
+      "Ở vòng sau, một người tự xưng CEO gọi video và yêu cầu kỹ sư tải \"bài tập\" lập trình về máy làm việc. Tệp này chứa mã độc zero-day – loại chưa từng bị phát hiện nên qua mặt được phần mềm bảo mật. Từ máy bị nhiễm và một công cụ AI nội bộ, ngày 20/10 tin tặc lần vào máy của hai kỹ sư quản lý ví, rồi ngày 29/10 rút tiền khỏi ví nóng (ví kết nối Internet) bằng cách khai thác tính năng EIP-7702 của mạng Ethereum.",
+      "Binance cho biết đã phong tỏa khoảng 2,85 tỷ USD tài sản liên quan, khôi phục khoảng 98% lượng token bị ảnh hưởng và cam kết người dùng không chịu thiệt hại. FBI quy trách nhiệm cho nhóm TraderTraitor liên hệ với Triều Tiên; Bình Nhưỡng bác bỏ. Riêng năm nay Binance đã chặn 57 nỗ lực tấn công nghi liên quan Triều Tiên.",
+      "Bài học thực tế: không tải hay chạy tệp \"bài test\" từ nhà tuyển dụng lạ trên máy công ty, xác minh danh tính người phỏng vấn qua kênh chính thức, và doanh nghiệp nên tách máy làm việc khỏi hoạt động cá nhân. Với bộ phận nhân sự, đây cũng là lời nhắc đào tạo nhân viên nhận diện lừa đảo tuyển dụng – chiêu trò đang lan rộng cả ở Việt Nam."
+     ],
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/fnrjvhpql5notbq4gjfxgfgwwq-179-4594-6183-1793720642.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=RQmP4LQ55R4b2i0PE3SCbA"
+    },
+    {
+     "cat": "ai",
+     "title": "CrowdStrike chi gần 500 triệu USD mua hai startup bảo mật 'đặc vụ AI'",
+     "summary": "Hãng an ninh mạng CrowdStrike mua Fiddler AI (khoảng 400 triệu USD) và Dreadnode (khoảng 95 triệu USD) để giám sát và kiểm thử các 'đặc vụ AI' trong doanh nghiệp. Thương vụ phản ánh nỗi lo khi nhân viên dùng AI nhanh hơn khả năng kiểm soát của bộ phận bảo mật.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
+     "detail": [
+      "Ngày 3/11, CrowdStrike – một trong những công ty an ninh mạng lớn nhất thế giới – công bố mua hai startup chuyên bảo mật AI. Theo Wall Street Journal, hãng trả khoảng 400 triệu USD cho Fiddler AI và khoảng 95 triệu USD cho Dreadnode, tổng cộng gần 495 triệu USD.",
+      "Fiddler AI (thành lập 2018, đã gọi vốn khoảng 99 triệu USD) làm phần mềm giám sát 'đặc vụ AI' – các chương trình AI có thể tự thực hiện nhiều bước công việc thay con người. Dreadnode (thành lập 2023, gọi vốn 14 triệu USD) tự động hóa việc kiểm thử, tìm lỗ hổng trong mô hình, ứng dụng và đặc vụ AI trước khi đưa vào sử dụng.",
+      "Fiddler sẽ trở thành sản phẩm Falcon Observe, giúp doanh nghiệp đánh giá đặc vụ AI trước khi triển khai và theo dõi hành vi của chúng. Dreadnode được tích hợp vào Falcon Guardian, biến kết quả kiểm thử thành khuyến nghị chính sách bảo mật.",
+      "Bối cảnh là quy trình và chính sách của doanh nghiệp đang tụt hậu so với tốc độ dùng AI: nhân viên tự thử công cụ AI, tự động hóa quy trình, tự 'vibe-code' ứng dụng riêng và triển khai đặc vụ AI, gây khó cho đội bảo mật. Nhiều startup bảo mật AI khác cũng đang gọi vốn hàng chục triệu USD với lập luận phần mềm bảo mật cũ không đủ sức kiểm soát.",
+      "Với bộ phận nhân sự và quản lý, đây là lời nhắc rằng việc nhân viên tự ý dùng AI (thường gọi là 'shadow AI') là rủi ro thật. Doanh nghiệp cần có quy định rõ về công cụ AI được phép dùng, dữ liệu nào được đưa vào và ai chịu trách nhiệm giám sát."
+     ],
+     "tag": "Bảo mật AI"
+    },
+    {
+     "cat": "biz",
+     "title": "Chính phủ soạn nghị quyết quản trị xuất siêu, chống gian lận xuất xứ hàng hóa",
+     "summary": "Sáng 3/11, Phó Thủ tướng Thường trực Phạm Gia Túc họp về dự thảo nghị quyết quản trị xuất siêu, thúc đẩy thương mại hai chiều và chống gian lận thương mại với 7 nhóm giải pháp. Mục tiêu là tăng xuất khẩu sang các thị trường Việt Nam đang nhập siêu lớn như Trung Quốc, Hàn Quốc.",
+     "source": "VOV",
+     "url": "https://vov.vn/chinh-tri/hoan-thien-cac-giai-phap-quan-tri-thuong-mai-da-dang-hoa-thi-truong-xuat-nhap-khau-post1346972.vov",
+     "detail": [
+      "Sáng 3/11, Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc chủ trì cuộc họp với các bộ, ngành về dự thảo nghị quyết của Chính phủ do Bộ Công Thương soạn thảo. Nội dung xoay quanh quản trị xuất siêu trong quan hệ song phương, thúc đẩy thương mại cân bằng hai chiều, phòng ngừa dư thừa công suất và chống gian lận thương mại.",
+      "Bộ Công Thương đề xuất 7 nhóm giải pháp, trong đó có rà soát các dự án đầu tư nước ngoài có nguy cơ gian lận thương mại, siết kiểm tra và xác minh xuất xứ hàng hóa, tăng nhập khẩu máy móc, công nghệ, tận dụng các hiệp định thương mại tự do và cảnh báo sớm để doanh nghiệp ứng phó với biện pháp phòng vệ thương mại.",
+      "Các bộ, ngành đề nghị làm rõ khái niệm lẩn tránh phòng vệ thương mại và chuyển tải bất hợp pháp (mượn Việt Nam làm trạm trung chuyển để né thuế), để không ảnh hưởng hoạt động trung chuyển hợp pháp. Kiểm soát chặt cũng phải đi cùng tạo thuận lợi cho doanh nghiệp làm ăn chân chính.",
+      "Phó Thủ tướng yêu cầu dự thảo bám sát Kết luận 106-KL/TW ngày 15/10/2026 về đa dạng hóa thị trường, xem xét cân bằng cả xuất siêu lẫn nhập siêu và phải khả thi ngay khi ban hành. Ông nêu các hướng hỗ trợ như cửa khẩu thông minh, logistics, chuẩn hóa mã số vùng trồng và cơ sở đóng gói nông sản. Với doanh nghiệp xuất khẩu, yêu cầu chứng minh xuất xứ nhiều khả năng sẽ chặt hơn."
+     ],
+     "tag": "Chính sách thương mại"
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng siết an toàn thực phẩm cuối năm: giò chả, mứt, đồ 'nhà làm' online",
+     "summary": "Từ năm 2024 đến nay, Đà Nẵng đã kiểm tra 57.141 lượt cơ sở thực phẩm, xử phạt 526 trường hợp với hơn 3,7 tỷ đồng. Dịp cuối năm và Tết, thành phố tập trung kiểm tra bếp ăn tập thể, căng tin, chợ đầu mối và hàng bán online, gắn mác 'nhà làm'.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-tang-cuong-phong-ngua-va-kiem-soat-nguy-co-mat-an-toan-thuc-pham-3357275.html",
+     "detail": [
+      "Chi cục An toàn thực phẩm Đà Nẵng vừa tổ chức lớp tập huấn 2 ngày cho các cơ sở sản xuất, kinh doanh thực phẩm về quy định pháp luật, nguồn gốc nguyên liệu, chế biến, bảo quản và ghi nhãn. Một số doanh nghiệp tham gia cho biết đã kịp cập nhật lại hồ sơ, nhãn mác sản phẩm.",
+      "Theo Chi cục trưởng Đinh Văn Tuấn, các lỗi thường gặp gồm kinh doanh thực phẩm không rõ nguồn gốc, thiếu hóa đơn chứng từ, không có giấy chứng nhận đủ điều kiện an toàn thực phẩm, ghi nhãn sai và bán hàng quá hạn. Ở bếp ăn tập thể, căng tin, lỗi phổ biến là không tách khu sống – chín, kiểm soát nguyên liệu lỏng lẻo và chưa làm đủ 'kiểm thực ba bước' (kiểm tra nguyên liệu, khi chế biến và trước khi ăn) cùng lưu mẫu thức ăn.",
+      "Từ năm 2024 đến nay, lực lượng chức năng đã kiểm tra 57.141 lượt cơ sở, xử phạt 526 trường hợp với tổng tiền hơn 3,7 tỷ đồng. Ngoài phạt tiền, cơ sở vi phạm có thể bị đình chỉ, buộc thu hồi hoặc tiêu hủy sản phẩm.",
+      "Những tháng cuối năm và dịp Tết, thành phố sẽ tập trung vào cơ sở nguy cơ cao như bếp ăn tập thể, thức ăn đường phố, căng tin, chợ đầu mối, tăng lấy mẫu xét nghiệm vi sinh và tồn dư hóa chất. Các mặt hàng được để mắt gồm giò, chả, mứt, bánh kẹo, hạt dưa, thực phẩm chế biến sẵn và hàng bán qua mạng gắn mác 'nhà làm'.",
+      "Với doanh nghiệp có bếp ăn công nhân hoặc đặt suất ăn, tiệc tất niên, đây là lúc nên kiểm tra lại hồ sơ của nhà cung cấp và yêu cầu thực hiện đúng kiểm thực ba bước, lưu mẫu để phòng ngừa ngộ độc."
+     ],
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/03/img_1767.jpg"
+    },
+    {
+     "cat": "fin",
+     "title": "Lãi suất cao, doanh nghiệp lớn gửi hàng chục nghìn tỷ vào ngân hàng",
+     "summary": "Báo cáo tài chính quý III cho thấy nhiều doanh nghiệp lớn ôm tiền gửi ngân hàng rất lớn: Bảo Việt gửi khoảng 156.155 tỷ đồng, Lọc hóa dầu Bình Sơn giữ 58.651 tỷ tiền và tiền gửi, Thế Giới Di Động gửi có kỳ hạn gần 31.900 tỷ. Một số chuyển sang kỳ hạn dài, lãi suất cao nhất tới 9,15%/năm.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/lo-dien-doanh-nghiep-gui-nui-tien-trong-ngan-hang-176261103194019345.chn",
+     "detail": [
+      "Khi lãi suất huy động còn neo cao, gửi ngân hàng trở thành cách nhiều doanh nghiệp vừa bảo toàn vốn vừa tạo thu nhập tài chính, bù cho hoạt động kinh doanh chính còn nhiều bất định. Bài viết tổng hợp từ báo cáo tài chính quý III/2026 (số liệu tại 30/9).",
+      "Tập đoàn Bảo Việt dẫn đầu với khoảng 156.155 tỷ đồng tiền gửi tại các tổ chức tín dụng, chiếm khoảng 51% tổng tài sản. Thu nhập lãi tiền gửi 9 tháng đạt khoảng 7.579 tỷ đồng, tăng 43%. Đáng chú ý, tiền gửi kỳ hạn trên 1 năm tăng hơn gấp đôi lên khoảng 55.574 tỷ, trong khi kỳ hạn 3 tháng – 1 năm giảm gần 19%; lãi suất cao nhất ở nhóm kỳ hạn này là 9,15%/năm.",
+      "Lọc hóa dầu Bình Sơn (BSR) có khoảng 58.651 tỷ đồng tiền và tiền gửi, tăng hơn 33% từ đầu năm, gửi nhiều nhất tại BIDV, VietinBank và SHB. Thế Giới Di Động gửi có kỳ hạn khoảng 31.895 tỷ, PV Gas có hơn 15.500 tỷ tiền và tương đương tiền, FPT Telecom khoảng 15.155 tỷ, PV Power và Hóa chất Đức Giang cũng nắm lượng tiền gửi lớn.",
+      "Xu hướng doanh nghiệp chuyển sang kỳ hạn dài cho thấy kỳ vọng lãi suất còn ở mức cao. Mặt khác, tiền 'nằm' ở ngân hàng thay vì đầu tư mở rộng sản xuất cũng phản ánh tâm lý thận trọng của khối doanh nghiệp lớn."
+     ],
+     "figure": {
+      "value": "156.155 tỷ",
+      "label": "Tiền gửi ngân hàng của Bảo Việt (30/9)",
+      "delta": "lãi tiền gửi +43%",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "biz",
+     "title": "Vốn đổ vào startup khí hậu Việt Nam giảm 52%, chỉ còn gần 50 triệu USD",
+     "summary": "Báo cáo của New Energy Nexus, SNV, WUSC và RMIT cho thấy năm 2025 startup công nghệ khí hậu Việt Nam chỉ có 33 thương vụ, tổng 49,86 triệu USD, giảm 52% so với 104,2 triệu USD năm 2024. Riêng mảng chuyển dịch năng lượng vẫn tăng 72%. Báo cáo cũng ghi nhận tình trạng thiếu nhân sự kỹ thuật chuyên sâu.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/von-vao-startup-khi-hau-o-viet-nam-giam-mot-nua-5140313.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/vonxanh-1793697811-6716-1793697827.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=v5pi_xPxcJgrtS604YQvAA",
+     "detail": [
+      "Báo cáo Hệ sinh thái Công nghệ Khí hậu Việt Nam do New Energy Nexus Việt Nam, SNV Việt Nam, Tổ chức WUSC (Canada) và Đại học RMIT Việt Nam thực hiện cho thấy năm 2025 chỉ có 33 thương vụ đầu tư vào startup khí hậu, tổng 49,86 triệu USD. Năm 2024 có 60 thương vụ với 104,2 triệu USD, tức giá trị đã giảm 52%.",
+      "Mức giảm mạnh một phần do năm 2024 có thương vụ đột biến, khoản gọi vốn vòng Series A 70 triệu USD vào Techcoop. Nếu bỏ các thương vụ lớn nhất, mức giảm chỉ còn 19%, từ 34,2 triệu xuống 27,86 triệu USD. Năm 2025 không có thương vụ nào ở quy mô 350.000 USD đến 1 triệu USD. Đây là nấc vốn giúp startup đi từ thử nghiệm sang mở rộng.",
+      "Cơ cấu vốn cũng thay đổi: vốn cổ phần (nhà đầu tư mua cổ phần) giảm mạnh, còn vốn vay tăng từ 3 triệu lên 20 triệu USD. Chuyển dịch năng lượng là lĩnh vực hút vốn tốt nhất, đạt 26,71 triệu USD, tăng 72%. Đây cũng là lĩnh vực duy nhất huy động được vốn qua cả ba kênh: vốn cổ phần, vốn vay và tài trợ không hoàn lại. Năm 2025, Việt Nam ban hành 29 chính sách liên quan đến khí hậu và đổi mới sáng tạo.",
+      "Về nhân lực, 73% doanh nghiệp được khảo sát xếp kỹ năng kỹ thuật chuyên sâu vào top 3 nhu cầu tuyển dụng cấp thiết, và 50% cho rằng đây là nhóm khó tìm nhất. Đại diện SNV khuyên startup bổ sung nhân sự liên ngành, giàu kinh nghiệm. Bà nhận xét vốn đang đổ vào nhanh hơn tốc độ thích ứng của lực lượng lao động. Đây là gợi ý cho những người làm tuyển dụng trong mảng năng lượng và công nghệ xanh."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Đại biểu Quốc hội: tiền thuê nhà chỉ nên chiếm 10–15% thu nhập",
+     "summary": "Đại biểu Trần Hoàng Ngân đề xuất Nhà nước dùng đất công, tái cấp vốn ngân hàng để phát triển nhà cho thuê giá thấp, sao cho người thu nhập 10 triệu đồng chỉ trả 1–2 triệu tiền thuê mỗi tháng. Ông cũng đề nghị kiểm soát giá thuê lâu dài với dự án được ưu đãi.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/tien-thue-nha-chi-nen-chiem-10-15-thu-nhap-5140299.html",
+     "detail": [
+      "Giữa lúc giá nhà vượt xa thu nhập, kể cả nhà ở xã hội để bán, phát triển nhà cho thuê đang được lãnh đạo cấp cao đặt làm hướng ưu tiên. Trả lời phỏng vấn VnExpress sáng 4/11, đại biểu Quốc hội Trần Hoàng Ngân cho rằng \"an cư không nhất thiết đồng nghĩa với sở hữu nhà\", và nhà cho thuê phải được xem là chính sách an sinh, không chỉ là kinh doanh bất động sản.",
+      "Theo ông, tiền thuê hợp lý chỉ nên chiếm 10–15% thu nhập, ví dụ người thu nhập khoảng 10 triệu đồng/tháng trả 1–2 triệu đồng. Muốn vậy, Nhà nước phải đi đầu: tận dụng quỹ đất công, trụ sở dôi dư sau sắp xếp để giảm chi phí đất, huy động Công đoàn và doanh nghiệp nhà nước tham gia đầu tư.",
+      "Để hút doanh nghiệp tư nhân, ông đề xuất ưu đãi tiền thuê đất, thời hạn thuê đất và cơ chế Ngân hàng Nhà nước tái cấp vốn cho ngân hàng thương mại cho vay dài hạn dự án nhà cho thuê. Đổi lại, dự án hưởng ưu đãi phải chịu kiểm soát giá thuê, có nguyên tắc tăng giá hằng năm rõ ràng và cam kết không chuyển sang bán thương mại.",
+      "Ông ưu tiên Hà Nội, TP HCM và các địa phương nhiều khu công nghiệp, đồng thời đề nghị đo hiệu quả bằng số lao động thực sự thuê được nhà giá phù hợp chứ không chỉ đếm số căn xây xong. Với người lao động trẻ, công nhân nhập cư – nhóm thường xuyên đổi nơi làm – đây là hướng chính sách đáng theo dõi khi Quốc hội bàn các luật liên quan đến nhà ở."
+     ],
+     "tag": "Nhà cho thuê"
+    },
+    {
+     "cat": "ai",
+     "title": "Startup hạ tầng AI tạo ảnh, video fal gọi 1,3 tỷ USD, định giá 16 tỷ USD",
+     "summary": "fal, nền tảng chạy các mô hình AI tạo ảnh, video và âm thanh, vừa gọi 1,3 tỷ USD với định giá 16 tỷ USD, gấp đôi chỉ sau 7 tháng. Doanh thu năm hóa đã vượt 800 triệu USD, cho thấy nhu cầu nội dung do AI tạo ra đang bùng nổ.",
+     "source": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/",
+     "detail": [
+      "Ngày 3/11, Bloomberg đưa tin startup fal của Mỹ đã gọi được 1,3 tỷ USD ở vòng Series F với định giá 16 tỷ USD. Vòng này do quỹ Bessemer Venture Partners dẫn đầu, có sự tham gia của Nvidia (nhà đầu tư chiến lược), T. Rowe Price, Sound Ventures và HOF Capital.",
+      "Tốc độ tăng giá trị của fal rất nhanh: tháng 12/2025 công ty được định giá 4,5 tỷ USD, tháng 4/2026 lên 8 tỷ USD và nay gấp đôi lên 16 tỷ USD. Tổng vốn huy động đến nay vượt 1,9 tỷ USD, trong khi công ty chỉ có 185 nhân viên.",
+      "fal vận hành nền tảng đám mây cho phép lập trình viên gọi hàng loạt mô hình AI tạo ảnh, video và âm thanh qua một giao diện duy nhất – lĩnh vực gọi là 'suy luận' (inference), tức chạy mô hình AI để tạo kết quả. Khách hàng gồm các hãng phim, công ty quảng cáo và nhà phát triển game; doanh thu năm hóa đã vượt 800 triệu USD từ đầu năm.",
+      "CEO Burkay Gur cho biết nhu cầu tăng mạnh đến mức \"mùa hè vừa rồi chúng tôi không thể phục vụ hết khách và phải giới hạn lượt dùng\". Tiền mới sẽ dùng để mua thêm năng lực tính toán và tuyển người; công ty chưa có kế hoạch tự huấn luyện mô hình riêng trong ngắn hạn.",
+      "Thương vụ diễn ra khi đối thủ Fireworks AI vừa gọi 1,5 tỷ USD với định giá 17,5 tỷ USD hồi tháng 7, dù biên lợi nhuận của các công ty suy luận AI vẫn mỏng do chi phí chip đắt đỏ. Với người dùng và doanh nghiệp, xu hướng này đồng nghĩa ảnh, video quảng cáo do AI tạo sẽ ngày càng rẻ và phổ biến hơn."
+     ],
+     "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/fal-800x446.png"
+    },
+    {
+     "cat": "biz",
+     "title": "Khách quốc tế 10 tháng đạt 19,5 triệu lượt, khách châu Âu tăng hơn 51%",
+     "summary": "10 tháng năm 2026, Việt Nam đón 19,5 triệu lượt khách quốc tế, tăng 13,8% và đạt khoảng 78% mục tiêu 25 triệu lượt cả năm. Khách châu Âu tăng 51,5%, khách Nga tăng 150%, trong khi Hàn Quốc, thị trường lớn của Đà Nẵng, giảm 6,3%.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/khach-quoc-te-den-viet-nam-dat-195-trieu-luot-trong-10-thang-nam-2026-post1399521.html",
+     "detail": [
+      "Theo số liệu công bố ngày 3/11, trong 10 tháng năm 2026 Việt Nam đón 19,5 triệu lượt khách quốc tế, tăng 13,8% so với cùng kỳ năm 2025. Con số này tương đương khoảng 78% mục tiêu 25 triệu lượt đặt ra cho cả năm, nghĩa là hai tháng cuối năm cần thêm khoảng 5,5 triệu lượt.",
+      "Châu Á vẫn chiếm khoảng 75% với 14,6 triệu lượt (tăng 7,3%), nhưng động lực tăng chính đến từ châu Âu: 3,22 triệu lượt, tăng 51,5%. Châu Mỹ đạt 1,04 triệu lượt (tăng 18,1%), châu Đại Dương 602,7 nghìn lượt (tăng 21,5%).",
+      "Bốn thị trường lớn nhất là Trung Quốc (gần 4,4 triệu lượt), Hàn Quốc (3,4 triệu lượt, giảm 6,3%), Nga (1,25 triệu lượt, tăng 150%) và Đài Loan (Trung Quốc) với 1,07 triệu lượt. Một số thị trường Đông Nam Á tăng mạnh như Philippines (52,4%), Campuchia (43,2%), Singapore (28,9%).",
+      "Việc khách Hàn Quốc sụt giảm là tín hiệu đáng chú ý với Đà Nẵng, nơi khách Hàn là nguồn khách quốc tế chủ lực; ngược lại, sự tăng trưởng của khách châu Âu, Nga mở ra cơ hội đa dạng thị trường. Cục Du lịch Quốc gia dự kiến tiếp tục xúc tiến tại Trung Quốc, Hàn Quốc, Ấn Độ và Nga trong hai tháng cuối năm."
+     ],
+     "figure": {
+      "value": "19,5 triệu",
+      "label": "Lượt khách quốc tế 10 tháng/2026",
+      "delta": "+13,8%",
+      "dir": "up"
+     }
+    },
+    {
+     "cat": "know",
+     "title": "Đồng Nai giảm 30% tiền thuê đất khu công nghiệp 5 năm cho doanh nghiệp nhỏ, startup",
+     "summary": "Quyết định 105/2026/QĐ-UBND của Đồng Nai giảm 30% tiền thuê lại đất trong 5 năm đầu cho doanh nghiệp nhỏ và vừa, doanh nghiệp công nghệ cao tư nhân và startup sáng tạo. Chính sách áp dụng tại khu công nghiệp, cụm công nghiệp và vườn ươm công nghệ. Đây là một trong những địa phương đầu tiên cụ thể hóa ưu đãi của Nghị quyết 198 về kinh tế tư nhân.",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/dong-nai-giam-30-tien-thue-lai-dat-khu-cong-nghiep-cho-doanh-nghiep-trong-5-nam.htm",
+     "image": "https://premedia.vneconomy.vn/files/uploads/2026/11/03/d033052ec39f45938421f7bffc4df408-132429.jpg?w=1200&h=630&mode=crop",
+     "detail": [
+      "UBND Đồng Nai ký Quyết định 105/2026/QĐ-UBND ngày 29/10, căn cứ Nghị quyết 198/2025/QH15 về cơ chế đặc biệt phát triển kinh tế tư nhân và Nghị định 20/2026/NĐ-CP. Theo đó, doanh nghiệp được giảm 30% tiền thuê lại đất trong 5 năm đầu, tính từ ngày ký hợp đồng thuê lại với chủ đầu tư hạ tầng.",
+      "Có ba nhóm được hưởng ưu đãi: doanh nghiệp công nghệ cao thuộc khu vực tư nhân, doanh nghiệp nhỏ và vừa, và doanh nghiệp khởi nghiệp sáng tạo đã được công nhận. Phạm vi áp dụng gồm khu công nghiệp, cụm công nghiệp và vườn ươm công nghệ. Doanh nghiệp được giảm ngay trên giá thuê ghi trong hợp đồng. Chủ đầu tư hạ tầng sau đó đề nghị Nhà nước hoàn lại phần chênh lệch, chậm nhất 12 tháng kể từ khi doanh nghiệp thanh toán.",
+      "Để xác định doanh nghiệp nhỏ và vừa, cơ quan thuế xác nhận vốn hoặc doanh thu, còn BHXH thành phố xác nhận số lao động đang tham gia bảo hiểm xã hội. Như vậy, việc đóng BHXH đầy đủ cho người lao động là một điều kiện thực tế để được hưởng ưu đãi. Hằng năm, các sở, ngành gửi danh sách doanh nghiệp đủ điều kiện và dự kiến kinh phí trước ngày 15/6.",
+      "Sau sáp nhập, Đồng Nai có 89 khu công nghiệp với tổng diện tích 43.386 ha, trong đó 44 khu đang hoạt động. Cách làm của Đồng Nai là ví dụ để doanh nghiệp ở các địa phương khác, trong đó có Đà Nẵng, theo dõi khi tỉnh, thành của mình ban hành quy định tương tự theo Nghị quyết 198."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Xã Trà Linh xin giảm giá thuê rừng trồng sâm Ngọc Linh từ 5% xuống 2%",
+     "summary": "Tại buổi làm việc ngày 3/11 với lãnh đạo thành phố, xã Trà Linh kiến nghị giảm giá thuê môi trường rừng trồng sâm Ngọc Linh từ 5% xuống khoảng 2% doanh thu và kéo dài thời hạn thuê quá 40 năm. Hiện 250 hộ đã đăng ký thuê hơn 750 ha rừng để trồng sâm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/xa-tra-linh-kien-nghi-dieu-chinh-gia-thue-moi-truong-rung-trong-sam-ngoc-linh-3357255.html",
+     "detail": [
+      "Sáng 3/11, Phó Chủ tịch Thường trực UBND thành phố Hồ Kỳ Minh làm việc với xã Trà Linh – vùng lõi sâm Ngọc Linh của Đà Nẵng. Đến 30/10, xã đã giải ngân 66,3 tỷ đồng vốn đầu tư công (65,01% kế hoạch, cao hơn mức bình quân 62,32% của các xã, phường); thu ngân sách 3,2 tỷ đồng, vượt dự toán.",
+      "Hiện có 250 hộ đăng ký thuê môi trường rừng trồng sâm với diện tích hơn 750 ha. Xã đang hoàn thiện thủ tục để THACO AGRI đầu tư dự án sâm và dược liệu, đồng thời có 5 sản phẩm OCOP (sản phẩm đặc trưng địa phương được chứng nhận) và thêm 4 sản phẩm đăng ký trong năm.",
+      "Xã kiến nghị giảm giá thuê môi trường rừng từ 5% xuống khoảng 2% doanh thu, kéo dài thời hạn thuê trên 40 năm và có chính sách hỗ trợ đồng bào giữ rừng, trồng sâm. Khó khăn còn lớn: khoảng 550 hộ ở 13 khu dân cư chưa có điện lưới quốc gia, sóng viễn thông yếu, tỷ lệ nghèo đa chiều 18,95%, xã chỉ có 104/163 biên chế và trạm y tế thiếu bác sĩ.",
+      "Lãnh đạo thành phố giao Sở Nông nghiệp và Môi trường kiến nghị Trung ương sửa Luật Lâm nghiệp và các nghị định liên quan, đồng thời phối hợp các sở trình HĐND thành phố chính sách về dịch vụ môi trường rừng và phát triển sâm Ngọc Linh. Sở Công Thương phải hoàn thành các dự án điện nông thôn, miền núi trong 6 tháng đầu năm 2028.",
+      "Nếu chi phí thuê rừng được giảm, người trồng sâm và doanh nghiệp đầu tư dược liệu sẽ nhẹ gánh hơn – yếu tố quan trọng để sâm Ngọc Linh trở thành ngành kinh tế mũi nhọn của khu vực miền núi phía tây Đà Nẵng."
+     ],
+     "tag": "Sâm Ngọc Linh"
+    },
+    {
+     "cat": "biz",
+     "title": "Hàng chục cây xăng miền Tây đóng cửa vì chiết khấu thấp, lỗ kéo dài",
+     "summary": "Riêng Vĩnh Long, 10 tháng qua số cửa hàng xăng dầu giảm 28, còn 976 cửa hàng. Chủ cây xăng cho biết chiết khấu từ đầu mối không đủ bù chi phí thuê mặt bằng, nhân công, có hệ thống mất hơn 700 triệu đồng chỉ trong hai ngày giá giảm mạnh.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/vi-sao-hang-chuc-cua-hang-xang-dau-o-mien-tay-dong-cua-ngung-hoat-dong-100261103185047621.htm",
+     "detail": [
+      "Ở Cần Thơ, Vĩnh Long, nhiều cửa hàng xăng dầu đã tạm đóng hoặc ngừng hẳn. Một chủ cửa hàng ven quốc lộ 1 ở Cần Thơ cho biết riêng tiền thuê mặt bằng 25 triệu đồng/tháng, tổng chi phí khoảng 60 triệu đồng/tháng, trong khi chiết khấu từ doanh nghiệp đầu mối thấp nên nhiều tháng bị lỗ. \"Kinh doanh xăng dầu bây giờ không còn ngon ăn nữa\", chị nói.",
+      "Một doanh nghiệp có 5 cửa hàng ở Vĩnh Long cho biết nguồn cung thiếu ổn định, chiết khấu không đủ bù chi phí, còn cơ chế điều hành giá có lợi cho đầu mối nhưng đẩy rủi ro sang bán lẻ. Hai ngày 25–26/3, giá giảm mạnh khiến hệ thống này lỗ ước hơn 700 triệu đồng do hàng nhập giá cao phải bán giá thấp; cửa hàng lại không được tự ý ngừng bán.",
+      "Sở Công Thương Vĩnh Long cho biết toàn tỉnh còn 976 cửa hàng, giảm 28 trong 10 tháng vì giải thể, khó khăn tài chính, hiệu quả thấp. Petrolimex và PVOIL nắm khoảng 434 cửa hàng (44,5%), nguồn cung được đánh giá dồi dào; trường hợp gián đoạn bán hàng không lý do chính đáng sẽ bị xử lý.",
+      "Bộ Công Thương đang dự thảo nghị định thay Nghị định 99/2020, phạt 10–20 triệu đồng nếu cửa hàng tự ý giảm giờ bán, giảm lượng bán hoặc ngừng bán khi chưa được chấp thuận, trừ trường hợp bất khả kháng. Câu chuyện cho thấy giá xăng giảm liên tục là tin vui với người tiêu dùng nhưng lại là áp lực lớn với các đại lý bán lẻ nhỏ."
+     ],
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/3/77408-17937052288241992340964-491-260-1086-1397-crop-17937063137231956098503.jpg"
+    },
+    {
+     "cat": "biz",
+     "title": "Vốn đầu tư vào startup công nghệ nông nghiệp Việt giảm 99% chỉ sau một năm",
+     "summary": "Theo báo cáo của New Energy Nexus, mảng nông nghiệp – thực phẩm từng hút 82,51 triệu USD năm 2024 nhưng năm 2025 chỉ còn 530.000 USD, giảm 99,4%. Nguyên nhân chính là năm 2024 dựa vào một thương vụ lớn của TechCoop, còn nhà đầu tư thận trọng hơn sau bê bối của eFishery (Indonesia).",
+     "source": "CafeF",
+     "url": "https://cafef.vn/mot-linh-vuc-tung-hut-hon-82-trieu-usd-tai-viet-nam-bat-ngo-mat-99-von-chi-sau-mot-nam-chuyen-gi-da-xay-ra-188261103224931362.chn",
+     "detail": [
+      "Báo cáo Hệ sinh thái tài trợ công nghệ khí hậu Việt Nam 2026 của New Energy Nexus cho thấy năm 2025, các doanh nghiệp công nghệ khí hậu Việt huy động 49,86 triệu USD qua 33 thương vụ, giảm 52% về giá trị và 45% về số thương vụ so với 2024. Cú sụt mạnh nhất nằm ở mảng nông nghiệp và sản xuất thực phẩm: từ 82,51 triệu USD xuống chỉ 530.000 USD.",
+      "Con số năm 2024 bị 'đội' lên bởi TechCoop, startup thành lập năm 2022, gọi được 75 triệu USD, trong đó vòng Series A 70 triệu USD, chiếm khoảng 91% vốn cả mảng. Nếu bỏ TechCoop, phần còn lại năm 2024 chỉ khoảng 7,51 triệu USD, tức năm 2025 vẫn giảm khoảng 93%. Năm 2025, mảng này có nhiều thương vụ nhất (12) nhưng 10 thương vụ là tài trợ không hoàn lại, khoản lớn nhất là 350.000 USD cho EnFarm.",
+      "Các chuyên gia chỉ ra nhiều lý do: thiếu thương vụ lớn, startup phụ thuộc vào khoản tài trợ nhỏ khó dẫn tới vòng gọi vốn tiếp theo, biên lợi nhuận nông sản mỏng, và nhà đầu tư quốc tế đòi hỏi quản trị, báo cáo tài chính chặt hơn. Bê bối gian lận tài chính của startup thủy sản eFishery (Indonesia) cũng khiến khâu thẩm định trở nên khắt khe hơn.",
+      "Dù vậy, vay nợ đang mở ra lối đi khác: tháng 4/2026, công ty con của TechCoop là Farmnet nhận khoản vay có bảo đảm 11,75 triệu USD từ quỹ Symbiotics (Thụy Sĩ). Bài học cho các startup là cần chứng minh mô hình kinh doanh có doanh thu thật, thay vì chỉ sống nhờ các giải thưởng, tài trợ nhỏ."
+     ],
+     "figure": {
+      "value": "530.000 USD",
+      "label": "Vốn vào agritech Việt năm 2025",
+      "delta": "-99,4%",
+      "dir": "down"
+     }
+    },
+    {
+     "cat": "biz",
+     "title": "Quy trình mới xác định dự án dùng công nghệ lạc hậu, gây ô nhiễm",
+     "summary": "Quyết định 49/2026/QĐ-TTg quy định hồ sơ, thủ tục xác định dự án đầu tư dùng công nghệ lạc hậu, tiềm ẩn ô nhiễm và thâm dụng tài nguyên. Nhà đầu tư có thể nộp hồ sơ trực tuyến; cơ quan chủ trì phải xin ý kiến trong 3 ngày làm việc, chứng thư giám định máy móc có hiệu lực 12 tháng.",
+     "source": "VOV",
+     "url": "https://vov.vn/kinh-te/thu-tuc-xac-dinh-du-an-su-dung-cong-nghe-lac-hau-nguy-co-o-nhiem-moi-truong-post1347020.vov",
+     "detail": [
+      "Phó Thủ tướng Hồ Quốc Dũng vừa ký Quyết định 49/2026/QĐ-TTg, quy định hồ sơ, trình tự, thủ tục xác định dự án đầu tư sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường và thâm dụng tài nguyên. Văn bản được ban hành theo phân cấp tại Nghị định 96/2026/NĐ-CP.",
+      "Nhà đầu tư nộp một bộ hồ sơ qua Cổng Dịch vụ công quốc gia, trực tiếp hoặc qua bưu chính; giấy tờ đã có trong hệ thống dữ liệu nhà nước thì không phải nộp lại. Nếu hồ sơ thiếu, trong 2 ngày làm việc cơ quan chủ trì phải thông báo bổ sung; khi đủ, trong 3 ngày làm việc phải gửi lấy ý kiến cơ quan môi trường, chuyên ngành, và bên được hỏi có 5 ngày làm việc để trả lời.",
+      "Với dự án lớn, công nghệ phức tạp, cơ quan chủ trì có thể lập Hội đồng tư vấn khoa học và công nghệ trong 20 ngày làm việc, trong đó chuyên gia chiếm ít nhất 1/3 thành viên. Sau khi nhận đủ ý kiến, trong 5 ngày làm việc phải ra văn bản kết luận về công nghệ của dự án.",
+      "Máy móc, thiết bị đã có kết quả kiểm định, giám định còn hiệu lực về an toàn, hiệu suất năng lượng, môi trường sẽ được dùng lại, không phải đánh giá lại. Chứng thư giám định có hiệu lực 12 tháng; tổ chức giám định máy móc nhập khẩu đã qua sử dụng phải đăng ký bổ sung phạm vi hoạt động. Quy định này ảnh hưởng trực tiếp tới doanh nghiệp đang lập dự án sản xuất hoặc nhập dây chuyền cũ."
+     ],
+     "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/doanh-nghiep.jpg?v=1793747907"
+    },
+    {
+     "cat": "biz",
+     "title": "Bắc Ninh: sản lượng điện thoại thông minh tăng gấp 3,59 lần, xuất nhập khẩu 204,7 tỷ USD",
+     "summary": "10 tháng năm 2026, giá trị sản xuất công nghiệp Bắc Ninh đạt hơn 312.700 tỷ đồng, tăng 18,75%; kim ngạch xuất nhập khẩu tăng 38%. Địa phương thu hút 19,7 tỷ USD vốn FDI, đứng thứ ba cả nước – tín hiệu nhu cầu lao động điện tử còn lớn.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/dien-thoai-thong-minh-san-xuat-tai-bac-ninh-tang-gap-359-lan-100261103192416552.htm",
+     "detail": [
+      "Tại hội nghị thường kỳ tháng 10 chiều 3/11, UBND Bắc Ninh cho biết chỉ số sản xuất công nghiệp 10 tháng tăng hơn 20%, giá trị sản xuất công nghiệp đạt trên 312.700 tỷ đồng, tăng 18,75%. Công nghiệp tiếp tục là động lực chính của kinh tế địa phương.",
+      "Trong các sản phẩm chủ lực, sản lượng điện thoại thông minh tăng gấp 3,59 lần cùng kỳ, thiết bị bán dẫn khác tăng 1,65 lần. Tổng kim ngạch xuất nhập khẩu đạt 204,7 tỷ USD, tăng 38%; thu ngân sách hơn 76.700 tỷ đồng, vượt 6% dự toán cả năm.",
+      "Về thu hút đầu tư nước ngoài, Bắc Ninh xếp thứ ba cả nước sau TP HCM và Thái Nguyên, với hơn 19,7 tỷ USD lũy kế 10 tháng, riêng tháng 10 đạt 554 triệu USD. Chủ tịch UBND Phạm Hoàng Sơn yêu cầu các ngành rà soát chỉ tiêu chưa hoàn thành và cập nhật số liệu công khai, chính xác.",
+      "Đà bùng nổ của ngành điện tử cho thấy nhu cầu tuyển công nhân, kỹ thuật viên ở các trung tâm sản xuất phía Bắc còn rất lớn – yếu tố mà doanh nghiệp và bộ phận nhân sự ở các địa phương khác, trong đó có Đà Nẵng, cần tính đến khi cạnh tranh giữ chân lao động."
+     ],
+     "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/3/cong-nhan-san-xuat-dien-thoai-bac-ninh-1701956600004294865314-102-0-1149-2000-crop-17937084929901363796370.jpg"
+    }
+   ]
+  },
   {
    "id": "2026-11-03-1900",
    "date": "2026-11-03",
