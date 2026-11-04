@@ -1,6 +1,231 @@
 {
- "updated": "2026-11-04T11:01:50+07:00",
+ "updated": "2026-11-04T15:05:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-04-1500",
+   "date": "2026-11-04",
+   "slot": "15:00",
+   "createdAt": "2026-11-04T15:05:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "vn",
+     "title": "Đảng Dân chủ giành cả hai viện Quốc hội Mỹ, ông Trump lên tiếng chúc mừng",
+     "summary": "Kết quả bầu cử giữa kỳ ngày 3/11 cho thấy đảng Dân chủ giành đa số ở cả Hạ viện (435 ghế bầu lại) và Thượng viện. Ông Trump tuyên bố chấp nhận kết quả, muốn hợp tác nhưng cảnh báo sẽ phủ quyết các dự luật ông cho là vô lý.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ong-trump-chuc-mung-dang-dan-chu-gianh-luong-vien-quoc-hoi-5140653.html",
+     "tag": "Bầu cử Mỹ",
+     "detail": [
+      "Ngày 3/11 (giờ Mỹ), cử tri Mỹ bầu lại toàn bộ 435 ghế Hạ viện và khoảng một phần ba số ghế Thượng viện. Ngay trong đêm kiểm phiếu, các hãng truyền thông lớn đã dự báo đảng Dân chủ giành đa số ở cả hai viện, tức đảng đối lập sẽ nắm Quốc hội trong hai năm cuối nhiệm kỳ của ông Trump.",
+      "Trả lời CBS News, Tổng thống Trump nói thông điệp của ông là chúc mừng đảng Dân chủ và mong hợp tác vì lợi ích đất nước. Với New York Times, ông nói chấp nhận kết quả, không hối tiếc khi ủng hộ một số ứng viên thua cuộc, và cho rằng cử tri ủng hộ ông đi bầu không đông như kỳ vọng.",
+      "Ông Trump cũng thừa nhận xung đột ở Trung Đông có thể khiến đảng Cộng hòa mất phiếu, nhưng vẫn bảo vệ chiến dịch nhắm vào Iran. Ông cảnh báo sẽ dùng quyền phủ quyết với những dự luật ông cho là vô lý, gọi đây là \"quyền lực tối thượng\" của tổng thống.",
+      "Ý nghĩa thực tế: khi Quốc hội do phe đối lập kiểm soát, các chính sách lớn của Nhà trắng như thuế, chi tiêu, thuế quan hay viện trợ nước ngoài sẽ khó thông qua hơn và dễ rơi vào bế tắc. Điều này có thể tác động đến thị trường tài chính, tỷ giá và quan hệ thương mại, trong đó có xuất khẩu của Việt Nam sang Mỹ."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Chính phủ: GDP quý IV phải tăng trên 12,5%, giá điện bình quân dự kiến giảm 2%",
+     "summary": "Tại họp báo sau phiên họp Chính phủ tháng 10, Chính phủ thừa nhận mục tiêu tăng trưởng quý IV trên 12,5% là thách thức rất lớn. CPI 10 tháng tăng 4,57%, vượt mục tiêu 4,5%; EVN được yêu cầu cắt giảm chi phí để giá điện bình quân giảm khoảng 2%.",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/muc-tieu-tang-truong-quy-4-tren-125-dat-ra-thach-thuc-lon.htm",
+     "tag": "Phiên họp Chính phủ",
+     "detail": [
+      "Ngày 4/11, Thủ tướng Lê Minh Hưng chủ trì phiên họp Chính phủ thường kỳ tháng 10. Tại họp báo sau đó, Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Đặng Xuân Phong cho biết kinh tế 10 tháng tiếp tục khởi sắc nhưng mục tiêu GDP quý IV tăng trên 12,5% – điều kiện để cả năm đạt tăng trưởng hai con số – là thách thức rất lớn.",
+      "Một số con số chính: giải ngân vốn đầu tư công đạt 708,57 nghìn tỷ đồng, bằng 75,4% kế hoạch; đã tháo gỡ vướng mắc cho 3.661/4.963 dự án tồn đọng; tháng 10 xuất siêu hơn 7,3 tỷ USD; 22 ngân hàng đã giảm lãi suất cho vay. Tuy nhiên chỉ số giá tiêu dùng (CPI) bình quân 10 tháng tăng 4,57%, cao hơn mục tiêu khoảng 4,5% của cả năm.",
+      "Về giá cả, EVN được chỉ đạo cắt giảm chi phí để giá bán lẻ điện bình quân giảm khoảng 2%; thuế tiêu thụ đặc biệt với xăng về 0% từ 1/11/2026 đến 31/3/2027. Chính phủ cũng chỉ ra các điểm nghẽn: giải ngân chậm ở một số nơi, lãi suất cho vay còn cao, ô nhiễm không khí, ngập úng và ùn tắc giao thông.",
+      "Thủ tướng yêu cầu đẩy nhanh giải ngân, kiểm soát lạm phát, bảo đảm việc giảm lãi suất là thực chất và minh bạch, ưu tiên các đầu tàu tăng trưởng như Hà Nội, TP.HCM, Hải Phòng, Đồng Nai, Quảng Ninh, Bắc Ninh, đồng thời kích cầu tiêu dùng hai tháng cuối năm. Với người dân và doanh nghiệp, đáng chú ý nhất là tín hiệu giảm giá điện và giữ ổn định giá cả dịp cuối năm."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Chiều 4/11: vàng SJC tăng lên 142,4 triệu đồng/lượng, thêm 1,8 triệu trong ngày",
+     "summary": "Lúc 13h47, SJC niêm yết 139,4 triệu mua vào, 142,4 triệu bán ra, tăng 1,8 triệu đồng mỗi chiều so với hôm qua. Buổi sáng giá mới ở 141,2 triệu, nghĩa là chỉ trong vài giờ đã tăng thêm 1,2 triệu.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/gia-vang-hom-nay-04112026-sjc-tang-len-1394-1424-trieu-dongluong-3357348.html",
+     "figure": {
+      "value": "142,4 tr",
+      "label": "SJC bán ra, triệu đồng/lượng (13h47)",
+      "delta": "+1,8 tr",
+      "dir": "up",
+      "spark": [
+       140.6,
+       141.2,
+       141.2,
+       142.4
+      ]
+     },
+     "detail": [
+      "Theo cập nhật lúc 13h47 ngày 4/11, giá vàng miếng SJC đứng ở 139,4 triệu đồng/lượng mua vào và 142,4 triệu đồng/lượng bán ra, tăng 1,8 triệu đồng mỗi chiều so với cuối ngày hôm qua (khi giá bán ra là 140,6 triệu).",
+      "Diễn biến trong ngày khá nhanh: từ khoảng 9h đến trưa, SJC đứng ở 138,2 – 141,2 triệu đồng; sang đầu giờ chiều được điều chỉnh tăng thêm 1,2 triệu đồng. Ở bảng giá buổi sáng, DOJI cùng mức với SJC; Phú Quý và Bảo Tín Minh Châu bán vàng miếng SJC ở 141,2 triệu nhưng mua vào thấp hơn đáng kể, PNJ bán khoảng 139,2 triệu.",
+      "Bảo Tín Mạnh Hải là thương hiệu duy nhất giảm giá trong sáng nay, khoảng 0,8 triệu đồng mỗi chiều. Bài viết không nêu nguyên nhân tăng; báo cũng lưu ý giá có thể khác nhau tùy cửa hàng và khu vực.",
+      "Với người mua, chênh lệch mua – bán của vàng miếng vẫn khoảng 3 triệu đồng/lượng, nghĩa là mua vào rồi bán ra ngay sẽ lỗ khoảng 2%. Người có ý định mua tích trữ nên cân nhắc thời điểm và tránh chạy theo các nhịp tăng nóng trong ngày."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index hồi hơn 13 điểm phiên sáng, lấy lại mốc 1.700 nhờ FPT",
+     "summary": "Kết phiên sáng 4/11, VN-Index tăng 0,77% lên 1.712,63 điểm sau 4 phiên giảm, nhóm công nghệ dẫn dắt với FPT tăng 4,56%. Khối ngoại vẫn bán ròng khoảng 169 tỷ đồng.",
+     "source": "Vietstock (qua Investing.com)",
+     "url": "https://vn.investing.com/news/stock-market-news/nhip-dap-thi-truong-0411-duy-tri-sac-xanh-2753746",
+     "figure": {
+      "value": "1.712,63",
+      "label": "VN-Index nghỉ trưa 4/11",
+      "delta": "+0,77%",
+      "dir": "up",
+      "spark": [
+       1695.69,
+       1709.08,
+       1712.63
+      ]
+     },
+     "detail": [
+      "Sau chuỗi bốn phiên giảm khiến chỉ số mất mốc 1.700 điểm, thị trường chứng khoán hồi phục trong phiên sáng 4/11. VN-Index mở cửa ở 1.695,69 điểm, lên 1.709 điểm lúc 10h30 và chốt phiên sáng ở 1.712,63 điểm, tăng khoảng 13 điểm (0,77%). HNX-Index cũng tăng 0,69% lên 253,15 điểm.",
+      "Sắc xanh chiếm ưu thế với 374 mã tăng so với 188 mã giảm. Nhóm công nghệ thông tin tăng mạnh nhất, khoảng 4,3%, nhờ FPT tăng 4,56% và ITD tăng 3,82%. Ba mã VCB, TCX và VHM góp khoảng 4,24 điểm cho chỉ số, trong khi VIC là mã kéo lùi nhiều nhất (khoảng 1,61 điểm). Chỉ nhóm năng lượng và y tế giảm.",
+      "Thanh khoản cải thiện: đến 10h30, giá trị khớp lệnh đạt hơn 3.322 tỷ đồng, gấp khoảng 8 lần lúc mở cửa. Tuy vậy, khối ngoại tiếp tục bán ròng khoảng 169 tỷ đồng trên cả ba sàn, bán mạnh nhất chính FPT (khoảng 95 tỷ), trong khi mua ròng nhiều nhất ACB.",
+      "Đây mới là nhịp hồi trong phiên sáng; các báo cáo nhận định sáng nay vẫn khuyên nhà đầu tư thận trọng, hạn chế bắt đáy khi khối ngoại bán ròng kéo dài. Người đầu tư cá nhân nên theo dõi diễn biến phiên chiều và không dùng đòn bẩy (vay ký quỹ) cao trong giai đoạn này."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Apple lần đầu cảnh báo nhà đầu tư: 'đặc vụ AI' có thể hành động khó lường",
+     "summary": "Trong báo cáo thường niên nộp Ủy ban Chứng khoán Mỹ ngày 3/11, Apple liệt kê rủi ro AI agent tự chạy lệnh, bỏ qua chỉ dẫn, vượt quyền hoặc gây hậu quả không thể đảo ngược như xóa dữ liệu. Đây là một trong những lần hiếm hoi một ông lớn công nghệ chính thức coi AI tự hành là rủi ro kinh doanh.",
+     "source": "Kyunghyang Shinmun / TechBuzz",
+     "url": "https://www.khan.co.kr/en/article/202611041450007/",
+     "tag": "Rủi ro AI",
+     "detail": [
+      "Ngày 3/11 (giờ Mỹ), Apple nộp báo cáo thường niên năm tài chính 2026 (mẫu 10-K) lên Ủy ban Chứng khoán và Giao dịch Mỹ (SEC). Trong phần các yếu tố rủi ro, lần đầu tiên Apple dành nội dung riêng cho \"AI agent\" – loại AI có thể tự hành động thay người dùng như gửi tin nhắn, chạy hoặc sửa mã, thực hiện giao dịch.",
+      "Apple viết rằng các agent do Apple hoặc bên thứ ba tạo ra có thể chạy mà không cần lệnh hay sự phê duyệt của con người, có thể phớt lờ chỉ dẫn, hành động khó đoán, vượt qua các lớp kiểm soát bảo mật hoặc bị tin tặc lợi dụng. Sai sót có thể tích tụ trong các quy trình do AI điều khiển, dữ liệu có thể bị xóa và một số hậu quả không thể khôi phục.",
+      "Báo cáo cũng nêu sự bất định về luật lệ liên quan đến AI và \"siêu trí tuệ\", cùng nguy cơ người tiêu dùng có cái nhìn tiêu cực hoặc lo ngại về đạo đức. Apple cho biết sẽ bổ sung các tùy chọn kiểm soát trong phần cài đặt quyền truy cập toàn bộ ổ đĩa trên máy Mac để hạn chế rủi ro rò rỉ dữ liệu cá nhân do agent gây ra.",
+      "Bối cảnh: Apple bị xem là chậm chân trong cuộc đua AI và đang tăng tốc với Siri và Apple Intelligence trên iPhone 18 Pro. Trước đó, Anthropic trong hồ sơ niêm yết cũng cảnh báo AI tiên tiến có thể thoát khỏi kiểm soát. Theo TechBuzz, câu hỏi ai chịu trách nhiệm khi agent gây hại – bên triển khai, bên làm ứng dụng hay nhà cung cấp mô hình – vẫn chưa có lời giải pháp lý rõ ràng.",
+      "Với doanh nghiệp và người dùng phổ thông, thông điệp thực tế là: khi giao cho AI quyền tự gửi email, đặt hàng hay chuyển tiền, cần giới hạn quyền ở mức tối thiểu, giữ bước xác nhận của con người cho các thao tác quan trọng và luôn có bản sao lưu dữ liệu."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Chu Lai sắp khởi công 3 khu đô thị, tổng vốn hơn 40.460 tỷ đồng",
+     "summary": "Đà Nẵng đặt kế hoạch khởi công 3 dự án khu đô thị tại Khu kinh tế mở Chu Lai từ tháng 12/2026 đến trước 30/4/2027. Lớn nhất là Khu đô thị Chu Lai của Đại Quang Minh, vốn hơn 18.854 tỷ đồng.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/sap-khoi-cong-3-du-an-tong-von-hon-40460-ti-tai-chu-lai-100261104104348024.htm",
+     "figure": {
+      "value": "40.461 tỷ",
+      "label": "Tổng vốn 3 dự án tại Chu Lai",
+      "delta": "3 dự án",
+      "dir": "up",
+      "spark": [
+       3069,
+       18538,
+       18854
+      ]
+     },
+     "detail": [
+      "Sáng 4/11, Phó Chủ tịch UBND TP Đà Nẵng Phan Thái Bình làm việc với Ban quản lý Khu kinh tế mở Chu Lai, các sở ngành và chủ đầu tư, yêu cầu tập trung tháo gỡ vướng mắc, nhất là bồi thường và giải phóng mặt bằng, để sớm khởi công ba dự án đô thị lớn.",
+      "Dự án lớn nhất là Khu đô thị Chu Lai (xã Núi Thành) rộng khoảng 188,6 ha, vốn hơn 18.854 tỷ đồng, do Công ty Đại Quang Minh làm chủ đầu tư, phấn đấu khởi công trong tháng 12/2026; nếu bất khả kháng thì khởi công dịp 29/3/2027. Thứ hai là Khu đô thị hỗn hợp phía Nam trục Nguyễn Tất Thành (phường Quảng Phú) rộng khoảng 296 ha, vốn hơn 18.538 tỷ đồng, của liên danh Geleximco Phố Hiến.",
+      "Dự án thứ ba là Khu đô thị ven sông Trường Giang (phường Quảng Phú và Bàn Thạch) rộng khoảng 74 ha, vốn hơn 3.069 tỷ đồng, do Công ty Green Industrial Chu Lai đầu tư. Hai dự án sau đặt mục tiêu khởi công trước 30/4/2027. Ngoài ra, ở xã Thăng An và Thăng Trường còn 5 dự án đang được đề xuất, gồm cả khu đô thị kèm sân golf và khu đô thị dưỡng lão ven biển.",
+      "Các dự án này cho thấy khu vực phía Nam Đà Nẵng (địa bàn Quảng Nam cũ) đang được đẩy mạnh phát triển đô thị. Với người dân, điều cần theo dõi là tiến độ bồi thường, tái định cư và nguy cơ sốt đất cục bộ khi thông tin khởi công được công bố."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "OpenAI cam kết trung tâm dữ liệu tự giảm điện khi lưới quá tải",
+     "summary": "OpenAI ra chương trình Grid Protectors: các khu máy chủ sẽ giảm tiêu thụ điện khi lưới căng thẳng và tự trả chi phí hạ tầng. Riêng dự án ở Georgia có thể linh hoạt cắt tới 1.000 MW, tương đương nhu cầu điện khoảng 700.000 hộ.",
+     "source": "tEDmag",
+     "url": "https://tedmag.com/openai-launches-program-to-ease-data-center-grid-demand/",
+     "image": "https://tedmag.com/wp-content/uploads/2026/07/OpenAI-Blossom_white_350x_do-not-crop.jpg",
+     "detail": [
+      "Trước sức ép dư luận Mỹ về việc trung tâm dữ liệu AI đẩy giá điện của hộ gia đình lên cao – một chủ đề nóng trong mùa bầu cử giữa kỳ – OpenAI công bố chương trình Grid Protectors (tạm dịch: Người bảo vệ lưới điện). Theo đó, các khu máy chủ tương lai của hãng sẽ được thiết kế để giảm lượng điện tiêu thụ khi lưới điện gặp nhu cầu cao bất thường hoặc sự cố.",
+      "Cách làm gồm: thỏa thuận trước với công ty điện về mức cắt giảm, tốc độ và thời gian cắt; dùng máy phát hoặc pin lưu trữ tại chỗ để hỗ trợ lưới khi cần; và dịch chuyển phụ tải – dùng nhiều điện khi lưới dư công suất, dùng ít khi lưới căng thẳng.",
+      "Dự án điểm là khu máy chủ ở hạt Effingham, bang Georgia. Theo thỏa thuận với Georgia Power, OpenAI có thể linh hoạt cắt tới 1.000 MW – công suất mà hãng so sánh tương đương nhu cầu trung bình của khoảng 700.000 hộ gia đình. OpenAI cam kết tự trả toàn bộ chi phí hạ tầng và dịch vụ điện cho dự án. Georgia Power ước tính danh mục khách hàng tiêu thụ lớn, trong đó có OpenAI, giúp người dùng tiết kiệm khoảng 950 triệu USD mỗi năm từ 2029, tức ít nhất 15 USD/tháng cho một hộ dùng 1.000 kWh.",
+      "OpenAI lập luận hộ gia đình và doanh nghiệp nhỏ không nên phải trợ giá cho các khu máy chủ AI. Tuy nhiên hãng cũng thừa nhận sự linh hoạt này không thể thay thế việc đầu tư thêm nguồn điện và đường truyền tải. BloombergNEF dự báo công suất trung tâm dữ liệu ở Mỹ có thể vượt 100 GW vào năm 2030.",
+      "Câu chuyện điện cho AI cũng liên quan tới Việt Nam, nơi nhiều địa phương, trong đó có Đà Nẵng, đang mời gọi đầu tư trung tâm dữ liệu: bài toán là làm sao thu hút dự án mà không gây áp lực lên giá điện và nguồn cung cho người dân."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Revolut cắt 90% chi phí AI lập trình nhờ tự chạy mô hình mã nguồn mở",
+     "summary": "Ngân hàng số Anh Revolut chuyển từ dịch vụ thương mại như Claude Code sang tự vận hành mô hình mở GLM của Z.ai (Trung Quốc), chi phí chỉ khoảng 0,3 USD mỗi triệu token. Khoảng 2.000 kỹ sư dùng thoải mái hơn, thời gian viết mã giảm khoảng 60%.",
+     "source": "The Register",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+     "tag": "Chi phí AI",
+     "detail": [
+      "Tại hội nghị AI Engineer ở New York, ông David Abitbol, phụ trách vận hành và hạ tầng của ngân hàng số Revolut (Anh), cho biết công ty đã giảm khoảng 90% chi phí dùng AI để lập trình chỉ trong chưa đầy một năm. Bí quyết là chuyển sang tự vận hành (self-host) các mô hình \"trọng số mở\" – loại mô hình được công bố công khai để ai cũng có thể tải về chạy trên máy chủ riêng.",
+      "Revolut từng dùng Gemini rồi Claude Code, nhưng chi phí mỗi kỹ sư có lúc lên 1.000–10.000 USD/tháng nên phải siết hạn mức. Sau đó công ty chuyển sang dòng GLM của Z.ai, chạy trên 56 GPU Nvidia B200. Chi phí khoảng 0,3 USD cho mỗi triệu token (đơn vị đo lượng chữ AI xử lý), chỉ bằng khoảng một phần mười so với dùng Codex của OpenAI hay Claude Code của Anthropic.",
+      "Khi không còn phải \"đếm token\", khoảng 2.000 kỹ sư dùng AI nhiều hơn, đặc biệt cho gỡ lỗi và xử lý phiếu công việc trên Jira, Confluence. Công ty báo cáo thời gian viết mã giảm khoảng 60% và thời gian đưa tính năng ra (lead time) giảm khoảng 70%. Ông Abitbol nói thêm việc tinh chỉnh cấu hình quan trọng hơn mua thêm GPU, và nhận xét ngữ cảnh siêu dài là thứ \"bị thổi phồng\" – khoảng 256.000 token là đủ.",
+      "Mô hình mở vẫn có hạn chế: GLM chỉ xử lý văn bản, không giỏi việc liên quan giao diện, nên Revolut dùng bộ định tuyến để chuyển các yêu cầu có hình ảnh sang mô hình khác như Gemini. Về lo ngại an ninh với mô hình Trung Quốc, ông cho rằng rủi ro chính nằm ở việc gọi API đặt tại Trung Quốc, còn chạy trên hạ tầng riêng thì phần lớn được giải quyết.",
+      "Lưu ý các con số do chính Revolut công bố, chưa được kiểm chứng độc lập. Tuy vậy, câu chuyện cho thấy xu hướng doanh nghiệp lớn cân nhắc tự vận hành AI để kiểm soát chi phí và dữ liệu – một gợi ý đáng tham khảo cho doanh nghiệp Việt đang tính bài toán chi phí khi đưa AI vào công việc."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng ra kế hoạch dồn lực cho nông thôn, miền núi giai đoạn 2026–2035",
+     "summary": "UBND TP ban hành Kế hoạch 554 ưu tiên vốn cho vùng đặc biệt khó khăn, đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo. Mục tiêu gồm 100% dân có hồ sơ sức khỏe điện tử và được khám sàng lọc miễn phí ít nhất mỗi năm một lần.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/uu-tien-nguon-luc-phat-trien-nong-thon-mien-nui-giai-doan-2026-2035-3357340.html",
+     "tag": "Nông thôn mới",
+     "detail": [
+      "UBND TP Đà Nẵng vừa ban hành Kế hoạch số 554/KH-UBND (ngày 30/10/2026) để triển khai chỉ thị của Ban Thường vụ Thành ủy về chương trình mục tiêu quốc gia phát triển văn hóa – xã hội, nông thôn, vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026–2035.",
+      "Theo kế hoạch, ngân sách giai đoạn 2026–2030 sẽ ưu tiên cho những nơi còn thiếu hụt lớn về hạ tầng cơ bản và dịch vụ xã hội. Thành phố khuyến khích nông nghiệp xanh, tuần hoàn, hữu cơ, sản phẩm OCOP (chương trình mỗi xã một sản phẩm), du lịch cộng đồng và liên kết sản xuất – tiêu thụ.",
+      "Một thay đổi đáng chú ý là chuyển từ hỗ trợ trực tiếp (cho tiền, cho vật chất) sang hỗ trợ sinh kế, đào tạo nghề, tạo việc làm để người dân tự vươn lên và không tái nghèo. Thành phố cũng sẽ thí điểm 1–2 mô hình \"làng trong phố, phố trong làng\" để giữ không gian văn hóa, nghề truyền thống gắn với du lịch.",
+      "Về y tế, giáo dục, kế hoạch đặt mục tiêu 100% người dân có hồ sơ sức khỏe điện tử và được khám định kỳ hoặc sàng lọc miễn phí ít nhất mỗi năm một lần, đồng thời đầu tư trường học, trạm y tế ở vùng khó khăn. Các sở, ngành, địa phương phải hoàn thành kế hoạch riêng trước ngày 15/11/2026."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Hiệp định với khối EFTA mở cơ hội cho doanh nghiệp, du lịch Đà Nẵng",
+     "summary": "Việt Nam đã kết thúc FTA với EFTA (Thụy Sĩ, Na Uy, Iceland, Liechtenstein) – nhóm thị trường thu nhập cao. Doanh nhân Đà Nẵng kỳ vọng tăng nhu cầu logistics và thu hút khách du lịch cao cấp, nhưng nhắc doanh nghiệp phải chủ động chứ không chờ cơ hội.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/co-hoi-da-dang-hoa-thi-truong-xuat-nhap-khau-3357321.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/10/29/1793246974536_2075660228427037371_g6975046681593889977_a3c590314814ddf51f64dd1c2e1258ce.jpg",
+     "detail": [
+      "Việt Nam đã chính thức kết thúc đàm phán hiệp định thương mại tự do với Hiệp hội Thương mại tự do châu Âu (EFTA), gồm bốn nước Thụy Sĩ, Na Uy, Iceland và Liechtenstein. Hiệp định bao trùm hàng hóa, dịch vụ, đầu tư, sở hữu trí tuệ, mua sắm công, doanh nghiệp nhỏ và vừa cùng phát triển bền vững.",
+      "Việt Nam chủ yếu xuất sang EFTA thủy sản, giày dép, dệt may, máy móc, điện tử; và nhập về máy móc, thiết bị công nghiệp, hóa chất, dược phẩm. Nhà đầu tư EFTA đã có mặt ở Việt Nam trong công nghiệp, thực phẩm, dược, năng lượng và công nghệ, và đang tính thêm các dự án lớn về đổi mới sáng tạo, logistics, cơ khí chính xác.",
+      "Ông Nguyễn Hồng Cương, Phó Chủ tịch Hội Doanh nhân trẻ Đà Nẵng, nhìn thấy ba cơ hội: nhu cầu logistics tăng, hiện đại hóa phương tiện – công nghệ, và nâng sức cạnh tranh qua chất lượng, chuyển đổi xanh, nâng cấp nhân lực. Ông nhấn mạnh doanh nghiệp \"không nên chỉ chờ đợi cơ hội từ hội nhập\".",
+      "Ở mảng du lịch, ông Nguyễn Đức Quỳnh (Chi hội Khách sạn Đà Nẵng) cho rằng thị trường EFTA thu nhập cao phù hợp với nghỉ dưỡng cao cấp, du lịch di sản, golf, du lịch chăm sóc sức khỏe. Ông đề xuất xúc tiến theo từng thị trường cùng hãng bay, cơ quan ngoại giao và đẩy mạnh đào tạo nhân lực chất lượng cao – điểm đáng lưu ý với người làm nhân sự ngành dịch vụ."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Fahasa lãi quý cao nhất từ trước đến nay, doanh thu gần 1.820 tỷ đồng",
+     "summary": "Quý III, chuỗi nhà sách lớn nhất nước có doanh thu gần 1.820 tỷ đồng (+19%) và lãi ròng 20,7 tỷ (+28%), mức lãi quý cao nhất từ khi công bố. Công ty đặt mục tiêu cả năm 4.400 tỷ doanh thu, 75 tỷ lãi trước thuế.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chuoi-nha-sach-lon-nhat-ca-nuoc-lai-ky-luc-5140571.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/nha-sach-fahasa-hai-duong-1793-5237-7916-1793762890.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=4mrkJx6XdTvICiqf7tRlcw",
+     "detail": [
+      "Công ty Fahasa (mã FHS), chủ chuỗi nhà sách lớn nhất Việt Nam, báo doanh thu thuần quý III gần 1.820 tỷ đồng, tăng hơn 19% so với cùng kỳ. Lãi ròng đạt 20,7 tỷ đồng, tăng 28% – mức lãi theo quý cao nhất kể từ khi công ty công bố kết quả kinh doanh. Thu nhập tài chính khoảng 15 tỷ đồng, gấp đôi, chủ yếu từ hơn 650 tỷ đồng tiền gửi ngân hàng.",
+      "Lũy kế 9 tháng, doanh thu gần 3.986 tỷ đồng (tăng 13,5%) và lãi ròng 46,4 tỷ (tăng hơn 17%). Năm nay Fahasa đặt mục tiêu 4.400 tỷ doanh thu và 75 tỷ đồng lãi trước thuế, dựa vào nâng cấp cửa hàng, mở điểm mới ở thị trường tiềm năng và đẩy mạnh bán hàng online.",
+      "Fahasa hiện có khoảng 150 nhà sách, trong đó khoảng 50 điểm ở TP.HCM; doanh nghiệp từng chiếm hơn một nửa thị trường sách trong nước. Tổng tài sản cuối tháng 9 khoảng 2.200 tỷ đồng; hàng tồn kho tăng lên gần 1.100 tỷ, chiếm hơn một nửa tài sản – đặc thù của ngành bán lẻ sách và văn phòng phẩm khi chuẩn bị mùa cao điểm cuối năm.",
+      "Biên lợi nhuận của Fahasa vẫn rất mỏng (khoảng 1% doanh thu), cho thấy bán lẻ sách là ngành cạnh tranh gay gắt với thương mại điện tử. Cổ phiếu FHS hiện ở khoảng 26.000 đồng nhưng giao dịch thưa thớt; cổ đông lớn nhất là Tổng công ty Văn hóa Sài Gòn với 30,5%."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Coteccons nắm 64% công ty truyền thông AnPR, lãi quý đầu niên độ 305 tỷ",
+     "summary": "Coteccons chuyển khoản vay thành cổ phần, nâng sở hữu AnPR từ 19% lên 64%, biến công ty truyền thông này thành công ty con. Quý đầu niên độ 2027, doanh thu Coteccons tăng 51% lên hơn 11.269 tỷ đồng nhưng lãi chỉ tăng 4% do chi phí lãi vay tăng gấp ba.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/coteccons-lan-san-mang-truyen-thong-5140425.html",
+     "tag": "Mua bán DN",
+     "detail": [
+      "Tập đoàn xây dựng Coteccons (mã CTD) đã nâng tỷ lệ sở hữu tại Công ty cổ phần Truyền thông AnPR từ 19% lên 64% bằng cách chuyển khoản cho vay thành cổ phần. AnPR trở thành công ty con từ cuối tháng 9/2026. Giá trị giao dịch hơn 33 tỷ đồng; trừ đi gần 19 tỷ tiền mặt sẵn có của AnPR, Coteccons thực chi khoảng 15 tỷ đồng.",
+      "AnPR thành lập năm 2018, vốn điều lệ 20 tỷ đồng, từng làm truyền thông cho nhiều thương hiệu như Schneider Electric, Thế Giới Di Động, AIA, Amway, Huawei và gắn bó với Coteccons từ năm 2021. Người sáng lập AnPR hiện là Phó tổng giám đốc khối vận hành của Coteccons.",
+      "Về kinh doanh, quý đầu niên độ 2027 (từ 1/7 đến 30/9/2026), Coteccons có doanh thu hơn 11.269 tỷ đồng, tăng 51%, nhưng lợi nhuận sau thuế chỉ hơn 305 tỷ, tăng khoảng 4%, do chi phí tài chính (chủ yếu lãi vay) tăng hơn ba lần lên khoảng 160 tỷ. Công ty mới hoàn thành khoảng 27% kế hoạch doanh thu và 29% kế hoạch lợi nhuận năm.",
+      "Coteccons cho biết đang chuyển từ tăng quy mô sang hiệu quả vận hành: chọn lọc khách hàng, dự án và điều kiện thanh toán kỹ hơn, giảm phụ thuộc vào tổng thầu truyền thống, mở rộng sang công nghiệp, hạ tầng, thị trường quốc tế và sản phẩm chuyên biệt có biên lợi nhuận cao hơn."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Giả danh công an dọa 'rửa tiền', suýt lừa cụ bà rút 921 triệu tiết kiệm",
+     "summary": "Một phụ nữ 64 tuổi ở Hà Tĩnh bị kẻ gian giả cán bộ điều tra thao túng, dặn nói với ngân hàng là rút tiền 'cho con làm nhà'. Nhân viên Agribank thấy bất thường đã báo công an, kịp ngăn giao dịch 921 triệu đồng.",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/phap-luat/khach-rut-921-trieu-dong-cho-con-lam-nha-nhan-vien-ngan-hang-bao-cong-an-20261104102751202.htm",
+     "tag": "An toàn số",
+     "detail": [
+      "Ngày 2/11, bà P.T.H. (64 tuổi, xã Tứ Mỹ, Hà Tĩnh) nhận cuộc gọi từ một người tự xưng cán bộ cơ quan chức năng, nói bà dính líu đến đường dây rửa tiền thu lợi bất chính 69 tỷ đồng. Kẻ gian liên tục đe dọa, gây áp lực tâm lý và yêu cầu bà giữ bí mật với người thân.",
+      "Khi biết bà có 921 triệu đồng trong các sổ tiết kiệm, đối tượng yêu cầu rút hết và chuyển vào tài khoản chỉ định để \"xác minh, điều tra\", đồng thời dặn trước câu trả lời với ngân hàng là rút tiền \"chuyển cho con làm nhà\" để không bị nghi ngờ.",
+      "Tại chi nhánh Agribank, nhân viên thấy khách có biểu hiện bất thường nên báo Công an xã Tứ Mỹ. Công an xác định bà đang bị thao túng tâm lý; sau khi được giải thích, bà dừng giao dịch và gửi lại tiền tiết kiệm.",
+      "Công an khuyến cáo: cơ quan công an không bao giờ yêu cầu chuyển tiền vào tài khoản cá nhân để phục vụ điều tra; không cung cấp thông tin cá nhân, số tài khoản, mã OTP cho người lạ; khi nhận cuộc gọi đáng ngờ, hãy bình tĩnh và tự liên hệ công an gần nhất. Dấu hiệu nhận biết quan trọng nhất là yêu cầu \"giữ bí mật\" và dặn sẵn lời khai với ngân hàng – nên nhắc kỹ điều này với cha mẹ, người lớn tuổi trong nhà."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-04-1100",
    "date": "2026-11-04",
