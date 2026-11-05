@@ -1,6 +1,225 @@
 {
- "updated": "2026-11-05T15:00:00+07:00",
+ "updated": "2026-11-05T19:02:42+07:00",
  "editions": [
+  {
+   "id": "2026-11-05-1900",
+   "date": "2026-11-05",
+   "slot": "19:00",
+   "createdAt": "2026-11-05T19:02:42+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Xăng E5 giảm hơn 2.300 đồng/lít từ 15h chiều 5/11, lần giảm thứ ba liên tiếp",
+     "summary": "Từ 15h ngày 5/11, xăng E5RON92 còn 20.898 đồng/lít (giảm 2.305 đồng), E10RON95 còn 21.156 đồng/lít (giảm 2.075 đồng); dầu diesel chỉ giảm 180 đồng. Đây là đợt giảm thứ ba trong khoảng một tuần, nhờ giá xăng thế giới lao dốc hơn 11%.",
+     "source": "Sài Gòn Giải Phóng",
+     "url": "https://www.sggp.org.vn/gia-xang-giam-hon-2000-donglit-tu-15-gio-chieu-nay-5-11-post880195.html",
+     "image": "https://image.sggp.org.vn/1200x630/Uploaded/2026/chuwobj/2026_11_01/img-0605-8148-3439.jpg.webp",
+     "detail": [
+      "Liên Bộ Công Thương – Tài chính điều chỉnh giá xăng dầu lúc 15h chiều 5/11. Xăng E5RON92 giảm 2.305 đồng/lít xuống 20.898 đồng; xăng E10RON95-III giảm 2.075 đồng xuống 21.156 đồng/lít. Dầu diesel 0.05S giảm nhẹ 180 đồng, còn 28.696 đồng/lít; dầu mazut giảm 1.969 đồng, còn 22.005 đồng/kg.",
+      "Lý do là giá xăng thành phẩm thế giới giảm mạnh giữa hai kỳ điều hành 3/11 và 5/11: xăng RON92 bình quân giảm 11,61%, RON95 giảm 10,98%, mazut giảm 11,29%, trong khi diesel chỉ giảm 0,44%. Vì thế mức giảm của dầu diesel ở trong nước rất nhỏ so với xăng.",
+      "Đây là lần giảm thứ ba liên tiếp. Trước đó, từ 0h ngày 1/11 xăng đã giảm do thuế tiêu thụ đặc biệt với xăng được đưa về 0%, rồi kỳ 3/11 xăng E5 giảm thêm 1.020 đồng/lít. Cộng dồn, người đi xe máy đã được giảm vài nghìn đồng mỗi lít chỉ trong khoảng một tuần.",
+      "Kỳ này cơ quan điều hành trích lập Quỹ bình ổn giá (quỹ dùng để kìm giá khi thị trường biến động) 700 đồng/lít với xăng sinh học và 500 đồng/kg với mazut, không chi quỹ. Giá nhiên liệu thấp hơn giúp giảm chi phí đi lại của người lao động và chi phí vận tải của doanh nghiệp, có thể góp phần hạ nhiệt giá cả hàng hóa cuối năm."
+     ],
+     "tag": "Áp dụng từ 15h 5/11"
+    },
+    {
+     "cat": "ai",
+     "title": "Microsoft từ chối mở rộng hợp đồng trung tâm dữ liệu AI với Nscale ở Texas",
+     "summary": "Theo Financial Times, Microsoft không dùng quyền mở rộng thêm 700 megawatt tại khu trung tâm dữ liệu của Nscale ở Texas, phần có thể trị giá hàng chục tỷ USD. Đây là lần thứ hai trong vài tuần Microsoft rút lui khỏi một thương vụ với Nscale, đúng lúc công ty này chuẩn bị niêm yết với định giá tới 35 tỷ USD.",
+     "source": "The Next Web (theo Financial Times)",
+     "url": "https://thenextweb.com/news/microsoft-rejects-nscale-texas-option",
+     "image": "https://media.thenextweb.com/2026/11/microsoft-office-dubai-internet-city-2.jpg",
+     "detail": [
+      "Nscale là công ty điện toán đám mây AI có trụ sở ở London, chuyên cho thuê năng lực tính toán bằng chip Nvidia. Tháng 10/2025, công ty ký với Microsoft hợp đồng cung cấp khoảng 200.000 chip Nvidia GB300 tại các địa điểm ở Mỹ và châu Âu, trong đó lớn nhất là khu trung tâm dữ liệu 240 megawatt ở Barstow, Texas, dự kiến giao khoảng 104.000 chip từ quý III/2026.",
+      "Hợp đồng có kèm một quyền chọn: Microsoft có thể thuê thêm giai đoạn hai 700 megawatt từ cuối năm 2027, tức hơn gấp đôi công suất đang thuê. Theo Financial Times ngày 5/11, Microsoft đã quyết định không dùng quyền này. Phần mở rộng đó có thể mang về cho Nscale hàng chục tỷ USD. Hợp đồng Texas hiện tại vẫn giữ nguyên.",
+      "Một người am hiểu cho biết Microsoft ra quyết định từ vài tháng trước khi Nscale nộp hồ sơ niêm yết vào tháng 9. Nscale đang muốn lên sàn New York với định giá tới 35 tỷ USD, đã gọi 3,36 tỷ USD ở vòng trước niêm yết; Nvidia là cổ đông, tập đoàn Aker của Na Uy nắm khoảng 23%.",
+      "Trước đó, tháng 10, Microsoft cũng rút khỏi vai trò khách thuê chính tại khu trung tâm dữ liệu Loughton (Anh) của Nscale, vì việc đấu nối điện bị đẩy sang thập niên 2030. Lãnh đạo Aker gọi đó chỉ là 'một hợp đồng tương đối nhỏ trong danh mục lớn hơn'. Nscale cũng được cho là đã đàm phán với Anthropic về một hợp đồng điện toán khoảng 45 tỷ USD.",
+      "Ý nghĩa: các ông lớn công nghệ vẫn chi rất mạnh cho hạ tầng AI, nhưng đã bắt đầu chọn lọc hơn ở những hợp đồng dài hạn, nhất là nơi nguồn điện chưa chắc chắn. Với nhà đầu tư, đây là tín hiệu cần thận trọng với các công ty cho thuê hạ tầng AI phụ thuộc vào vài khách hàng lớn."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Chiều 5/11: vàng SJC chốt 142,5 triệu đồng/lượng, vàng nhẫn tăng 1,5–2 triệu",
+     "summary": "Cuối ngày 5/11, vàng miếng SJC mua vào 139,5 triệu, bán ra 142,5 triệu đồng/lượng, nhích 100.000 đồng so với hôm trước nhưng thấp hơn mức 144,5 triệu buổi sáng. Vàng nhẫn tăng mạnh hơn, 1,5–2 triệu đồng/lượng, trong khi vàng thế giới lên khoảng 4.125 USD/ounce.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/gia-vang-hom-nay-chieu-5-11-2026-chot-bang-gia-vang-sjc-btmc-btmh-doji-3357523.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/05/gia-vang-hom-nay-chieu-5-11-2026-chot-bang-gia-vang-sjc-btmc-btmh-doji.jpeg",
+     "detail": [
+      "Chốt phiên 17h30 ngày 5/11, vàng miếng SJC loại 1 lượng niêm yết 139,5 triệu đồng mua vào, 142,5 triệu đồng bán ra, cùng tăng 100.000 đồng so với phiên trước. Trong ngày giá biến động khá mạnh: buổi sáng có lúc lên 141,5–144,5 triệu đồng/lượng rồi hạ dần về chiều.",
+      "Vàng nhẫn tăng mạnh hơn vàng miếng. Nhẫn SJC 99,99 lên 138–142 triệu đồng/lượng, tăng 1,5 triệu; nhẫn DOJI Hưng Thịnh Vượng lên 138,5–142,5 triệu, tăng 2 triệu; Kim Gia Bảo của Bảo Tín Mạnh Hải lên 138,8–142,8 triệu, cũng tăng 2 triệu đồng.",
+      "Trên thị trường thế giới, giá vàng giao ngay khoảng 4.124,89 USD/ounce (tăng 1,6%), có lúc lên 4.146,63 USD. Vàng tăng sau kết quả bầu cử giữa kỳ Mỹ khiến giới đầu tư tìm đến tài sản trú ẩn; bạc và bạch kim cũng đồng loạt tăng.",
+      "Lưu ý cho người mua: chênh lệch mua – bán vàng miếng vẫn khoảng 3 triệu đồng/lượng, vàng nhẫn tới 4 triệu đồng. Người mua để tích trữ ngắn hạn dễ chịu lỗ ngay nếu giá đi ngang hoặc giảm nhẹ."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index tăng gần 8 điểm lên 1.741, khối ngoại bán ròng phiên thứ 10",
+     "summary": "Phiên 5/11, VN-Index đóng cửa khoảng 1.741 điểm, tăng gần 8 điểm, chủ yếu nhờ cổ phiếu VIC góp hơn 6,5 điểm. Thanh khoản sàn HoSE giảm 12% còn hơn 15.800 tỷ đồng, khối ngoại bán ròng 239 tỷ đồng, phiên thứ 10 liên tiếp.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/co-phieu-tru-tiep-tuc-do-chung-khoan-5141208.html",
+     "figure": {
+      "value": "1.741",
+      "label": "VN-Index đóng cửa 5/11",
+      "delta": "+8 điểm",
+      "dir": "up",
+      "spark": [
+       1733,
+       1738,
+       1741
+      ]
+     },
+     "detail": [
+      "VN-Index giao dịch phần lớn thời gian trên vùng 1.740 điểm, có lúc lùi về gần 1.730 trong phiên khớp lệnh cuối nhưng hồi lại, chốt phiên quanh 1.741 điểm, tăng gần 8 điểm. Trên HoSE có 163 mã tăng, 137 mã giảm; rổ VN30 có 14 mã tăng, 12 mã giảm. Thị trường được mô tả là 'xanh vỏ, đỏ lòng' – chỉ số tăng nhưng nhiều cổ phiếu giảm.",
+      "Động lực chính là VIC (Vingroup), tăng 1,7% lên 238.000 đồng, một mình đóng góp hơn 6,5 điểm. Các mã ngân hàng, chứng khoán như CTG, STB, MBB, VIX cũng hỗ trợ. Ngược lại GAS, FPT, VCB, VPB, BID kéo chỉ số đi xuống.",
+      "Giá trị giao dịch trên HoSE giảm khoảng 12% so với phiên trước, còn hơn 15.800 tỷ đồng, cho thấy nhà đầu tư vẫn dè dặt. Khối ngoại bán ròng khoảng 239 tỷ đồng, kéo dài chuỗi bán ròng lên 10 phiên, tập trung ở VCB, VHM, VPB, MSN, FPT.",
+      "Các công ty chứng khoán khuyên không mua đuổi giá cao, chỉ giải ngân từng phần vào nhóm ngành đang hút tiền. Vùng 1.750–1.760 điểm được xem là ngưỡng cản gần nhất của chỉ số."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng rà soát năng lực tài chính nhà đầu tư để gỡ các dự án tồn đọng",
+     "summary": "Ngày 5/11, UBND Đà Nẵng yêu cầu đánh giá vốn chủ sở hữu, tỷ lệ nợ vay và khả năng huy động vốn của nhà đầu tư ở các dự án chậm triển khai kéo dài. Doanh nghiệp còn nợ thuế được chọn trả góp tối đa 12 tháng có ngân hàng bảo lãnh hoặc cam kết nộp đủ tiền đất trước 31/12/2026.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-ra-soat-nang-luc-nha-dau-tu-thao-go-vuong-mac-cac-du-an-ton-dong-3357518.html",
+     "tag": "Dự án tồn đọng",
+     "detail": [
+      "UBND thành phố Đà Nẵng ban hành văn bản số 11539 ngày 5/11 để thực hiện kết luận cuộc họp ngày 27/10 về tháo gỡ các dự án tồn đọng, chậm triển khai nhiều năm. Sở Tài chính là đầu mối, phối hợp Sở Xây dựng, Thuế thành phố và Ngân hàng Nhà nước Khu vực 9.",
+      "Năng lực nhà đầu tư được đánh giá theo ba tiêu chí: vốn chủ sở hữu; tỷ lệ nợ vay ngân hàng và trái phiếu doanh nghiệp so với vốn chủ sở hữu; khả năng huy động vốn. Nhà đầu tư có nhiều dự án được phép dồn vốn chủ sở hữu cho dự án cần gỡ trước, không phải chia đều cho mọi dự án.",
+      "Với nghĩa vụ tài chính, mỗi dự án được xem xét riêng. Doanh nghiệp còn nợ có hai lựa chọn: xin nộp dần tiền nợ thuế trong tối đa 12 tháng kèm bảo lãnh ngân hàng; hoặc nộp hết các khoản thuế khác, riêng tiền sử dụng đất, tiền thuê đất cam kết nộp xong trước 31/12/2026. Nếu không thực hiện đúng cam kết, cơ quan chức năng sẽ đề xuất hủy chấp thuận cho tiếp tục giao, cho thuê đất.",
+      "Sở Xây dựng sẽ thuê tư vấn xác định khối lượng đã đầu tư thực tế; Thuế thành phố đối chiếu số phải nộp, đã nộp, còn nợ của từng dự án; ngân hàng được đề nghị kết nối tín dụng cho doanh nghiệp. Khu đô thị Hòa Quý (phường Ngũ Hành Sơn) là một trong các dự án được lãnh đạo thành phố kiểm tra. Nếu gỡ được, nhiều khu đất bỏ hoang lâu năm có thể được đưa vào khai thác, tạo thêm nhà ở, việc làm và nguồn thu ngân sách."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Bộ Công an cảnh báo trang web giả VNeID đánh cắp CCCD, mật khẩu và mã OTP",
+     "summary": "Lực lượng an ninh mạng phát hiện trang web giả mạo giao diện ứng dụng định danh điện tử VNeID, tên miền ghép chữ 'bca' và 'VNeID' để lừa người dùng. Kẻ gian gọi điện báo 'tài khoản định danh mức 2 bị lỗi' rồi gửi link, chiếm thông tin để rút tiền từ tài khoản ngân hàng, ví điện tử.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tat-ca-nguoi-dan-co-tai-khoan-dinh-danh-dien-tu-muc-2-chu-y-thong-bao-quan-trong-tu-cong-an-188261105185117869.chn",
+     "tag": "An toàn số",
+     "detail": [
+      "Bộ Công an vừa phát cảnh báo về một thủ đoạn lừa đảo mới: lực lượng an ninh mạng phát hiện một trang web giả mạo hệ thống định danh điện tử VNeID. Giao diện trang này gần giống ứng dụng thật, còn tên miền được ghép từ 'bca' (viết tắt Bộ Công an) và 'VNeID' để tạo cảm giác chính thống.",
+      "Kịch bản thường gặp: kẻ gian gọi điện, tự xưng công an hoặc cán bộ hành chính, báo rằng tài khoản định danh điện tử mức 2 của người dân bị lỗi, cần 'đồng bộ' hoặc 'kích hoạt' gấp, rồi gửi đường link qua tin nhắn hoặc mạng xã hội. Trang giả yêu cầu nhập số CCCD, số điện thoại, mật khẩu và mã OTP.",
+      "Khi có các thông tin này, kẻ gian có thể chiếm tài khoản VNeID, lộ dữ liệu cá nhân của người dùng và gia đình, chiếm quyền điều khiển điện thoại, rồi truy cập ứng dụng ngân hàng, ví điện tử liên kết để rút tiền.",
+      "Khuyến cáo: chỉ dùng dịch vụ công trên cổng có tên miền '.gov.vn'; chỉ cài VNeID từ App Store, Google Play hoặc cổng chính thức của Bộ Công an; không bấm vào link lạ gửi qua tin nhắn, mạng xã hội. Công an không bao giờ gọi điện yêu cầu cung cấp mã OTP hay mật khẩu. Đây là thông tin hữu ích để phổ biến cho nhân viên trong công ty."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "AMD trả khoảng 2,9 tỷ USD mua Taalas, startup 'khắc' mô hình AI vào chip",
+     "summary": "Báo cáo quý của AMD công bố ngày 4/11 lần đầu tiết lộ giá thương vụ mua startup Canada Taalas: khoảng 2,9 tỷ USD bằng tiền mặt và cổ phiếu, trong đó tới 1,4 tỷ USD chỉ trả khi đạt các điều kiện chưa công bố. Taalas thiết kế chip xây dựng quanh từng mô hình AI để chạy nhanh và rẻ hơn.",
+     "source": "Securities.io (theo The Globe and Mail)",
+     "url": "https://www.securities.io/amd-values-pending-taalas-acquisition-at-approximately-2-9-billion/",
+     "image": "https://www.securities.io/wp-content/uploads/2026/11/amd-values-pending-taalas-acquisition-at-approximately-2-9-billion.jpg",
+     "detail": [
+      "AMD, hãng chip lớn thứ hai về GPU cho AI sau Nvidia, công bố thương vụ mua Taalas từ ngày 6/8/2026 nhưng không nêu giá. Báo cáo tài chính quý nộp ngày 4/11 mới cho biết tổng giá trị khoảng 2,9 tỷ USD, trả bằng cả tiền mặt và cổ phiếu, được báo Canada The Globe and Mail đánh giá là một trong những thương vụ thâu tóm công ty công nghệ Canada lớn nhất.",
+      "Điểm đáng chú ý là khoảng 1,4 tỷ USD trong số đó là 'khoản trả có điều kiện' – chỉ thanh toán nếu đạt những mốc nhất định. AMD không nói rõ điều kiện là gì, cũng không nêu tỷ lệ tiền mặt và cổ phiếu.",
+      "Taalas thành lập năm 2023 tại Toronto. Thay vì làm chip đa năng, công ty thiết kế phần cứng xoay quanh chính mô hình AI cần chạy – gần như 'khắc cứng' mô hình vào silicon – để giảm nghẽn tính toán và bộ nhớ khi suy luận (inference, tức giai đoạn AI trả lời người dùng). CEO Ljubisa Bajic nói mục tiêu là 'xây phần cứng quanh mô hình'.",
+      "AMD dự định đưa công nghệ này vào lộ trình chip tăng tốc Instinct và các hệ thống máy chủ cỡ tủ rack. Thương vụ vẫn chờ cơ quan quản lý phê duyệt, dự kiến hoàn tất trước cuối năm 2026. Trong quý gần nhất, mảng trung tâm dữ liệu của AMD đạt doanh thu 8,5 tỷ USD, tăng 97%; hãng cũng đang chờ hoàn tất thương vụ mua World Labs khoảng 8,2 tỷ USD.",
+      "Ý nghĩa: cuộc đua AI đang chuyển từ huấn luyện mô hình sang phục vụ hàng tỷ lượt hỏi mỗi ngày, nơi chi phí điện và chip quyết định lợi nhuận. Các hãng chip vì vậy sẵn sàng trả giá cao cho công nghệ giúp chạy AI rẻ hơn."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Luật Ngân sách hợp nhất: đại biểu đòi gắn phân bổ vốn với hiệu quả đầu tư công",
+     "summary": "Chiều 5/11, Quốc hội thảo luận dự án Luật Ngân sách nhà nước hợp nhất với Luật Đầu tư công. Đại biểu đề nghị dự án phải đặt chỉ tiêu kết quả trước khi duyệt vốn, làm rõ trách nhiệm chuyển nguồn và giúp giải ngân hiệu quả 8,2 triệu tỷ đồng đầu tư công giai đoạn 2026–2030.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/de-nghi-gan-phan-bo-ngan-sach-voi-hieu-qua-dau-tu-cong-post1400218.html",
+     "tag": "Quốc hội",
+     "detail": [
+      "Tại kỳ họp thứ 2 Quốc hội khóa XVI, chiều 5/11 các đại biểu thảo luận ở hội trường dự án Luật Ngân sách nhà nước (hợp nhất) – gộp Luật Ngân sách nhà nước và Luật Đầu tư công thành một luật. Trọng tâm là đo hiệu quả đồng vốn công, trách nhiệm quản lý và xử lý vốn chuyển nguồn.",
+      "Đại biểu Trịnh Xuân An (Đồng Nai) đề nghị trước khi quyết định đầu tư, dự án phải xác định chỉ tiêu đầu ra, kết quả dự kiến và chi phí trọn vòng đời, kể cả vận hành, bảo trì; kết quả đánh giá phải là căn cứ phân bổ vốn kỳ sau. Đại biểu Bùi Văn Dũng (Thanh Hóa) muốn tách bạch nợ đọng, vốn cho dự án chuyển tiếp và chi phí cho dự án mới để tránh tính trùng.",
+      "Báo cáo thẩm tra nêu con số đáng chú ý: chi chuyển nguồn từ năm 2024 sang 2025 lên tới hơn 1,439 triệu tỷ đồng, bằng 67% số chi thực tế năm 2024 – tức rất nhiều tiền đã được giao nhưng chưa tiêu được. Đại biểu Trần Hoàng Ngân (TP.HCM) cho rằng luật phải giúp giải ngân nhanh 8,2 triệu tỷ đồng vốn đầu tư công 2026–2030 và đề xuất cho phát hành trái phiếu chính phủ tại các trung tâm tài chính quốc tế như TP.HCM và Đà Nẵng.",
+      "Đại biểu Nguyễn Hoàng Trường (Hà Nội) lưu ý năng lực cấp xã còn hạn chế, đề nghị nhiệm vụ giao cho xã phải đi kèm nguồn lực và hướng dẫn sớm để áp dụng từ năm ngân sách 2027. Nếu được thông qua, luật sẽ ảnh hưởng trực tiếp đến tốc độ làm đường, trường, bệnh viện ở các địa phương."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Grab hoàn gần 3,9 tỷ đồng cho tài xế bị thu phí ứng dụng vượt ngưỡng",
+     "summary": "Sau rà soát cùng Ủy ban Cạnh tranh Quốc gia, Grab hoàn khoảng 3,9 tỷ đồng cho tài xế có chuyến xe bị khấu trừ phí vượt mức trần 35% từ năm 2024 đến nay. Tiền được cộng tự động vào ví tài xế từ 5/11; người đã nghỉ chạy phải gửi số tài khoản trước 30/11.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nong-grab-tra-lai-gan-4-ty-dong-cho-tat-ca-cac-tai-xe-se-tu-dong-cong-vao-vi-ke-tu-ngay-5-11-188261105161417101.chn",
+     "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/5/avatar1793870027684-179387002808081701307.jpg",
+     "detail": [
+      "Từ năm 2024, Grab áp dụng 'phí sử dụng ứng dụng linh động' cho các chuyến xe công nghệ, tức mức phí thay đổi theo cung – cầu từng thời điểm. Trong quá trình làm việc với Ủy ban Cạnh tranh Quốc gia, hãng rà soát và thấy khoảng 0,13% số chuyến bị khấu trừ vượt ngưỡng 35% doanh thu chia sẻ do biến động cung cầu hoặc lỗi thuật toán.",
+      "Ngưỡng 35% này tương đương khoảng 28,76% tổng tiền khách trả với GrabCar và 28,28% với GrabBike. Tổng số tiền hoàn trả dự kiến khoảng 3,9 tỷ đồng, bắt đầu từ ngày 5/11/2026.",
+      "Tài xế đang hoạt động được cộng tiền tự động vào ví. Tài xế đã ngừng hợp tác sẽ nhận tin nhắn, email và cần cung cấp tài khoản ngân hàng đứng tên mình trước ngày 30/11/2026. Grab cũng cho biết 8 tháng đầu năm 2026, thu nhập của tài xế kể cả thưởng chiếm 71,6% tổng tiền khách thanh toán.",
+      "Ý nghĩa: đây là ví dụ về việc cơ quan cạnh tranh bắt đầu soi kỹ cách các nền tảng số tính phí với người lao động tự do. Với tài xế công nghệ, nên kiểm tra lịch sử chuyến và ví để chắc chắn đã nhận đủ khoản hoàn."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng còn hơn 1.500 căn nhà tạm chưa khởi công, đề xuất hỗ trợ 100–120 triệu/căn",
+     "summary": "Chiều 5/11, UBND Đà Nẵng họp về chương trình xóa nhà tạm, nhà dột nát với mục tiêu hỗ trợ 5.757 căn đến cuối năm 2027. Ở ba nhóm đối tượng chính mới hoàn thành 651 căn, còn 1.581 căn chưa khởi công; mức hỗ trợ đề xuất 100–120 triệu đồng mỗi căn xây mới.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-phan-dau-hoan-thanh-ke-hoach-xoa-nha-tam-nam-2026-3357535.html",
+     "tag": "Xóa nhà tạm",
+     "detail": [
+      "Theo Kế hoạch 401 ngày 4/8/2026, Đà Nẵng đặt mục tiêu hỗ trợ xóa 5.757 căn nhà tạm, nhà dột nát đến hết năm 2027. Chiều 5/11, Phó Chủ tịch UBND thành phố Trần Nam Hưng chủ trì cuộc họp đánh giá tiến độ.",
+      "Ở nhóm người có công và thân nhân liệt sĩ, đã khởi công 376 căn, hoàn thành 208 căn, còn 1.035 căn chưa khởi công. Nhóm con của người tham gia kháng chiến nhiễm chất độc hóa học: khởi công 127, hoàn thành 115, còn 12 căn. Nhóm hộ nghèo, cận nghèo: khởi công 1.152, hoàn thành 328, còn 534 căn chưa làm.",
+      "Mức hỗ trợ đề xuất: người có công được 120 triệu đồng xây mới, 60 triệu sửa chữa (ngân sách thành phố); hai nhóm còn lại được 100 triệu xây mới, 50 triệu sửa chữa, lấy từ ngân sách và Quỹ Vì người nghèo. Khó khăn là một số nơi khảo sát chưa chính xác làm tăng số hộ, trong khi nguồn vận động xã hội chưa theo kịp nhu cầu.",
+      "Thành phố yêu cầu các xã, phường báo cáo tiến độ hằng tuần, gặp trực tiếp từng hộ người có công chưa khởi công; nếu không thể làm trong năm 2026 thì báo cáo để đưa ra khỏi kế hoạch. Mặt trận Tổ quốc thành phố được đề nghị sớm phân bổ tiền Quỹ Vì người nghèo để các hộ kịp làm nhà trước mùa mưa bão."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Reuters: AI khiến tin tặc tấn công nhanh hơn, doanh nghiệp toàn cầu chạy đua vá lỗi",
+     "summary": "Số lỗ hổng bảo mật được báo cáo trong quý III/2026 gần 37.000, gấp khoảng ba lần năm trước, khi AI giúp tìm và khai thác lỗi nhanh hơn. Các vụ tấn công làm hỏng thực phẩm siêu thị châu Âu hay vụ mất 6,3 tỷ USD tiền mã hóa ở Binance khiến doanh nghiệp đổ tiền vào công cụ phòng thủ bằng AI.",
+     "source": "Insurance Journal (theo Reuters)",
+     "url": "https://insurancejournal.com/news/international/2026/11/05/891648.htm",
+     "image": "https://www.insurancejournal.com/app/uploads/2026/11/hacker-with-binoculars-72082115-Depositphotos-scaled.jpg",
+     "detail": [
+      "Reuters phỏng vấn lãnh đạo nhiều doanh nghiệp lớn và cho thấy làn sóng tấn công mạng đang dày đặc hơn, tinh vi hơn nhờ AI. Đội IT nhiều nơi phải làm xuyên đêm để vá lỗ hổng. Theo kho dữ liệu lỗ hổng CVE, quý III/2026 có gần 37.000 lỗi bảo mật được báo cáo, khoảng gấp ba cùng kỳ năm trước.",
+      "Một số vụ điển hình: tin tặc hai lần trong ba tuần tăng nhiệt độ tủ lạnh, tủ đông ở các siêu thị châu Âu, buộc phải hủy lượng thực phẩm trị giá hàng triệu USD. Tập đoàn bán lẻ Hà Lan Ahold Delhaize bị tấn công hai lần trong một tháng, mất hơn 200 triệu euro doanh số. Sàn tiền mã hóa Binance bị lấy cắp 6,3 tỷ USD.",
+      "Ngày 21/10, hai lỗ hổng trong ngôn ngữ lập trình web PHP do AI phát hiện được công bố, khiến chính phủ và doanh nghiệp từ Tokyo đến Helsinki phải tạm tắt website để vá. Cloudflare cho biết số lần thử khai thác tăng từ vài nghìn lên hàng triệu chỉ trong vài giờ. Hãng bảo mật Claroty kể các nhà nghiên cứu dùng công cụ AI phổ biến để tái tạo lỗi và chiếm quyền một thiết bị điều khiển tủ lạnh thử nghiệm trong khoảng nửa giờ, tốn chừng 6 USD.",
+      "Ở chiều ngược lại, doanh nghiệp cũng dùng AI để phòng thủ: Booking.com có hàng trăm kỹ sư xây công cụ bảo vệ bằng AI; nhà cung cấp hosting Ionos chạy hệ thống giám sát và vá lỗi tự động suốt ngày đêm; cảng Rotterdam xây 'lá chắn mạng' dùng AI. McKinsey dự báo thị trường dịch vụ an ninh mạng thuê ngoài tăng từ 223 tỷ USD năm 2025 lên 346 tỷ USD năm 2029.",
+      "Bài học cho doanh nghiệp nhỏ, kể cả ở Việt Nam: khoảng thời gian từ lúc lỗi được công bố đến lúc bị tấn công giờ chỉ tính bằng giờ. Cần cập nhật phần mềm, website ngay khi có bản vá và đào tạo nhân viên nhận diện email, đường link lạ."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "TP.HCM đặt mục tiêu GRDP quý IV tăng ít nhất 13,23%, tung gói kích cầu hơn 10.000 tỷ",
+     "summary": "Để đạt tăng trưởng 10,2% cả năm 2026, TP.HCM cần GRDP quý IV tăng tối thiểu 13,23% và thu ngân sách hơn 200.000 tỷ đồng trong hai tháng cuối năm. Thành phố dự kiến gói kích cầu tiêu dùng hơn 10.000 tỷ đồng với khoảng 35 sự kiện mua sắm, du lịch kéo dài sang đầu 2027.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/tp-ho-chi-minh-tang-toc-giai-phap-quyet-tam-dat-tang-truong-hai-con-so-post1400234.html",
+     "tag": "Tăng trưởng",
+     "detail": [
+      "Chiều 5/11, UBND TP.HCM sơ kết kinh tế – xã hội 10 tháng. Mục tiêu cả năm là GRDP (tổng sản phẩm trên địa bàn) tăng 10,2%, muốn vậy quý IV phải tăng ít nhất 13,23%. Thu ngân sách cả năm phải vượt 1 triệu tỷ đồng, riêng hai tháng cuối cần thu thêm hơn 200.000 tỷ.",
+      "Kết quả 10 tháng: tổng bán lẻ hàng hóa và dịch vụ hơn 1,67 triệu tỷ đồng, tăng 14,7%; sản xuất công nghiệp tăng 11%; xuất khẩu 84,87 tỷ USD, tăng 10,93%; doanh thu du lịch khoảng 307.216 tỷ đồng, tăng 37,71%. Giải ngân đầu tư công đạt khoảng 118.278 tỷ đồng, bằng 80,1% kế hoạch.",
+      "Để về đích, quý IV thành phố cần công nghiệp tăng 15,4%, bán lẻ tăng 24,5%, xuất khẩu tăng 19,3%. Giải pháp gồm giải ngân 100% vốn đầu tư công, điều chuyển vốn từ đơn vị chậm sang nơi làm nhanh, ưu tiên 15 dự án trọng điểm thu hút vốn tư nhân và FDI.",
+      "Gói kích cầu dự kiến hơn 10.000 tỷ đồng với khoảng 35 sự kiện mua sắm, văn hóa, du lịch, khuyến mại cùng siêu thị, trung tâm thương mại và sàn thương mại điện tử, kéo dài qua Giáng sinh, Tết Dương lịch và Tết Nguyên đán 2027. Với Đà Nẵng, các mục tiêu tăng trưởng cao của TP.HCM cũng phản ánh sức ép chung lên các địa phương lớn trong quý cuối năm."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Công an Đà Nẵng cảnh báo chiêu giả bưu điện lừa người làm hộ chiếu online",
+     "summary": "Kẻ gian giả nhân viên bưu điện gọi cho người vừa nộp hồ sơ hộ chiếu trên VNeID, đòi phí ship 12.000 đồng rồi dụ 'hoàn phí' qua chia sẻ màn hình và mục vay nhanh trên ví MoMo. Công an Đà Nẵng nhắc không chia sẻ màn hình, không cung cấp OTP hay vay tiền theo hướng dẫn của người lạ.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/cong-an-phat-thong-bao-nong-toi-nhung-ai-nhan-duoc-tin-nhan-sms-messenger-co-noi-dung-sau-17626110518023028.chn",
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/5/avatar1793876481865-1793876482205458517221.jpg",
+     "detail": [
+      "Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Công an TP Đà Nẵng vừa cảnh báo thủ đoạn nhắm vào người làm hộ chiếu trực tuyến qua ứng dụng VNeID và đang chờ nhận hộ chiếu qua bưu điện.",
+      "Kịch bản: kẻ gian gọi điện xưng nhân viên bưu điện, nói cần trả 12.000 đồng phí giao hàng. Sau khi nạn nhân chuyển, chúng gọi lại báo 'nhân viên nhập sai số tài khoản', hẹn hoàn tiền, rồi dẫn nạn nhân tới một trang Facebook giả chăm sóc khách hàng bưu điện. Tiếp đó, một người đàn ông yêu cầu chia sẻ màn hình điện thoại, mở mục 'Trung tâm tài chính' trên ví MoMo, nhập số CCCD do chúng cung cấp và mở mục 'Vay nhanh' – tức là dụ nạn nhân vay tiền đứng tên mình.",
+      "Nạn nhân trong vụ việc đã kịp nhắn hỏi fanpage của lực lượng an ninh mạng, được xác nhận là lừa đảo và cắt liên lạc. Công an khuyến cáo: không chia sẻ màn hình, không cài ứng dụng lạ, không đưa mã OTP, mật khẩu ngân hàng, ví điện tử cho bất kỳ ai; không vay, mở tín dụng hay chuyển tiền theo hướng dẫn qua điện thoại.",
+      "Phí giao hộ chiếu và tình trạng giao hàng chỉ nên kiểm tra qua kênh chính thức của cơ quan nhà nước và bưu điện. Nếu lỡ cung cấp thông tin hoặc chuyển tiền, cần báo ngay cho ngân hàng, ví điện tử và trình báo công an gần nhất."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng bắt tay Foody – ShopeeFood xây hệ sinh thái ẩm thực số giai đoạn 2027–2030",
+     "summary": "Chiều 5/11, UBND Đà Nẵng ký biên bản hợp tác với Công ty CP Foody (vận hành ShopeeFood) giai đoạn 2027–2030. Hai bên sẽ xây cơ sở dữ liệu ẩm thực, hỗ trợ hộ kinh doanh chuyển đổi số, tổ chức lễ hội và đưa ẩm thực thành sản phẩm du lịch có thương hiệu.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/da-nang-tang-cuong-phat-trien-he-sinh-thai-am-thuc-3357519.html",
+     "tag": "Du lịch ẩm thực",
+     "detail": [
+      "Chiều 5/11, Phó Chủ tịch UBND thành phố Nguyễn Thị Anh Thi dự lễ ký biên bản ghi nhớ hợp tác giữa thành phố và Công ty CP Foody cho giai đoạn 2027–2030. Trước đó hai bên đã cùng tổ chức Đà Nẵng Food Tour 2026 (20–24/5/2026) và ra mắt bản đồ ẩm thực số Danangfoodmap.vn giúp người dân, du khách tìm quán ăn.",
+      "Nội dung hợp tác gồm: xây dựng hệ sinh thái ẩm thực số và cơ sở dữ liệu ẩm thực Đà Nẵng; mở rộng mạng lưới cơ sở kinh doanh ăn uống; hỗ trợ hộ kinh doanh, doanh nghiệp chuyển đổi số; xây dựng thương hiệu món ăn địa phương; tổ chức chương trình kích cầu, không gian trải nghiệm, sự kiện và lễ hội ẩm thực.",
+      "Foody đóng góp qua nền tảng giao đồ ăn ShopeeFood và mạng lưới đối tác nhà hàng; thành phố mong doanh nghiệp hỗ trợ công nghệ, truyền thông, đào tạo và nguồn lực quảng bá. Hai bên cũng sẽ chia sẻ dữ liệu thị trường để đánh giá hiệu quả.",
+      "Ý nghĩa: thành phố muốn chuyển từ quảng bá đơn thuần sang 'kinh tế ẩm thực' gắn với du lịch. Với các quán ăn, hộ kinh doanh nhỏ ở Đà Nẵng, đây có thể là cơ hội được hỗ trợ lên nền tảng số và tiếp cận thêm khách du lịch."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-05-1500",
    "date": "2026-11-05",
