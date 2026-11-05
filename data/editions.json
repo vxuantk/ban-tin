@@ -1,6 +1,258 @@
 {
- "updated": "2026-11-05T11:05:00+07:00",
+ "updated": "2026-11-05T15:00:00+07:00",
  "editions": [
+  {
+   "id": "2026-11-05-1500",
+   "date": "2026-11-05",
+   "slot": "15:00",
+   "createdAt": "2026-11-05T15:00:00+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "ai",
+     "title": "AI của OpenAI tìm ra 948 cách chiếm quyền quản trị Linux chỉ trong 30 giờ",
+     "summary": "OpenAI công bố một hệ thống 'đặc vụ AI' thử nghiệm đã phát hiện 2.308 lỗi trong nhân Linux và viết được 948 mã khai thác hoạt động thật, tốn khoảng 1,2 triệu USD. Công ty nói mục tiêu là vá lỗi nhanh hơn, nhưng giới bảo mật lo kẻ xấu cũng có công cụ tương tự.",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
+     "detail": [
+      "OpenAI vừa mô tả một quy trình tự động dùng mô hình AI chuyên về an ninh mạng sắp ra mắt để săn lỗi trong nhân Linux – phần lõi của hệ điều hành chạy trên phần lớn máy chủ, điện thoại Android và thiết bị mạng trên thế giới. Loại lỗi được nhắm tới là 'leo thang đặc quyền cục bộ': từ một tài khoản bình thường, kẻ tấn công có thể chiếm quyền quản trị cao nhất (root) của máy.",
+      "Quy trình có năm bước: AI tìm đoạn mã có thể bị lợi dụng, chạy thử trong môi trường cách ly để xác nhận lỗi, đánh giá mức nguy hiểm và viết mã khai thác mẫu, tự đề xuất bản vá, rồi chuyên gia bảo mật con người kiểm tra lại trước khi báo cho đội phát triển Linux. Hồi tháng 6, mô hình GPT-5.5-Cyber của hãng mới chỉ tìm được 24 lỗi kiểu này.",
+      "Trong một lượt chạy khoảng 30 giờ giữa tháng 10, hệ thống phân tích 2.308 phát hiện, tái hiện được 1.724 lỗi, viết được mã khai thác cho 291 lỗi rò rỉ thông tin và 948 mã chiếm quyền root hoạt động trên một bản Linux phổ biến. Tổng chi phí là 1.213.430 USD tiền dùng API, tức khoảng 1.279 USD cho mỗi mã khai thác. AI còn nghĩ ra ít nhất 10 kỹ thuật tấn công mới.",
+      "OpenAI lập luận rằng khi AI tìm lỗi nhanh như vậy thì việc vá lỗi cũng phải được tự động hóa để rút ngắn khoảng thời gian kẻ xấu kịp lợi dụng. Hãng thậm chí khuyến cáo: với hệ thống chưa cập nhật bản vá, một tài khoản quyền thấp nên được coi gần như tương đương quyền quản trị trước một kẻ tấn công có nguồn lực.",
+      "Bối cảnh chung cũng đáng lo: theo nhóm tình báo mối đe dọa của Google, số lỗ hổng công bố mỗi tháng đã tăng từ 5.045 hồi tháng 1 lên 10.740 vào tháng 8/2026. Cơ quan an ninh mạng Anh (NCSC) nhận định công cụ AI phổ biến đã khiến việc phát hiện lỗ hổng 'zero-day' (lỗi chưa có bản vá) tăng mạnh.",
+      "Với doanh nghiệp và người dùng, bài học thực tế là cập nhật hệ điều hành, phần mềm thường xuyên và không trì hoãn bản vá bảo mật. Mô hình AI được dùng trong thử nghiệm này chưa có lịch phát hành công khai."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "VN-Index chạm 1.750 điểm rồi hạ nhiệt, chốt sáng 5/11 ở 1.738 điểm",
+     "summary": "Phiên sáng 5/11, VN-Index tăng 5,84 điểm lên 1.738,86 điểm nhờ VIC và VHM, dù có lúc chạm mốc 1.750. Thanh khoản khớp lệnh 8.334 tỷ đồng, tăng hơn 41% so với sáng hôm trước; HNX-Index giảm gần 1%.",
+     "source": "Tin nhanh Chứng khoán",
+     "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-sang-511-co-phieu-lon-giu-nhip-thi-truong-post400852.html",
+     "image": "https://image.tinnhanhchungkhoan.vn/1200x630/Uploaded/2026/sotnza/2021_10_01/dsc-0526-7727.jpg",
+     "detail": [
+      "Sau phiên tăng hơn 33 điểm hôm 4/11, thị trường chứng khoán sáng 5/11 tiếp tục đi lên nhưng chậm lại rõ rệt. VN-Index có thời điểm chạm ngưỡng 1.750 điểm rồi quay đầu, chốt phiên sáng ở 1.738,86 điểm, tăng 5,84 điểm (+0,34%). Số mã tăng và giảm gần như cân bằng: 147 mã tăng, 148 mã giảm.",
+      "Động lực chính đến từ nhóm Vingroup: riêng VIC tăng 1,5% đóng góp gần 6 điểm cho chỉ số, cùng với VHM. Nhóm 30 cổ phiếu vốn hóa lớn (VN30) chỉ tăng nhẹ dưới 3 điểm, cho thấy đà tăng chưa lan tỏa rộng.",
+      "Dòng tiền vào mạnh hơn: khối lượng khớp lệnh hơn 408 triệu cổ phiếu, giá trị 8.334 tỷ đồng, tăng 32,5% về khối lượng và 41,4% về giá trị so với phiên sáng trước. Cổ phiếu chứng khoán như VIX (+4,4%), VND (+1,5%) tăng tốt; ngân hàng đi ngang, phân hóa; nhóm thép điều chỉnh với HPG giảm 0,5%, NKG giảm 1,2%.",
+      "Ở hai sàn còn lại, HNX-Index giảm 2,51 điểm (-0,97%) xuống 255,37 điểm, UPCoM-Index giảm nhẹ 0,19%. Các bản tin phân tích kỹ thuật buổi trưa nhận định thị trường đang phân hóa và có thể rung lắc khi tiến gần vùng kháng cự 1.750–1.770 điểm (vùng giá mà trước đây chỉ số thường bị bán ra mạnh).",
+      "Với nhà đầu tư cá nhân, phiên sáng cho thấy đà hồi phục còn dựa nhiều vào vài cổ phiếu trụ; nên thận trọng mua đuổi khi chỉ số đến vùng cản và theo dõi diễn biến phiên chiều."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Du lịch Đà Nẵng: 10 tháng đón hơn 17 triệu lượt khách lưu trú, tăng 24,5%",
+     "summary": "Trong 10 tháng 2026, các cơ sở lưu trú ở Đà Nẵng phục vụ hơn 17 triệu lượt khách, trong đó khoảng 8,3 triệu khách quốc tế. Đặt phòng tháng 11–12 tăng 50–60% so với tháng 10, giúp thành phố có cơ hội vượt mục tiêu 19 triệu lượt khách cả năm.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/du-lich-da-nang-tiep-tuc-duy-tri-da-tang-truong-3357440.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/04/21801200b0c1309f69d0.jpg",
+     "detail": [
+      "Năm 2026, Đà Nẵng đặt mục tiêu đón trên 19 triệu lượt khách, tăng 10–12% so với 2025, gồm 8,6–8,7 triệu khách quốc tế và 10,8–11,1 triệu khách nội địa. Sau 10 tháng, các cơ sở lưu trú đã phục vụ hơn 17 triệu lượt khách, tăng 24,5% so với cùng kỳ; khách quốc tế khoảng 8,3 triệu (tăng 24,1%), khách nội địa gần 8,8 triệu (tăng 24,9%).",
+      "Riêng tháng 10, thành phố đón hơn 1,47 triệu lượt khách lưu trú, trong đó khách quốc tế khoảng 732.300 lượt, tăng 7,5% so với cùng kỳ và tăng 10,7% so với tháng 9. Đến đầu tháng 10 có 28 đường bay đến sân bay Đà Nẵng, bình quân 176 chuyến/ngày (108 nội địa, 68 quốc tế), nhiều hơn 33 chuyến so với năm ngoái.",
+      "Doanh nghiệp lữ hành và khách sạn ghi nhận lượng đặt chỗ cuối năm khả quan: một công ty lữ hành ở Hội An đã có hơn 1.000 khách đăng ký cho tháng 12 và đặt chỗ kéo dài tới tháng 3/2027. Lượng đặt phòng tháng 11–12 tăng 50–60% so với tháng 10; Furama Resort dự kiến công suất khoảng 60% trong hai tháng cuối năm, phần lớn là khách quốc tế.",
+      "Đà Nẵng cũng được Skyscanner xếp thứ 7 trong 10 điểm đến đang lên của năm 2027 (thành phố duy nhất của Việt Nam và Đông Nam Á trong danh sách), lượt tìm chuyến bay từ thị trường Anh tăng 68%; Lonely Planet đưa Đà Nẵng vào danh sách Best in Travel 2027.",
+      "Với người dân và doanh nghiệp địa phương, mùa cao điểm cuối năm mở ra nhiều việc làm thời vụ trong khách sạn, nhà hàng, lữ hành; đồng thời giá phòng, vé máy bay dịp lễ có thể tăng, nên ai có kế hoạch đi lại cần đặt sớm."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "26 tỉnh được yêu cầu ứng phó mưa to: Trung Bộ, Đà Nẵng mưa lớn 9–12/11",
+     "summary": "Ban Chỉ đạo Phòng thủ dân sự quốc gia yêu cầu 26 tỉnh, thành Bắc Bộ và Trung Bộ chủ động ứng phó trong 10 ngày tới. Từ 9 đến 12/11, Thanh Hóa đến Huế, Đà Nẵng và Quảng Ngãi – Đắk Lắk có mưa lớn diện rộng; miền Bắc đón đợt rét đầu mùa.",
+     "source": "CafeBiz",
+     "url": "https://cafebiz.vn/tin-gio-mua-dong-bac-moi-nhat-26-tinh-thanh-khan-truong-ung-pho-voi-dot-mua-to-den-rat-to-176261105133307868.chn",
+     "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/5/avatar1793860355045-17938603559021529785797.jpg",
+     "detail": [
+      "Một đợt không khí lạnh mạnh đang tràn xuống, mở đầu mùa đông 2026–2027. Khoảng ngày 8–9/11, miền Bắc và Bắc Trung Bộ có đợt rét diện rộng đầu tiên, nhiệt độ thấp nhất phổ biến 16–19 độ C, vùng núi Bắc Bộ có nơi dưới 13 độ C.",
+      "Không khí lạnh kết hợp với các nhiễu động gió khiến miền Trung có mưa lớn diện rộng từ ngày 9 đến 12/11, tập trung ở khu vực từ Thanh Hóa đến TP Huế, TP Đà Nẵng và phía đông các tỉnh từ Quảng Ngãi đến Đắk Lắk. Bài báo chưa nêu lượng mưa cụ thể.",
+      "Tối 4/11, Ban Chỉ đạo Phòng thủ dân sự quốc gia ban hành Công văn số 60 yêu cầu 26 tỉnh, thành chủ động ứng phó: theo dõi cảnh báo gió mạnh trên biển để thông báo cho tàu thuyền; ở Trung Bộ, rà soát và sơ tán dân khỏi vùng có nguy cơ ngập sâu, lũ quét, sạt lở, đồng thời vận hành hồ chứa hợp lý.",
+      "Với người dân Đà Nẵng, đây là thời điểm nên kiểm tra nhà cửa, cống thoát nước quanh nhà, chuẩn bị đồ dùng thiết yếu và theo dõi thông báo của chính quyền phường, xã. Doanh nghiệp cần tính trước phương án cho người lao động đi lại an toàn và bảo vệ hàng hóa ở khu vực trũng thấp."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "vn",
+     "title": "Chính phủ trình hơn 63.000 tỷ đồng cho chương trình phòng chống ma túy, tội phạm",
+     "summary": "Sáng 5/11, Bộ trưởng Công an trình Quốc hội chương trình mục tiêu quốc gia phòng, chống ma túy và tội phạm 2026–2035 với tổng vốn khoảng 63.452 tỷ đồng. Mục tiêu: giảm 10% tội phạm trật tự xã hội mỗi năm, ít nhất 50% xã, phường không ma túy vào 2030.",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/trinh-quoc-hoi-chuong-trinh-muc-tieu-quoc-gia-phong-chong-ma-tuy-va-toi-pham-den-2035-100261105085028046.htm",
+     "tag": "Quốc hội",
+     "detail": [
+      "Theo tờ trình, chương trình chia làm hai giai đoạn. Giai đoạn 2026–2030 cần 45.301 tỷ đồng, gồm 22.450 tỷ đã được duyệt theo Nghị quyết 163 cho phòng chống ma túy và 22.851 tỷ đề nghị bổ sung cho phòng chống tội phạm. Giai đoạn 2031–2035 dự kiến 18.151 tỷ đồng; Chính phủ sẽ báo cáo nguồn vốn sau khi đánh giá giai đoạn đầu.",
+      "Đến năm 2030, chương trình đặt mục tiêu ít nhất 50% xã, phường, đặc khu trên cả nước không có ma túy; phát hiện, xóa bỏ 100% điểm nóng, tụ điểm và đối tượng bán lẻ ma túy, 100% diện tích trồng cây có chất ma túy. Tội phạm về trật tự xã hội phải giảm 10% mỗi năm, 100% băng nhóm tội phạm bị nhận diện, triệt phá.",
+      "Về điều tra, ngành công an đặt chỉ tiêu tiếp nhận 100% tin báo tội phạm, tỷ lệ giải quyết trên 88%, tỷ lệ điều tra khám phá trên 75%, riêng án rất nghiêm trọng và đặc biệt nghiêm trọng trên 90%. Số vụ phát hiện qua biên giới, đường biển, sân bay, chuyển phát nhanh và trên không gian mạng phải tăng hằng năm.",
+      "Ủy ban Pháp luật và Tư pháp của Quốc hội cơ bản đồng tình nhưng yêu cầu rà soát để tránh trùng nhiệm vụ, trùng vốn với các chương trình mục tiêu quốc gia khác; làm rõ đối tượng, địa bàn, sản phẩm đầu ra; phân bổ vốn theo độ khó và kết quả thay vì chia đều, ưu tiên khu vực biên giới.",
+      "Chương trình liên quan trực tiếp đến an ninh khu dân cư: nếu được thông qua, các địa phương như Đà Nẵng sẽ có thêm nguồn lực cho công an cơ sở, cai nghiện và phòng ngừa tội phạm mạng – loại tội phạm đang nhắm nhiều vào người lao động qua lừa đảo trực tuyến."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Trung Quốc chặn thương vụ SoftBank mua mảng robot ABB giá 5,4 tỷ USD",
+     "summary": "Theo Financial Times, cơ quan kế hoạch Trung Quốc thông báo sẽ không phê duyệt việc SoftBank mua mảng robot của ABB, vì lo dữ liệu robot bị chuyển ra nước ngoài để huấn luyện AI. Đây là đòn giáng vào tham vọng AI và robot của tỷ phú Masayoshi Son.",
+     "source": "BusinessWorld (theo Financial Times)",
+     "url": "https://www.businessworld.in/article/china-blocks-softbank-s-5-4-bn-abb-robotics-acquisition-report-632201",
+     "image": "https://static.businessworld.in/1584082362_c2MbDJ_2020_03_13T064228Z_1_LYNXMPEG2C0JT_RTROPTP_4_SOFTBANK_GROUP_BUYBACK.JPG",
+     "detail": [
+      "Tập đoàn đầu tư SoftBank (Nhật Bản) đã đồng ý từ tháng 10 năm ngoái mua lại mảng robot công nghiệp của tập đoàn kỹ thuật ABB (Thụy Sĩ) với giá 5,4 tỷ USD. Thương vụ cần được nhiều nước phê duyệt, trong đó có Trung Quốc – thị trường chiếm khoảng 30% hoạt động kinh doanh robot của ABB.",
+      "Theo báo Financial Times, Ủy ban Phát triển và Cải cách quốc gia Trung Quốc (NDRC) – cơ quan hoạch định kinh tế hàng đầu – đã báo cho SoftBank rằng họ 'sẽ không phê duyệt giao dịch'. SoftBank, ABB và phía Trung Quốc đều chưa đưa ra tuyên bố chính thức.",
+      "Lý do được nêu là lo ngại dữ liệu từ robot hoạt động ở Trung Quốc bị chuyển ra nước ngoài và có thể được dùng để huấn luyện các mô hình AI, kể cả của OpenAI – công ty mà SoftBank là một trong những nhà đầu tư lớn nhất. Dữ liệu vận hành robot đang được xem là 'nguyên liệu' quý để phát triển AI điều khiển máy móc trong thế giới thực.",
+      "Ông Masayoshi Son, Chủ tịch kiêm CEO SoftBank, muốn đưa tập đoàn vào trung tâm hệ sinh thái AI, không chỉ phần mềm và hạ tầng tính toán mà cả robot và tự động hóa công nghiệp. Mảng robot của ABB sẽ giúp SoftBank có ngay công nghệ và khách hàng trong lĩnh vực này.",
+      "Vụ việc cho thấy cuộc cạnh tranh công nghệ Mỹ – Trung đã lan sang cả dữ liệu robot. Với các nhà máy, doanh nghiệp FDI ở Việt Nam đang dùng robot công nghiệp, quy định về dữ liệu và nguồn gốc thiết bị có thể ngày càng được các nước siết chặt."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Cục Thuế cấm ép người dân bỏ tiền thuế nộp thừa để được đóng mã số thuế",
+     "summary": "Cục Thuế yêu cầu công chức không được gợi ý hay gây sức ép buộc người nộp thuế từ chối khoản tiền nộp thừa để đóng mã số thuế nhanh. Hồ sơ đủ thì trong một ngày làm việc phải cập nhật trạng thái mã số thuế; cả nước còn hơn 2,5 triệu đơn vị đã ngừng hoạt động nhưng chưa đóng mã.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/co-quan-thue-cam-ep-nguoi-dan-tu-choi-nhan-lai-tien-nop-thua-de-dong-ma-so-5140892.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/wm1-wm1-dsc2018-1793811687-4207-1793811817.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=mG2l5CWj28lsTraaFDiSmQ",
+     "detail": [
+      "Cục Thuế vừa có văn bản hướng dẫn thủ tục đóng mã số thuế với người nộp thuế không còn hoạt động tại địa chỉ đăng ký (gọi là 'trạng thái 06'). Văn bản ra đời sau phản ánh rằng một số công chức thuế yêu cầu người dân, hộ kinh doanh phải từ chối nhận lại tiền thuế đã nộp thừa thì mới đóng hồ sơ nhanh.",
+      "Theo chỉ đạo mới, công chức thuế bị cấm gợi ý, gây sức ép hoặc yêu cầu người nộp thuế bỏ khoản tiền được hoàn hay được bù trừ. Cơ quan thuế phải hướng dẫn thủ tục để người nộp nhận lại tiền thừa hoặc bù trừ vào nghĩa vụ thuế khác đúng quy định; chi cục thuế địa phương phải tăng kiểm tra nội bộ, tiếp nhận phản ánh và xử lý vi phạm.",
+      "Trong vòng một ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ, cơ quan thuế phải cập nhật trạng thái mã số thuế của người nộp và các đơn vị phụ thuộc trên hệ thống.",
+      "Theo Bộ Tài chính, đến 23/10 cả nước còn hơn 2,5 triệu doanh nghiệp, hộ kinh doanh đã ngừng hoạt động nhưng chưa đóng mã số thuế (khoảng 643.000 trường hợp trạng thái 03 và gần 1,88 triệu trạng thái 06). Từ đầu năm, cơ quan thuế mới đóng mã cho 777.835 trường hợp.",
+      "Điều này hữu ích cho người từng kinh doanh hoặc doanh nghiệp đã giải thể: nếu còn tiền thuế nộp thừa, bạn có quyền đề nghị hoàn hoặc bù trừ và không buộc phải từ bỏ; nếu bị ép, có thể phản ánh lên cơ quan thuế cấp trên."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "biz",
+     "title": "TP.HCM hút 19,1 tỷ USD vốn FDI trong 10 tháng, gấp 4,2 lần cùng kỳ",
+     "summary": "Sau khi sáp nhập với Bình Dương và Bà Rịa – Vũng Tàu, TP.HCM thu hút khoảng 19,1 tỷ USD vốn ngoại trong 10 tháng, chiếm hơn 30% cả nước. Dự án lớn gồm cảng trung chuyển Cần Giờ hơn 4,9 tỷ USD và trung tâm dữ liệu AI 2,1 tỷ USD.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/von-fdi-vao-tp-hcm-tang-hon-4-lan-5141078.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/dji-1793854784-1369-1793854930.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=b0lWg2PhMtP025Kjb0mQVw",
+     "detail": [
+      "Theo Cục Thống kê TP.HCM, sau sáp nhập thành phố trở thành vùng kinh tế hơn 14 triệu dân, đóng góp khoảng 23,5% GDP cả nước và dẫn đầu về thu hút vốn đầu tư nước ngoài (FDI). Trong 10 tháng, tổng vốn FDI đạt khoảng 19,1 tỷ USD, gấp 4,2 lần cùng kỳ 2025.",
+      "Trong đó, khoảng 9,8 tỷ USD đến từ 1.726 dự án mới, 5,7 tỷ USD từ các dự án tăng vốn và hơn 3,6 tỷ USD từ góp vốn, mua cổ phần. Cả nước có 54,85 tỷ USD vốn FDI đăng ký, nên TP.HCM chiếm hơn 30%. Hai dự án nổi bật là cảng trung chuyển quốc tế Cần Giờ (hơn 4,9 tỷ USD) và trung tâm dữ liệu 'Nhà máy AI' (2,1 tỷ USD).",
+      "Các chỉ số khác cũng tích cực: sản xuất công nghiệp tăng 11%, xuất khẩu tăng 10,9%, tổng mức bán lẻ tăng 14,7%, giải ngân đầu tư công đạt 77,5% kế hoạch. Tuy nhiên giá nhiên liệu thế giới tăng đẩy chỉ số giá tiêu dùng (CPI) bình quân 10 tháng lên 4,78%; số doanh nghiệp thành lập mới giảm 6% và vốn đăng ký giảm 58,1%.",
+      "Phó chủ tịch UBND TP.HCM Nguyễn Lộc Hà nêu bốn nhóm giải pháp: hoàn thiện thể chế, quy hoạch dài hạn; kết nối nhà đầu tư với chuỗi cung ứng trong nước; phát triển hạ tầng và động lực mới như trung tâm tài chính quốc tế, khu thương mại tự do, logistics, AI; nâng chất lượng dịch vụ hỗ trợ doanh nghiệp.",
+      "Với Đà Nẵng – cũng đang xây trung tâm tài chính quốc tế và khu thương mại tự do – kết quả của TP.HCM cho thấy cạnh tranh hút vốn ngoại giữa các đô thị lớn đang rất mạnh. Với người lao động, dòng FDI lớn thường đi kèm nhu cầu tuyển dụng kỹ sư, nhân sự logistics và công nghệ."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Anthropic lần đầu trả tiền mua bản quyền tin tức: hợp tác với hãng AP",
+     "summary": "Anthropic và hãng thông tấn AP ký thỏa thuận cấp phép dữ liệu ngay trước bầu cử giữa kỳ Mỹ, để Claude trả lời kết quả bầu cử theo thời gian thực có dẫn nguồn AP. Đây là lần đầu Anthropic trả tiền cho một nhà xuất bản tin tức.",
+     "source": "Adweek",
+     "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+     "image": "https://static-www.adweek.com/wp-content/uploads/2026/04/Claude-Design-hero-image-2026.png?w=600&h=315&crop=1",
+     "detail": [
+      "Theo hai nguồn tin của tạp chí Adweek, Anthropic – công ty phát triển trợ lý AI Claude – đã ký thỏa thuận cấp phép nội dung và dữ liệu với hãng thông tấn Associated Press (AP) ngay trước bầu cử giữa kỳ Mỹ. Nhờ đó, trong đêm bầu cử, người dùng Claude hỏi về kết quả được nhận thông tin cập nhật có ghi nguồn AP.",
+      "Giá trị và thời hạn hợp đồng không được công bố; cả Anthropic và AP đều không bình luận chính thức. Điểm đáng chú ý là đây là lần đầu tiên Anthropic trả tiền cho một nhà xuất bản tin tức số để dùng nội dung của họ.",
+      "Trước đây, Anthropic được cho là cho rằng việc thu thập, sử dụng nội dung báo chí thuộc diện 'sử dụng hợp lý' (fair use – ngoại lệ trong luật bản quyền Mỹ) nên không cần trả phí. Trong khi đó OpenAI đã ký hơn chục thỏa thuận với các nhà báo lớn như Axel Springer, News Corp hay The Atlantic.",
+      "Adweek nhận định nhiều báo lớn đã chặn công cụ thu thập dữ liệu của AI, khiến chatbot phải dựa vào nguồn kém tin cậy hơn; đây là sức ép buộc các công ty AI phải ngồi vào bàn đàm phán. AP là đối tác đặc biệt vì phần lớn doanh thu của hãng đến từ bán bản quyền tin, và AP cũng là nhà xuất bản đầu tiên ký với Google và OpenAI.",
+      "Thỏa thuận diễn ra khi Anthropic được cho là chuẩn bị niêm yết cổ phiếu trong vài tuần tới. Tác giả cho rằng đây mới là phép thử có giới hạn; kết quả sẽ quyết định Anthropic có ký thêm với các báo khác hay không. Với người dùng, xu hướng này giúp câu trả lời của AI về thời sự có nguồn rõ ràng và đáng tin hơn."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng mở đợt cao điểm đo đạc, đăng ký đất đai ở 34 xã, phường",
+     "summary": "UBND TP Đà Nẵng yêu cầu đẩy nhanh đo đạc, lập bản đồ địa chính, kê khai đăng ký đất đai tại 34 xã, phường, cơ bản xong trong năm 2026. Người dân được đề nghị cung cấp giấy tờ, phối hợp xác định ranh giới thửa đất.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/day-nhanh-tien-do-do-dac-ke-khai-dang-ky-dat-dai-3357462.html",
+     "tag": "Đất đai",
+     "detail": [
+      "UBND TP Đà Nẵng vừa ban hành Công văn số 11385/UBND-SNNMT về đẩy nhanh đo đạc, lập bản đồ địa chính, đăng ký đất đai, lập hồ sơ địa chính và xây dựng cơ sở dữ liệu đất đai quốc gia tại 34 xã, phường. Dữ liệu phải bảo đảm tiêu chí 'đúng – đủ – sạch – sống', tức chính xác, đầy đủ, được làm sạch và luôn cập nhật.",
+      "Mốc thời gian: trong năm 2026 hoàn thành xây dựng cơ sở dữ liệu và đồng bộ với Trung tâm Dữ liệu quốc gia cho các thửa đất đã có dữ liệu; năm 2027 làm tiếp với các thửa chưa có dữ liệu. Từ nay đến hết năm 2026 là đợt cao điểm làm sạch dữ liệu, đo đạc thực địa và kê khai đăng ký.",
+      "Mỗi xã, phường phải phân công một lãnh đạo phụ trách, đưa tiến độ vào giao ban hằng tuần và báo cáo hai tuần một lần. Công an cấp xã đối chiếu thông tin người sử dụng đất với cơ sở dữ liệu dân cư quốc gia. Trường hợp tranh chấp ranh giới, nguồn gốc đất hoặc đất chưa rõ chủ phải được rà soát, hòa giải và niêm yết công khai theo quy định.",
+      "Người dân được đề nghị cung cấp giấy tờ về đất, phối hợp xác định mốc ranh giới và thông tin cá nhân, hoàn tất kê khai đăng ký. Việc này có lợi trực tiếp: hồ sơ đất chuẩn hóa sẽ giúp thủ tục cấp sổ, chuyển nhượng, thế chấp vay vốn sau này nhanh và ít rủi ro tranh chấp hơn."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "know",
+     "title": "Hội viên phòng tập California có thể kiện ra tòa đòi hoàn phí",
+     "summary": "Bộ Công Thương cho biết hội viên California Fitness & Yoga có thể tự khởi kiện hoặc ủy quyền cho tổ chức bảo vệ người tiêu dùng để đòi chấm dứt hợp đồng, hoàn tiền. Điều khoản trọng tài trong hợp đồng mẫu không ngăn người tiêu dùng chọn kiện ra tòa.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/bo-cong-thuong-hoi-vien-chuoi-phong-tap-california-co-the-kien-doi-hoan-phi-5140891.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/nhmnhnh20261104lc234145-179381-9576-8147-1793810803.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=0u35lAT4ZUU-2dtJfmg9sQ",
+     "detail": [
+      "Chuỗi California Fitness & Yoga đã đóng cửa hàng loạt phòng tập trên cả nước; tính đến 3/11 chỉ còn cơ sở ở Bình Dương hoạt động, công ty dự kiến mở lại hai cơ sở ở Vũng Tàu và Biên Hòa từ 5/11. Ủy ban Cạnh tranh quốc gia (Bộ Công Thương) đã nhận nhiều đơn của hội viên đề nghị hỗ trợ chấm dứt hợp đồng, hoàn tiền.",
+      "Bộ Công Thương xác định đây là quan hệ dân sự giữa khách hàng và doanh nghiệp. Hội viên có thể tự khởi kiện hoặc ủy quyền cho tổ chức xã hội bảo vệ người tiêu dùng khởi kiện thay. Cần chuẩn bị hợp đồng và phụ lục, chứng từ thanh toán, các thông báo và trao đổi với công ty; tòa án sẽ xem xét có căn cứ chấm dứt hợp đồng, hoàn tiền và mức hoàn hay không.",
+      "Sổ tay hội viên ghi tranh chấp được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC). Tuy nhiên, theo Luật Bảo vệ quyền lợi người tiêu dùng 2023, khi điều khoản trọng tài nằm trong hợp đồng mẫu hoặc điều kiện giao dịch chung, người tiêu dùng vẫn được chọn cách giải quyết khác, nên hội viên vẫn có thể kiện ra tòa.",
+      "Phía công ty chưa đưa ra phương án hoàn tiền mà đề xuất hội viên trả thêm 599.000 đồng/tháng để tiếp tục dùng dịch vụ ở một số cơ sở, kèm lựa chọn bảo lưu hoặc chuyển nhượng quyền lợi. Lãnh đạo công ty xin thêm 30 ngày để tái cấu trúc và hẹn công bố giải pháp dài hạn vào 19/11.",
+      "Bài học chung khi mua gói dịch vụ trả trước dài hạn (phòng tập, spa, học tiếng Anh…): giữ đủ hợp đồng, hóa đơn, tin nhắn; hạn chế mua gói quá dài; và biết rằng điều khoản trọng tài trong hợp đồng mẫu không tước quyền kiện ra tòa của bạn."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "fin",
+     "title": "Tin tặc rút khoảng 112 triệu USD từ ngân hàng Pháp Crédit Mutuel Arkéa",
+     "summary": "Ngân hàng Crédit Mutuel Arkéa cho biết bị tấn công mạng ngày 4/11, tin tặc chuyển khoảng 100 triệu euro từ tài khoản của chính ngân hàng rồi đổi sang tiền mã hóa. Ngân hàng khẳng định tài khoản khách hàng không bị ảnh hưởng; công tố Paris đã mở điều tra.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ngan-hang-phap-bi-tin-tac-danh-cap-hon-110-trieu-usd-5141067.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/7e5b779af82b0f1eb21d4311b5e414-9045-4041-1793854234.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=sQ2IMh0tlsoY0zVyyGDGsg",
+     "detail": [
+      "Crédit Mutuel Arkéa, một ngân hàng khu vực của Pháp, xác nhận bị tấn công ngày 4/11. Tin tặc đã truy cập vào tài khoản riêng của ngân hàng, chuyển tiền sang các ngân hàng khác, sau đó đổi số tiền này thành tiền mã hóa qua các nền tảng chuyên dụng.",
+      "Số tiền bị đánh cắp khoảng 100 triệu euro, tương đương 112 triệu USD, và vẫn đang được đánh giá. Ngân hàng đã phong tỏa được một phần và đang tìm cách thu hồi phần còn lại; họ loại trừ khả năng lỗi do nhân viên và gọi đây là 'một cuộc tấn công tinh vi từ bên ngoài'.",
+      "Arkéa khẳng định tài khoản khách hàng không bị xâm nhập, khách hàng không chịu thiệt hại, và khoản mất mát không đe dọa sức khỏe tài chính của tập đoàn – vốn lãi ròng 230 triệu euro trong nửa đầu năm. Viện Công tố Paris đã mở điều tra tội tấn công có tổ chức vào hệ thống xử lý dữ liệu tự động.",
+      "Vụ việc được phát hiện đầu tiên bởi nhà điều tra độc lập ZachXBT, chuyên lần theo dòng tiền trên blockchain (sổ cái công khai ghi lại giao dịch tiền mã hóa). Theo ông, tiền bị chuyển qua nhiều tài khoản trên các sàn tiền mã hóa.",
+      "Vụ tấn công cho thấy ngay cả hệ thống ngân hàng châu Âu cũng có thể bị xuyên thủng, và tiền mã hóa vẫn là kênh tẩu tán phổ biến. Với người dùng, cần bật xác thực hai lớp cho tài khoản ngân hàng và cảnh giác với các lời mời đầu tư tiền số."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "ChatGPT tạo được ảnh động GIF với mô hình Images 2.6",
+     "summary": "OpenAI ra mắt Images 2.6, cho phép tạo ảnh GIF từ câu lệnh hoặc ảnh tải lên, chỉnh tốc độ và từng khung hình. Hãng cho biết người dùng hiện tạo hơn 4 tỷ ảnh mỗi tuần, tăng từ 3 tỷ hồi tháng 9.",
+     "source": "The Next Web",
+     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai",
+     "image": "https://media.thenextweb.com/2026/11/chatgpt-app-iphone-wooden-table-openai-logo.jpg",
+     "detail": [
+      "OpenAI vừa bổ sung khả năng tạo ảnh động GIF ngay trong ChatGPT nhờ mô hình tạo ảnh mới Images 2.6. Trước đây, ChatGPT không thể làm GIF trong một bước.",
+      "Người dùng có thể tạo GIF từ một câu mô tả hoặc từ ảnh tải lên, điều chỉnh tốc độ phát, xem và sửa từng khung hình rồi chia sẻ. Images 2.6 cũng giúp việc tạo ảnh thông thường nhanh hơn. Tính năng được triển khai cho mọi người dùng ChatGPT và Codex trên web, máy tính và điện thoại.",
+      "Cho lập trình viên, OpenAI tung hai mô hình API: GPT-Image-2.6 Flare ưu tiên tốc độ và GPT-Image-2.6 Sunburst ưu tiên chất lượng, tiếp nối cách chia 'nhanh – đẹp' từ bản 2.5 hồi tháng 9. Bài viết không nêu giá.",
+      "Theo OpenAI, người dùng hiện tạo hơn 4 tỷ hình ảnh mỗi tuần qua ChatGPT và API, tăng từ 3 tỷ hồi tháng 9. Hãng đã đóng ứng dụng video Sora từ tháng 3 và tháng trước bắt đầu thử quảng cáo trong tính năng tạo ảnh tại Mỹ.",
+      "Với dân văn phòng, làm truyền thông nội bộ hay nhân sự, tính năng này giúp tự làm ảnh động minh họa cho thông báo, bài đăng tuyển dụng hoặc slide mà không cần phần mềm thiết kế chuyên dụng. Cần lưu ý bản quyền và tránh dùng hình ảnh người thật khi chưa được phép."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "ai",
+     "title": "Isomorphic Labs của Google đàm phán gọi 5 tỷ USD, định giá 50 tỷ USD",
+     "summary": "Theo Bloomberg, Isomorphic Labs – công ty dùng AI thiết kế thuốc tách ra từ Google DeepMind – đang đàm phán huy động khoảng 5 tỷ USD với định giá khoảng 50 tỷ USD, dù chưa có loại thuốc nào được thử trên người.",
+     "source": "Trending Topics (theo Bloomberg)",
+     "url": "https://www.trendingtopics.eu/isomorphic-labs-hassabis-pharma-ai-set-for-5-billion-dollar-mega-round-without-a-single-drug-tested-in-humans/",
+     "figure": {
+      "value": "50 tỷ USD",
+      "label": "Định giá dự kiến của Isomorphic Labs",
+      "delta": "gấp khoảng 2,4 lần vòng tháng 5",
+      "dir": "up"
+     },
+     "detail": [
+      "Isomorphic Labs được tách ra từ Google DeepMind năm 2021, do ông Demis Hassabis – người đoạt Nobel Hóa học 2024 nhờ AlphaFold (AI dự đoán cấu trúc protein) – dẫn dắt. Công ty dùng AI để thiết kế phân tử thuốc trên máy tính, tập trung vào ung thư và miễn dịch.",
+      "Theo Bloomberg, công ty đang đàm phán gọi khoảng 5 tỷ USD với mức định giá khoảng 50 tỷ USD. Cuộc đàm phán mới ở giai đoạn đầu, điều khoản có thể thay đổi. Đầu tháng 10, mức định giá được nhắc tới mới là ít nhất 40 tỷ USD.",
+      "Trước đó, tháng 5/2026 công ty đã gọi 2,1 tỷ USD vòng B do Thrive Capital dẫn dắt, với sự tham gia của Alphabet, Temasek, quỹ AI quốc gia Anh…; năm 2025 gọi 600 triệu USD. Nếu vòng mới thành công, tổng vốn huy động sẽ gần 7,7 tỷ USD trong khoảng 18 tháng.",
+      "Isomorphic có hợp đồng với Eli Lilly (45 triệu USD trả trước, tối đa 1,7 tỷ USD theo tiến độ), Novartis (37,5 triệu USD trả trước, tối đa 1,2 tỷ USD) và Johnson & Johnson. Tuy nhiên các khoản lớn chỉ được trả khi thuốc do AI thiết kế tiến vào thử nghiệm lâm sàng – điều đến nay chưa xảy ra; mốc thử nghiệm trên người đã bị lùi từ cuối 2025 sang cuối 2026.",
+      "Không phải ai cũng lạc quan: CEO Eli Lilly cho rằng các mô hình ngôn ngữ 'không giỏi lắm' về sinh học và hóa học. Mức định giá cao cho thấy giới đầu tư đang đặt cược lớn vào việc AI rút ngắn thời gian và chi phí làm ra thuốc mới, điều có thể ảnh hưởng tới giá thuốc trong tương lai."
+     ],
+     "note": ""
+    },
+    {
+     "cat": "dn",
+     "title": "Duyệt giá đất tái định cư vành đai phía tây: 2–2,44 triệu đồng/m²",
+     "summary": "UBND TP Đà Nẵng phê duyệt giá đất ở tái định cư tại khu tái định cư phục vụ tuyến vành đai phía tây (xã Hòa Khương): 2 triệu đồng/m² với đường 5,5 m và 2,44 triệu đồng/m² với đường 7,5 m, áp dụng cho các hộ được duyệt phương án từ 1/8/2024 đến trước 1/1/2025.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/phe-duyet-gia-dat-tai-dinh-cu-tai-khu-tai-dinh-cu-tuyen-duong-vanh-dai-phia-tay-3357457.html",
+     "tag": "Giá đất",
+     "detail": [
+      "UBND TP Đà Nẵng vừa phê duyệt giá đất ở tái định cư tại Khu tái định cư phục vụ giải tỏa tuyến đường vành đai phía tây, xã Hòa Khương. Mức giá này là căn cứ để thu tiền sử dụng đất của các hộ gia đình, cá nhân được bố trí tái định cư.",
+      "Cụ thể, lô đất mặt đường rộng 5,5 m có giá 2.000.000 đồng/m²; lô mặt đường rộng 7,5 m có giá 2.440.000 đồng/m². Giá áp dụng cho các trường hợp đã được phê duyệt phương án bồi thường, hỗ trợ, tái định cư trong khoảng từ 1/8/2024 đến trước 1/1/2025 nhưng đến nay chưa có giá đất.",
+      "Thành phố giao chính quyền xã phối hợp với Trung tâm Phát triển quỹ đất – Chi nhánh Khu vực 4 rà soát thời điểm phê duyệt phương án của từng hộ để áp đúng giá, đồng thời phối hợp cơ quan thuế xác định, thông báo và hướng dẫn người dân thực hiện nghĩa vụ tài chính.",
+      "Với các hộ dân nhường đất cho tuyến vành đai phía tây, quyết định này gỡ vướng kéo dài hơn một năm, giúp họ sớm nộp tiền, hoàn thiện thủ tục và được cấp giấy chứng nhận quyền sử dụng đất tại nơi ở mới."
+     ],
+     "note": ""
+    }
+   ]
+  },
   {
    "id": "2026-11-05-1100",
    "date": "2026-11-05",
