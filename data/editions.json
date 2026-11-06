@@ -1,6 +1,200 @@
 {
- "updated": "2026-11-06T11:03:44+07:00",
+ "updated": "2026-11-06T15:17:42+07:00",
  "editions": [
+  {
+   "id": "2026-11-06-1500",
+   "date": "2026-11-06",
+   "slot": "15:00",
+   "createdAt": "2026-11-06T15:17:42+07:00",
+   "note": "",
+   "items": [
+    {
+     "cat": "fin",
+     "title": "Bitcoin mất mốc 80.000 USD, Phố Wall có phiên tệ nhất từ tháng 4/2025",
+     "summary": "Ngày 6/11, Bitcoin rơi về quanh 76.000 USD, có lúc 75.100 USD, giảm gần 6%; Nasdaq mất 5,5% trong đêm. Nhà đầu tư lo kết quả bầu cử giữa kỳ Mỹ làm chậm xây trung tâm dữ liệu AI, kéo cả cổ phiếu công nghệ lẫn tiền số đi xuống.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/bitcoin-va-tien-so-bi-ban-thao-5141422.html",
+     "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/06/1056107901544148793140gettyima-8425-4045-1793929732.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=dnzf2rKmXF23wea0jUPTCA",
+     "detail": [
+      "Bitcoin để mất mốc 80.000 USD từ khuya 5/11 và trong ngày 6/11 chủ yếu giao dịch quanh 76.000 USD, có thời điểm xuống khoảng 75.100 USD, tức giảm gần 6%. Mức giảm này gần như xóa sạch đà tăng có được sau bầu cử giữa nhiệm kỳ Mỹ. Ether mất 6–7%, còn Solana, XRP hay Hyperliquid giảm mạnh hơn Bitcoin.",
+      "Nguyên nhân lớn đến từ Phố Wall: Nasdaq giảm 5,5%, S&P 500 giảm 4,4%, Dow Jones giảm 3,4%, riêng chỉ số bán dẫn Philadelphia mất hơn 12%. Đây là phiên tệ nhất kể từ cú sốc thuế quan tháng 4/2025. Đảng Dân chủ giành cả hai viện Quốc hội Mỹ, nhà đầu tư lo làn sóng phản đối trung tâm dữ liệu sẽ khiến nhu cầu chip, điện và hạ tầng AI chậm lại.",
+      "Cổ phiếu các công ty đào Bitcoin giảm 15–20% vì nhiều công ty đang chuyển sang cho thuê năng lực tính toán cho AI; Coinbase, Circle, BitGo giảm 10–15%. Theo CoinGlass, hơn 1 tỷ USD vị thế phái sinh bị 'thanh lý' trong 24 giờ – tức các lệnh vay đòn bẩy đặt cược giá tăng bị đóng bắt buộc, khiến áp lực bán càng mạnh.",
+      "Giới phân tích chia rẽ: đại diện Wintermute cho rằng không nên suy diễn quá nhiều từ một phiên bán tháo và vẫn lạc quan trung hạn, trong khi chuyên gia FalconX và GSR cho rằng việc xây trung tâm dữ liệu chậm lại khiến tâm lý chấp nhận rủi ro đảo chiều.",
+      "Với nhà đầu tư cá nhân Việt Nam, diễn biến này giải thích vì sao VN-Index cũng mất hơn 20 điểm sáng 6/11 và nhóm công nghệ như FPT bị bán mạnh. Tiền số vẫn là tài sản biến động rất lớn và chưa được pháp luật Việt Nam công nhận là phương tiện thanh toán, cần thận trọng khi dùng đòn bẩy."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "80 năm Hiến pháp đầu tiên: chuẩn bị nghiên cứu sửa đổi tổng thể Hiến pháp",
+     "summary": "Sáng 6/11, lễ kỷ niệm 80 năm Quốc hội thông qua Hiến pháp 1946 diễn ra tại Nhà Quốc hội. Tổng Bí thư, Chủ tịch nước yêu cầu tổng kết thi hành Hiến pháp 2013 để chuẩn bị cơ sở cho việc sửa đổi tổng thể; Quốc hội cam kết thực hiện theo định hướng Đại hội XIV.",
+     "source": "VTV",
+     "url": "https://vtv.vn/tong-bi-thu-chu-tich-nuoc-tiep-noi-di-san-lap-hien-xay-dung-dat-nuoc-phon-vinh-van-minh-hanh-phuc-100261106091240595.htm",
+     "tag": "Hiến pháp",
+     "detail": [
+      "Sáng 6/11 tại Nhà Quốc hội, chương trình kỷ niệm 80 năm ngày Quốc hội thông qua bản Hiến pháp đầu tiên (9/11/1946) được tổ chức với sự tham dự của Tổng Bí thư, Chủ tịch nước Tô Lâm, Thủ tướng, Chủ tịch Quốc hội và nhiều lãnh đạo. Các đại biểu Quốc hội dự lễ trước khi bước vào phiên thảo luận các dự luật trong ngày.",
+      "Phát biểu tại lễ, Tổng Bí thư, Chủ tịch nước nhấn mạnh Hiến pháp 1946 đặt nền móng cho nguyên tắc 'quyền lực nhà nước thuộc về nhân dân'. Theo Kết luận 17 của Bộ Chính trị, cần tổng kết việc thi hành Hiến pháp 2013 (kể cả phần sửa đổi năm 2025) để chuẩn bị cơ sở lý luận và thực tiễn cho việc nghiên cứu, đề xuất sửa đổi tổng thể Hiến pháp.",
+      "Quốc hội được yêu cầu bảo đảm mọi luật ban hành đều hợp hiến, đặc biệt các quy định về tổ chức quyền lực và quyền con người, quyền công dân; pháp luật phải thống nhất, tránh tình trạng quy định này cản trở quy định khác, đồng thời tạo đất cho đổi mới sáng tạo có kiểm soát rủi ro.",
+      "Chủ tịch Quốc hội cho biết trong hơn 80 năm, Quốc hội đã ban hành 5 bản Hiến pháp và gần 700 đạo luật. Quốc hội cam kết nghiên cứu sửa đổi tổng thể Hiến pháp 2013 theo định hướng Đại hội XIV, coi xây dựng và thi hành pháp luật là 'đột phá của đột phá'.",
+      "Sửa Hiến pháp là đạo luật gốc, kéo theo việc sửa hàng loạt luật về bộ máy, quyền công dân, đất đai, lao động… Người dân và doanh nghiệp nên theo dõi các đợt lấy ý kiến khi dự thảo được công bố."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Google chi 17 tỷ USD xây trung tâm dữ liệu AI ở Wyoming, tự lo điện",
+     "summary": "Ngày 5/11, Google công bố trung tâm dữ liệu 17 tỷ USD gần Cheyenne (Wyoming), chạy chủ yếu bằng nhà máy pin nhiên liệu khí 702 MW có thu giữ carbon. Công bố đến chỉ hai ngày sau khi cử tri Mỹ bác 40/41 đề xuất xây trung tâm dữ liệu ở các địa phương.",
+     "source": "The Next Web",
+     "url": "https://thenextweb.com/news/google-wyoming-data-centre-17b-fuel-cells-carbon-capture",
+     "image": "https://media.thenextweb.com/2026/11/google-london-office-entrance-pancras-square-sign.jpg",
+     "detail": [
+      "Google cho biết sẽ đầu tư 17 tỷ USD cho trung tâm dữ liệu đầu tiên tại bang Wyoming, đặt ở hạt Laramie gần thủ phủ Cheyenne. Đây là khoản đầu tư dài hạn phục vụ nhu cầu điện toán AI ngày càng lớn, công bố ngày 5/11/2026.",
+      "Điểm đặc biệt là nguồn điện: phần lớn đến từ một nhà máy pin nhiên liệu 702 MW do AEP và Bloom Energy xây (AEP dự chi khoảng 4 tỷ USD). Pin nhiên liệu biến khí đốt thành điện bằng phản ứng điện hóa thay vì đốt cháy. Google mua điện theo hợp đồng 20 năm, nhà máy dự kiến chạy hết công suất cuối năm 2028.",
+      "Khí CO2 thải ra sẽ được thu giữ và bơm xuống lòng đất tại kho lưu trữ carbon gần đó của Tallgrass Energy. Google nói hệ thống loại bỏ 'phần lớn' lượng phát thải nhưng chưa công bố tỷ lệ cụ thể; tính cả dự án này, Google đã ký gần 1 GW điện từ nhà máy có thu giữ carbon.",
+      "Thời điểm công bố rất đáng chú ý: chỉ hai ngày sau bầu cử Mỹ, nơi cử tri bác 40 trên 41 đề xuất xây trung tâm dữ liệu ở cấp địa phương. Để xoa dịu, Google cam kết tự trả toàn bộ tiền điện và chi phí nâng cấp lưới, làm mát bằng không khí để tiết kiệm nước, và hứa nộp hàng trăm triệu USD thuế tài sản cho địa phương và trường học.",
+      "Tại Cheyenne, nước là vấn đề nhạy cảm: hồi tháng 7, thành phố từng dừng một số hoạt động xả nước của trung tâm dữ liệu sau sự cố của nhà thầu Meta; hơn 200 cư dân đã lên tiếng lo ngại. Trước đó một ngày Google cũng công bố kế hoạch 15 tỷ USD ở Malaysia.",
+      "Câu chuyện cho thấy cuộc đua AI giờ không chỉ là chip mà còn là điện và sự đồng thuận của cộng đồng – yếu tố đang khiến giới đầu tư lo ngại và bán tháo cổ phiếu công nghệ tuần này."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đường lăn sân bay Đà Nẵng được đẩy lên khởi công ngay trong năm 2026",
+     "summary": "Bộ Xây dựng cho biết dự án đường lăn Cảng hàng không quốc tế Đà Nẵng sẽ khởi công trong năm 2026 thay vì 2027. Đây là một phần dự án cải tạo đường băng 17R/35L và đường lăn khoảng 1.696 tỷ đồng, đường băng đã xuống cấp phải bảo trì gần như hằng tuần.",
+     "source": "Báo Xây dựng",
+     "url": "https://baoxaydung.vn/khoi-cong-them-3-du-an-giao-thong-lon-trong-nam-2026-192261106141352732.htm",
+     "image": "https://baoxaydung.mediacdn.vn/thumb_w/1200/603483875699699712/2026/11/6/d2bbe142ff887fd62699-17939491360191061115348-197-0-1397-1920-crop-17939491742342126052982.jpg",
+     "detail": [
+      "Tại giao ban ngày 6/11, Chánh Văn phòng Bộ Xây dựng cho biết ba dự án giao thông lớn được đẩy nhanh thủ tục để khởi công trong năm nay, trong đó có đường lăn Cảng hàng không quốc tế Đà Nẵng – sớm hơn kế hoạch ban đầu là năm 2027. Hai dự án còn lại là hành lang đường thủy, logistics phía Nam (khởi công tháng 12) và đường Hồ Chí Minh đoạn Pác Pó – Cao Bằng.",
+      "Theo thông tin công bố trước đó, dự án cải tạo tổng thể đường cất hạ cánh 17R/35L và hệ thống đường lăn sân bay Đà Nẵng có vốn khoảng 1.696 tỷ đồng, thực hiện giai đoạn 2026–2028, do Ban quản lý dự án Thăng Long làm chủ đầu tư.",
+      "Đường băng phía Tây dài 3.049 m có nhiều hạng mục từ năm 1965, đoạn giữa sửa lần cuối năm 1999 nên đã quá tuổi thọ thiết kế; mặt đường hư hỏng nhiều, phải bảo trì gần như hằng tuần. Sau cải tạo, đường băng đạt chuẩn 4E của ICAO, đón được máy bay thân rộng như B787, A350.",
+      "Với người dân và du lịch Đà Nẵng – nơi 10 tháng đã đón hơn 17 triệu lượt khách lưu trú – một đường băng ổn định giúp giảm rủi ro chậm, hủy chuyến và mở đường cho thêm đường bay quốc tế dài. Yêu cầu đặt ra là thi công vẫn phải giữ sân bay khai thác liên tục; lịch đóng đường băng cụ thể chưa được công bố."
+     ]
+    },
+    {
+     "cat": "vn",
+     "title": "Sửa Luật Đấu thầu: đại biểu đòi siết chỉ định thầu, chống 'quân xanh quân đỏ'",
+     "summary": "Ngày 6/11, Quốc hội thảo luận Luật Đấu thầu (sửa đổi). Bộ trưởng Tài chính cho biết năm 2025 có gần 600.000 gói thầu, hơn 72% được phân cấp tới chỉ định thầu; đại biểu đề nghị buộc kê khai quan hệ sở hữu và dùng AI phát hiện bất thường.",
+     "source": "Báo Tin tức – TTXVN",
+     "url": "https://baotintuc.vn/kiem-soat-chat-chi-dinh-thau-chong-canh-tranh-gia-tao-post1400449.html",
+     "tag": "Quốc hội",
+     "detail": [
+      "Ngày 6/11, Quốc hội thảo luận tại hội trường dự án Luật Đấu thầu (sửa đổi). Dự thảo theo hướng phân cấp mạnh cho chủ đầu tư, mở rộng các hình thức chọn nhà thầu như đấu thầu cạnh tranh, đàm phán cạnh tranh, chỉ định thầu – tức giao thẳng gói thầu cho một nhà thầu mà không qua cạnh tranh.",
+      "Đại biểu Nguyễn Ngọc Sơn (Hải Phòng) ủng hộ phân cấp nhưng cho rằng quy định chỉ định thầu với 'các gói thầu khác' còn quá mở; chỉ nên áp dụng cho trường hợp được liệt kê cụ thể và phải công khai lý do. Ông cũng lưu ý giá trúng thầu thấp chưa chắc hiệu quả, cần tính chi phí cả vòng đời, nhất là thiết bị y tế và hạ tầng.",
+      "Đại biểu Nguyễn Trung Kiên (Đồng Nai) chỉ ra các thủ đoạn thông đồng nâng giá, cài tiêu chí kỹ thuật để loại đối thủ, dàn xếp 'quân xanh, quân đỏ' hay dùng công ty có quan hệ sở hữu để tạo cạnh tranh giả. Ông đề nghị buộc kê khai chủ sở hữu hưởng lợi và dùng dữ liệu lớn, AI để phát hiện bất thường, nhưng kết quả phải được cơ quan có thẩm quyền xác minh.",
+      "Giải trình, Bộ trưởng Tài chính Ngô Văn Tuấn cho biết năm 2025 cả nước có gần 600.000 gói thầu, hơn 72% đã được phân cấp tới mức chỉ định thầu. Dự thảo sẽ ưu tiên chấm điểm kỹ thuật hoặc kết hợp kỹ thuật – giá để tránh bỏ giá thấp bất thường; ông nhấn mạnh 'phân cấp phân quyền nhưng không có nghĩa là buông lỏng quản lý'.",
+      "Luật này ảnh hưởng trực tiếp tới doanh nghiệp nhỏ muốn tham gia mua sắm công và tới chất lượng công trình, thiết bị bệnh viện, trường học mà người dân sử dụng."
+     ]
+    },
+    {
+     "cat": "fin",
+     "title": "Chiều 6/11: vàng SJC đứng ở 141 triệu, Goldman Sachs hạ dự báo giá vàng",
+     "summary": "Chiều 6/11, vàng miếng SJC giữ 138–141 triệu đồng/lượng sau khi giảm 1,5 triệu buổi sáng; vàng nhẫn bán ra khoảng 139,5–140,9 triệu. Vàng thế giới lùi khoảng 1% về 4.047 USD/ounce, Goldman Sachs hạ dự báo cuối năm xuống 4.150 USD.",
+     "source": "Báo Nghệ An",
+     "url": "https://baonghean.vn/gia-vang-chieu-6-11-2026-gia-vang-9999-vang-nhan-hom-nay-sjc-doji-btmc-mi-hong-pnj-10355203.html",
+     "figure": {
+      "value": "141",
+      "label": "SJC bán ra, triệu đồng/lượng",
+      "delta": "-1,5 triệu so với 5/11",
+      "dir": "down",
+      "spark": [
+       144.5,
+       142.5,
+       141
+      ]
+     },
+     "detail": [
+      "Đến chiều 6/11, vàng miếng SJC, DOJI, PNJ và Bảo Tín Mạnh Hải cùng niêm yết 138 triệu (mua) – 141 triệu đồng/lượng (bán), giảm 1,5 triệu mỗi chiều so với hôm qua và không đổi so với buổi sáng. Bảo Tín Minh Châu mua vào thấp hơn, 136,5 triệu, khiến chênh lệch mua – bán lên 4,5 triệu; Mi Hồng có chênh lệch hẹp nhất, 1,5 triệu.",
+      "Vàng nhẫn 9999: Bảo Tín Minh Châu 134,5–139,5 triệu, DOJI 136,9–140,9 triệu, Phú Quý 136,7–140,7 triệu, nhẫn SJC 136,5–140,5 triệu đồng/lượng.",
+      "Trên thế giới, vàng giao ngay giảm khoảng 1% về quanh 4.047 USD/ounce. Lý do: giá dầu tăng làm dấy lo ngại lạm phát và khả năng Fed giữ lãi suất cao; cổ phiếu công nghệ bị bán tháo khiến một số nhà đầu tư bán vàng lấy tiền mặt. Goldman Sachs hạ dự báo giá vàng cuối 2026 từ 4.650 xuống 4.150 USD/ounce. Dù vậy, vàng vẫn hướng tới tuần tăng mạnh nhất kể từ cuối tháng 8.",
+      "Sự kiện cần theo dõi là báo cáo việc làm phi nông nghiệp của Mỹ công bố tối nay giờ Việt Nam. Với người mua vàng tích trữ, chênh lệch mua – bán 3–4,5 triệu/lượng nghĩa là mua xong bán ngay sẽ lỗ ngay khoản đó, nên chỉ phù hợp với kế hoạch dài hạn."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Meta cảnh báo: sau bầu cử Mỹ, xây trung tâm dữ liệu AI sẽ khó hơn",
+     "summary": "Chủ tịch Meta Dina Powell McCormick thừa nhận ngành công nghệ chưa giải thích tốt lợi ích của trung tâm dữ liệu và việc mở rộng 'sẽ khó hơn'. Meta có trung tâm dữ liệu ở 23 bang, 5 dự án quy mô từ 1 gigawatt trở lên.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
+     "detail": [
+      "Phát biểu tại hội nghị WSJ Tech ngày 4/11, Chủ tịch Meta Dina Powell McCormick cho rằng việc mở rộng trung tâm dữ liệu sẽ khó khăn hơn sau khi Đảng Dân chủ thắng lớn trong bầu cử giữa kỳ. Bà thừa nhận ngành công nghệ 'chưa làm tốt như cần thiết' trong việc giải thích lợi ích của các khoản đầu tư này.",
+      "Trung tâm dữ liệu – nơi đặt hàng chục nghìn máy chủ chạy AI, tiêu tốn rất nhiều điện và nước – đã trở thành chủ đề tranh cử; nhiều chính trị gia vận động với cương lĩnh phản đối. Theo bà, đây là hình thức 'hữu hình' của AI mà cư dân địa phương có thể chống lại, phản ánh tâm lý e ngại AI rộng hơn.",
+      "Meta đề xuất cách tiếp cận mới: tự trả tiền điện, dành phần thuế dư từ trung tâm dữ liệu cho giáo viên và lực lượng ứng cứu, ưu tiên lao động địa phương, tìm sự ủng hộ của cả hai đảng và chấp nhận thẩm định kỹ hơn xem cộng đồng có thật sự muốn dự án hay không.",
+      "Hiện Meta có trung tâm dữ liệu tại 23 bang, 5 dự án quy mô từ 1 gigawatt trở lên, trong đó có một ở Texas. Trợ lý AI Muse của Meta có khoảng 10 triệu người dùng. Bà cho rằng kể cả khi Muse không thành công lớn, năng lực tính toán vẫn có giá trị vì Meta 'mỗi ngày đều nhận cuộc gọi' muốn thuê lại.",
+      "Phát biểu này góp phần giải thích đợt bán tháo cổ phiếu chip, công nghệ tuần này: nếu xây trung tâm dữ liệu chậm lại, nhu cầu chip và điện cho AI có thể thấp hơn kỳ vọng. Ngành AI đang chuyển từ 'cứ xây' sang phải thuyết phục cộng đồng."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng tính phát triển kinh tế đêm: phố đi bộ ven biển, show ánh sáng, khu văn hóa 2.817 ha",
+     "summary": "Đà Nẵng xem kinh tế đêm là động lực tăng trưởng mới, với các đề xuất như Mỹ Khê Paradise 8.000 m² tại 268 Võ Nguyên Giáp và tổ hợp Ocean Seven. Sở Văn hóa đề xuất 3 vùng công nghiệp văn hóa rộng khoảng 2.817 ha.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/tao-don-bay-moi-cho-kinh-te-dem-3357586.html",
+     "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/05/trieu-pham-0036.jpg",
+     "detail": [
+      "Thành phố muốn phát triển các không gian trải nghiệm ban đêm kết hợp thương mại, ẩm thực, văn hóa, nghệ thuật và giải trí thay vì dịch vụ rời rạc. Phó Chủ tịch UBND thành phố Nguyễn Thị Anh Thi gọi kinh tế đêm là 'một trong những động lực tăng trưởng mới'.",
+      "Dự án Mỹ Khê Paradise (268 Võ Nguyên Giáp) có khu kinh tế đêm khoảng 8.000 m² gồm phố đi bộ, ẩm thực, triển lãm, biểu diễn và công viên biển, kèm lễ hội âm nhạc biển hằng năm; dải dịch vụ biển dài khoảng 500 m xen kẽ lối đi công cộng xuống bãi tắm. Tổ hợp Ocean Seven của Trung Nam có show 'Seven Waves Awaken' kết hợp âm nhạc, nhạc nước, laser và drone.",
+      "Sở Văn hóa, Thể thao và Du lịch đề xuất 3 vùng công nghiệp văn hóa tổng khoảng 2.817 ha: bờ đông sông Hàn và vịnh Đà Nẵng (703 ha), Hội An và vùng phụ cận (793 ha), Tam Kỳ (1.321 ha). Một trung tâm công nghiệp sáng tạo được đề xuất tại xã Thăng An, có công viên chủ đề, sân khấu ngoài trời, trung tâm hội chợ.",
+      "Thành phố giao Sở xây dựng đề án phát triển kinh tế đêm theo mô hình khu và điểm, đồng thời phải cân bằng với môi trường, trật tự và lợi ích cộng đồng – nhất là việc giữ lối xuống biển cho người dân. Nếu thành hiện thực, đây là cơ hội việc làm mới cho lao động dịch vụ, du lịch ca tối."
+     ]
+    },
+    {
+     "cat": "know",
+     "title": "Giả cán bộ địa chính nhắn Zalo đòi cập nhật sổ đỏ, chiếm OTP và tiền",
+     "summary": "Công an Tuyên Quang cảnh báo kẻ gian giả cán bộ địa chính, nhắn Zalo yêu cầu 'cập nhật dữ liệu đất đai' sau sáp nhập, gửi link/ứng dụng giả để chiếm điện thoại. Thủ tục đất đai không bao giờ yêu cầu OTP hay chuyển tiền vào tài khoản cá nhân.",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cong-an-thong-bao-toi-nguoi-nhan-tin-nhan-zalo-co-3-chu-sau-188261106145247723.chn",
+     "tag": "An toàn số",
+     "detail": [
+      "Công an tỉnh Tuyên Quang vừa cảnh báo thủ đoạn giả danh cán bộ địa chính hoặc nhân viên UBND xã, thậm chí dùng tên và chức danh thật, liên hệ qua Zalo, Facebook hay email. Chúng lấy cớ cập nhật dữ liệu đất đai, bổ sung hồ sơ hoặc điều chỉnh thông tin sau khi sắp xếp địa giới hành chính.",
+      "Kẻ gian thường hối thúc, dọa rằng nếu không làm ngay sẽ không được chuyển nhượng, thế chấp đất hoặc bị phạt. Sau đó chúng đòi ảnh căn cước, sổ đỏ, thông tin ngân hàng, gửi đường link hoặc ứng dụng 'xác thực hồ sơ' giả. Cài ứng dụng này có thể bị mã độc chiếm quyền điều khiển điện thoại và đọc trộm mã OTP; nhiều người còn bị đòi 'phí' chuyển vào tài khoản cá nhân rồi bị cắt liên lạc.",
+      "Người cao tuổi và người dân nông thôn là đối tượng dễ bị nhắm tới. Cơ quan công an khẳng định thủ tục đất đai không yêu cầu cung cấp OTP, mật khẩu ngân hàng hay nộp tiền vào tài khoản cá nhân; cán bộ nhà nước không có quyền đòi mã OTP của người dân.",
+      "Cách phòng tránh: gọi hoặc đến trực tiếp UBND xã, phường để xác minh; không đăng ảnh sổ đỏ, căn cước lên mạng; không bấm link lạ, không cài ứng dụng ngoài kho chính thức và không cấp quyền đọc tin nhắn, danh bạ. Con cháu nên dặn ông bà, cha mẹ kiểm tra với chính quyền trước khi làm theo bất kỳ cuộc gọi nào."
+     ]
+    },
+    {
+     "cat": "ai",
+     "title": "Airbnb sẽ ra mắt 'trợ lý AI du lịch' nửa đầu 2027, doanh thu quý III tăng 19%",
+     "summary": "Airbnb cam kết tung trợ lý AI giúp lên kế hoạch, đặt và xử lý sự cố chuyến đi trong nửa đầu 2027. Quý III, doanh thu tăng 19% lên 4,87 tỷ USD, mức tăng nhanh nhất hơn ba năm.",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+     "detail": [
+      "Trong thư gửi cổ đông quý III, Airbnb cam kết ra mắt 'agent' du lịch – trợ lý AI có thể tự làm việc thay người dùng – cho khách hàng trong nửa đầu năm 2027. Trước đó công ty chỉ nói sẽ có 'trong vòng một năm tới'.",
+      "Trợ lý sẽ giúp lên kế hoạch, so sánh lựa chọn, đặt chỗ, rồi hỗ trợ trong suốt kỳ nghỉ: đổi đặt phòng, xử lý lỗi thanh toán, hoàn tiền, đặt lại và hỗ trợ an toàn 24 giờ. Giao diện được 'lắp ghép' theo từng yêu cầu từ hàng trăm thành phần như bản đồ, ảnh, lịch, lịch trình. Ban đầu cho nhà ở, khách sạn, sau mở rộng sang dịch vụ và trải nghiệm.",
+      "CEO Brian Chesky cho rằng các trợ lý AI đa năng làm tốt việc đơn giản, nhưng lên kế hoạch du lịch thì khác: 80% du khách thích tự tìm hiểu, nên AI phải hỗ trợ cảm hứng chứ không thay thế. Ông mô tả cách làm là 'giống giao diện tạo sinh' – hiện đúng giao diện vào đúng lúc.",
+      "Về kinh doanh, doanh thu quý III tăng 19% lên 4,87 tỷ USD, vượt kỳ vọng; Airbnb nâng dự báo tăng trưởng doanh thu cả năm 2026 lên mức 'cao của 10–20%'. Chesky nói công ty đã 'trở lại chế độ tăng trưởng'.",
+      "Với ngành du lịch – trong đó có các homestay, khách sạn ở Đà Nẵng, Hội An đăng trên Airbnb – việc khách đặt phòng qua trợ lý AI nghĩa là thông tin, đánh giá và ảnh trên nền tảng càng cần đầy đủ, chính xác để được AI gợi ý."
+     ]
+    },
+    {
+     "cat": "dn",
+     "title": "Đà Nẵng đặt mục tiêu hút 10–15 quỹ đầu tư mạo hiểm về đặt văn phòng",
+     "summary": "Sáng 6/11, Trung tâm Đổi mới sáng tạo Đà Nẵng lấy ý kiến kế hoạch Diễn đàn đầu tư mạo hiểm và thiên thần DAVAS 2027–2030. Mục tiêu: hỗ trợ ít nhất 250 startup, kết nối 50 quỹ, cam kết đầu tư trên 3 triệu USD.",
+     "source": "Báo Đà Nẵng",
+     "url": "https://baodanang.vn/gop-y-phat-trien-dien-dan-dau-tu-mao-hiem-va-thien-than-da-nang-giai-doan-2027-2030-3357642.html",
+     "tag": "Khởi nghiệp",
+     "detail": [
+      "Sáng 6/11, Trung tâm Đổi mới sáng tạo Đà Nẵng (thuộc Sở Khoa học và Công nghệ) giới thiệu dự thảo kế hoạch phát triển Diễn đàn đầu tư mạo hiểm và thiên thần Đà Nẵng (DAVAS) giai đoạn 2027–2030 để lấy góp ý. Nhà đầu tư thiên thần là cá nhân rót vốn cho startup ở giai đoạn rất sớm.",
+      "DAVAS được định hướng thành sự kiện thường niên tầm toàn cầu, hỗ trợ trọn chu trình: chọn dự án, đào tạo, cố vấn, chuẩn bị hồ sơ gọi vốn, thuyết trình, giới thiệu trực tiếp nhà đầu tư và hỗ trợ sau khi nhận vốn.",
+      "Các mục tiêu: hỗ trợ ít nhất 250 startup (ít nhất 20% do người nước ngoài sáng lập), cam kết đầu tư trên 3 triệu USD, tối thiểu 200 buổi gặp riêng nhà đầu tư – startup, kết nối 50 quỹ và nhà đầu tư trong, ngoài nước, thu hút 10–15 quỹ mở trụ sở hoặc văn phòng đại diện tại Đà Nẵng.",
+      "Đại biểu góp ý nên tiếp cận mạng lưới quỹ quốc tế (Dubai, Amsterdam, Los Angeles) trước 6–8 tháng, đánh giá mức độ sẵn sàng gọi vốn và bắt buộc startup được đào tạo kỹ năng thuyết trình, tiếng Anh; dự án sinh viên nên chuyển sang cuộc thi, hackathon. Nếu thành công, startup và lao động công nghệ ở Đà Nẵng sẽ có thêm cơ hội tiếp cận vốn ngay tại chỗ."
+     ]
+    },
+    {
+     "cat": "biz",
+     "title": "Già trước khi giàu? Chuyên gia hiến kế để kinh tế Việt Nam bứt tốc",
+     "summary": "Việt Nam có thể thành 'dân số già' từ 2034 khi người trên 65 tuổi chiếm 14%; mức sinh 2025 chỉ 1,93 con. Trong khi đó, khu vực FDI chiếm 81% xuất khẩu và tỷ lệ doanh nghiệp Việt tham gia chuỗi giá trị toàn cầu giảm từ 35% xuống 18%.",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chuyen-gia-hien-ke-de-viet-nam-kip-giau-truoc-khi-gia-5140851.html",
+     "tag": "Vĩ mô",
+     "detail": [
+      "Theo phương án trung bình của Cục Thống kê và UNFPA, Việt Nam có thể bước vào giai đoạn dân số già từ năm 2034, khi người từ 65 tuổi trở lên chiếm 14% dân số. Mức sinh năm 2025 là 1,93 con/phụ nữ, dưới mức thay thế 2,1; ở các đô thị đầu tàu kinh tế chỉ 1,51. Việt Nam mới vào nhóm thu nhập trung bình cao từ tháng 7/2026.",
+      "Xuất khẩu 10 tháng đạt 499,24 tỷ USD (tăng 27,5%) nhưng khu vực FDI chiếm tới 81,2%. Đại diện Ngân hàng Thế giới cho biết tỷ lệ doanh nghiệp trong nước tham gia chuỗi giá trị toàn cầu giảm từ 35% (2009) xuống 18% (2023): 'quá ít giá trị được doanh nghiệp và người lao động Việt Nam giữ lại'. Về tự động hóa, Hàn Quốc có 1.220 robot trên 10.000 lao động chế tạo, Việt Nam ước chỉ vài chục.",
+      "Các đề xuất: PwC khuyên tạo sản phẩm đổi mới mang thương hiệu Việt đạt chuẩn quốc tế và tăng năng suất bằng tự động hóa; HSBC đề nghị phát triển mạng lưới nhà cung ứng nội địa, tận dụng 'siêu chu kỳ AI' để xây năng lực; Ngân hàng Thế giới đề nghị mọi doanh nghiệp được cạnh tranh trên cùng luật chơi về đất đai, tín dụng, giấy phép và cải cách thị trường vốn.",
+      "Thứ trưởng Tài chính cho biết chính sách thu hút đầu tư sẽ ưu tiên công nghệ lõi và nghiên cứu – phát triển. Với người làm nhân sự, xu hướng này nghĩa là lực lượng lao động trẻ sẽ khan hiếm dần, kỹ năng vận hành công nghệ và năng suất trở thành yếu tố quyết định lương và tuyển dụng."
+     ]
+    }
+   ]
+  },
   {
    "id": "2026-11-06-1100",
    "date": "2026-11-06",
