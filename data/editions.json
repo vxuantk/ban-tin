@@ -1,6 +1,503 @@
 {
-  "updated": "2026-11-06T19:11:46+07:00",
+  "updated": "2026-11-07T07:13:10+07:00",
   "editions": [
+    {
+      "id": "2026-11-07-0700",
+      "date": "2026-11-07",
+      "slot": "07:00",
+      "createdAt": "2026-11-07T07:13:10+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "vn",
+          "title": "Quốc hội biểu quyết kế hoạch kinh tế–xã hội 2027, bàn ba tuyến cao tốc",
+          "summary": "Ngày 7/11, Quốc hội biểu quyết thông qua Nghị quyết về kế hoạch phát triển kinh tế – xã hội năm 2027, đồng thời nghe tờ trình chủ trương đầu tư ba dự án cao tốc, trong đó có Quảng Ngãi – Kon Tum. Đây là văn bản định hướng mục tiêu tăng trưởng, ngân sách và đầu tư công cho cả năm tới.",
+          "source": "Vietnam+",
+          "url": "https://www.vietnamplus.vn/ngay-711-quoc-hoi-quyet-dinh-nhieu-van-de-quan-trong-ve-kinh-te-xa-hoi-post1146695.vnp",
+          "image": "https://media.vietnamplus.vn/images/wU9keeg-MVtM86KQbMalHljY9gkcFTUXMUJ7hR-8SQNF5qtgo19ZQlqK9ktkykrkIH8QMO7VtDV7fV0yodBeSQ/vnp_hoa-lien-10.jpg.webp",
+          "detail": [
+            "Thứ Bảy 7/11, Quốc hội khóa XVI tiếp tục kỳ họp thứ hai với một buổi sáng dày đặc nội dung kinh tế. Đầu phiên, Bộ trưởng Bộ Tài chính, thay mặt Thủ tướng, báo cáo việc tiếp thu, chỉnh lý dự thảo Nghị quyết về kế hoạch phát triển kinh tế – xã hội năm 2027 sau các buổi thảo luận trước đó; ngay sau đó Quốc hội bấm nút biểu quyết thông qua.",
+            "Nghị quyết kế hoạch năm là văn bản 'khung' cho cả năm: đặt ra các chỉ tiêu tăng trưởng, thu chi ngân sách, đầu tư công và các nhiệm vụ trọng tâm mà Chính phủ, các bộ ngành và địa phương phải bám theo. Trước kỳ họp, Chính phủ đã trình mục tiêu tăng trưởng năm 2027 từ 10% trở lên.",
+            "Cũng trong buổi sáng, Bộ trưởng Bộ Xây dựng trình chủ trương đầu tư ba tuyến cao tốc: Bảo Hà – Lai Châu (đoạn Bảo Hà – Tân Phong), Quảng Ngãi – Kon Tum và Mộc Châu – Sơn La – Điện Biên (đoạn qua Sơn La). Tuyến Quảng Ngãi – Kon Tum đáng chú ý với miền Trung vì nối vùng ven biển với Tây Nguyên, mở thêm đường hàng hóa về các cảng ở khu vực Đà Nẵng – Quảng Ngãi.",
+            "Quốc hội còn nghe tờ trình nghị quyết về cơ chế, chính sách đặc thù phát triển du lịch và thảo luận Luật Thỏa thuận quốc tế (sửa đổi). Buổi chiều, Quốc hội nghỉ để các cơ quan hoàn thiện dự thảo; Chủ nhật 8/11 nghỉ. Bài báo chưa nêu số vốn và chiều dài cụ thể của các tuyến cao tốc."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "OpenAI gọi thêm 11 tỷ USD, được định giá 1.250 tỷ USD",
+          "summary": "Theo Bloomberg, OpenAI đã huy động được 11 tỷ USD trong vòng gọi vốn mới với định giá 1.250 tỷ USD; cả vòng có thể đạt khoảng 20 tỷ USD. Con số thấp hơn nhiều so với mục tiêu 30 tỷ USD ở mức định giá 1.400 tỷ USD hồi tháng 9, phản ánh tâm lý dè dặt với cổ phiếu AI.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+          "detail": [
+            "Ngày 6/11 (giờ Mỹ), hãng tin Bloomberg dẫn nguồn thạo tin cho biết OpenAI – công ty đứng sau ChatGPT – đã gom được 11 tỷ USD trong một vòng gọi vốn mới. Vòng này định giá công ty ở mức 1.250 tỷ USD (khoảng 33 triệu tỷ đồng), tức thuộc nhóm doanh nghiệp tư nhân đắt giá nhất thế giới.",
+            "Vòng gọi vốn chưa khép lại. Một nguồn tin nói thương vụ dự kiến hoàn tất trong vài tuần tới và tổng cộng có thể lên khoảng 20 tỷ USD. Tuy vậy, các con số này kém xa kế hoạch ban đầu: cuối tháng 9, Bloomberg từng đưa tin OpenAI muốn huy động 30 tỷ USD với mức định giá 1.400 tỷ USD.",
+            "Tin này đến chỉ vài giờ sau khi có thông tin các nhà đầu tư tiềm năng muốn mua cổ phiếu IPO của Anthropic – đối thủ chính của OpenAI – ở mức giá thấp hơn nhiều so với kỳ vọng. Một số ý kiến cho rằng Anthropic có thể chỉ được định giá khoảng 1.100 tỷ USD, trong khi một tháng trước giới đầu tư còn bàn tới 2.000 tỷ USD.",
+            "OpenAI từng hé lộ khả năng lên sàn trong năm nay nhưng sau đó lùi kế hoạch; Reuters cho biết thị trường kỳ vọng công ty IPO vào năm sau. TechCrunch đã liên hệ OpenAI nhưng chưa nhận được phản hồi.",
+            "Bối cảnh chung là thị trường AI đang chao đảo: sau chiến thắng áp đảo của đảng Dân chủ trong bầu cử giữa kỳ Mỹ và làn sóng phản đối trung tâm dữ liệu của cử tri, giới đầu tư lo ngại ngành AI sẽ đối mặt nhiều rào cản quản lý hơn. Việc các 'ông lớn' AI phải hạ kỳ vọng gọi vốn là tín hiệu cho thấy cơn sốt định giá đang hạ nhiệt."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Sáng 7/11: vàng SJC giữ 138–141 triệu, vàng thế giới rơi khỏi mốc 4.100 USD",
+          "summary": "Vàng miếng SJC đứng ở 138–141 triệu đồng/lượng sau khi giảm 1,5 triệu, vàng nhẫn 9999 còn 136,5–140,5 triệu. Giá thế giới có lúc mất gần 40 USD sau báo cáo việc làm Mỹ tốt hơn dự báo, giá trong nước vẫn cao hơn quốc tế khoảng 14,7 triệu đồng/lượng.",
+          "source": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bang-luong-phi-nong-nghiep-my-kha-quan-gia-vang-roi-khoi-nguong-4100-usd-ounce-100261107000909083.htm",
+          "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/6/1787312180909-4710040082390830687-g3411101593590475604-57a8120fe547b33e04f60491f6d4ecbe-17939843932961615959969-402-250-1318-2000-crop-1794006821562850771084.jpg",
+          "detail": [
+            "Sáng 7/11, vàng miếng SJC được niêm yết 138 triệu đồng/lượng mua vào và 141 triệu đồng/lượng bán ra, giảm 1,5 triệu đồng so với phiên trước đó. Vàng nhẫn 9999 giao dịch quanh 136,5–140,5 triệu đồng; một số thương hiệu như Ancarat bán ra tới 145,4 triệu, Mi Hồng bán 140,5 triệu đồng.",
+            "Đáng chú ý, chênh lệch giữa giá mua và giá bán đã nới rộng lên khoảng 4 triệu đồng/lượng do các doanh nghiệp vàng phòng ngừa rủi ro khi giá biến động mạnh. Người mua vào lúc này nếu bán lại ngay sẽ lỗ khoảng 3–4 triệu đồng mỗi lượng.",
+            "Trên thế giới, tối 6/11 giá vàng có lúc giảm gần 40 USD/ounce rồi hồi lên khoảng 4.064 USD/ounce (tương đương 126,3 triệu đồng/lượng). Nguyên nhân là báo cáo việc làm tháng 10 của Mỹ cho thấy có thêm 165.000 việc làm, vượt xa dự báo khoảng 65.000; điều này khiến thị trường nghiêng về khả năng Cục Dự trữ liên bang Mỹ (Fed) tiếp tục thắt chặt, bất lợi cho vàng.",
+            "Như vậy, giá vàng trong nước vẫn cao hơn giá thế giới quy đổi khoảng 14,7 triệu đồng/lượng. Về dài hạn, Ngân hàng Thế giới dự báo giá vàng bình quân năm 2027 giảm 7,6% xuống khoảng 4.250 USD/ounce. Với người dân, đây là lúc nên thận trọng, tránh mua đuổi khi chênh lệch mua – bán còn cao."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Samsung rót gần 4 tỷ USD xây nhà máy kiểm thử chip nhớ ở Thái Nguyên",
+          "summary": "Samsung lập công ty Samsung Vietnam Semiconductor, xây nhà máy kiểm thử chip DRAM và NAND rộng gần 266.000 m² tại KCN Yên Bình với vốn khoảng 105.800 tỷ đồng. Dây chuyền đầu tiên dự kiến chạy từ quý IV/2027, giúp Việt Nam tham gia sâu hơn vào chuỗi bán dẫn.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/viet-nam-don-dai-bang-cong-nghe-han-quoc-rot-gan-4-ty-usd-xay-to-hop-san-xuat-chip-nho-rong-bang-37-san-bong-da-2-nha-may-du-kien-hoat-dong-tu-nam-2027-188261106105354803.chn",
+          "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/6/sansung3sansung-17939368370011865251815-83-0-1333-2000-crop-17939368403961390338680.jpg",
+          "detail": [
+            "Theo báo Seoul Economic Daily của Hàn Quốc, Samsung Electronics đã thành lập Công ty TNHH Samsung Vietnam Semiconductor (SVS) từ tháng 3/2026 để xây nhà máy kiểm thử chip nhớ tại Khu công nghiệp Yên Bình, tỉnh Thái Nguyên. Nhà máy rộng 265.895 m², tương đương khoảng 37 sân bóng đá.",
+            "Tổng vốn dự án khoảng 105.794 tỷ đồng (gần 3,9 tỷ USD), chia hai giai đoạn. Phần lớn vốn – hơn 66.600 tỷ đồng – dự kiến lấy từ lợi nhuận tái đầu tư của Samsung tại Việt Nam. Dây chuyền V1 sẽ nhận thiết bị từ tháng 7/2027 và vận hành trong quý IV/2027; dây chuyền V2 nhận thiết bị từ tháng 5/2028, chạy từ tháng 10/2028.",
+            "'Kiểm thử' là công đoạn cuối trước khi chip đến tay khách hàng: kiểm tra khả năng đọc/ghi, tốc độ, độ ổn định và chịu nhiệt, điện áp cao của chip DRAM (bộ nhớ tạm) và NAND (bộ nhớ lưu trữ). Samsung muốn đa dạng hóa chuỗi cung ứng ngoài hai cơ sở ở Hàn Quốc và linh hoạt hơn khi xuất sang Mỹ, Trung Quốc, Đông Nam Á. Từ tháng 7, 103 kỹ sư Việt Nam đã được cử sang Hàn Quốc đào tạo.",
+            "Một chuyên gia Hàn Quốc nhận định Samsung có thể giữ sản xuất chip AI cao cấp (HBM) ở trong nước và chuyển một phần bộ nhớ thông thường sang Việt Nam. Với người lao động, dự án mở thêm việc làm kỹ thuật cao trong ngành bán dẫn – lĩnh vực Việt Nam đang ưu tiên thu hút."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Đà Nẵng bắt 2 lãnh đạo Cường Hưng Thịnh lập dự án 'ma' chiếm 430 tỷ",
+          "summary": "Ngày 6/11, Công an Đà Nẵng khởi tố, bắt tạm giam Phó Tổng giám đốc và Trưởng phòng kinh doanh Công ty Tập đoàn Cường Hưng Thịnh vì dựng dự án không có thật 'Diamond' để bán đất nền. Cơ quan điều tra đề nghị khách hàng đã nộp tiền liên hệ trình báo.",
+          "source": "Báo Tin tức – TTXVN",
+          "url": "https://baotintuc.vn/lap-du-an-bat-dong-san-ma-lua-dao-hon-430-ty-dong-post1400583.html",
+          "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V78_rcbKNtQYGfCVVXBluireZSh7ZHSCUaJBKs-Swr9ef/tien.jpg.webp",
+          "detail": [
+            "Ngày 6/11, Phòng Cảnh sát kinh tế Công an TP Đà Nẵng khởi tố, bắt tạm giam hai bị can là Võ Thị Kiều Trinh, Phó Tổng giám đốc Công ty CP Tập đoàn Cường Hưng Thịnh, và Nguyễn Xuân Hiệp, Trưởng phòng kinh doanh của công ty, về tội 'Lừa đảo chiếm đoạt tài sản' theo Điều 174 Bộ luật Hình sự.",
+            "Theo cơ quan điều tra, nhóm này dựng lên một dự án không có thật mang tên 'Khu khách sạn, căn hộ và dân cư cao cấp Diamond', rồi tổ chức tư vấn, chào bán đất nền cho nhiều khách hàng. Số tiền bị chiếm đoạt bước đầu xác định hơn 430 tỷ đồng; cơ quan điều tra đang mở rộng vụ án để làm rõ vai trò của các tổ chức, cá nhân liên quan.",
+            "Khách hàng đã nộp tiền nhưng chưa trình báo được đề nghị liên hệ Phòng Cảnh sát kinh tế, số 47 Lý Tự Trọng, phường Hải Châu, Đà Nẵng (điều tra viên Đoàn Sơn Tùng, điện thoại 0905 567 992).",
+            "Vụ việc là lời nhắc với người mua đất nền: trước khi đặt cọc cần kiểm tra dự án đã có quyết định chủ trương đầu tư, quy hoạch chi tiết, giấy phép xây dựng và đủ điều kiện mở bán hay chưa – có thể hỏi trực tiếp Sở Xây dựng hoặc UBND nơi có dự án – thay vì chỉ tin vào tư vấn của nhân viên kinh doanh."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Mỹ thêm 165.000 việc làm, gấp ba dự báo; lợi suất trái phiếu tăng vọt",
+          "summary": "Báo cáo tháng 10 cho thấy Mỹ tạo thêm 165.000 việc làm phi nông nghiệp, thất nghiệp giảm còn 4,1%. Xác suất Fed tăng lãi suất 0,25 điểm % vào 9/12 vượt 76%, đẩy lợi suất trái phiếu 10 năm lên 4,855% – gây sức ép lên vàng, cổ phiếu công nghệ và tỷ giá.",
+          "source": "Báo Tin tức – TTXVN",
+          "url": "https://baotintuc.vn/loi-suat-trai-phieu-kho-bac-my-tang-vuot-xa-du-bao-post1400657.html",
+          "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V73gMp3x-n5EFUqgxaNvPvxsIr-6CpidP8Id_vMpq3CCuUERzTj-aWgBj6P0CxZHmbOnVkDg5vmt1FREj2Q5uZKrsgx3REdf1ei8JTV1QusYy/potal-dien-bien-troi-sut-cua-thi-truong-lao-dong-my-stand.jpg.webp",
+          "detail": [
+            "Cục Thống kê Lao động Mỹ công bố nền kinh tế tạo thêm 165.000 việc làm phi nông nghiệp trong tháng 10, gần gấp ba mức dự báo 59.000 của giới chuyên gia và vượt xa con số 29.000 của tháng 9. Tỷ lệ thất nghiệp giảm xuống 4,1%, thấp hơn dự báo 4,2%.",
+            "Thị trường lao động khỏe hơn kỳ vọng khiến nhà đầu tư tin rằng Cục Dự trữ liên bang Mỹ (Fed) sẽ tiếp tục tăng lãi suất để kìm lạm phát. Theo công cụ CME FedWatch, xác suất Fed tăng thêm 0,25 điểm phần trăm tại cuộc họp ngày 9/12 đã vượt 76%, từ mức hơn 66% trước đó. Lãi suất điều hành của Fed hiện ở 3,75–4,00% sau lần tăng tháng 9.",
+            "Phản ứng ngay lập tức, lợi suất trái phiếu chính phủ Mỹ kỳ hạn 10 năm – thước đo chi phí vay dài hạn – lên 4,855%; kỳ hạn 2 năm tăng hơn 3 điểm cơ bản lên 4,512%; kỳ hạn 30 năm ở 5,254%. Trước đó, ngày 5/11, chứng khoán Mỹ đã có phiên bán tháo mạnh nhất kể từ tháng 4/2025 vì lo ngại siết quản lý AI sau bầu cử giữa kỳ.",
+            "Lợi suất và lãi suất Mỹ cao thường làm đồng USD mạnh lên, khiến vàng giảm giá và tạo áp lực lên tỷ giá, dòng vốn ngoại ở các thị trường mới nổi như Việt Nam. Giới phân tích cho rằng Fed có thể giữ chính sách thắt chặt lâu hơn dự kiến; thị trường sẽ theo dõi số liệu lạm phát trước cuộc họp cuối năm."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Tổng Bí thư, Chủ tịch nước thăm Nhật Bản 8–11/11, kỳ vọng thỏa thuận tỷ USD",
+          "summary": "Chánh Văn phòng Nội các Nhật Bản cho biết Tokyo kỳ vọng chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ đưa quan hệ hai nước lên tầm cao mới. Doanh nghiệp Nhật hưởng ứng mạnh, nhiều thỏa thuận hợp tác trị giá hàng tỷ USD được chờ đợi.",
+          "source": "VOV",
+          "url": "https://vov.vn/chinh-tri/chinh-phu-nhat-ban-ky-vong-vao-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1348017.vov",
+          "tag": "Ngoại giao",
+          "detail": [
+            "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân sẽ thăm chính thức Nhật Bản từ ngày 8 đến 11/11 theo lời mời của Nhà nước Nhật Bản. Theo chương trình, Tổng Bí thư dự kiến hội kiến Nhà vua và Hoàng hậu Nhật Bản và hội đàm cấp cao với Thủ tướng Takaichi Sanae.",
+            "Tại họp báo trước chuyến thăm, Chánh Văn phòng Nội các Nhật Bản Kihara Minoru nói hai nước, với tư cách đối tác chiến lược toàn diện, đã mở rộng hợp tác về an ninh, kinh tế, giao lưu nhân dân và phối hợp tại các diễn đàn quốc tế. Ông bày tỏ kỳ vọng chuyến thăm 'góp phần làm sâu sắc hơn nữa quan hệ hữu nghị và hợp tác giữa hai nước'.",
+            "Cộng đồng doanh nghiệp Nhật được cho là quan tâm, hưởng ứng tích cực; chuyến thăm được kỳ vọng mở đường cho nhiều thỏa thuận hợp tác trị giá hàng tỷ USD, dù bài báo chưa nêu cụ thể dự án hay doanh nghiệp nào. Phía doanh nghiệp Nhật đánh giá hai bên có thế mạnh bổ sung cho nhau, nhất là về công nghệ.",
+            "Nhật Bản là một trong những nhà đầu tư, đối tác viện trợ và thị trường lao động lớn nhất của Việt Nam. Các thỏa thuận sau chuyến thăm có thể tác động tới dòng vốn đầu tư, cơ hội việc làm tại doanh nghiệp Nhật và chương trình đưa lao động, thực tập sinh sang Nhật."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Dữ liệu Ramp: doanh nghiệp dùng AI nhiều hơn nhưng chi tiêu gần như chững lại",
+          "summary": "Theo công ty quản lý chi tiêu Ramp, chi tiêu cho 'token' AI của doanh nghiệp chỉ tăng 1,5% trong tháng 8–9 sau khi tăng 42% hồi tháng 7, do OpenAI và Anthropic liên tục giảm giá. Tín hiệu này đến đúng lúc Anthropic chuẩn bị IPO.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "figure": {
+            "value": "+1,5%",
+            "label": "Tăng chi tiêu token AI tháng 8–9",
+            "delta": "tháng 7: +42%",
+            "dir": "down",
+            "spark": [
+              42,
+              1.5,
+              8.9
+            ]
+          },
+          "detail": [
+            "Ramp – công ty Mỹ cung cấp thẻ và phần mềm quản lý chi tiêu cho doanh nghiệp – vừa công bố báo cáo cho thấy các công ty đang dùng AI nhiều hơn bao giờ hết, nhưng số tiền chi ra tăng rất chậm. Cụ thể, chi tiêu cho 'token' (đơn vị tính phí khi gọi mô hình AI) chỉ tăng 1,5% trong tháng 8 và tháng 9, sau khi đã tăng tới 42% trong tháng 7.",
+            "Nguyên nhân chính là cuộc chiến giảm giá. Tháng 9, OpenAI cắt một nửa giá API cho các mô hình GPT-6; Anthropic đáp trả bằng việc giảm mạnh giá các mô hình của mình – động thái mà chính hãng cho biết trong hồ sơ là làm giảm khoảng 600 triệu USD tăng trưởng doanh thu. Ngoài ra, doanh nghiệp ngày càng giỏi kiểm soát chi phí: đặt hạn mức, giao ngân sách cho từng nhân viên, chuyển việc đơn giản sang mô hình rẻ hơn.",
+            "Kinh tế trưởng của Ramp, ông Ara Kharazian, cho biết gần như toàn bộ chi tiêu AI đến từ các công ty công nghệ tăng trưởng nhanh được quỹ đầu tư rót vốn; nếu nhóm này chậm lại thì cả thị trường sẽ chậm theo. Doanh nghiệp ở mức trung vị chỉ chi 12–15 USD/nhân viên/tháng cho AI, nhóm 10% đứng đầu chi 600–1.000 USD, còn nhóm 1% 'nghiện AI' nhất khoảng 10.000 USD.",
+            "Tháng 10 có dấu hiệu tăng trở lại khi chi tiêu token tăng 8,9% so với tháng trước, nhưng ông Kharazian vẫn cho rằng lực cản còn lớn. Theo Bloomberg, định giá tiềm năng của Anthropic đã giảm từ khoảng 2.000 tỷ USD đầu tháng 10 xuống 1.200–1.300 tỷ USD.",
+            "Với người dùng và doanh nghiệp nhỏ, xu hướng này có mặt tích cực: giá dịch vụ AI đang rẻ đi nhanh, đây là 'thị trường của người mua'. Nhưng với các hãng AI và nhà đầu tư, nó đặt câu hỏi liệu doanh thu có theo kịp các khoản đầu tư khổng lồ vào trung tâm dữ liệu hay không."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Đà Nẵng thúc khởi công khu đô thị Chu Lai 189 ha, vốn gần 19.000 tỷ",
+          "summary": "Dự án Khu đô thị Chu Lai tại xã Núi Thành rộng 188,56 ha, dự kiến gần 6.930 căn nhà cho khoảng 27.500 dân. Thành phố yêu cầu nhà đầu tư thuộc hệ sinh thái THACO phấn đấu khởi công trong tháng 12/2026, chậm nhất dịp 29/3/2027.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/da-nang-thuc-tien-do-sieu-du-an-gan-189-ha-von-gan-19000-ty-dong-cua-dai-quang-minh-188261106230520709.chn",
+          "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/6/avatar1793981049261-17939810497031244005079.jpg",
+          "detail": [
+            "Dự án Khu đô thị Chu Lai nằm tại xã Núi Thành (phía nam Đà Nẵng mới), do Công ty CP Đầu tư Địa ốc Đại Quang Minh làm nhà đầu tư. Quy mô khoảng 188,56 ha, tổng vốn dự kiến hơn 18.854 tỷ đồng, dân số khoảng 27.500 người, với khoảng 6.926 căn nhà gồm nhà liền kề, biệt thự, chung cư, nhà ở xã hội, nhà tái định cư và đất phân lô, kèm công trình thương mại, hạ tầng công cộng.",
+            "Ngày 17/7/2026, Ban Quản lý Khu kinh tế mở Chu Lai đã chọn Đại Quang Minh làm nhà đầu tư. Dự án dự kiến triển khai 2026–2034, chia 6 phân khu, thời hạn hoạt động 50 năm. Ngày 4/11, Phó Chủ tịch UBND thành phố Phan Thái Bình làm việc với Ban Quản lý để tháo gỡ vướng mắc, yêu cầu nhà đầu tư phấn đấu khởi công trong tháng 12/2026; nếu bất khả kháng thì khởi công dịp 52 năm Giải phóng Đà Nẵng (29/3/2027).",
+            "Nhà đầu tư phải khẩn trương hoàn thiện quy hoạch chi tiết 1/500 và các thủ tục đất đai, bồi thường, tái định cư. Đại Quang Minh thành lập năm 2011, được biết đến với khu đô thị Sala ở Thủ Thiêm (TP.HCM), thuộc hệ sinh thái THACO (THACO nắm 72,75% vốn); vốn điều lệ 32.000 tỷ đồng, lãi sau thuế năm 2025 hơn 4.069 tỷ đồng.",
+            "Với khu vực phía nam Đà Nẵng (Núi Thành – Chu Lai), dự án được kỳ vọng tạo thêm quỹ nhà ở, kể cả nhà ở xã hội, cho lao động khu công nghiệp và khu kinh tế mở Chu Lai – nơi THACO có cụm nhà máy lớn."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Công an cảnh báo chiêu chiếm Zalo, giả sếp nhờ nhân viên chuyển tiền",
+          "summary": "Kẻ gian chiếm tài khoản Zalo của lãnh đạo hoặc lập tài khoản giả có ảnh, tên giống hệt, trò chuyện công việc rồi nhờ nhân viên ứng tiền mua quà, thanh toán hộ. Công an khuyến cáo doanh nghiệp phải có quy trình xác minh độc lập với mọi yêu cầu chuyển tiền.",
+          "source": "CafeBiz",
+          "url": "https://cafebiz.vn/tat-ca-nguoi-dan-co-zalo-chu-y-thong-bao-moi-nhat-tu-cong-an-176261106180429679.chn",
+          "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/6/avatar1793963058324-1793963059142588654953.jpg",
+          "detail": [
+            "Công an tỉnh Phú Thọ vừa cảnh báo một thủ đoạn lừa đảo nhắm vào dân văn phòng: đối tượng tìm hiểu trước thông tin cá nhân và quan hệ giữa lãnh đạo với nhân viên, sau đó chiếm quyền tài khoản Zalo của lãnh đạo hoặc lập tài khoản khác có ảnh đại diện, tên hiển thị gần giống.",
+            "Ban đầu, kẻ gian nhắn tin trao đổi công việc bình thường để tạo lòng tin, rồi mới nhờ nhận tiền, mua quà hay thanh toán hộ. Một ví dụ được nêu: 'sếp giả' nhờ nhân viên tạm ứng 50 triệu đồng mua quà; nhân viên gọi cho sếp thật xin ứng lương, sếp thật không biết tài khoản bị chiếm nên vẫn chuyển tiền. Sau đó đối tượng gửi mã QR của một cửa hàng vàng bạc giả và chiếm đoạt toàn bộ.",
+            "Khuyến cáo: cơ quan, doanh nghiệp cần có quy trình xác minh độc lập (gọi điện trực tiếp, gặp mặt) với mọi yêu cầu tài chính, nhất là khoản lớn; không giao dịch chỉ dựa trên tin nhắn mạng xã hội. Nếu đã chuyển tiền, cần báo ngay ngân hàng để tra soát, chặn giao dịch, giữ lại tin nhắn, chứng từ và trình báo công an gần nhất.",
+            "Với người làm nhân sự, đây là nội dung nên phổ biến lại cho nhân viên: thống nhất trong nội bộ rằng lãnh đạo không bao giờ nhờ chuyển tiền qua tin nhắn, và mọi khoản tạm ứng phải đi qua kênh chính thức."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "10 tháng: công nghiệp tăng cao nhất từ 2019, FDI đăng ký kỷ lục 17 năm",
+          "summary": "Chỉ số sản xuất công nghiệp tháng 10 tăng 12,4%, cao nhất giai đoạn 2019–2026; vốn FDI đăng ký 10 tháng đạt 54,85 tỷ USD, tăng 74%. Chuyên gia dự báo lạm phát cả năm quanh 4,6%, nhưng cảnh báo khó giảm lãi suất khi giá cả còn tăng.",
+          "source": "VOV",
+          "url": "https://vov.vn/kinh-te/kinh-te-viet-nam-tang-toc-du-dia-nao-cho-chang-cuoi-nam-post1347791.vov",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/tphcm.jpg?v=1794009694",
+          "detail": [
+            "Bức tranh kinh tế 10 tháng năm 2026 cho thấy đà tăng tốc rõ rệt. Chỉ số sản xuất công nghiệp (IIP) tháng 10 tăng 12,4% so với cùng kỳ – mức cao nhất trong giai đoạn 2019–2026 – và tăng ở 33 địa phương. Vốn đầu tư nước ngoài (FDI) đăng ký đến 31/10 đạt 54,85 tỷ USD, tăng 74% và cao nhất 17 năm; vốn thực hiện đạt 24,08 tỷ USD, tăng 13,1%.",
+            "Tổng mức bán lẻ hàng hóa và dịch vụ tiêu dùng đạt 6.618,9 nghìn tỷ đồng, tăng 13,5%. Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (1.010,55 tỷ USD, +32,3%), nhập siêu 12,07 tỷ USD nhưng 94,1% hàng nhập là tư liệu sản xuất như máy móc, nguyên liệu – tức phục vụ sản xuất chứ không phải tiêu dùng.",
+            "Bức tranh doanh nghiệp có hai mặt: gần 162.300 doanh nghiệp mới với tổng vốn đăng ký 2.138,8 nghìn tỷ đồng (vốn tăng 34,3%), gần 81.400 doanh nghiệp quay lại hoạt động; nhưng gần 56.300 doanh nghiệp giải thể, tăng 109,8%, bình quân hơn 18.000 doanh nghiệp mỗi tháng.",
+            "PGS.TS Nguyễn Thường Lạng (ĐH Kinh tế Quốc dân) dự báo lạm phát cả năm dưới 5%, quanh 4,6%, và Việt Nam có cơ sở tiến gần mục tiêu tăng trưởng hai con số. TS Lê Duy Bình (Economica Việt Nam) khuyến nghị đẩy mạnh cải cách thủ tục, giải ngân đầu tư công và kích cầu nội địa, đồng thời lưu ý 'không thể giảm lãi suất trong bối cảnh lạm phát còn tăng cao' – thông tin đáng chú ý với người đang vay vốn."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Hơn 20 ngân hàng tung gói vay ưu đãi, giảm lãi suất cho vay 1,5–2%",
+          "summary": "Ngân hàng Nhà nước cho biết các ngân hàng đã giảm lãi suất niêm yết khoảng 0,5–0,7%/năm, lãi huy động mới giảm khoảng 0,4% và hơn 20 ngân hàng có gói vay ưu đãi giảm 1,5–2% cho sản xuất kinh doanh. Ngân hàng không thực hiện nghiêm sẽ bị xử lý.",
+          "source": "CafeBiz",
+          "url": "https://cafebiz.vn/hon-20-ngan-hang-trien-khai-goi-tin-dung-uu-dai-giam-lai-suat-15-2-176261104133815912.chn",
+          "tag": "Lãi suất cho vay",
+          "detail": [
+            "Tại họp báo Chính phủ thường kỳ, Phó Thống đốc Ngân hàng Nhà nước (NHNN) Phạm Thanh Hà cho biết các tổ chức tín dụng đã được chỉ đạo huy động mọi nguồn lực, cắt giảm chi phí và chia sẻ lợi nhuận với khách hàng để hạ mặt bằng lãi suất, với định hướng giảm lãi vay 1,5–2%/năm cho sản xuất, kinh doanh và các lĩnh vực ưu tiên.",
+            "Kết quả bước đầu: ngân hàng thương mại nhà nước và ngân hàng nước ngoài giảm lãi suất niêm yết trung bình khoảng 0,5%/năm, ngân hàng cổ phần phổ biến giảm 0,5–0,7%/năm. Lãi suất huy động tiền gửi mới cuối tháng 10 giảm khoảng 0,4% so với tháng trước, lãi vay các khoản mới giảm khoảng 0,2–0,5%. Hơn 20 ngân hàng đã công bố chương trình tín dụng ưu đãi giảm 1,5–2%.",
+            "Để hỗ trợ thanh khoản, NHNN đang cho vay qua đêm, hoán đổi ngoại tệ lấy tiền đồng kỳ hạn ngắn và từ 1/11 bổ sung công cụ hoán đổi kỳ hạn 6 tháng. NHNN cam kết điều hành tỷ giá linh hoạt và sẽ xử lý các ngân hàng không thực hiện nghiêm chỉ đạo; Thủ tướng yêu cầu giám sát để việc giảm lãi suất diễn ra thực chất.",
+            "Với doanh nghiệp và hộ kinh doanh đang cần vốn, đây là thời điểm nên hỏi ngân hàng về các gói ưu đãi cho khoản vay mới. Ngược lại, người gửi tiết kiệm nên chuẩn bị tâm lý lãi tiền gửi có thể tiếp tục giảm nhẹ. Bài báo chưa nêu tổng quy mô gói và điều kiện vay cụ thể của từng ngân hàng."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Hàng trăm công cụ hack bằng AI 'Artex' bị phơi trên mạng, không cần mật khẩu",
+          "summary": "Hãng bảo mật Censys phát hiện hơn 800 bản triển khai Artex – công cụ tấn công tự động bằng AI do Trung Quốc phát triển – có thể truy cập công khai. Artex từng bị dùng tấn công ngân hàng Hàn Quốc và nhà cung cấp IT ConnectWise; phần lớn vụ việc khai thác mật khẩu yếu.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+          "detail": [
+            "Artex là công cụ mã nguồn mở do Trung Quốc phát triển, dùng các 'đặc vụ AI' (AI agent – phần mềm AI tự lên kế hoạch và hành động) để tự động dò tìm điểm yếu của hệ thống máy tính. Microsoft mô tả nó có thể tiến hành tấn công 'từ trinh sát đến lấy cắp dữ liệu' gần như không cần con người. Vì miễn phí, Artex được ưa chuộng bởi những người không tiếp cận được các mô hình AI an ninh mạng cao cấp của Anthropic hay OpenAI.",
+            "Hãng bảo mật Censys tìm thấy hơn 800 bản triển khai Artex riêng biệt có thể truy cập từ internet mà không cần mật khẩu. Nhiều bản thuộc về người kiểm thử hợp pháp, nhưng việc để lộ là khó hiểu vì phần mềm không cần kết nối internet. Các hệ thống bị phơi còn để lộ cả công cụ tấn công như mã độc cài cắm để duy trì quyền truy cập vào mạng nạn nhân.",
+            "Artex gắn với nhiều vụ tấn công lớn. Tháng 9, nó bị dùng nhắm vào ngành tài chính Hàn Quốc; CrowdStrike quy trách nhiệm cho một tin tặc nói tiếng Trung đã để lộ thư mục chứa hệ thống, trong đó còn có dữ liệu của các công ty thanh toán và game. Tháng 10, Artex được dùng tấn công ConnectWise – nhà cung cấp dịch vụ hỗ trợ IT – giúp nhóm tin tặc liên quan Trung Quốc theo dõi hàng nghìn tổ chức lưu tệp trên đám mây Microsoft.",
+            "Điểm chung của nhiều vụ là khai thác lỗ hổng rất cơ bản: mật khẩu yếu hoặc đã bị lộ, không bật xác thực nhiều lớp (MFA). Nhà phát triển Artex tuyên bố sẽ chuyển sang mã đóng, chỉ bán cho khách trả phí, nhưng hàng chục bản sao mã nguồn vẫn còn trên các trang chia sẻ code.",
+            "Bài học thực tế cho doanh nghiệp, kể cả ở Việt Nam: AI đang giúp tin tặc tấn công nhanh và rẻ hơn, nên các biện pháp cơ bản như mật khẩu mạnh, bật MFA cho email, tài khoản quản trị và đám mây trở nên quan trọng hơn bao giờ hết."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Khai mạc 'Made in Đà Nẵng' tại AEON Mall, chuỗi 4 đợt đến cuối tháng 12",
+          "summary": "Tối 6/11, Sở Công Thương Đà Nẵng khai mạc chương trình quảng bá sản phẩm 'Made in Đà Nẵng' với 18 gian hàng tại AEON Mall, kéo dài đến 8/11. Đây là đợt đầu trong chuỗi 4 đợt ở MM Mega Market, Lotte và Co.opmart đến 27/12.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/khai-mac-chuong-trinh-quang-ba-san-pham-made-in-da-nang-3357686.html",
+          "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/06/dsc02394.jpg",
+          "detail": [
+            "Tối 6/11, Sở Công Thương Đà Nẵng phối hợp Trung tâm thương mại AEON MALL Đà Nẵng khai mạc chương trình quảng bá sản phẩm 'Made in Đà Nẵng' năm 2026. Chương trình diễn ra từ 6 đến 8/11 tại sảnh tầng 1 AEON MALL, với 18 gian trưng bày thực phẩm, đồ uống, hóa mỹ phẩm, đặc sản, sản phẩm chăm sóc sức khỏe – làm đẹp, quà lưu niệm và hàng tiêu dùng.",
+            "Đây là đợt đầu trong chuỗi 4 đợt: đợt 2 tại MM Mega Market Đà Nẵng (20–22/11), đợt 3 tại Lotte Đà Nẵng (11–13/12) và đợt 4 tại Co.opmart Đà Nẵng (25–27/12). Người dân có thể tranh thủ các dịp này để mua đặc sản, quà biếu cuối năm với giá khuyến mại.",
+            "Ngoài bán hàng, doanh nghiệp được hướng dẫn tiêu chuẩn, điều kiện, hồ sơ để đưa sản phẩm vào hệ thống phân phối của trung tâm thương mại, đồng thời tổ chức dùng thử, tư vấn và livestream bán hàng trên mạng xã hội.",
+            "Sở Công Thương kỳ vọng chương trình giúp sản phẩm địa phương tiếp cận nhiều khách hơn, nhất là du khách, và giúp doanh nghiệp nhỏ tham gia chuỗi cung ứng hiện đại. Chương trình gắn với cuộc vận động 'Người Việt Nam ưu tiên dùng hàng Việt Nam' với thông điệp 'Niềm tin hàng Việt'."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Đại biểu phản đối áp chung thuế 0,2% cho mọi loại đất bỏ hoang",
+          "summary": "Chính phủ đề xuất đánh thuế 0,2% với đất không sử dụng hoặc chậm đưa vào sử dụng, không áp hạn mức. Nhiều đại biểu đề nghị miễn cho đất bỏ hoang do thiên tai, bất khả kháng và chỉ đánh thuế phần diện tích chậm triển khai; luật dự kiến được thông qua ngày 20/11.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/khong-nen-ap-chung-muc-thue-0-2-cho-tat-ca-dat-bo-hoang-5141471.html",
+          "tag": "Luật thuế đất",
+          "detail": [
+            "Sáng 6/11, Quốc hội thảo luận dự luật sửa đổi cùng lúc ba luật thuế: Thuế thu nhập doanh nghiệp, Thuế sử dụng đất phi nông nghiệp và Thuế thu nhập cá nhân. Điểm gây tranh luận là đề xuất của Chính phủ đánh thuế 0,2% với đất bỏ hoang – tức đất không đưa vào sử dụng hoặc chậm đưa vào sử dụng – và không áp dụng hạn mức.",
+            "Đại biểu Tô Ái Vang (Cần Thơ) cho rằng việc đánh đồng mọi trường hợp bỏ hoang, không xét nguyên nhân, là 'thiếu sót pháp lý lớn, thiếu công bằng'. Bà đề nghị miễn thuế với đất không thể sử dụng vì thiên tai, dịch bệnh, biến đổi khí hậu hay bất khả kháng có xác nhận của UBND xã, và có cơ chế riêng cho Đồng bằng sông Cửu Long.",
+            "Đại biểu Dương Khắc Mai (Lâm Đồng) muốn chỉ thu thuế sau khi cơ quan có thẩm quyền xác định tình trạng, thời gian bỏ hoang và cho người dân giải trình. Đại biểu Nguyễn Văn Huy (Hưng Yên) chỉ ra nhiều thửa đất lớn làm theo giai đoạn; nếu đánh thuế cả thửa sẽ thu oan cả phần đã dùng đúng mục đích, nên chỉ áp 0,2% với phần diện tích chậm triển khai.",
+            "Bộ trưởng Tài chính Ngô Văn Tuấn giải trình rằng khái niệm đất bỏ hoang sẽ căn cứ pháp luật đất đai; ngành thuế và cơ quan đất đai phối hợp xác định diện tích từng thửa dựa trên dữ liệu quốc gia. Quốc hội dự kiến biểu quyết luật vào ngày 20/11. Người đang sở hữu đất để không, nhất là đất đầu tư, nên theo dõi vì đây là loại thuế nhằm hạn chế găm giữ đất."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Thiên Long về tay tập đoàn Nhật Kokuyo, có thể thành công ty con",
+          "summary": "Cổ đông lớn nhất của Thiên Long, nắm 46,82% vốn, đã chuyển toàn bộ sang tập đoàn văn phòng phẩm Kokuyo (Nhật). Kokuyo dự kiến chào mua thêm 18,19% để nắm 65,01%; năm ngoái hãng tính chi khoảng 27,6 tỷ yen (khoảng 4.700 tỷ đồng).",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/thien-long-ve-tay-tap-doan-nhat-ban-5141686.html",
+          "tag": "Thâu tóm M&A",
+          "detail": [
+            "Tập đoàn Thiên Long (mã TLG) thông báo cổ đông lớn nhất là Công ty Đầu tư Thiên Long An Thịnh, nắm gần 45,2 triệu cổ phần (46,82% vốn), đã hoàn tất chuyển nhượng toàn bộ cổ phần cho tập đoàn Kokuyo của Nhật Bản sau khi được cơ quan có thẩm quyền chấp thuận.",
+            "Bước tiếp theo, Kokuyo dự kiến chào mua công khai thêm 18,19% vốn. Nếu thành công, tỷ lệ sở hữu sẽ đạt 65,01% và Thiên Long trở thành công ty con của Kokuyo. Thông báo lần này không nêu giá trị giao dịch, nhưng hồi tháng 12/2025 Kokuyo cho biết dự tính chi khoảng 27,6 tỷ yen, tương đương 4.700 tỷ đồng lúc đó. Ban lãnh đạo khẳng định hoạt động kinh doanh hằng ngày không bị ảnh hưởng trực tiếp.",
+            "Kokuyo thành lập năm 1905, là tên tuổi hàng đầu Nhật Bản về văn phòng phẩm và nội thất văn phòng, tại Việt Nam kinh doanh vở Campus và từng đặt Thiên Long gia công sản phẩm. Thiên Long được ông Cô Gia Thọ lập năm 1981 từ một xưởng nhỏ, nay sở hữu các thương hiệu bút Thiên Long, FlexOffice, Colokit, Flexio, có mặt ở hơn 75 quốc gia. Ông Thọ nói 'cảm thấy an tâm khi giao Thiên Long' cho một doanh nghiệp lâu năm và thường giữ thương hiệu địa phương.",
+            "9 tháng đầu năm, Thiên Long đạt doanh thu thuần khoảng 3.621 tỷ đồng (+12%) và lãi sau thuế hơn 423 tỷ đồng (+12,5%). Thương vụ là thêm một ví dụ doanh nghiệp hàng tiêu dùng đầu ngành của Việt Nam được nhà đầu tư Nhật thâu tóm, trong bối cảnh dòng vốn Nhật vào Việt Nam vẫn mạnh."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Bộ Chính trị cho ý kiến quy hoạch TP.HCM 100 năm, mục tiêu GRDP tăng 10%/năm",
+          "summary": "Kết luận 112 của Bộ Chính trị cơ bản đồng ý định hướng quy hoạch TP.HCM 2025–2050, tầm nhìn 100 năm, theo mô hình siêu đô thị đa cực với dân số hơn 27 triệu người vào 2050. Thành phố đặt mục tiêu GRDP 200–225 tỷ USD vào 2030, kinh tế số chiếm 40%.",
+          "source": "CafeBiz",
+          "url": "https://cafebiz.vn/chi-dao-moi-nhat-cua-bo-chinh-tri-ve-sieu-quy-hoach-dau-tien-sau-sap-nhap-tam-nhin-100-nam-cua-tphcm-176261106075325506.chn",
+          "image": "https://cafebiz.cafebizcdn.vn/thumb_w/1200/162123310254002176/2026/11/6/avatar1793926385570-17939263873331268187119.jpg",
+          "detail": [
+            "Thường trực Ban Bí thư đã ký ban hành Kết luận 112 của Bộ Chính trị về Quy hoạch tổng thể TP.HCM giai đoạn 2025–2050, tầm nhìn 100 năm – bản 'siêu quy hoạch' đầu tiên của thành phố sau sáp nhập. Bộ Chính trị cơ bản đồng ý quan điểm, mục tiêu và định hướng do Thành ủy đề xuất, giao thành phố tiếp thu, hoàn thiện để đưa TP.HCM thành đô thị toàn cầu, đầu tàu của vùng và cả nước.",
+            "Quy hoạch phải tổ chức không gian đa tầng, đa cực, tập trung nguồn lực vào các ưu tiên chiến lược để tránh dàn trải; phát triển kinh tế gắn với văn hóa, môi trường, ứng phó biến đổi khí hậu và an sinh. Các mục tiêu, kịch bản tăng trưởng và nguồn lực cần rà soát thêm, kế hoạch thực hiện phải công khai để người dân góp ý.",
+            "Theo quy hoạch HĐND thành phố thông qua ngày 30/10, TP.HCM đặt mục tiêu GRDP tăng bình quân tối thiểu 10%/năm đến 2030, quy mô khoảng 200–225 tỷ USD; kinh tế số chiếm 40% GRDP năm 2030 và 60% năm 2035. Cấu trúc không gian gồm 5 cực động lực, 5 trung tâm vệ tinh, 5 hệ liên kết chiến lược và 10 vùng quản trị; dân số dự kiến hơn 27 triệu người vào năm 2050.",
+            "Lộ trình chia ba giai đoạn: 2026–2030 tập trung công nghệ, đổi mới sáng tạo và hạ tầng chiến lược; 2031–2035 khai thác hạ tầng khung, nâng năng suất; 2036–2045 chuyển sang kinh tế tri thức. Các tỉnh Đông Nam Bộ được yêu cầu phối hợp kết nối hạ tầng liên vùng với TP.HCM."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Gửi 500 triệu kỳ hạn 3 tháng: VPBank, Sacombank trả lãi cao nhất 4,75%",
+          "summary": "Ngày 7/11, gửi online kỳ hạn 3 tháng tại VPBank và Sacombank được 4,75%/năm, tức khoảng 5,94 triệu đồng tiền lãi cho 500 triệu. Gửi tại quầy thấp hơn, cao nhất VPBank 4,65%; HDBank tại quầy chỉ 3,6%.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/ngay-7-11-gui-duoi-1-ty-dong-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-3-thang-18826110622451738.chn",
+          "figure": {
+            "value": "4,75%",
+            "label": "Lãi online kỳ hạn 3 tháng cao nhất (VPBank, Sacombank)",
+            "delta": "HDBank quầy 3,6%",
+            "dir": "up",
+            "spark": [
+              3.6,
+              4.0,
+              4.1,
+              4.35,
+              4.5,
+              4.6,
+              4.65
+            ]
+          },
+          "detail": [
+            "CafeF so sánh lãi suất tiết kiệm kỳ hạn 3 tháng (khoản dưới 1 tỷ đồng, lĩnh lãi cuối kỳ) tại 7 ngân hàng ngày 7/11. Gửi online: VPBank và Sacombank cùng cao nhất 4,75%/năm; MB và SHB 4,65%; Techcombank 4,55%; ACB 4,5%; HDBank 4,3%.",
+            "Gửi tại quầy lãi thấp hơn: VPBank 4,65%, Sacombank 4,6%, SHB 4,5%, Techcombank 4,35%, MB 4,1%, ACB 4%, HDBank 3,6%. Chênh lệch giữa quầy và online có nơi lên tới 0,55–0,7 điểm phần trăm (MB, HDBank), nên gửi qua ứng dụng thường lợi hơn.",
+            "Cách tính đơn giản: tiền lãi = số tiền gửi × lãi suất năm × 3/12. Ví dụ gửi 500 triệu online ở mức 4,75% sẽ nhận khoảng 5,94 triệu đồng sau 3 tháng; ở mức 3,6% chỉ khoảng 4,5 triệu. Khoản 1 tỷ đồng trở lên có thể áp dụng biểu lãi khác.",
+            "Lưu ý bối cảnh: Ngân hàng Nhà nước đang chỉ đạo hạ mặt bằng lãi suất, lãi huy động tiền gửi mới cuối tháng 10 đã giảm khoảng 0,4 điểm %. Người có tiền nhàn rỗi nên so sánh kỹ, cân nhắc kỳ hạn ngắn để linh hoạt khi lãi suất còn biến động."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Amazon cho người dùng nhắn tin với Alexa để tìm và mua hàng",
+          "summary": "Amazon ra mắt tính năng mua sắm bằng tin nhắn với trợ lý AI Alexa: tìm sản phẩm, thêm giỏ, đặt mua, theo dõi giá, so sánh hàng và tìm đồ tương tự qua ảnh. Tính năng sẽ đến hàng triệu người dùng Mỹ trong vài tuần tới, ngay trước mùa mua sắm cuối năm.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
+          "detail": [
+            "Ngày 6/11, Amazon công bố cho phép khách hàng mua sắm bằng cách nhắn tin trực tiếp với Alexa – trợ lý AI của hãng. Một số khách hàng ở Mỹ sẽ nhận tin nhắn mời kích hoạt, số khác có thể đăng ký danh sách chờ; Amazon cho biết tính năng sẽ đến với 'hàng triệu người dùng' trong vài tuần tới.",
+            "Người dùng chỉ cần gõ yêu cầu bằng ngôn ngữ thường ngày để tìm sản phẩm, thêm vào giỏ và đặt mua. Alexa còn quản lý danh sách mua sắm, theo dõi biến động giá, tìm thông tin trên web, so sánh sản phẩm, kiểm tra đơn hàng. Khách có thể gửi ảnh một món đồ hay một bộ trang phục để Alexa tìm hàng tương tự trên Amazon, và trợ lý sẽ học dần sở thích để gợi ý.",
+            "Động thái diễn ra sau khi Amazon hồi tháng 9 chặn 'Muse' – trợ lý AI của Meta – truy vấn dữ liệu trên Amazon.com. Nói cách khác, Amazon muốn khách mua sắm qua trợ lý AI của chính mình thay vì để AI của bên thứ ba 'đứng giữa'.",
+            "Thị trường 'đặc vụ AI' mua sắm đang rất chật chội: DoorDash cho biết các trợ lý AI bên ngoài mới đặt được vài trăm đơn trên nền tảng của họ, nên hãng tập trung vào trợ lý nhắn tin riêng ra mắt hồi tháng 9.",
+            "Xu hướng đáng chú ý là mua sắm đang chuyển từ 'lướt app, bấm nút' sang 'nhắn tin với AI'. Các sàn thương mại điện tử ở Việt Nam nhiều khả năng sẽ đi theo hướng này, nên người dùng cần làm quen với cách AI gợi ý hàng – và cảnh giác hơn với quyết định mua do AI thúc đẩy."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Hơn 7,3 tỷ đồng khuyến công giúp 15 cơ sở Đà Nẵng đổi mới máy móc",
+          "summary": "Đợt bàn giao cuối tháng 10, 15 doanh nghiệp, hợp tác xã, hộ kinh doanh ở Đà Nẵng được hỗ trợ gần 3,5 tỷ đồng để mua máy móc mới, tổng đầu tư hơn 7,32 tỷ. Theo Nghị quyết 58, thành phố hỗ trợ 50–80% chi phí, tối đa 300–450 triệu đồng mỗi đơn vị.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/khuyen-cong-tiep-suc-doanh-nghiep-doi-moi-cong-nghe-3357597.html",
+          "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/05/chuong-trinh-khuyen-cong-ho-tro-doanh-nghiep-thiet-bi-may-moc-de-nang-cao-chat-luong-san-xuat-san-pham-tu-cay-que.jpg",
+          "detail": [
+            "Chương trình khuyến công (hỗ trợ phát triển công nghiệp nông thôn) của Đà Nẵng đang giúp nhiều cơ sở nhỏ vượt qua bài toán thiếu vốn để thay máy móc. Trong đợt nghiệm thu, bàn giao từ 28–30/10, có 15 doanh nghiệp, hợp tác xã và hộ kinh doanh được hỗ trợ; tổng kinh phí hơn 7,32 tỷ đồng, trong đó ngân sách khuyến công chi gần 3,49 tỷ, phần còn lại do đơn vị tự đối ứng.",
+            "Một số ví dụ: HTX Nông nghiệp Ái Nghĩa (xã Đại Lộc) đầu tư máy tách màu gạo hơn 550 triệu đồng, được hỗ trợ 275 triệu; HTX Gò Nổi (phường An Thắng) được hỗ trợ 300 triệu cho máy cắt dây 605 triệu; Công ty Cao Trang ở làng đá Non Nước mua máy CNC điêu khắc đá gần 659 triệu đồng, năng suất tăng khoảng 70%.",
+            "Từ 10/7/2026, Nghị quyết 58/2026/NQ-HĐND có hiệu lực: thành phố hỗ trợ 50% chi phí ứng dụng máy móc ở xã, phường đồng bằng và 80% ở xã miền núi, biên giới, hải đảo, tối đa 300 triệu đồng mỗi đơn vị; riêng dây chuyền công nghệ có thể đến 450 triệu. Đà Nẵng dự kiến dành khoảng 35 tỷ đồng mỗi năm cho chính sách này.",
+            "Với các hộ, HTX đang muốn nâng cấp sản xuất (cơ khí, chế biến nông sản, thủ công mỹ nghệ, năng lượng sạch), đây là kênh hỗ trợ đáng tìm hiểu; đầu mối là Trung tâm Khuyến công và Xúc tiến thương mại Đà Nẵng, đơn vị đã tổ chức 3 đợt khảo sát nhu cầu trong năm 2026."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Từ 2027, tỉnh thành phải công bố khả năng chống chịu ngập lụt, thiên tai",
+          "summary": "Bộ Xây dựng sắp ban hành bộ tiêu chí đầu tiên đánh giá khả năng chống chịu biến đổi khí hậu của đô thị, gồm 5 nhóm, xếp hạng tốt – khá – hạn chế. UBND cấp tỉnh phải công bố kết quả trước tháng 6/2027; kết quả sẽ quyết định ưu tiên vốn hạ tầng.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/dia-phuong-du-kien-phai-cong-bo-kha-nang-chong-chiu-ngap-lut-thien-tai-tu-2027-5141707.html",
+          "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/06/2393145815217460038-1793975244-5176-1793975424.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=DG5HwtBPT1QaX-2qH7lgaQ",
+          "detail": [
+            "Tại diễn đàn Phát triển bền vững đô thị Việt Nam ngày 6/11, ông Nguyễn Cao Viên, Phó Cục trưởng Cục Phát triển đô thị (Bộ Xây dựng), cho biết Bộ sắp ban hành thông tư quy định tiêu chí đánh giá khả năng chống chịu biến đổi khí hậu, dự kiến có hiệu lực đầu năm 2027. Đây là bộ tiêu chí đầu tiên của cả nước trong lĩnh vực này.",
+            "Bộ tiêu chí gồm 5 nhóm: chính sách quản lý, hạ tầng thiết yếu, môi trường sinh thái, năng lực xã hội và tài chính. Tỉnh, thành và đô thị trực thuộc sẽ được xếp hạng tốt, khá hoặc hạn chế. UBND cấp tỉnh phải đánh giá, công bố trước tháng 6/2027; từ 2028, hạn là trước 31/3 hằng năm. Cao Bằng, Khánh Hòa, Hải Phòng và Quảng Ninh đã thử nghiệm dự thảo.",
+            "Bối cảnh là ngập úng đô thị ngày càng nặng do lấn chiếm mặt nước, hành lang thoát lũ. Trong trận lũ lịch sử năm ngoái, một khu đô thị mới ở Gia Lai vẫn ngập 1,4–2 m dù đã làm đúng cao độ nền tiêu chuẩn. Theo Ngân hàng Thế giới, mỗi 1 USD đầu tư cho khả năng chống chịu của hạ tầng mang lại lợi ích khoảng 4 USD trong vòng đời công trình.",
+            "'Chống chịu tốt' không có nghĩa là không gặp thiên tai, mà là chính quyền nhận diện rủi ro sớm, giữ được các dịch vụ thiết yếu và phục hồi nhanh. Với người dân miền Trung – vùng thường xuyên chịu bão lũ như Đà Nẵng – kết quả xếp hạng sẽ ảnh hưởng tới việc nơi mình sống được ưu tiên đầu tư hạ tầng chống ngập đến đâu. Lưu ý đây vẫn là dự thảo."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Kế hoạch phòng chống thiên tai 2026–2030: siết xây nhà ven biển, phòng siêu bão",
+          "summary": "Phó Thủ tướng ký kế hoạch phòng, chống thiên tai quốc gia 2026–2030, yêu cầu xây nhà chống bão lớn, di dời dân khỏi vùng nguy hiểm. Theo kịch bản mới, khi Trái đất nóng thêm 2 độ, xác suất siêu bão đổ bộ miền Trung tăng khoảng 56%.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/xay-nha-chong-chiu-bao-manh-sieu-bao-5141728.html",
+          "image": "https://i2-vnexpress.vnecdn.net/2026/11/06/baoyagi-jpg-1793970260-1461-1793970662.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=9PMe34rnWHrqpjmLGqLBJg",
+          "detail": [
+            "Ngày 6/11, Phó Thủ tướng Hồ Quốc Dũng ký ban hành Kế hoạch phòng, chống thiên tai quốc gia giai đoạn 2026–2030, trong đó có phần riêng về ứng phó bão mạnh và siêu bão. Địa phương phải siết quản lý xây dựng nhà ở và hạ tầng, nhất là ở khu dân cư, khu du lịch, nghỉ dưỡng ven biển và cửa sông.",
+            "Người dân sẽ được hướng dẫn xây nhà có khả năng chống chịu bão lớn kèm phương án sơ tán; Nhà nước hỗ trợ hộ nghèo, gia đình chính sách làm nhà phòng tránh bão; hộ ở khu vực không an toàn sẽ được rà soát, di dời. Kế hoạch cũng yêu cầu nâng cấp đê, kè biển, khu neo đậu tàu thuyền, bảo vệ rừng phòng hộ và cồn cát ven biển, cập nhật bản đồ ngập lụt, bản đồ sơ tán và diễn tập.",
+            "Theo kịch bản biến đổi khí hậu công bố tháng 10/2026, cường độ bão trên Biển Đông có xu hướng tăng, nhất là từ tháng 8 đến 11. Siêu bão cấp 16 trở lên (mạnh như bão Yagi 2024 khi vào miền Bắc) hiện có chu kỳ khoảng 38 năm, sẽ rút còn 24 năm nếu nhiệt độ toàn cầu tăng 2 độ và 17 năm nếu tăng 3 độ.",
+            "Riêng miền Trung, xác suất siêu bão đổ bộ tăng khoảng 56% ở mức nóng lên 2 độ; chu kỳ siêu bão cấp 17 rút từ khoảng 35 năm xuống 23 năm. Với người dân Đà Nẵng và các tỉnh ven biển miền Trung, các yêu cầu này sẽ ảnh hưởng trực tiếp tới việc cấp phép, xây sửa nhà và quy hoạch khu du lịch ven biển trong những năm tới."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "9 ngân hàng Việt muốn lập ngân hàng con tại Trung tâm tài chính quốc tế",
+          "summary": "MB, Techcombank, MSB, Vietcombank, HDBank, SHB… đã hoặc đang xin ý kiến cổ đông lập ngân hàng con tại Trung tâm Tài chính quốc tế Việt Nam (VIFC), phần lớn với vốn 3.000 tỷ đồng. Mục tiêu là tiếp cận vốn ngoại tệ rẻ và phục vụ doanh nghiệp xuất nhập khẩu.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/hang-loat-nha-bang-vietcombank-mb-techcombank-hdbank-msb-muon-thanh-lap-them-ngan-hang-188261104234805071.chn",
+          "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/4/vintage-vifc-banking-wave-poster-17938101879481804926348-0-0-906-1731-crop-17938101968341166442880.png",
+          "detail": [
+            "Ngày 29/10, HĐQT MB thông qua phương án lập 'MB Toàn cầu' với vốn điều lệ dự kiến 3.000 tỷ đồng; Techcombank chốt danh sách cổ đông ngày 3/11 để xin ý kiến lập ngân hàng TNHH một thành viên; MSB cũng vừa được cổ đông đồng ý. Trước đó, Vietcombank, MB, TPBank, LPBank, HDBank, SHB và Nam A Bank đã được đại hội cổ đông 2026 thông qua. Tính đến đầu tháng 11 có 9 ngân hàng tham gia cuộc đua.",
+            "Trung tâm Tài chính quốc tế Việt Nam (VIFC) là khu vực có cơ chế riêng, cho phép giao dịch trực tiếp bằng ngoại tệ và áp dụng nhiều chuẩn mực quốc tế. Theo Nghị quyết 222/2025/QH15 và Nghị định 329/2025/NĐ-CP, ngân hàng mẹ phải có vốn thực tối thiểu gấp đôi vốn pháp định, nợ xấu không quá 3%, xếp hạng A hoặc B và có lãi 5 năm liền. Ngân hàng con được làm từ 7 đến 21 nhóm nghiệp vụ, nhiều nhất với khách nước ngoài.",
+            "Mỗi ngân hàng có hướng riêng: MSB muốn làm 'mắt xích trung chuyển tài chính' cho doanh nghiệp xuất nhập khẩu; Techcombank muốn huy động ngoại tệ qua cho vay hợp vốn và trái phiếu quốc tế; Vietcombank xây mô hình trung tâm dịch vụ tài chính quốc tế. Đây là cách 'ra biển lớn' ngay trong nước với chi phí thấp hơn mở chi nhánh ở nước ngoài.",
+            "Tuy nhiên tiến độ còn chậm: đến 28/10, VIFC mới công bố 10 thành viên đầu tiên, đều là công ty holding, chưa có ngân hàng nào. Phó Thủ tướng Nguyễn Văn Thắng yêu cầu trung tâm sớm có giao dịch thực tế và ngân hàng thành viên ngay trong tháng 11/2026."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Hạn mặn 2026–2027: mặn có thể lấn sâu 50–60 km vào miền Tây",
+          "summary": "Do El Niño mạnh lên, dòng chảy sông Tiền, sông Hậu có thể giảm khoảng 40% và mùa khô kéo dài hơn. Các nhà khoa học khuyến cáo trữ nước ngay từ đầu mùa khô, điều chỉnh lịch thời vụ Đông Xuân và ưu tiên nước sinh hoạt cho dân ven biển.",
+          "source": "VOV",
+          "url": "https://vov.vn/xa-hoi/han-man-2026-2027-khong-the-cho-nuoc-can-moi-ung-pho-post1347920.vov",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/gen-h-z8458668711635_11c9204f6bc51cc317ab00d8abd4227b.jpg?v=1794009118",
+          "detail": [
+            "Tại hội thảo 'An ninh nguồn nước trong bối cảnh El Niño và biến đổi khí hậu' do Bộ Nông nghiệp và Môi trường tổ chức chiều 6/11 tại TP.HCM, các nhà khoa học cảnh báo nguy cơ thiếu nước ngọt nghiêm trọng ở Đồng bằng sông Cửu Long trong mùa khô 2026–2027. El Niño là hiện tượng nước biển Thái Bình Dương ấm lên bất thường, thường khiến mưa ít, nắng hạn kéo dài ở Việt Nam.",
+            "Theo Phân viện Khoa học khí tượng thủy văn, môi trường và biển, lưu lượng nước sông Tiền, sông Hậu năm nay có thể giảm khoảng 40% so với trung bình nhiều năm; lượng mưa cuối mùa mưa ở nhiều nơi đã thấp hơn bình thường. Mùa khô tới, El Niño được dự báo mạnh lên, mùa mưa có thể kết thúc sớm và mùa khô kéo dài.",
+            "Hệ quả là ranh mặn có thể lấn sâu vào đất liền 50–60 km, so với khoảng 40 km hiện nay. Vùng sản xuất nông nghiệp và khu dân cư ven biển chịu áp lực lớn nhất.",
+            "PGS.TS Nguyễn Văn Hồng khuyến cáo trữ nước ngay từ đầu mùa khô qua hồ chứa, kênh mương; điều chỉnh lịch thời vụ, nhất là vụ Đông Xuân; nhà máy nước chủ động lấy và trữ nước ngọt, ưu tiên sinh hoạt cho người dân ven biển; tăng cường cảnh báo sớm. Thông điệp chung là 'không thể chờ nước cạn mới ứng phó'."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Startup AI của cựu CTO OpenAI gọi 5 tỷ USD, định giá 40 tỷ USD",
+          "summary": "Thinking Machines Lab được cho là đang huy động 5 tỷ USD do quỹ Accel dẫn dắt, định giá 40 tỷ USD trước vốn – gấp hơn ba lần năm 2025. Doanh thu năm mới hơn 100 triệu USD, nghĩa là định giá có thể gấp tới 400 lần doanh thu.",
+          "source": "Tech Funding News",
+          "url": "https://techfundingnews.com/accel-thinking-machines-lab-5b-round-40b-valuation",
+          "figure": {
+            "value": "40 tỷ USD",
+            "label": "Định giá Thinking Machines Lab (trước vốn)",
+            "delta": "7/2025: 12 tỷ USD",
+            "dir": "up",
+            "spark": [
+              12,
+              50,
+              40
+            ]
+          },
+          "detail": [
+            "Thinking Machines Lab – startup AI ở San Francisco do bà Mira Murati, cựu Giám đốc công nghệ (CTO) của OpenAI, sáng lập tháng 2/2025 – được cho là đang huy động 5 tỷ USD với mức định giá 40 tỷ USD trước khi nhận vốn. Thông tin do Business Insider đưa đầu tiên, quỹ Accel dẫn dắt vòng gọi vốn, và thương vụ có thể chốt trong vài ngày.",
+            "Mức định giá này gấp hơn ba lần con số 12 tỷ USD trong vòng hạt giống 2 tỷ USD hồi tháng 7/2025, nhưng thấp hơn khoảng 20% so với mức 50 tỷ USD từng được bàn cuối năm 2025. Công ty cũng từng mất ba nhà đồng sáng lập sang Meta và OpenAI trong giai đoạn 10/2025–1/2026.",
+            "Doanh thu còn nhỏ so với định giá: một nguồn tin cho biết doanh thu năm vượt 100 triệu USD, tức định giá có thể gấp tới 400 lần doanh thu, trong khi OpenAI ở mức 1.250 tỷ USD chỉ khoảng 25 lần. Nguồn thu chính đến từ Tinker – sản phẩm cho phép tổ chức tự huấn luyện mô hình AI riêng trên dữ liệu của mình. Ngày 5/11, công ty vừa ra mắt mô hình Inkling 2 Small chuyên lập trình, sẽ công bố trọng số mở sau khi kiểm thử an toàn.",
+            "Nvidia được cho là có thể góp khoảng một nửa vòng gọi vốn; hai bên đã ký hợp tác nhiều năm từ tháng 3 về hệ thống chip Vera Rubin công suất ít nhất 1 gigawatt, dự kiến triển khai đầu 2027. Nếu hoàn tất, tổng vốn công bố của công ty sẽ vào khoảng 7 tỷ USD.",
+            "Trong bối cảnh cổ phiếu AI vừa bị bán tháo và OpenAI, Anthropic phải hạ kỳ vọng định giá, thương vụ cho thấy giới đầu tư vẫn sẵn sàng đặt cược lớn vào các đội ngũ AI hàng đầu – nhưng cũng làm dấy lên lo ngại về 'bong bóng' định giá."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Đà Nẵng tăng tốc giải ngân vốn nông thôn mới, đạt hơn 36% của 2.367 tỷ",
+          "summary": "Sau một tháng tháo gỡ, đến 9/10 Đà Nẵng giải ngân 860/2.367 tỷ đồng vốn chương trình nông thôn mới, 78 trong 87 công trình vướng mắc được thi công tiếp. Thành phố có 70 xã làm nông thôn mới, 9 xã phấn đấu đạt chuẩn năm 2026.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/da-nang-tang-toc-giai-ngan-von-nong-thon-moi-3357664.html",
+          "image": "https://bqn.1cdn.vn/thumbs/1200x630/2026/11/05/duy-xuyen-4.jpg",
+          "detail": [
+            "Đến cuối quý III/2026, giải ngân vốn Chương trình mục tiêu quốc gia xây dựng nông thôn mới ở Đà Nẵng còn rất chậm: vốn kế hoạch năm 2026 mới giải ngân 40,7/977,8 tỷ đồng (4,2%), vốn giai đoạn 2021–2025 chuyển sang đạt 480/1.352 tỷ (35,5%). 18 địa phương và 2 ban quản lý giải ngân dưới 30%, khoảng 774 tỷ đồng còn nằm ở khối xã, phường. Thành phố quyết định lấy kết quả giải ngân làm căn cứ xếp loại cán bộ cuối năm.",
+            "Sau một tháng tập trung tháo gỡ, đến 9/10 tổng vốn theo dõi là 2.367 tỷ đồng, đã giải ngân 860 tỷ (36,36%); 66/83 địa phương có tỷ lệ tăng. Trong 87 công trình gặp khó, 78 được thi công tiếp, 7 dự án bị dừng và điều chuyển vốn, 2 dự án có khiếu kiện đang xử lý.",
+            "Một số nơi làm tốt: xã Chiên Đàn giải ngân 39,4/49 tỷ (80,4%), hơn 80% khối lượng 18 tuyến giao thông đã xong, có hộ hiến hơn 400 m² đất để mở đường từ 3 m lên 7,5 m. Xã Duy Xuyên đã giải ngân 67,1% vốn đầu tư, hơn 20/26 công trình khởi công.",
+            "Toàn thành phố có 70 xã thực hiện nông thôn mới, 9 xã phấn đấu đạt chuẩn trong năm 2026, song phần lớn (64 xã) mới đạt dưới 5 tiêu chí theo bộ tiêu chí mới. Theo Kế hoạch 554/KH-UBND, các xã phải xây dựng xong kế hoạch giai đoạn 2026–2035 trước 15/11, ưu tiên vùng miền núi, đồng bào dân tộc thiểu số."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Đảng Dân chủ chuẩn bị đảo ngược một phần thuế quan của ông Trump",
+          "summary": "Sau khi giành ít nhất 250 ghế Hạ viện và 54 ghế Thượng viện, các nghị sĩ Dân chủ dự kiến lãnh đạo các ủy ban thuế muốn bãi bỏ các mức thuế 'thiếu hợp lý', trước hết với hàng Canada. Tuy vậy, ông Trump vẫn có quyền phủ quyết và phe Dân chủ chưa đủ phiếu để vượt qua.",
+          "source": "VOV",
+          "url": "https://vov.vn/the-gioi/chinh-sach-thue-quan-cua-ong-trump-dang-bi-de-doa-post1348021.vov",
+          "tag": "Thương mại Mỹ",
+          "detail": [
+            "Theo Reuters, đảng Dân chủ đã giành thắng lợi lớn trong bầu cử giữa nhiệm kỳ Mỹ ngày 3/11 với ít nhất 250 ghế Hạ viện và 54 ghế Thượng viện. Phe này đang chuẩn bị thúc đẩy đảo ngược một phần chính sách thuế quan của Tổng thống Donald Trump, mở ra khả năng đối đầu mới giữa Quốc hội và Nhà Trắng về thương mại.",
+            "Ngày 6/11, Hạ nghị sĩ Richard Neal – người dự kiến lãnh đạo Ủy ban Thuế vụ Hạ viện – cho biết sẽ thúc đẩy bãi bỏ các mức thuế ông cho là 'thiếu hợp lý' và chấm dứt các thỏa thuận thương mại thiếu minh bạch, vì chúng làm tăng chi phí sinh hoạt và gây gánh nặng cho người lao động. Ưu tiên đầu tiên của ông là giữ Canada và Mexico trong Hiệp định USMCA.",
+            "Theo Wall Street Journal, Thượng nghị sĩ Ron Wyden, dự kiến đứng đầu Ủy ban Tài chính Thượng viện, đang xúc tiến kế hoạch bỏ thuế với hàng hóa Canada – kế hoạch có thể được một số nghị sĩ Cộng hòa ủng hộ. Phe Dân chủ cũng muốn điều tra quy trình miễn trừ thuế quan cho doanh nghiệp và các thỏa thuận đầu tư với nước ngoài.",
+            "Rào cản lớn là ông Trump vẫn có quyền phủ quyết dự luật, trong khi phe Dân chủ chưa đủ số phiếu (hai phần ba) để vượt qua. Với Việt Nam – nền kinh tế phụ thuộc lớn vào xuất khẩu sang Mỹ – diễn biến chính sách thuế quan của Washington trong hai năm tới là yếu tố doanh nghiệp xuất khẩu cần theo dõi sát."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Đề án 1 triệu căn nhà ở xã hội đạt gần 93% chỉ tiêu",
+          "summary": "Đến tháng 10/2026, cả nước có 954 dự án nhà ở xã hội với 926.329 căn, trong đó 366 dự án (226.019 căn) đã hoàn thành. Tổng số căn đã xong, đang xây và được chấp thuận đầu tư đạt 92,6% mục tiêu, tăng 1,6 điểm % so với tháng 9.",
+          "source": "Báo Tin tức – TTXVN",
+          "url": "https://baotintuc.vn/de-an-1-trieu-can-ho-nha-o-xa-hoi-post1400651.html",
+          "image": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V73gMp3x-n5EFUqgxaNvPvxsZFh-ZwKjQFMl3Y5IC3lh2phg4m61KIXKhNgCWb5NZGP0FSWRlbCK9Rnf9R0fB-5arfUf9JR-453LuX-AoBE_SkZvaFfDM2-v-CZiLu2YMdqC0lfU18Xn3ktRazAqUFjPbIvF3qk_qpH-Cf2K6ZKQX2ZZt4Y5UxKK1SRbR-3Z2Ww/potal-de-an-1-trieu-can-ho-nha-o-xa-hoi-so-luong-nha-hoan-thanh-khoi-cong-duoc-chap-nhan-chu-truong-dau-tu-dat-gan.jpg.webp",
+          "detail": [
+            "Theo báo cáo của Bộ Xây dựng, lũy kế đến tháng 10/2026 cả nước có 954 dự án nhà ở xã hội đang triển khai, quy mô 926.329 căn, tổng mức đầu tư khoảng 855.557 tỷ đồng. Đây là kết quả của Đề án đầu tư xây dựng ít nhất 1 triệu căn nhà ở xã hội cho người thu nhập thấp, công nhân khu công nghiệp.",
+            "Chia theo tiến độ: 366 dự án đã hoàn thành với 226.019 căn (khoảng 208.751 tỷ đồng); 298 dự án đã khởi công, đang xây với 369.735 căn (khoảng 341.487 tỷ); 290 dự án mới được chấp thuận chủ trương đầu tư với 330.575 căn (khoảng 305.319 tỷ).",
+            "Cộng ba nhóm, số căn đạt 92,6% chỉ tiêu đề án, tăng 1,6 điểm phần trăm so với tháng 9. Tuy vậy cần lưu ý: số căn thực sự đã hoàn thành, có thể dọn vào ở mới chiếm khoảng một phần tư mục tiêu; phần lớn vẫn đang xây hoặc mới ở bước thủ tục.",
+            "Với người lao động thu nhập thấp đang tìm nhà, nguồn cung nhà ở xã hội sẽ tăng dần trong 1–2 năm tới khi các dự án đang xây hoàn thành. Người có nhu cầu nên theo dõi danh sách dự án mở bán trên cổng thông tin của Sở Xây dựng địa phương và chuẩn bị sẵn hồ sơ chứng minh điều kiện thu nhập, nhà ở."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Mỏ khí Hải Thạch ngoài khơi Vũng Tàu sắp khoan thêm 2 giếng sau 13 năm",
+          "summary": "Sau hơn 20 tỷ m³ khí và 30 triệu thùng condensate khai thác từ 2013, cụm mỏ Hải Thạch – Mộc Tinh sẽ khoan bổ sung 2 giếng từ quý II/2028 để kéo dài tuổi thọ. BIENDONG POC đã ký sớm hợp đồng giàn khoan với PV Drilling vì nguồn cung giàn khan hiếm.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/mo-khi-cach-vung-tau-320-km-da-khai-thac-hon-20-ty-m-ngoai-khoi-viet-nam-chuan-bi-khoan-them-2-gieng-sau-13-nam-hoat-dong-188261106230611876.chn",
+          "image": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2026/11/6/avatar1793981141544-17939811483521499081369.jpg",
+          "detail": [
+            "Cụm mỏ Hải Thạch – Mộc Tinh nằm ở bể Nam Côn Sơn, cách Vũng Tàu khoảng 320 km về phía đông nam, bắt đầu khai thác thương mại từ tháng 9/2013. Giai đoạn đầu, mỏ cho bình quân khoảng 2 tỷ m³ khí và 2,5 triệu thùng condensate (dầu nhẹ ngưng tụ từ khí) mỗi năm. Tính đến năm 2025, tổng sản lượng đã vượt 20 tỷ m³ khí và 30 triệu thùng condensate.",
+            "Sau 13 năm, sản lượng đang suy giảm tự nhiên: giai đoạn 2020–2025 mỏ chỉ khai thác hơn 6,63 tỷ m³ khí. Vì vậy, theo kế hoạch phát triển mỏ điều chỉnh, chiến dịch khoan bổ sung 2 giếng sẽ bắt đầu từ quý II/2028 để tăng thu hồi và kéo dài đời mỏ.",
+            "Ngày 5/11, BIENDONG POC (thuộc Petrovietnam) đã ký hợp đồng thuê và vận hành giàn khoan bán chìm tiếp trợ với PV Drilling (mã PVD), cùng hai hợp đồng thiết bị đầu giếng, ống chống với công ty con PVD Tech; giá trị chưa công bố. Mỏ có áp suất và nhiệt độ cao nên cần giàn chuyên dụng, trong khi nguồn cung loại giàn này hạn chế và nhu cầu ở Đông Nam Á dự kiến tăng trong 2027–2028.",
+            "Đến cuối tháng 3/2023, mỏ đã mang về doanh thu lũy kế hơn 4,66 tỷ USD so với khoảng 3,7 tỷ USD vốn đầu tư và chi phí vận hành. Với nhà đầu tư, hợp đồng mới là thông tin hỗ trợ triển vọng công việc của nhóm dịch vụ dầu khí như PV Drilling."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Meta ra mắt 'Spaces' – không gian làm việc riêng với trợ lý AI Muse",
+          "summary": "Meta giới thiệu Spaces, cho phép người dùng mô tả ý tưởng để trợ lý AI Muse tự dựng bảng theo dõi, kế hoạch du lịch, danh sách quà tặng, kết nối ứng dụng bên ngoài và tự cập nhật. Muse đã có 10 triệu người dùng ở Mỹ và Canada sau chưa đầy hai tháng.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "detail": [
+            "Meta vừa ra mắt Spaces – một cách mới để người dùng làm việc cùng Muse, dòng trợ lý AI dạng 'đặc vụ' (tự thực hiện nhiệm vụ thay người dùng) mà Meta tung ra gần đây. Spaces nằm ở thanh bên của giao diện Muse; mỗi Space là một cuộc trò chuyện xoay quanh một mục tiêu cụ thể, trong đó Muse làm việc để hoàn thành mục tiêu đó.",
+            "Meta đưa ví dụ: lên kế hoạch kỳ nghỉ, gom công thức nấu ăn cho buổi họp mặt gia đình, theo dõi quà tặng dịp lễ, lập kế hoạch đám cưới hay bảng dự án tự làm đồ. Theo Meta, chỉ cần 'mô tả ý tưởng trong khung chat, Muse sẽ dựng một space cho bạn', có thể là bảng theo dõi, kế hoạch hay bảng dự án.",
+            "Spaces còn kết nối được với ứng dụng bên thứ ba và tự cập nhật ngầm, ví dụ ngày diễn ra buổi hòa nhạc, biến động giá hay tiến độ tiết kiệm sẽ hiện ra mà người dùng không cần hỏi. CEO Mark Zuckerberg khoe đã dùng Spaces để làm một trò chơi nướng BBQ, một bảng theo dõi sự kiện và bảng điều khiển thiết bị trong nhà. Bài báo chưa nêu rõ Spaces có ở những thị trường nào.",
+            "Theo Meta, Muse đã đạt 10 triệu người dùng ở Mỹ và Canada chưa đầy hai tháng sau khi ra mắt. Spaces là tính năng thứ hai của Muse trong một tuần, sau Muse Voice cho phép trò chuyện video với avatar AI (5/11). Đối thủ có kiểu trợ lý tương tự gồm 'dots' của OpenAI và Grokbot của SpaceXAI.",
+            "Cuộc đua trợ lý AI cá nhân đang chuyển từ 'trả lời câu hỏi' sang 'làm hộ việc' – từ lập kế hoạch đến theo dõi giá cả. Với người dùng phổ thông, đây là hướng đi đáng chú ý nhưng cũng đồng nghĩa phải cân nhắc kỹ khi cấp quyền truy cập dữ liệu và ứng dụng cá nhân cho AI."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Tập huấn 184 cán bộ thôn miền núi Đà Nẵng về chính sách giảm nghèo",
+          "summary": "Ngày 6–7/11, Chi cục Phát triển nông thôn Đà Nẵng tập huấn cho 184 bí thư chi bộ, trưởng thôn ở Lãnh Ngọc, Tiên Phước, Sơn Cẩm Hà, Thạnh Bình về các chương trình mục tiêu quốc gia 2026–2030. Trọng tâm là quy trình rà soát hộ nghèo, cận nghèo và chính sách an sinh.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/da-nang-nang-cao-nang-luc-cho-can-bo-thon-lam-cong-tac-giam-ngheo-3357647.html",
+          "tag": "Giảm nghèo",
+          "detail": [
+            "Sáng 6/11 tại phường Bàn Thạch, Chi cục Phát triển nông thôn (Sở Nông nghiệp và Môi trường Đà Nẵng) mở hội nghị tập huấn hai ngày cho cán bộ theo dõi công tác giảm nghèo ở các thôn của bốn xã Lãnh Ngọc, Tiên Phước, Sơn Cẩm Hà và Thạnh Bình. 184 đại biểu tham dự gồm bí thư chi bộ, trưởng thôn, trưởng ban công tác Mặt trận và đại diện các đoàn thể.",
+            "Nội dung gồm hướng dẫn triển khai các chương trình mục tiêu quốc gia giai đoạn 2026–2030: xây dựng nông thôn mới, giảm nghèo bền vững và phát triển vùng đồng bào dân tộc thiểu số, miền núi. Cán bộ được phổ biến chính sách cho bốn nhóm: hộ nghèo, hộ cận nghèo, hộ mới thoát nghèo và hộ có mức sống trung bình, gồm cả chính sách trung ương và chính sách đặc thù của thành phố.",
+            "Trọng tâm là quy trình rà soát hộ nghèo, cận nghèo định kỳ và thường xuyên – khâu quyết định ai được hưởng chính sách hỗ trợ. Đại biểu cũng trao đổi các vướng mắc thực tế ở cơ sở để tìm cách tháo gỡ.",
+            "Trước đó, Chi cục đã mở 6 lớp tại các địa phương miền núi cho 28 đơn vị cấp xã như Trà Liên, Trà Giáp, Đông Giang, Tây Giang, Nam Giang. Với người dân, việc cán bộ thôn nắm chắc chính sách giúp các gia đình khó khăn được xét đúng diện, nhận hỗ trợ kịp thời hơn."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Vinpearl thay giám đốc tài chính khi lãi 9 tháng gấp 6,6 lần cùng kỳ",
+          "summary": "Vinpearl (VPL) bổ nhiệm ông Trần Quang Duy, sinh năm 1991, làm giám đốc tài chính từ 6/11 thay bà Vũ Thị Kim Hường. 9 tháng đầu năm, công ty đạt doanh thu 10.686 tỷ đồng (+19%) và lãi sau thuế 2.829 tỷ, gấp 6,6 lần cùng kỳ.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/doanh-nghiep-167000-ty-cua-ong-pham-nhat-vuong-thay-giam-doc-tai-chinh-18826110700322295.chn",
+          "tag": "Nhân sự cấp cao",
+          "detail": [
+            "Vinpearl (mã VPL), doanh nghiệp du lịch – nghỉ dưỡng – giải trí thuộc Vingroup, công bố nghị quyết HĐQT bổ nhiệm ông Trần Quang Duy làm Giám đốc tài chính (CFO) thay bà Vũ Thị Kim Hường, có hiệu lực từ 6/11. Ông Duy sinh năm 1991, tốt nghiệp Đại học Ngoại thương, từng quản lý tài chính tại Vincom Retail và trước đó đã được giao quyền Giám đốc khối Tài chính – Kế toán và Đầu tư của Vinpearl.",
+            "Việc thay nhân sự diễn ra khi kết quả kinh doanh tăng mạnh. 9 tháng năm 2026, Vinpearl đạt doanh thu thuần hợp nhất 10.686 tỷ đồng, tăng 19% (mảng cốt lõi tăng 26%), lãi sau thuế 2.829 tỷ đồng, gấp 6,6 lần cùng kỳ và hoàn thành 94% kế hoạch năm. Riêng quý III, doanh thu 3.892 tỷ (+26%), lãi 649 tỷ (+283%) nhờ mùa cao điểm du lịch nội địa.",
+            "Tại 30/9, tổng tài sản đạt 129.009 tỷ đồng (tăng 49% so với đầu năm), vốn chủ sở hữu 46.010 tỷ đồng. Cổ phiếu VPL ở mức 92.900 đồng, tăng 22% từ giữa tháng 10, vốn hóa khoảng 167.000 tỷ đồng (6,4 tỷ USD).",
+            "Bài báo không nêu lý do thay đổi nhân sự. Kết quả quý III cho thấy nhu cầu du lịch nội địa mùa cao điểm vẫn mạnh."
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-06-1900",
       "date": "2026-11-06",
