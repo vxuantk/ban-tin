@@ -1,6 +1,235 @@
 {
-  "updated": "2026-11-07T07:13:10+07:00",
+  "updated": "2026-11-07T11:01:14+07:00",
   "editions": [
+    {
+      "id": "2026-11-07-1100",
+      "date": "2026-11-07",
+      "slot": "11:00",
+      "createdAt": "2026-11-07T11:01:14+07:00",
+      "note": "",
+      "items": [
+        {
+          "cat": "vn",
+          "title": "Quốc hội chốt mục tiêu GDP 2027 từ 10%, Đà Nẵng được giao 11%",
+          "summary": "Sáng 7/11, Quốc hội thông qua Nghị quyết kế hoạch kinh tế – xã hội 2027 với 467/469 đại biểu tán thành: GDP tăng từ 10% trở lên, thu nhập bình quân khoảng 6.100 USD/người, lạm phát khoảng 4,5%. Lần này Quốc hội giao chỉ tiêu riêng cho từng địa phương, 30 tỉnh thành phải tăng trưởng hai con số, trong đó Đà Nẵng 11%.",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/quoc-hoi-giao-muc-tieu-gdp-2027-tang-tu-10-5141797.html",
+          "tag": "Nghị quyết năm 2027",
+          "detail": [
+            "Sau mấy ngày thảo luận, sáng thứ Bảy 7/11 Quốc hội đã bấm nút thông qua Nghị quyết về kế hoạch phát triển kinh tế – xã hội năm 2027 với 467/469 đại biểu tán thành (93,4%). Ba chỉ tiêu chính được giữ như Chính phủ đề xuất: GDP tăng từ 10% trở lên, GDP bình quân đầu người khoảng 6.100 USD và lạm phát (CPI) khoảng 4,5%.",
+            "Điểm mới là Quốc hội giao mục tiêu tăng trưởng GRDP (tổng sản phẩm trên địa bàn) cho từng địa phương. Theo VietnamNet, 30 tỉnh thành được giao mức hai con số: cao nhất là Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%; Đà Nẵng cùng Đồng Nai, Lâm Đồng, Phú Thọ, Thanh Hóa ở mức 11%; TP.HCM 10,4%, Huế 10%. Chỉ bốn địa phương dưới 10% là Sơn La, Quảng Trị, Quảng Ngãi và Đồng Tháp.",
+            "Để đạt mục tiêu, Chính phủ được yêu cầu tăng thu ngân sách, tiết kiệm chi thường xuyên, phát hành trái phiếu, vay ODA và sớm nới tỷ lệ sở hữu nước ngoài ở những ngành không ảnh hưởng an ninh quốc gia. Về tiền tệ, nghị quyết ghi rõ yêu cầu \"giảm lãi suất cho vay, hướng tín dụng vào sản xuất kinh doanh, lĩnh vực ưu tiên\".",
+            "Về hạ tầng, nghị quyết ưu tiên hoàn thiện cao tốc Bắc – Nam phía Đông, phía Tây và các trục Đông – Tây; thúc đẩy đường sắt Lào Cai – Hà Nội – Hải Phòng, đường sắt tốc độ cao Bắc – Nam; đẩy nhanh sân bay Long Thành, Gia Bình. Chính phủ cũng phải bảo đảm đủ điện, xăng dầu trong mọi tình huống và xây chiến lược dự trữ năng lượng quốc gia.",
+            "Đáng chú ý, Quốc hội yêu cầu chấm dứt tình trạng địa phương đầu tư \"theo phong trào\" vào sân bay, cảng biển, trung tâm dữ liệu, khu thương mại tự do gây lãng phí. Với Đà Nẵng, chỉ tiêu 11% đồng nghĩa thành phố phải tăng tốc giải ngân đầu tư công, hút vốn FDI và đẩy nhanh các dự án lớn như Khu thương mại tự do, Trung tâm tài chính quốc tế trong năm tới."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Startup của cựu CTO OpenAI ra mô hình Inkling 2 Small, rẻ hơn đối thủ nhiều lần",
+          "summary": "Thinking Machines của bà Mira Murati công bố Inkling 2 Small: 594 tỷ tham số, đạt 31 điểm chỉ số trí tuệ Artificial Analysis, gần ngang Gemini 3.8 Flash. Chi phí khoảng 1,18 USD mỗi tác vụ, thấp hơn nhiều so với 7,77 USD của Gemini 3.8 Flash; bản tải về dự kiến mở sau khi kiểm tra an toàn.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+          "detail": [
+            "Thinking Machines Lab – công ty AI do bà Mira Murati, cựu giám đốc công nghệ của OpenAI, thành lập – ngày 6/11 ra mắt Inkling 2 Small, thế hệ mô hình thứ hai của hãng. Tin này đến chỉ ít ngày sau khi công ty được báo chí đưa tin gọi vốn 5 tỷ USD với mức định giá 40 tỷ USD.",
+            "Về kỹ thuật, đây là mô hình kiểu \"hỗn hợp chuyên gia\" (MoE – chia mô hình thành nhiều nhóm nhỏ, mỗi lần chỉ kích hoạt một phần): tổng 594 tỷ tham số nhưng mỗi lần chỉ dùng 17 tỷ. Mô hình đọc được cả văn bản lẫn hình ảnh và cho phép chỉnh mức độ \"suy nghĩ\" sâu hay nông. Quá trình huấn luyện dùng khoảng 12.000 tỷ token, riêng giai đoạn học tăng cường chạy trên 2.048 GPU trong 9 ngày, tập trung vào các bài lập trình dài.",
+            "Kết quả đánh giá cho thấy bước nhảy lớn: chỉ số trí tuệ của Artificial Analysis tăng từ 13 lên 31 điểm, tương đương Gemini 3.8 Flash của Google. Tỷ lệ \"bịa\" câu trả lời giảm từ 61% xuống 27%, nhưng đổi lại mô hình cũng từ chối trả lời nhiều hơn. Ở mảng lập trình, mô hình chưa vượt được DeepSeek V4.1 Flash của Trung Quốc.",
+            "Lợi thế lớn là giá: mỗi tác vụ trong bộ thử tốn khoảng 1,18 USD, trong khi Gemini 3.8 Flash tốn 7,77 USD và Claude Sonnet 5.5 khoảng 10 USD. Tuy vậy, mức này vẫn cao hơn các mô hình giá rẻ của Trung Quốc và gấp gần 6 lần thế hệ trước do mô hình \"nghĩ\" dài hơn.",
+            "Hiện mô hình chỉ dùng được qua nền tảng Tinker của hãng; bộ trọng số (phần lõi để doanh nghiệp tự tải về chạy) sẽ được phát hành theo giấy phép mở Apache 2.0 sau khi hoàn tất kiểm tra an toàn bên ngoài. Nếu đúng hẹn, đây sẽ là một trong những mô hình mở mạnh nhất của phương Tây, cho doanh nghiệp – kể cả ở Việt Nam – thêm lựa chọn tự vận hành AI với chi phí thấp."
+          ]
+        },
+        {
+          "cat": "vn",
+          "title": "Trình Quốc hội 3 tuyến cao tốc 162.393 tỷ, Lai Châu sắp có cao tốc",
+          "summary": "Chính phủ trình Quốc hội đầu tư công ba cao tốc dài 430,5 km gồm Mộc Châu – Sơn La – Điện Biên, Bảo Hà – Lai Châu và Quảng Ngãi – Kon Tum, tổng vốn sơ bộ 162.393 tỷ đồng. Dự kiến khởi công 2027, cơ bản xong 2030; khi hoàn thành, cả 34/34 tỉnh thành đều có cao tốc.",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/trinh-quoc-hoi-dau-tu-3-cao-toc-tinh-cuoi-cung-ca-nuoc-sap-co-cao-toc-18526110708482329.htm",
+          "figure": {
+            "value": "162.393 tỷ",
+            "label": "Vốn sơ bộ 3 tuyến cao tốc, dài 430,5 km",
+            "delta": "Khởi công 2027",
+            "dir": "up"
+          },
+          "detail": [
+            "Sáng 7/11, Chính phủ trình Quốc hội chủ trương đầu tư ba dự án cao tốc theo hình thức đầu tư công: Mộc Châu – Sơn La – Điện Biên, Bảo Hà – Lai Châu và Quảng Ngãi – Kon Tum. Tổng chiều dài khoảng 430,5 km, quy mô 4 làn xe, tốc độ thiết kế 80–100 km/giờ. Bản tin sáng đã nhắc đến tờ trình này; đây là các con số chi tiết vừa được công bố.",
+            "Tổng mức đầu tư sơ bộ khoảng 162.393 tỷ đồng, gần như toàn bộ từ ngân sách Trung ương (khoảng 158.342 tỷ); hai tỉnh Lai Châu và Quảng Ngãi góp mỗi nơi khoảng 2.000 tỷ. Chính phủ chọn đầu tư công vì nếu làm theo hình thức BOT (doanh nghiệp bỏ vốn, thu phí hoàn vốn) thì không tính được thời gian hoàn vốn ở các vùng ít xe.",
+            "Lịch dự kiến: chuẩn bị đầu tư 2026–2027, giải phóng mặt bằng và khởi công năm 2027, cơ bản hoàn thành năm 2030 và khai thác từ 2031. Tuyến Bảo Hà – Lai Châu dài 163 km, giai đoạn đầu làm 119 km; Lai Châu hiện là tỉnh cuối cùng chưa có cao tốc đi qua.",
+            "Cơ quan thẩm tra của Quốc hội cơ bản đồng ý, nhưng đề nghị làm rõ việc tối ưu hướng tuyến để hạn chế lấy đất rừng tự nhiên, khu bảo tồn, và khả năng Lai Châu thu xếp hơn 2.000 tỷ đồng. Với miền Trung, tuyến Quảng Ngãi – Kon Tum nối vùng biển với Tây Nguyên, mở thêm đường đưa hàng hóa Tây Nguyên ra các cảng khu vực Quảng Ngãi – Đà Nẵng."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Khách quốc tế đến Đà Nẵng 10 tháng đạt 8,3 triệu, tăng 24%",
+          "summary": "10 tháng năm 2026, cơ sở lưu trú Đà Nẵng đón khoảng 17 triệu lượt khách, trong đó 8,3 triệu khách quốc tế, đều tăng khoảng 24% so với cùng kỳ. Hàn Quốc, Trung Quốc, Ấn Độ, Nhật Bản dẫn đầu; từ 20/12 Vietjet mở thêm đường bay Đà Nẵng – Osaka và Đà Nẵng – Jakarta.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/da-dang-san-pham-dap-ung-thi-truong-khach-chau-a-3357710.html",
+          "figure": {
+            "value": "8,3 triệu",
+            "label": "Lượt khách quốc tế đến Đà Nẵng 10 tháng 2026",
+            "delta": "+24,1%",
+            "dir": "up"
+          },
+          "detail": [
+            "Theo Thống kê Đà Nẵng, 10 tháng đầu năm 2026 các cơ sở lưu trú trên địa bàn phục vụ khoảng 17 triệu lượt khách, tăng 24,5% so với cùng kỳ; riêng khách quốc tế đạt khoảng 8,3 triệu lượt, tăng 24,1%. Phần lớn khách quốc tế đến từ châu Á, dẫn đầu là Hàn Quốc, Trung Quốc, Ấn Độ và Nhật Bản; tiếp theo là Thái Lan, Philippines.",
+            "Mỗi thị trường có nhu cầu khác nhau. Khách Hàn Quốc đến nhiều nhờ đường bay dày; đối tác lữ hành Nhật coi trọng chất lượng ổn định, lịch trình rõ ràng, đúng giờ. Khách Trung Quốc, Hàn Quốc, Nhật thường chọn điểm đến có món ăn quen thuộc và hay tìm nhà hàng châu Á vào cuối chuyến đi.",
+            "Giám đốc Viet Da Travel cho rằng Đà Nẵng cần thêm đường bay thẳng, sản phẩm riêng cho từng nhóm khách và giữ giá ổn định, tránh tình trạng khách sạn tăng giá mạnh mùa cao điểm. Tại Hội chợ Du lịch quốc tế Đà Nẵng (DITF) tháng 10 có hơn 300 đơn vị bán và hơn 550 đơn vị mua tham gia gặp gỡ; đối tác Philippines cho biết sẽ cùng xây dựng chương trình tour năm 2027.",
+            "Để vượt mùa mưa, doanh nghiệp tung gói thu – đông kết hợp phòng, ăn uống và đưa đón, đồng thời đẩy du lịch hội nghị – sự kiện (MICE) và trải nghiệm trong nhà. Từ 20/12/2026, Vietjet dự kiến mở thêm hai đường bay Đà Nẵng – Osaka (Nhật) và Đà Nẵng – Jakarta (Indonesia), phục vụ mùa Giáng sinh – Tết 2027. Với người lao động ngành dịch vụ, nhu cầu tuyển dụng dịp cuối năm vì thế có thể tăng."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Xanh SM giảm 25% mọi chuyến xe từ 8/11 đến hết tháng 2/2027",
+          "summary": "Từ 0h ngày 8/11/2026 đến hết 28/2/2027, hãng gọi xe điện Xanh SM (GSM) tự động giảm 25% cước cho tất cả chuyến đi, không cần mã. Tài xế vẫn nhận đủ cước trước khuyến mại, được miễn phí nền tảng và sạc pin; hãng kỳ vọng thu nhập tài xế tăng 30–50%.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/ong-pham-nhat-minh-hoang-bat-ngo-bao-tin-vui-chua-tung-co-den-khach-hang-va-tai-xe-188261107093945002.chn",
+          "tag": "Giảm 25% cước",
+          "detail": [
+            "Hãng xe điện Xanh SM (GSM) vừa công bố chương trình \"Mùa đông Xanh – Vì tương lai Xanh\", kéo dài gần 4 tháng từ 0h ngày 8/11/2026 đến hết 28/2/2027, trùng mùa cao điểm đi lại cuối năm và Tết. Khách được giảm 25% cho mọi chuyến xe trên ứng dụng, áp dụng tự động, không cần nhập mã.",
+            "Phía tài xế, người chỉ chạy cho Xanh SM vẫn được tính đủ giá cước trước khi trừ khuyến mại, nghĩa là hãng tự gánh phần giảm giá. Tài xế còn được miễn phí nền tảng (tương đương 6% với ô tô, 6,7% với xe máy), miễn phí sạc pin với hạn mức gấp 2 lần số km chạy khách; tài xế cơ hữu và tài xế của đối tác Green SM Partner được chia thêm tối đa 6% doanh số.",
+            "Lãnh đạo GSM kỳ vọng thu nhập tài xế tăng 30–50% nhờ lượng khách tăng, nhưng đây là kỳ vọng chứ không phải cam kết. Hãng cho biết đến tháng 9/2026 đã thực hiện khoảng 850 triệu chuyến, gần 100% tài xế tại Việt Nam có bảo hiểm tai nạn và đang nghiên cứu thêm bảo hiểm y tế.",
+            "Chương trình được tung ra khi ông Phạm Nhật Minh Hoàng vừa nhận vị trí Tổng Giám đốc GSM toàn cầu, trong bối cảnh các ứng dụng gọi xe cạnh tranh gay gắt về giá và tài xế. Với người dân Đà Nẵng và các thành phố lớn, đây là cơ hội giảm chi phí đi lại dịp cuối năm; các hãng khác có thể sẽ phải đưa ra ưu đãi đáp trả."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Meta tạm dừng điều khoản cho phép quét web doanh nghiệp để huấn luyện AI",
+          "summary": "Meta tạm hoãn vô thời hạn bộ điều khoản thương mại mới, vốn cho phép công ty tự động quét nội dung từ website liên kết với trang doanh nghiệp, có thể dùng để huấn luyện AI. Quyết định đến sau làn sóng phản đối của báo chí, một lệnh tạm cấm của tòa án Na Uy và sự chú ý của cơ quan quản lý EU, Anh.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/meta-pauses-commercial-terms-crawling-publishers",
+          "image": "https://media.thenextweb.com/2026/10/meta-logo-smartphone-screen-dark-background.jpg",
+          "detail": [
+            "Meta (công ty mẹ Facebook, Instagram) đã tạm dừng việc áp dụng bốn bộ điều khoản mới dành cho doanh nghiệp và nhà quảng cáo. Các điều khoản này ban đầu có hiệu lực từ 30/10, sau đó lùi sang 20/11, và nay bị hoãn mà chưa có ngày áp dụng lại.",
+            "Tâm điểm tranh cãi là quy định cho phép Meta dùng phần mềm tự động \"quét\" (crawl) các trang web liên kết với tài khoản doanh nghiệp để cập nhật thông tin. Chuyên gia pháp lý nhận định nội dung thu được có thể được dùng để huấn luyện AI của Meta. Điều đáng chú ý là điều khoản áp dụng cho mọi doanh nghiệp dùng sản phẩm Meta, kể cả chỉ có một Fanpage.",
+            "Các hãng tin là bên phản đối mạnh nhất. Hiệp hội truyền thông Na Uy đã kiện và tòa án nước này tạm thời chặn điều khoản; cơ quan cạnh tranh Anh cho biết sẽ tiếp tục xem xét, Ủy ban châu Âu đang đánh giá đơn khiếu nại của các nhà xuất bản; hai thượng nghị sĩ Mỹ cũng gửi thư yêu cầu rút lại.",
+            "Người phát ngôn Meta nói với Reuters rằng công ty tạm dừng để tiếp tục trao đổi với các bên và \"dành thời gian làm cho đúng\". Meta cho rằng bản cập nhật chỉ gom các quy định sẵn có về quét web và chủ website vẫn có thể chặn bằng tệp robots.txt (tệp hướng dẫn máy quét được vào đâu), dù điều khoản không ghi rõ điều đó.",
+            "Trong thời gian này, điều khoản cũ vẫn giữ nguyên. Với các doanh nghiệp, cửa hàng Việt Nam bán hàng qua Facebook, vụ việc là lời nhắc nên đọc kỹ điều khoản nền tảng và kiểm soát nội dung website của mình có thể bị khai thác cho AI như thế nào."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Đại học ở Đà Nẵng mở thêm chuyên ngành, học bổng để hút sinh viên bán dẫn",
+          "summary": "Các trường thuộc Đại học Đà Nẵng mở chuyên ngành thiết kế vi mạch, vật liệu bán dẫn, ô tô điện và tung học bổng tới 70 triệu đồng cho thủ khoa. ĐH Bách khoa cùng Synopsys trao 10 suất học bổng; các trường liên kết với Intel, Nvidia để sinh viên tiếp cận thiết bị thực tế.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/tang-suc-hut-dao-tao-nganh-ban-dan-3357696.html",
+          "tag": "Nhân lực bán dẫn",
+          "detail": [
+            "Ngành bán dẫn đang cần nhiều kỹ sư chất lượng cao, và các trường đại học ở Đà Nẵng đang cạnh tranh để thu hút sinh viên giỏi. Tại Trường ĐH Công nghệ Thông tin và Truyền thông Việt – Hàn, thủ khoa chuyên ngành Thiết kế vi mạch bán dẫn năm nay đạt 28,49 điểm và nhận học bổng 70 triệu đồng (bằng toàn bộ học phí 6 học kỳ đầu); á khoa 27,8 điểm nhận 50 triệu đồng.",
+            "Trường Việt – Hàn cho biết đang hợp tác với hơn 200 doanh nghiệp trong và ngoài nước để sinh viên được tham gia dự án và thực tập ngay khi học. Trường ĐH Bách khoa phối hợp với Synopsys – công ty Mỹ chuyên phần mềm thiết kế chip – và tổ chức VietHope trao học bổng IC Design 2026 gồm 10 suất, tổng trị giá 20.000 USD, kèm cơ hội kết nối chuyên gia.",
+            "Trường ĐH Sư phạm Kỹ thuật mở mới các chuyên ngành Thiết kế vi mạch bán dẫn, Công nghệ kỹ thuật ô tô điện và Vật liệu bán dẫn, dùng vốn ODA để nâng cấp phòng thí nghiệm. Trường liên kết với Synopsys, Intel, Nvidia và áp dụng mô hình \"Học kỳ doanh nghiệp\", để doanh nghiệp cùng tham gia xây dựng chương trình đào tạo.",
+            "Đây là mắt xích quan trọng với mục tiêu Đà Nẵng trở thành một trong ba trung tâm thiết kế chip và ứng dụng AI hàng đầu cả nước vào năm 2030. Với phụ huynh và học sinh miền Trung, các ngành này đang có học bổng lớn và cơ hội việc làm rộng khi nhiều doanh nghiệp bán dẫn đặt văn phòng tại thành phố."
+          ]
+        },
+        {
+          "cat": "fin",
+          "title": "Khối ngoại bán ròng 868 tỷ tuần đầu tháng 11, xả mạnh cổ phiếu ngân hàng",
+          "summary": "Tuần 2–6/11, nhà đầu tư nước ngoài bán ròng 868 tỷ đồng, tập trung vào MBB (653 tỷ), VCB (588 tỷ) và ACB (315 tỷ). VN-Index cả tuần giảm 16,26 điểm (-0,93%), đóng cửa ở 1.725,36 điểm sau khi hai lần thử mốc hỗ trợ 1.700.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/ba-co-phieu-ngan-hang-bat-ngo-tro-thanh-tam-diem-xa-hang-cua-khoi-ngoai-trong-tuan-dau-thang-11-188261106235313544.chn",
+          "figure": {
+            "value": "1.725,36",
+            "label": "VN-Index đóng cửa tuần 2–6/11",
+            "delta": "-16,26 điểm tuần",
+            "dir": "down",
+            "spark": [
+              1741.62,
+              1725.36
+            ]
+          },
+          "detail": [
+            "Tuần giao dịch đầu tháng 11 (2–6/11), khối ngoại bán ròng ở phần lớn các phiên, tổng cộng 868 tỷ đồng trên toàn thị trường, dù cuối tuần đã quay lại mua ròng. Áp lực bán chủ yếu nhắm vào nhóm ngân hàng: MBB bị bán ròng 653 tỷ đồng, VCB 588 tỷ, ACB 315 tỷ; STB và HDB cũng bị bán lần lượt 185 tỷ và 155 tỷ.",
+            "Ở chiều ngược lại, khối ngoại gom mạnh nhất VIX (596 tỷ đồng), tiếp đến MSN (330 tỷ), HPG (261 tỷ), CTG (215 tỷ), VND (158 tỷ) và SHB (146 tỷ). Như vậy dòng tiền ngoại không rời bỏ hẳn nhóm ngân hàng mà dịch chuyển giữa các mã.",
+            "VN-Index cả tuần giảm 16,26 điểm (-0,93%), chốt ở 1.725,36 điểm. Hai phiên đầu tuần chỉ số lùi về vùng hỗ trợ 1.700 điểm rồi bật lên, có lúc tăng hơn 33 điểm, nhưng cuối tuần lại điều chỉnh theo đà bán tháo cổ phiếu công nghệ, AI trên thị trường Mỹ.",
+            "Với nhà đầu tư cá nhân, diễn biến này cho thấy thị trường vẫn biến động mạnh và nhạy cảm với tin quốc tế. Mốc 1.700 điểm đang được xem là vùng hỗ trợ quan trọng; thứ Bảy và Chủ nhật thị trường nghỉ, phiên tới mở cửa thứ Hai 9/11."
+          ]
+        },
+        {
+          "cat": "ai",
+          "title": "Công ty AI tuyên bố giải xong bài toán lượng tử bỏ ngỏ 18 năm",
+          "summary": "Startup Physical Superintelligence (PSI) cho biết hệ thống nghiên cứu của họ, dùng một mô hình chưa công bố của Anthropic, đã chứng minh giả thuyết Aaronson–Ambainis (2008) chỉ trong ba ngày. Bản chứng minh được phần mềm kiểm tra Lean chấp nhận, nhưng giới học thuật chưa thẩm định độc lập đầy đủ.",
+          "source": "Interesting Engineering",
+          "url": "https://interestingengineering.com/culture/psi-research-system-aaronson-ambainis-quantum-conjecture",
+          "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/GettyImages-1063746216.jpg",
+          "detail": [
+            "Giả thuyết Aaronson–Ambainis, đưa ra năm 2008, là một câu hỏi trung tâm của khoa học máy tính lượng tử: khi nào máy tính lượng tử thực sự nhanh hơn \"theo cấp số mũ\" so với máy tính thường. Nếu giả thuyết đúng, máy tính thường có thể mô phỏng khá hiệu quả một nhóm lớn thuật toán lượng tử trên dữ liệu ngẫu nhiên.",
+            "Ngày 6/11, PSI – công ty nghiên cứu vật lý ra mắt công khai từ tháng 9/2026 – thông báo hệ thống tự động của họ đã hoàn thành chứng minh trong ba ngày, sau đó tự cải tiến bản chứng minh hai lần. PSI cho biết hệ thống dùng một mô hình AI chưa công bố của Anthropic, chạy trên hạ tầng riêng của PSI.",
+            "Bản chứng minh cuối cùng được Lean chấp nhận – Lean là công cụ phần mềm kiểm tra từng bước logic của một chứng minh toán học. Tuy nhiên, Lean chỉ xác nhận lập luận đúng với cách bài toán được \"viết lại\" dưới dạng hình thức; các chuyên gia vẫn phải đánh giá cách viết lại đó có đúng với giả thuyết gốc hay không.",
+            "Một nhóm nhà nghiên cứu Đại học Stanford, từng chứng minh một trường hợp đặc biệt của giả thuyết hồi tháng 8, đang xem xét kết quả và chuẩn bị bản trình bày ngắn gọn hơn cho giới chuyên môn. Bài báo nhấn mạnh đây mới là tuyên bố của PSI, chưa qua bình duyệt học thuật đầy đủ.",
+            "Nếu được xác nhận, đây sẽ là một trong những ví dụ rõ nhất về việc AI giải được bài toán nghiên cứu mở, không chỉ giải bài tập có sẵn đáp án. Điều này củng cố xu hướng các phòng thí nghiệm AI chạy đua đưa mô hình vào nghiên cứu khoa học, từ toán, vật lý đến thiết kế thuốc."
+          ]
+        },
+        {
+          "cat": "biz",
+          "title": "Lọc hóa dầu Bình Sơn nâng kế hoạch lãi gần 9 lần, 9 tháng đã vượt xa",
+          "summary": "BSR – chủ nhà máy lọc dầu Dung Quất – nâng kế hoạch lợi nhuận trước thuế 2026 từ 2.405 tỷ lên 20.646 tỷ đồng, doanh thu lên 190.831 tỷ. Thực tế 9 tháng công ty đã lãi sau thuế 24.902 tỷ, gấp 11,6 lần cùng kỳ, nhờ giá dầu cao và nhà máy chạy 123% công suất.",
+          "source": "CafeF",
+          "url": "https://cafef.vn/mot-dai-gia-dau-khi-bat-ngo-nang-ke-hoach-loi-nhuan-gap-9-lan-lai-quy-4-se-gay-bat-ngo-188261107001452602.chn",
+          "figure": {
+            "value": "20.646 tỷ",
+            "label": "Kế hoạch lãi trước thuế 2026 mới của BSR",
+            "delta": "gần 9 lần kế hoạch cũ",
+            "dir": "up"
+          },
+          "detail": [
+            "Ngày 6/11, Tổng Công ty Lọc hóa dầu Việt Nam (mã BSR, chủ Nhà máy Lọc dầu Dung Quất ở Quảng Ngãi) thông qua nghị quyết điều chỉnh kế hoạch năm 2026. Doanh thu hợp nhất được nâng từ 154.140 tỷ lên 190.831 tỷ đồng (+24%); lợi nhuận trước thuế từ 2.405 tỷ lên 20.646 tỷ đồng, gần gấp 9 lần; lợi nhuận sau thuế lên 18.579 tỷ.",
+            "Thực tế kết quả kinh doanh đã đi trước kế hoạch: 9 tháng đầu năm BSR đạt doanh thu 164.217 tỷ đồng (+58%), lợi nhuận trước thuế gần 28.000 tỷ, sau thuế 24.902 tỷ đồng – gấp 11,6 lần cùng kỳ 2025 và đã bằng khoảng 134% kế hoạch mới. Riêng quý III lãi sau thuế 8.969 tỷ đồng.",
+            "Doanh nghiệp giải thích giá dầu Brent bình quân quý III lên 97 USD/thùng, cao hơn gần 28 USD so với cùng kỳ, đồng thời chênh lệch giữa giá xăng dầu thành phẩm và giá dầu thô đầu vào nới rộng. Nhà máy Dung Quất cũng chạy bình quân khoảng 123% công suất thiết kế trong 9 tháng.",
+            "BSR ước cả năm 2026 doanh thu khoảng 223.991 tỷ đồng, còn cao hơn kế hoạch mới khoảng 17%. Với miền Trung, Dung Quất là một trong những doanh nghiệp nộp ngân sách lớn nhất; việc lãi đột biến cũng phản ánh giá xăng dầu năm nay ở mức cao, ảnh hưởng trực tiếp đến chi phí đi lại và sản xuất của người dân, doanh nghiệp."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Đà Nẵng chuyển từ ngoại giao truyền thống sang 'ngoại giao công nghệ'",
+          "summary": "Đà Nẵng hiện có hơn 1.180 dự án FDI với tổng vốn trên 11,3 tỷ USD và đặt mục tiêu vào top 3 cả nước về thiết kế chip, ứng dụng AI vào năm 2030. Từ 2027, mỗi đối tác chiến lược phải có 1–3 dự án hợp tác cụ thể thay vì chỉ ký kết.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/thuc-day-hoi-nhap-kinh-te-va-cong-nghe-3357697.html",
+          "figure": {
+            "value": "11,3 tỷ USD",
+            "label": "Tổng vốn hơn 1.180 dự án FDI tại Đà Nẵng",
+            "delta": "Mục tiêu top 3 chip, AI 2030",
+            "dir": "up"
+          },
+          "detail": [
+            "Đà Nẵng vừa ban hành Đề án hội nhập và hợp tác quốc tế giai đoạn 2026–2030, coi ngoại giao kinh tế là đòn bẩy hút vốn và công nghệ, gắn với các kế hoạch Trung tâm tài chính quốc tế, Khu thương mại tự do và trung tâm đổi mới sáng tạo, công nghệ cao, logistics của miền Trung.",
+            "Hiện thành phố có hơn 1.180 dự án FDI với tổng vốn trên 11,3 tỷ USD, cơ cấu đang dịch chuyển sang công nghệ cao. Một số dự án tiêu biểu là nhà máy ICT Vina III (tập đoàn Dentium, Hàn Quốc) 177 triệu USD và nhà máy điện tử Foxlink (Đài Loan) 135 triệu USD; các doanh nghiệp bán dẫn như Synopsys, Marvell, FPT góp phần hình thành hệ sinh thái công nghệ. Thành phố cũng có thỏa thuận với nhiều địa phương ở Phần Lan, Thụy Điển, Nhật Bản, Hàn Quốc, Kazakhstan.",
+            "Bài viết thẳng thắn chỉ ra hạn chế: phối hợp giữa các cơ quan còn yếu, tỷ lệ biến hợp tác quốc tế thành dự án, sản phẩm, bằng sáng chế còn thấp; hệ sinh thái đổi mới chưa đủ dày để hút trung tâm R&D hay quỹ đầu tư lớn; thiếu nhân lực giỏi về bán dẫn, AI, dữ liệu, fintech; chính sách thu hút chuyên gia nước ngoài chưa cạnh tranh với các trung tâm công nghệ trong khu vực.",
+            "Hướng đi mới là \"ngoại giao công nghệ\" lấy dự án cụ thể làm trung tâm, phấn đấu đến 2030 vào nhóm ba trung tâm thiết kế chip và ứng dụng AI hàng đầu cả nước. Từ năm 2027, mỗi đối tác chiến lược phải có 1–3 dự án với mục tiêu, nguồn lực, đầu ra rõ ràng; các sự kiện như SURF, DAVAS, Tuần lễ Tài chính – Công nghệ sẽ được tổ chức quanh dự án thật. Với người lao động, đây là tín hiệu về nhu cầu tuyển dụng nhân sự công nghệ, ngoại ngữ tăng trong vài năm tới."
+          ]
+        },
+        {
+          "cat": "know",
+          "title": "Bộ Công an chỉ ra 5 chiêu lừa đảo phổ biến nhất trên mạng hiện nay",
+          "summary": "Tại hội nghị hưởng ứng Ngày Pháp luật Việt Nam 9/11, Cục Cảnh sát hình sự nêu 5 thủ đoạn: giả danh cơ quan chức năng, dùng AI giả mặt và giọng nói, lừa đầu tư – tuyển dụng, lừa mua bán online và chiếm quyền điều khiển thiết bị. Người dân cần cảnh giác với mọi yêu cầu chuyển tiền qua điện thoại, mạng xã hội.",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/canh-bao-5-thu-doan-lua-dao-pho-bien-tren-khong-gian-mang-185261106163523751.htm",
+          "tag": "An toàn số",
+          "detail": [
+            "Chiều 6/11 tại Hà Nội, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam tổ chức hội nghị hưởng ứng Ngày Pháp luật Việt Nam (9/11), tập trung vào hòa giải ở cơ sở và phòng chống tội phạm trên mạng. Đại diện Cục Cảnh sát hình sự (Bộ Công an) đã điểm danh 5 thủ đoạn lừa đảo phổ biến nhất hiện nay.",
+            "Thứ nhất là giả danh cơ quan chức năng, gửi \"văn bản giả lệnh bắt giữ, phong tỏa tài sản\" để đe dọa, buộc nạn nhân chuyển tiền. Thứ hai là dùng AI, deepfake (video giả mặt) và deep voice (giọng nói giả) để giả làm người thân, sếp, khiến tình huống lừa đảo trông như thật. Ba thủ đoạn còn lại là lừa đầu tư tài chính và tuyển dụng việc làm, lừa mua bán trực tuyến, và đánh cắp dữ liệu, chiếm quyền điều khiển điện thoại, máy tính.",
+            "Lãnh đạo Mặt trận Tổ quốc đề nghị việc tuyên truyền phải thường xuyên, gắn với vụ việc thực tế để người dân dễ nhận diện; các tổ chức thành viên vận động người dân chủ động bảo vệ bản thân và gia đình. Hội nghị cũng phổ biến một số điểm chính của Luật Hòa giải ở cơ sở năm 2026.",
+            "Với người làm nhân sự, chiêu \"tuyển dụng việc làm\" và giả sếp qua video, giọng nói đặc biệt đáng lưu ý: nên nhắc nhân viên không chuyển tiền, không cài ứng dụng lạ hay cung cấp mã OTP chỉ dựa trên tin nhắn, cuộc gọi; mọi yêu cầu chi tiền cần xác minh lại qua kênh khác như gọi trực tiếp hoặc gặp mặt. Cơ quan công an không bao giờ làm việc hay yêu cầu chuyển tiền qua điện thoại, mạng xã hội."
+          ]
+        },
+        {
+          "cat": "dn",
+          "title": "Nhà máy điện mặt trời Hòa Vang 50 MW dự kiến vận hành năm 2027",
+          "summary": "Phường Liên Chiểu họp bàn vị trí và hướng tuyến đường dây đấu nối cho Nhà máy điện mặt trời Hòa Vang công suất 50 MW, rộng khoảng 56 ha. Dự án sẽ xây trạm biến áp 110 kV và khoảng 4,5 km đường dây về trạm Hòa Liên.",
+          "source": "Báo Đà Nẵng",
+          "url": "https://baodanang.vn/phuong-lien-chieu-trao-doi-ve-du-an-nha-may-dien-mat-troi-hoa-vang-3357713.html",
+          "figure": {
+            "value": "50 MW",
+            "label": "Công suất Nhà máy điện mặt trời Hòa Vang",
+            "delta": "Vận hành dự kiến 2027",
+            "dir": "up"
+          },
+          "detail": [
+            "Ngày 6/11, UBND phường Liên Chiểu tổ chức buổi làm việc với các cơ quan liên quan về vị trí xây dựng và hướng tuyến đường dây đấu nối của Dự án Nhà máy điện mặt trời Hòa Vang. Dự án có công suất 50 MW, diện tích xây dựng khoảng 56,17 ha và dự kiến đưa vào vận hành trong năm 2027.",
+            "Theo phương án đấu nối, chủ đầu tư sẽ xây một trạm biến áp 110 kV ngay tại khu vực nhà máy, kèm tuyến đường dây 110 kV mạch kép (trước mắt treo một mạch) dài khoảng 4,5 km, đưa điện về Trạm biến áp 110 kV Hòa Liên để hòa lưới.",
+            "Các bên đã trao đổi về vị trí công trình, quy hoạch sử dụng đất, quy hoạch xây dựng, hiện trạng đất và hạ tầng, cùng các dự án khác đang triển khai trong khu vực. Hướng tuyến được đề xuất điều chỉnh để phù hợp với vị trí nhà máy, điều kiện lưới điện và phương án giải tỏa công suất. Bài báo chưa nêu tổng vốn đầu tư hay kết luận cuối cùng.",
+            "Đà Nẵng đang cần thêm nguồn điện tại chỗ khi nhu cầu từ khu công nghệ cao, trung tâm dữ liệu và các dự án bán dẫn tăng nhanh. Người dân ở khu vực có tuyến đường dây đi qua nên theo dõi thông báo của phường về phạm vi hành lang tuyến và phương án bồi thường nếu có."
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-07-0700",
       "date": "2026-11-07",
